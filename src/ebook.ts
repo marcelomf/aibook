@@ -344,7 +344,7 @@ export class Ebook {
 ### Resumo \n
 #### ${resume}\n\n
 [SUMMARY](./SUMMARY.md)\n\n
-#### Autor: Marcelo M. Fleury\n
+#### Autor: AI\n
 #### Goiânia, Go, Brasil - 30/04/2025`, {encoding: "utf-8"});
         
         let summaryChapters = `# ${title}\n\n`;

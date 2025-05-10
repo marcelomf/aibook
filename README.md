@@ -1,6 +1,6 @@
 # aiBook - Generate books with Generative Artificial Intelligence
 
-### I wrote this project in a few hours, don't be too strict with your evaluation :).
+### I wrote this project in a few hours, don't be too strict in your evaluation :).
 
 #### RUN:
 ```bash
@@ -14,7 +14,7 @@ pnpm run start gen --subject "Generative Artificial Intelligence with Typescript
 Wait... and your book will be in the ./data directory
 
 #### Examples:
-https://github.com/marcelomf/aibook/examples
+https://github.com/marcelomf/aibook/tree/main/examples
 
 #### TODO:
 - i18n support
