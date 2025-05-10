@@ -1,0 +1,12 @@
+# Importância da lógica paraconsistente em contextos práticos
+
+[Aplicações da lógica paraconsistente em sistemas de tomada de decisão empresarial](aplicacoes_da_logica_paraconsistente_em_sistemas_de_tomada_de_decisao_empresarial.md)
+
+[Uso da lógica paraconsistente em diagnósticos médicos com dados conflitantes](uso_da_logica_paraconsistente_em_diagnosticos_medicos_com_dados_conflitantes.md)
+
+[Implementação de lógica paraconsistente em sistemas de inteligência artificial para análise de big data](implementacao_de_logica_paraconsistente_em_sistemas_de_inteligencia_artificial_para_analise_de_big_data.md)
+
+[Gestão de informações contraditórias em bancos de dados utilizando lógica paraconsistente](gestao_de_informacoes_contraditorias_em_bancos_de_dados_utilizando_logica_paraconsistente.md)
+
+[Resolução de conflitos em sistemas jurídicos com auxílio da lógica paraconsistente](resolucao_de_conflitos_em_sistemas_juridicos_com_auxilio_da_logica_paraconsistente.md)
+

@@ -1,0 +1,16 @@
+# Exercícios de aplicação de lógica paraconsistente
+
+[Exercícios de formulação de problemas envolvendo contradições para resolução com lógica paraconsistente](exercicios_de_formulacao_de_problemas_envolvendo_contradicoes_para_resolucao_com_logica_paraconsistente.md)
+
+[Atividades de análise de resultados obtidos por meio de deduções paraconsistentes](atividades_de_analise_de_resultados_obtidos_por_meio_de_deducoes_paraconsistentes.md)
+
+[Exercícios de adaptação de algoritmos clássicos para o contexto paraconsistente](exercicios_de_adaptacao_de_algoritmos_classicos_para_o_contexto_paraconsistente.md)
+
+[Problemas de validação de inferências em sistemas paraconsistentes](problemas_de_validacao_de_inferencias_em_sistemas_paraconsistentes.md)
+
+[Atividades de identificação de limitações e vantagens da lógica paraconsistente em exercícios práticos](atividades_de_identificacao_de_limitacoes_e_vantagens_da_logica_paraconsistente_em_exercicios_praticos.md)
+
+[Exercícios de integração de lógica paraconsistente em fluxos de trabalho computacionais](exercicios_de_integracao_de_logica_paraconsistente_em_fluxos_de_trabalho_computacionais.md)
+
+[Atividades de comparação de desempenho entre abordagens clássicas e paraconsistentes em exercícios simulados](atividades_de_comparacao_de_desempenho_entre_abordagens_classicas_e_paraconsistentes_em_exercicios_simulados.md)
+

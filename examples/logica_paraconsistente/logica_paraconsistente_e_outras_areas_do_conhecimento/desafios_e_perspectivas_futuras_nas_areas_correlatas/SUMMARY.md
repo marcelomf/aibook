@@ -1,0 +1,18 @@
+# Desafios e perspectivas futuras nas áreas correlatas
+
+[Tendências de pesquisa interdisciplinar envolvendo lógica paraconsistente](tendencias_de_pesquisa_interdisciplinar_envolvendo_logica_paraconsistente.md)
+
+[Desafios na integração da lógica paraconsistente com tecnologias emergentes (ex: computação quântica, blockchain, IoT)](desafios_na_integracao_da_logica_paraconsistente_com_tecnologias_emergentes_ex_computacao_quantica_blockchain_iot.md)
+
+[Perspectivas para o uso de lógica paraconsistente em áreas como biotecnologia, direito digital e ciências sociais](perspectivas_para_o_uso_de_logica_paraconsistente_em_areas_como_biotecnologia_direito_digital_e_ciencias_sociais.md)
+
+[Impacto da evolução da inteligência artificial nas aplicações paraconsistentes](impacto_da_evolucao_da_inteligencia_artificial_nas_aplicacoes_paraconsistentes.md)
+
+[Desenvolvimento de ferramentas computacionais avançadas para lógica paraconsistente](desenvolvimento_de_ferramentas_computacionais_avancadas_para_logica_paraconsistente.md)
+
+[Desafios éticos e regulatórios na adoção de lógica paraconsistente em setores críticos](desafios_eticos_e_regulatorios_na_adocao_de_logica_paraconsistente_em_setores_criticos.md)
+
+[Potencial de colaboração internacional em projetos de lógica paraconsistente](potencial_de_colaboracao_internacional_em_projetos_de_logica_paraconsistente.md)
+
+[Perspectivas de ensino e disseminação da lógica paraconsistente em diferentes níveis educacionais](perspectivas_de_ensino_e_disseminacao_da_logica_paraconsistente_em_diferentes_niveis_educacionais.md)
+

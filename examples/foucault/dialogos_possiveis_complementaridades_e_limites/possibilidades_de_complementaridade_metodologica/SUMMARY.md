@@ -1,0 +1,16 @@
+# Possibilidades de complementaridade metodológica
+
+[Integração de métodos qualitativos e quantitativos em pesquisas críticas](integracao_de_metodos_qualitativos_e_quantitativos_em_pesquisas_criticas.md)
+
+[Análise comparativa de estudos de caso utilizando abordagens marxistas e foucaultianas](analise_comparativa_de_estudos_de_caso_utilizando_abordagens_marxistas_e_foucaultianas.md)
+
+[Triangulação metodológica: potencialidades e desafios na análise social](triangulacao_metodologica_potencialidades_e_desafios_na_analise_social.md)
+
+[Aplicação de análise do discurso e materialismo histórico em investigações empíricas](aplicacao_de_analise_do_discurso_e_materialismo_historico_em_investigacoes_empiricas.md)
+
+[Metodologias interdisciplinares para o estudo das dinâmicas de poder e transformação social](metodologias_interdisciplinares_para_o_estudo_das_dinamicas_de_poder_e_transformacao_social.md)
+
+[Adaptação de métodos foucaultianos para contextos contemporâneos e digitais](adaptacao_de_metodos_foucaultianos_para_contextos_contemporaneos_e_digitais.md)
+
+[Limites e potencialidades da combinação de métodos tradicionais e inovadores](limites_e_potencialidades_da_combinacao_de_metodos_tradicionais_e_inovadores.md)
+

@@ -1,0 +1,20 @@
+# Aplicações práticas das diferenças
+
+[Impacto das diferenças lógicas em sistemas de recomendação automatizados](impacto_das_diferencas_logicas_em_sistemas_de_recomendacao_automatizados.md)
+
+[Adaptação de algoritmos de machine learning para ambientes contraditórios](adaptacao_de_algoritmos_de_machine_learning_para_ambientes_contraditorios.md)
+
+[Gestão de dados inconsistentes em sistemas de informação empresarial](gestao_de_dados_inconsistentes_em_sistemas_de_informacao_empresarial.md)
+
+[Resolução de conflitos em sistemas multiagente utilizando abordagens paraconsistentes](resolucao_de_conflitos_em_sistemas_multiagente_utilizando_abordagens_paraconsistentes.md)
+
+[Aplicação das diferenças lógicas em sistemas de apoio à decisão médica](aplicacao_das_diferencas_logicas_em_sistemas_de_apoio_a_decisao_medica.md)
+
+[Desenvolvimento de softwares tolerantes a inconsistências informacionais](desenvolvimento_de_softwares_tolerantes_a_inconsistencias_informacionais.md)
+
+[Análise de big data com múltiplas fontes contraditórias](analise_de_big_data_com_multiplas_fontes_contraditorias.md)
+
+[Implementação de lógica paraconsistente em sistemas de controle industrial](implementacao_de_logica_paraconsistente_em_sistemas_de_controle_industrial.md)
+
+[Avaliação de desempenho de sistemas clássicos versus paraconsistentes em ambientes reais](avaliacao_de_desempenho_de_sistemas_classicos_versus_paraconsistentes_em_ambientes_reais.md)
+

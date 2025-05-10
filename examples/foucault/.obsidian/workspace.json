@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "32f3f3b95c97d88a",
+    "type": "split",
+    "children": [
+      {
+        "id": "195bb3129f508b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a92d3f6058fa2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc69741a72bdffb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3acae80a1b0f8086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89d92bc354e449b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ef94d489e42f32ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d51a308a973ab230",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a267138bd7f9807d",
+    "type": "split",
+    "children": [
+      {
+        "id": "07623ddb31f23de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bac53c8d7eda80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica"
+            }
+          },
+          {
+            "id": "8c62de550b4b8b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica"
+            }
+          },
+          {
+            "id": "a09938213b620d24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99036572c6542cbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c4a92d3f6058fa2f",
+  "lastOpenFiles": [
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/a_relacao_entre_pluralidade_teorica_e_inovacao_metodologica_nas_ciencias_sociais.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social/desafios_e_limites_da_pluralidade_teorica_na_pratica_analitica.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/a_autonomia_intelectual_frente_as_pressoes_institucionais_e_de_mercado.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/a_crise_de_legitimidade_das_elites_intelectuais_na_contemporaneidade.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/o_papel_do_intelectual_na_promocao_do_pensamento_critico_e_da_pluralidade.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/o_papel_do_intelectual_publico_na_era_das_redes_sociais_e_da_desinformacao.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/intelectuais_e_o_engajamento_politico_limites_e_possibilidades.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/intelectuais_ativismo_e_movimentos_sociais_contribuicoes_e_dilemas.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/desafios_para_a_formacao_de_novos_intelectuais_em_contextos_de_precarizacao_academica.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/o_intelectual_como_mediador_entre_saber_academico_e_sociedade_civil.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/o_impacto_das_novas_tecnologias_na_atuacao_e_visibilidade_dos_intelectuais.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/a_responsabilidade_etica_do_intelectual_diante_dos_desafios_contemporaneos.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual/SUMMARY.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/reflexao_sobre_o_papel_do_intelectual_na_sociedade_atual",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/a_influencia_da_pluralidade_teorica_na_producao_de_conhecimento_social.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/limites_e_potencialidades_da_abordagem_pluralista_na_pratica_academica.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/exemplos_de_pesquisas_interdisciplinares_em_dinamicas_sociais_contemporaneas.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/integracao_de_perspectivas_teoricas_desafios_e_possibilidades.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/metodologias_inovadoras_para_articular_marxismo_e_posestruturalismo.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/a_contribuicao_de_diferentes_areas_do_conhecimento_para_a_analise_do_poder.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/o_papel_da_interdisciplinaridade_na_formacao_de_politicas_publicas_criticas.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista/SUMMARY.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/propostas_para_uma_abordagem_interdisciplinar_e_pluralista",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais/novas_formas_de_precarizacao_do_trabalho_e_suas_implicacoes_para_a_critica_social.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais/desafios_eticos_na_producao_e_circulacao_de_saberes_em_sociedades_hiperconectadas.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais/desigualdades_socioeconomicas_e_o_papel_das_politicas_publicas_na_contemporaneidade.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais/a_globalizacao_e_a_reconfiguracao_das_relacoes_de_classe_e_poder.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais/a_emergencia_de_novas_subjetividades_e_identidades_coletivas.md",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/desafios_contemporaneos_para_a_analise_critica_das_transformacoes_sociais",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/contribuicoes_de_foucault_para_a_compreensao_das_dinamicas_de_poder",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/a_importancia_da_pluralidade_teorica_para_a_analise_social",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/limites_e_potencialidades_do_dialogo_entre_as_abordagens",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais/sintese_das_principais_diferencas_entre_marxismo_e_posestruturalismo",
+    "conclusao_para_uma_analise_critica_e_plural_das_dinamicas_sociais"
+  ]
+}

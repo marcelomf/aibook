@@ -1,0 +1,27 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.5",
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^0.4.5",
+    "@types/command-line-args": "^5.2.3",
+    "ai": "^4.3.11",
+    "command-line-args": "^6.0.1",
+    "dotenv": "^16.5.0",
+    "zod": "^3.24.3"
+  }
+}

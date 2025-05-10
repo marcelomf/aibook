@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "135c00c24e1c714e",
+    "type": "split",
+    "children": [
+      {
+        "id": "786550aa9f41783b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bcc15a06e36057a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa9d07a73b98d94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "549d8e8180173d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29facb6b217d7ef4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e2c883114802d7ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e610abb5e0e36203",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7e3dd17b74d8c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "baa538a3fa04e48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c43d6e20bfa66b93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para SUMMARY"
+            }
+          },
+          {
+            "id": "eac232b4640804db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SUMMARY"
+            }
+          },
+          {
+            "id": "3e2f9ecdc0faec24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3aa08b13a45b2655",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "29facb6b217d7ef4",
+  "lastOpenFiles": [
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/a_importancia_da_logica_para_a_ciencia_e_a_filosofia/a_logica_na_distincao_entre_ciencia_e_pseudociencia.pdf",
+    "README.html",
+    "github-markdown-css/code-navigation-banner-illo.svg",
+    "github-markdown-css/github-css.css",
+    "github-markdown-css",
+    "images",
+    "output.pdf",
+    "README.pdf",
+    "debates_contemporaneos_logica_paraconsistente_e_fuzzy/introducao_a_logica_paraconsistente/historico_e_motivacoes_para_o_surgimento_da_logica_paraconsistente.md",
+    "SUMMARY.md",
+    "introducao_a_filosofia_logica/SUMMARY.md",
+    "introducao_a_filosofia_logica/definicao_de_logica_e_filosofia_logica/SUMMARY.md",
+    "introducao_a_filosofia_logica/definicao_de_logica_e_filosofia_logica/diferenca_entre_logica_formal_e_informal.md",
+    "debates_contemporaneos_logica_paraconsistente_e_fuzzy/introducao_a_logica_paraconsistente/SUMMARY.md",
+    "debates_contemporaneos_logica_paraconsistente_e_fuzzy/SUMMARY.md",
+    "README.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/o_impacto_do_pensamento_critico_na_tomada_de_decisoes_eticas.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/pensamento_critico_e_cidadania_implicacoes_sociais_e_politicas.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/desafios_contemporaneos_para_o_desenvolvimento_do_pensamento_critico.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/limites_e_obstaculos_ao_desenvolvimento_do_pensamento_critico.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/a_relacao_entre_logica_e_pensamento_critico_ao_longo_do_tempo.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/o_papel_da_educacao_na_formacao_do_pensamento_critico.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/a_evolucao_historica_do_conceito_de_pensamento_critico.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/a_importancia_da_autocritica_e_da_revisao_de_crencas.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/a_influencia_das_midias_digitais_no_pensamento_critico_moderno.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/estrategias_para_estimular_o_pensamento_critico_em_diferentes_contextos.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico/SUMMARY.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/reflexao_sobre_o_desenvolvimento_do_pensamento_critico",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/recursos_digitais_e_bancos_de_dados_de_artigos_em_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/conferencias_e_eventos_internacionais_sobre_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/sugestoes_de_temas_avancados_para_pesquisa_em_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/indicacao_de_livros_classicos_e_contemporaneos_sobre_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/dicas_para_desenvolver_habilidades_de_argumentacao_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica/comunidades_e_foruns_online_para_discussao_de_logica.md",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/recomendacoes_para_aprofundamento_em_logica",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/o_futuro_da_logica_e_suas_perspectivas",
+    "conclusao_a_importancia_da_logica_para_o_pensamento_critico/aplicacoes_praticas_da_logica_no_cotidiano"
+  ]
+}

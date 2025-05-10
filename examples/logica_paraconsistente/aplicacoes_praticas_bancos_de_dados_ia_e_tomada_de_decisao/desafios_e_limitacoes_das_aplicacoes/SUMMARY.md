@@ -1,0 +1,18 @@
+# Desafios e limitações das aplicações
+
+[Dificuldades na escalabilidade de soluções paraconsistentes em ambientes de big data](dificuldades_na_escalabilidade_de_solucoes_paraconsistentes_em_ambientes_de_big_data.md)
+
+[Limitações na interoperabilidade entre sistemas paraconsistentes e tradicionais](limitacoes_na_interoperabilidade_entre_sistemas_paraconsistentes_e_tradicionais.md)
+
+[Desafios na validação e verificação de resultados em sistemas paraconsistentes](desafios_na_validacao_e_verificacao_de_resultados_em_sistemas_paraconsistentes.md)
+
+[Questões de desempenho computacional em aplicações de larga escala](questoes_de_desempenho_computacional_em_aplicacoes_de_larga_escala.md)
+
+[Problemas de interpretabilidade e transparência em decisões baseadas em lógica paraconsistente](problemas_de_interpretabilidade_e_transparencia_em_decisoes_baseadas_em_logica_paraconsistente.md)
+
+[Restrições legais e éticas no uso de lógica paraconsistente em setores críticos](restricoes_legais_e_eticas_no_uso_de_logica_paraconsistente_em_setores_criticos.md)
+
+[Dificuldades na integração de lógica paraconsistente com tecnologias emergentes (ex: blockchain, IoT)](dificuldades_na_integracao_de_logica_paraconsistente_com_tecnologias_emergentes_ex_blockchain_iot.md)
+
+[Desafios na formação e capacitação de profissionais para implementação de soluções paraconsistentes](desafios_na_formacao_e_capacitacao_de_profissionais_para_implementacao_de_solucoes_paraconsistentes.md)
+

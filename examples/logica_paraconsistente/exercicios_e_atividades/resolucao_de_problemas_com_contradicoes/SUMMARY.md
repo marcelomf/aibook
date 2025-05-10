@@ -1,0 +1,22 @@
+# Resolução de problemas com contradições
+
+[Exercícios práticos de resolução de problemas contraditórios usando lógica paraconsistente](exercicios_praticos_de_resolucao_de_problemas_contraditorios_usando_logica_paraconsistente.md)
+
+[Atividades de identificação de contradições em cenários simulados](atividades_de_identificacao_de_contradicoes_em_cenarios_simulados.md)
+
+[Problemas de dedução lógica em situações com informações conflitantes](problemas_de_deducao_logica_em_situacoes_com_informacoes_conflitantes.md)
+
+[Exercícios de modelagem de sistemas com dados contraditórios](exercicios_de_modelagem_de_sistemas_com_dados_contraditorios.md)
+
+[Atividades de comparação entre soluções clássicas e paraconsistentes para problemas contraditórios](atividades_de_comparacao_entre_solucoes_classicas_e_paraconsistentes_para_problemas_contraditorios.md)
+
+[Desafios de implementação computacional de algoritmos para resolução de contradições](desafios_de_implementacao_computacional_de_algoritmos_para_resolucao_de_contradicoes.md)
+
+[Exercícios de análise crítica dos resultados obtidos em problemas contraditórios](exercicios_de_analise_critica_dos_resultados_obtidos_em_problemas_contraditorios.md)
+
+[Atividades de adaptação de métodos tradicionais para o contexto paraconsistente](atividades_de_adaptacao_de_metodos_tradicionais_para_o_contexto_paraconsistente.md)
+
+[Problemas de validação de inferências em ambientes contraditórios](problemas_de_validacao_de_inferencias_em_ambientes_contraditorios.md)
+
+[Exercícios de integração de lógica paraconsistente em fluxos de trabalho para resolução de contradições](exercicios_de_integracao_de_logica_paraconsistente_em_fluxos_de_trabalho_para_resolucao_de_contradicoes.md)
+

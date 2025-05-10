@@ -1,0 +1,18 @@
+# Sugestões de projetos e estudos de caso para aprofundamento
+
+[Propostas de projetos interdisciplinares envolvendo lógica paraconsistente e áreas aplicadas (ex: direito, medicina, engenharia)](propostas_de_projetos_interdisciplinares_envolvendo_logica_paraconsistente_e_areas_aplicadas_ex_direito_medicina_engenharia.md)
+
+[Sugestões de estudos de caso originais para análise de contradições em sistemas reais](sugestoes_de_estudos_de_caso_originais_para_analise_de_contradicoes_em_sistemas_reais.md)
+
+[Projetos de desenvolvimento de algoritmos paraconsistentes para aplicações em inteligência artificial](projetos_de_desenvolvimento_de_algoritmos_paraconsistentes_para_aplicacoes_em_inteligencia_artificial.md)
+
+[Estudos de caso sobre integração de lógica paraconsistente com tecnologias emergentes (ex: IoT, blockchain)](estudos_de_caso_sobre_integracao_de_logica_paraconsistente_com_tecnologias_emergentes_ex_iot_blockchain.md)
+
+[Propostas de experimentos para avaliação de desempenho de sistemas paraconsistentes em ambientes de big data](propostas_de_experimentos_para_avaliacao_de_desempenho_de_sistemas_paraconsistentes_em_ambientes_de_big_data.md)
+
+[Projetos educacionais para ensino prático de lógica paraconsistente em diferentes níveis de formação](projetos_educacionais_para_ensino_pratico_de_logica_paraconsistente_em_diferentes_niveis_de_formacao.md)
+
+[Estudos de caso sobre aplicação de lógica paraconsistente em processos de tomada de decisão sob incerteza](estudos_de_caso_sobre_aplicacao_de_logica_paraconsistente_em_processos_de_tomada_de_decisao_sob_incerteza.md)
+
+[Sugestões de projetos de análise de dados contraditórios em bancos de dados empresariais ou científicos](sugestoes_de_projetos_de_analise_de_dados_contraditorios_em_bancos_de_dados_empresariais_ou_cientificos.md)
+

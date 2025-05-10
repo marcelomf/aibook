@@ -1,0 +1,18 @@
+# Consequências das rupturas foucaultianas para a teoria social contemporânea
+
+[Impacto das rupturas foucaultianas na análise das relações de poder na sociedade contemporânea](impacto_das_rupturas_foucaultianas_na_analise_das_relacoes_de_poder_na_sociedade_contemporanea.md)
+
+[Reconfiguração dos conceitos de sujeito e agência na teoria social atual a partir de Foucault](reconfiguracao_dos_conceitos_de_sujeito_e_agencia_na_teoria_social_atual_a_partir_de_foucault.md)
+
+[Novas abordagens metodológicas inspiradas nas rupturas foucaultianas](novas_abordagens_metodologicas_inspiradas_nas_rupturas_foucaultianas.md)
+
+[Desdobramentos das críticas foucaultianas à linearidade histórica para a compreensão das transformações sociais](desdobramentos_das_criticas_foucaultianas_a_linearidade_historica_para_a_compreensao_das_transformacoes_sociais.md)
+
+[A influência das rupturas foucaultianas na crítica às instituições sociais contemporâneas](a_influencia_das_rupturas_foucaultianas_na_critica_as_instituicoes_sociais_contemporaneas.md)
+
+[A problematização das categorias universais e sua repercussão nos estudos sociais atuais](a_problematizacao_das_categorias_universais_e_sua_repercussao_nos_estudos_sociais_atuais.md)
+
+[A centralidade do discurso e das práticas discursivas na análise social pós-Foucault](a_centralidade_do_discurso_e_das_praticas_discursivas_na_analise_social_posfoucault.md)
+
+[Limites e desafios das rupturas foucaultianas para a teoria social contemporânea](limites_e_desafios_das_rupturas_foucaultianas_para_a_teoria_social_contemporanea.md)
+

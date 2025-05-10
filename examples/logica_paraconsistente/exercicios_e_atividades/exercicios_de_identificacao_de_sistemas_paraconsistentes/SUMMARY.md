@@ -1,0 +1,16 @@
+# Exercícios de identificação de sistemas paraconsistentes
+
+[Exercícios de reconhecimento de diferentes sistemas paraconsistentes a partir de descrições formais](exercicios_de_reconhecimento_de_diferentes_sistemas_paraconsistentes_a_partir_de_descricoes_formais.md)
+
+[Atividades de análise de propriedades distintivas entre sistemas paraconsistentes](atividades_de_analise_de_propriedades_distintivas_entre_sistemas_paraconsistentes.md)
+
+[Problemas de classificação de exemplos em LPA, LP e outros sistemas paraconsistentes](problemas_de_classificacao_de_exemplos_em_lpa_lp_e_outros_sistemas_paraconsistentes.md)
+
+[Exercícios de identificação de operadores e regras específicas de cada sistema paraconsistente](exercicios_de_identificacao_de_operadores_e_regras_especificas_de_cada_sistema_paraconsistente.md)
+
+[Atividades de comparação entre respostas de diferentes sistemas paraconsistentes para um mesmo problema](atividades_de_comparacao_entre_respostas_de_diferentes_sistemas_paraconsistentes_para_um_mesmo_problema.md)
+
+[Exercícios de análise de tabelas verdade e estruturas semânticas em sistemas paraconsistentes](exercicios_de_analise_de_tabelas_verdade_e_estruturas_semanticas_em_sistemas_paraconsistentes.md)
+
+[Problemas de identificação de limitações e vantagens de sistemas paraconsistentes em cenários práticos](problemas_de_identificacao_de_limitacoes_e_vantagens_de_sistemas_paraconsistentes_em_cenarios_praticos.md)
+

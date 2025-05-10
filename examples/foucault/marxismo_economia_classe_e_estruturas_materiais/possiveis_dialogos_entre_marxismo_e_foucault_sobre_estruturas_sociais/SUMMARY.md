@@ -1,0 +1,16 @@
+# Possíveis diálogos entre marxismo e Foucault sobre estruturas sociais
+
+[Comparação entre a análise estrutural marxista e a abordagem foucaultiana das instituições sociais](comparacao_entre_a_analise_estrutural_marxista_e_a_abordagem_foucaultiana_das_instituicoes_sociais.md)
+
+[Interseções entre o conceito de estrutura de classes e as redes de poder em Foucault](intersecoes_entre_o_conceito_de_estrutura_de_classes_e_as_redes_de_poder_em_foucault.md)
+
+[A influência das estruturas econômicas e discursivas na constituição das relações sociais](a_influencia_das_estruturas_economicas_e_discursivas_na_constituicao_das_relacoes_sociais.md)
+
+[O papel das instituições disciplinares e econômicas na reprodução das desigualdades sociais](o_papel_das_instituicoes_disciplinares_e_economicas_na_reproducao_das_desigualdades_sociais.md)
+
+[Limites e potencialidades do diálogo entre materialismo histórico e análise foucaultiana do poder](limites_e_potencialidades_do_dialogo_entre_materialismo_historico_e_analise_foucaultiana_do_poder.md)
+
+[A articulação entre práticas sociais, discursos e estruturas materiais na explicação das dinâmicas sociais](a_articulacao_entre_praticas_sociais_discursos_e_estruturas_materiais_na_explicacao_das_dinamicas_sociais.md)
+
+[Exemplos contemporâneos de análise social que integram perspectivas marxistas e foucaultianas](exemplos_contemporaneos_de_analise_social_que_integram_perspectivas_marxistas_e_foucaultianas.md)
+

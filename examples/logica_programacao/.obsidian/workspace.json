@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "78fa4b8bc4cccbe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9421f08aee51817c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c9a03d2e89feb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introducao_a_logica_de_programacao/SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aa3619fe542d438",
+    "type": "split",
+    "children": [
+      {
+        "id": "8708a35bc942d091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4e40d3ec072902b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "19aa688263df76bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c6a73a3e582e6374",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0b5fc5bc276b0e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "016e52db5d316854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15280095cbd4af82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "introducao_a_logica_de_programacao/SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para SUMMARY"
+            }
+          },
+          {
+            "id": "12be8be6a5257743",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "introducao_a_logica_de_programacao/SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SUMMARY"
+            }
+          },
+          {
+            "id": "9c8da4062e669df4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3717d0fcfbad9343",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "introducao_a_logica_de_programacao/SUMMARY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3c9a03d2e89feb98",
+  "lastOpenFiles": [
+    "estruturas_de_repeticao_for_while_dowhile/pseudocodigo_com_estruturas_de_repeticao/SUMMARY.md",
+    "estruturas_de_repeticao_for_while_dowhile/pseudocodigo_com_estruturas_de_repeticao",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/traducao_de_fluxogramas_de_repeticao_para_pseudocodigo.md",
+    "SUMMARY.md",
+    "estruturas_de_decisao_if_else_switch/SUMMARY.md",
+    "estruturas_de_decisao_if_else_switch/definicao_de_estruturas_de_decisao/SUMMARY.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/como_indicar_inicio_condicao_e_fim_de_um_laco_em_fluxogramas.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/boas_praticas_na_criacao_de_fluxogramas_de_repeticao.md",
+    "estruturas_de_decisao_if_else_switch/exemplos_praticos_de_uso/SUMMARY.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/exemplos_de_fluxogramas_com_diferentes_estruturas_de_repeticao.md",
+    "estruturas_de_decisao_if_else_switch/exemplos_praticos_de_uso/exemplo_de_validacao_de_entrada_de_dados_com_ifelse.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/erros_comuns_ao_desenhar_fluxogramas_de_lacos.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/representacao_grafica_de_lacos_for_while_e_dowhile.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/simbolos_especificos_para_fluxogramas_de_repeticao.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao/SUMMARY.md",
+    "estruturas_de_repeticao_for_while_dowhile/fluxogramas_de_estruturas_de_repeticao",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/aproveitamento_de_recursos_da_linguagem_para_otimizacao_dos_lacos.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/clareza_na_definicao_das_condicoes_de_parada.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/padronizacao_da_indentacao_em_lacos.md",
+    "estruturas_de_decisao_if_else_switch/exemplos_praticos_de_uso/exemplo_de_decisao_simples_com_if_idade_para_votar.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/uso_adequado_de_variaveis_de_controle.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/testes_e_validacao_de_lacos_em_diferentes_cenarios.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/minimizacao_de_efeitos_colaterais_dentro_dos_lacos.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/evitar_lacos_infinitos_tecnicas_e_dicas.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/utilizacao_de_comentarios_explicativos_em_lacos.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/reducao_da_complexidade_dos_lacos_aninhados.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/adocao_de_nomes_significativos_para_variaveis_de_laco.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos/SUMMARY.md",
+    "estruturas_de_repeticao_for_while_dowhile/boas_praticas_no_uso_de_lacos",
+    "estruturas_de_repeticao_for_while_dowhile/erros_comuns_em_estruturas_de_repeticao"
+  ]
+}

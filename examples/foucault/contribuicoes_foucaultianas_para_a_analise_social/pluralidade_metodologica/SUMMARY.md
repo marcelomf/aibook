@@ -1,0 +1,22 @@
+# Pluralidade metodológica
+
+[Comparação entre métodos qualitativos e quantitativos na análise social inspirada em Foucault](comparacao_entre_metodos_qualitativos_e_quantitativos_na_analise_social_inspirada_em_foucault.md)
+
+[A integração de métodos etnográficos e análise do discurso em pesquisas foucaultianas](a_integracao_de_metodos_etnograficos_e_analise_do_discurso_em_pesquisas_foucaultianas.md)
+
+[O uso de análise documental e história oral para investigar dinâmicas de poder](o_uso_de_analise_documental_e_historia_oral_para_investigar_dinamicas_de_poder.md)
+
+[Metodologias interdisciplinares: articulação entre sociologia, filosofia e ciência política](metodologias_interdisciplinares_articulacao_entre_sociologia_filosofia_e_ciencia_politica.md)
+
+[Desafios e potencialidades da triangulação metodológica em estudos sociais contemporâneos](desafios_e_potencialidades_da_triangulacao_metodologica_em_estudos_sociais_contemporaneos.md)
+
+[A influência da pluralidade metodológica na produção de conhecimento crítico](a_influencia_da_pluralidade_metodologica_na_producao_de_conhecimento_critico.md)
+
+[Limites e possibilidades da combinação de métodos tradicionais e inovadores na análise social](limites_e_possibilidades_da_combinacao_de_metodos_tradicionais_e_inovadores_na_analise_social.md)
+
+[Estudos de caso como estratégia para explorar múltiplas perspectivas metodológicas](estudos_de_caso_como_estrategia_para_explorar_multiplas_perspectivas_metodologicas.md)
+
+[A adaptação de métodos foucaultianos para contextos digitais e redes sociais](a_adaptacao_de_metodos_foucaultianos_para_contextos_digitais_e_redes_sociais.md)
+
+[O papel da reflexividade metodológica na pesquisa social pluralista](o_papel_da_reflexividade_metodologica_na_pesquisa_social_pluralista.md)
+

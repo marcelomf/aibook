@@ -1,0 +1,12 @@
+# Exemplos iniciais de contradições tratadas por lógicas paraconsistentes
+
+[Exemplo de contradição em bancos de dados: registros conflitantes e sua análise paraconsistente](exemplo_de_contradicao_em_bancos_de_dados_registros_conflitantes_e_sua_analise_paraconsistente.md)
+
+[Cenário de tomada de decisão com informações contraditórias e aplicação da lógica paraconsistente](cenario_de_tomada_de_decisao_com_informacoes_contraditorias_e_aplicacao_da_logica_paraconsistente.md)
+
+[Situação em sistemas de inteligência artificial onde dados inconsistentes são processados sem trivialização](situacao_em_sistemas_de_inteligencia_artificial_onde_dados_inconsistentes_sao_processados_sem_trivializacao.md)
+
+[Estudo de caso: diagnóstico médico com sintomas contraditórios e uso da lógica paraconsistente](estudo_de_caso_diagnostico_medico_com_sintomas_contraditorios_e_uso_da_logica_paraconsistente.md)
+
+[Exemplo prático em sistemas jurídicos: análise de depoimentos conflitantes com abordagem paraconsistente](exemplo_pratico_em_sistemas_juridicos_analise_de_depoimentos_conflitantes_com_abordagem_paraconsistente.md)
+
