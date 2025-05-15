@@ -333,18 +333,25 @@ export class Ebook {
     
     
     async genEbook() {
+        
+        if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
+
         const { result } = await this.genChapters(await this.genResume(this.subject));
         
         const { title, description, resume } = result;
         
         fs.writeFileSync(`${OUT_DIR}/README.md`, `
-# ${title}\n\n
-### Descrição \n
-#### ${description}\n\n
-### Resumo \n
-#### ${resume}\n\n
-[SUMMARY](./SUMMARY.md)\n\n
-#### Autor: AI\n
+# ${title}
+
+### Descrição 
+#### ${description}
+
+### Resumo 
+#### ${resume}
+
+[SUMMARY](./SUMMARY.md)
+
+#### Autor: AI
 #### Goiânia, Go, Brasil - 30/04/2025`, {encoding: "utf-8"});
         
         let summaryChapters = `# ${title}\n\n`;
