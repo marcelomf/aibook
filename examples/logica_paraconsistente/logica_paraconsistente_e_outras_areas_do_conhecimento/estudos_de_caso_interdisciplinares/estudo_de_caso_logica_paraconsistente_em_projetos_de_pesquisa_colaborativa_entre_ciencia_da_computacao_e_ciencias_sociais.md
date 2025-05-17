@@ -47,5 +47,4 @@ Este estudo de caso ilustra como a lógica paraconsistente pode ser aplicada com
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógica Paraconsistente: Teoria e Aplicações*.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
-```
+

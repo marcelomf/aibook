@@ -46,7 +46,7 @@ A Lógica de Priest, também conhecida como **Lógica Paraconsistente de Priest*
 ## Comparativo: Lógica Clássica, LPA e LP
 
 | Característica                | Lógica Clássica | LPA                        | LP                        |
-|-------------------------------|-----------------|----------------------------|---------------------------|
+|-|--|-||
 | Tolerância à contradição      | Não             | Sim (com anotações)        | Sim (sem anotações)       |
 | Princípio da explosão         | Sim             | Não                        | Não                       |
 | Capacidade de raciocínio      | Limitada por inconsistências | Mantida com qualificação | Mantida, mas sem qualificação |
@@ -60,4 +60,4 @@ A adoção de lógicas paraconsistentes, como a LPA e a LP, representa um avanç
 A escolha entre LPA e LP depende das necessidades específicas da aplicação: a LPA é indicada quando é importante qualificar o grau de certeza ou inconsistência das informações, enquanto a LP é mais adequada para cenários onde a simples tolerância à contradição já é suficiente.
 
 Em suma, a integração de lógicas paraconsistentes em aplicações computacionais é uma tendência crescente, especialmente em áreas como inteligência artificial, ciência de dados, sistemas de decisão e bancos de dados, onde a complexidade e a incerteza são inerentes ao domínio de atuação.
-```
+

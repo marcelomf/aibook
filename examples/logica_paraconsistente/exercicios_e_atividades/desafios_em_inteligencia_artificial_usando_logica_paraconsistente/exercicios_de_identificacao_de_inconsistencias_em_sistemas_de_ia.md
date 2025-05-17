@@ -3,7 +3,7 @@
 
 A inteligência artificial (IA) frequentemente lida com grandes volumes de dados provenientes de múltiplas fontes, o que pode levar à presença de informações contraditórias ou inconsistentes. A lógica paraconsistente oferece ferramentas para tratar essas inconsistências de forma controlada, sem comprometer a integridade do sistema. Nesta seção, propomos exercícios práticos para identificar e analisar inconsistências em sistemas de IA, utilizando conceitos da lógica paraconsistente.
 
----
+
 
 ## 1. Introdução ao Problema
 
@@ -16,7 +16,7 @@ Em sistemas de IA, inconsistências podem surgir em diversas situações, como:
 
 A identificação dessas inconsistências é fundamental para garantir decisões mais robustas e confiáveis.
 
----
+
 
 ## 2. Exercício 1: Detecção de Contradições em Regras de Inferência
 
@@ -37,7 +37,7 @@ Considere um sistema especialista para diagnóstico médico que utiliza as segui
 - As regras 1, 3 e 4 levam à conclusão de que João tem gripe, mas a afirmação 5 contradiz essa conclusão.
 - A lógica paraconsistente permite que o sistema reconheça a contradição sem deduzir que qualquer afirmação é verdadeira (evitando a trivialização), possibilitando a análise controlada do conflito.
 
----
+
 
 ## 3. Exercício 2: Inconsistências em Dados de Treinamento
 
@@ -45,7 +45,7 @@ Considere um sistema especialista para diagnóstico médico que utiliza as segui
 Um sistema de IA para classificação de e-mails recebe o seguinte conjunto de dados rotulados:
 
 | E-mail | Texto contém "promoção" | Texto contém "urgente" | Rótulo fornecido |
-|--------|------------------------|------------------------|------------------|
+|--||||
 | 1      | Sim                    | Não                    | Spam             |
 | 2      | Sim                    | Sim                    | Não Spam         |
 | 3      | Não                    | Sim                    | Spam             |
@@ -59,7 +59,7 @@ Um sistema de IA para classificação de e-mails recebe o seguinte conjunto de d
 - Os e-mails 2 e 4 possuem as mesmas características, mas rótulos diferentes, indicando uma inconsistência.
 - A lógica paraconsistente pode ser usada para marcar esses exemplos como contraditórios, permitindo que o modelo aprenda a lidar com incertezas e não force uma decisão binária.
 
----
+
 
 ## 4. Exercício 3: Análise de Contradições em Respostas de Chatbots
 
@@ -78,7 +78,7 @@ Um chatbot de atendimento ao cliente responde de formas diferentes à mesma perg
 - As respostas são mutuamente excludentes, indicando uma contradição.
 - A lógica paraconsistente pode registrar ambas as respostas e sinalizar a presença de conflito, permitindo que o sistema busque informações adicionais antes de fornecer uma resposta definitiva ao usuário.
 
----
+
 
 ## 5. Discussão e Reflexão
 
@@ -87,7 +87,7 @@ A identificação de inconsistências é o primeiro passo para o uso efetivo da 
 **Sugestão de Atividade:**  
 Implemente um pequeno protótipo (em pseudocódigo ou linguagem de sua escolha) que detecte e sinalize inconsistências em um conjunto de regras ou dados, utilizando princípios da lógica paraconsistente.
 
----
+
 
 ## 6. Leitura Complementar
 
@@ -95,8 +95,8 @@ Implemente um pequeno protótipo (em pseudocódigo ou linguagem de sua escolha) 
 - **da Costa, N. C. A. (1974). On the Theory of Inconsistent Formal Systems.**  
 - **Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.**
 
----
+
 
 > **Resumo:**  
 > Exercícios de identificação de inconsistências em sistemas de IA são fundamentais para o desenvolvimento de aplicações robustas. A lógica paraconsistente oferece uma abordagem teórica e prática para lidar com contradições, evitando a trivialização e promovendo decisões mais informadas e seguras.
-```
+

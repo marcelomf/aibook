@@ -44,7 +44,7 @@ Os sistemas de decisão baseados em **lógica paraconsistente** foram desenvolvi
 ## Exemplo Comparativo
 
 | Aspecto                        | Sistema Clássico                  | Sistema Paraconsistente           |
-|--------------------------------|-----------------------------------|-----------------------------------|
+|______________________________--|_________________________________--|_________________________________--|
 | **Consistência dos dados**     | Obrigatória                       | Não obrigatória                   |
 | **Tratamento de contradições** | Explosão lógica (trivialidade)    | Tolerância e análise controlada   |
 | **Decisão com dados conflitantes** | Não é possível                  | Possível, com análise do conflito |
@@ -59,4 +59,4 @@ Os sistemas de decisão baseados em **lógica paraconsistente** foram desenvolvi
 ## Conclusão
 
 A escolha entre sistemas de decisão clássicos e paraconsistentes depende do contexto e das características dos dados disponíveis. Enquanto os sistemas clássicos são eficientes e adequados para ambientes controlados, os sistemas paraconsistentes oferecem uma abordagem mais flexível e realista para lidar com a complexidade e as contradições do mundo real. Com o avanço das aplicações em inteligência artificial, big data e integração de sistemas, a lógica paraconsistente tende a se tornar cada vez mais relevante para a tomada de decisão em ambientes complexos e incertos.
-```
+

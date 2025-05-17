@@ -63,7 +63,7 @@ Apesar das vantagens, a aplicação da lógica paraconsistente à análise semâ
 
 A lógica paraconsistente oferece uma estrutura teórica e prática robusta para a análise da ambiguidade semântica, superando limitações da lógica clássica e permitindo um tratamento mais fiel à natureza da linguagem humana. Sua aplicação em linguística, semântica e processamento de linguagem natural representa um avanço importante para o desenvolvimento de sistemas capazes de compreender e manipular a complexidade do significado linguístico.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.

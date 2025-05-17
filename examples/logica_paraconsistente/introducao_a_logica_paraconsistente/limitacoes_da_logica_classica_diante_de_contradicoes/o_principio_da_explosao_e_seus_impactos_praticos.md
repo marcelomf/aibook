@@ -51,7 +51,7 @@ A lógica paraconsistente rejeita o princípio da explosão, permitindo que sist
 
 O princípio da explosão, embora fundamental na lógica clássica, representa um obstáculo prático em muitos contextos onde a inconsistência é inevitável. Compreender seus impactos é essencial para reconhecer a importância de abordagens alternativas, como a lógica paraconsistente, que buscam tornar o raciocínio formal mais robusto e aplicável ao mundo real.
 
----
+___
 
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógica Paraconsistente: Introdução e Aplicações"

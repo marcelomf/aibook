@@ -52,4 +52,4 @@ Apesar do potencial, a disseminação da lógica paraconsistente enfrenta desafi
 ### 5. Considerações Finais
 
 A lógica paraconsistente, ao oferecer uma abordagem inovadora para o tratamento de contradições, tem potencial para transformar tanto o ensino quanto a prática profissional em diversas áreas. Investir em sua disseminação, por meio de estratégias educacionais e corporativas, é fundamental para preparar profissionais e pesquisadores para os desafios do mundo contemporâneo, marcado pela complexidade e pela abundância de informações contraditórias.
-```
+

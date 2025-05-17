@@ -27,7 +27,7 @@ Cada ponto (μ, λ) representa o estado lógico de uma proposição.
 No plano (μ, λ), destacam-se quatro regiões principais:
 
 | Região                  | Descrição                                      | Exemplo de Coordenadas |
-|-------------------------|------------------------------------------------|------------------------|
+|-|||
 | **Verdadeiro**          | Alta evidência favorável, baixa desfavorável   | (1, 0)                |
 | **Falso**               | Baixa evidência favorável, alta desfavorável   | (0, 1)                |
 | **Inconsistente**       | Alta evidência favorável e desfavorável        | (1, 1)                |
@@ -48,15 +48,15 @@ Ou, em uma visualização de plano cartesiano:
 ```
 λ ↑
   |
-1 +---------+---------+
+1 +++
   |         |         |
   |   (1,1) | (0,1)   |
   | Incons. | Falso   |
-  +---------+---------+----→ μ
+  +++-→ μ
   |         |         |
   | (0,0)   | (1,0)   |
   | Indef.  | Verdadeiro
-  +---------+---------+
+  +++
     0         1
 ```
 
@@ -86,7 +86,7 @@ Suponha que um sistema de diagnóstico médico avalie a proposição "O paciente
 
 A **representação gráfica do funcionamento da LPA** no plano (μ, λ) é uma ferramenta poderosa para compreender, analisar e aplicar a lógica paraconsistente em diversos contextos. Ela permite visualizar de forma intuitiva os diferentes estados lógicos possíveis, facilitando a identificação de inconsistências, indefinições e verdades parciais, essenciais para o tratamento de informações complexas e contraditórias.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A. "Lógicas Paraconsistentes: Introdução e Aplicações"

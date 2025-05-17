@@ -42,8 +42,8 @@ A implementação ética e confiável da lógica paraconsistente requer a adoç�
 
 A lógica paraconsistente oferece ferramentas poderosas para lidar com a complexidade e a imperfeição dos dados do mundo real. No entanto, seu uso responsável exige atenção constante aos aspectos éticos e de confiabilidade. Ao adotar práticas transparentes, seguras e justas, é possível aproveitar os benefícios dessa abordagem inovadora, promovendo confiança e responsabilidade em aplicações práticas que impactam diretamente a vida das pessoas.
 
----
+___
 **Sugestão de leitura complementar:**  
 - BEZERRA, J. F. et al. *Ética e Inteligência Artificial: Desafios e Perspectivas*.  
 - PRIEST, G. *In Contradiction: A Study of the Transconsistent*.
-```
+

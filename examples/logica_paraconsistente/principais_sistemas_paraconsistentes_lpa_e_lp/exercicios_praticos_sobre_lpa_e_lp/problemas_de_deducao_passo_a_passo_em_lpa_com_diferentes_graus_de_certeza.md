@@ -19,7 +19,7 @@ A partir desses valores, podemos calcular:
 
 A dedução em LPA leva em conta esses graus para evitar conclusões triviais diante de contradições.
 
----
+
 
 ## 2. Exemplo 1: Dedução Simples
 
@@ -49,7 +49,7 @@ Pergunta: Qual o estado lógico de `P`? Podemos deduzir que `P` é verdadeira, f
 **Conclusão:**  
 `P` pode ser considerada **verdadeira com alto grau de certeza**.
 
----
+
 
 ## 3. Exemplo 2: Dedução com Contradição
 
@@ -79,7 +79,7 @@ Pergunta: Qual o estado lógico de `Q`? O que podemos deduzir?
 **Conclusão:**  
 `Q` está em um **estado de contradição**. Não é possível deduzir com segurança se `Q` é verdadeira ou falsa; recomenda-se buscar mais informações ou aplicar mecanismos de resolução de conflitos.
 
----
+
 
 ## 4. Exemplo 3: Dedução com Incerteza
 
@@ -108,7 +108,7 @@ Pergunta: Qual o estado lógico de `R`?
 **Conclusão:**  
 `R` está em um **estado de indefinição** (incerteza). Não é possível deduzir se `R` é verdadeira ou falsa.
 
----
+
 
 ## 5. Exemplo 4: Dedução em Encadeamento
 
@@ -136,7 +136,7 @@ Considere as proposições:
 **Conclusão:**  
 `T` pode ser considerada **verdadeira com alto grau de certeza**.
 
----
+
 
 ## 6. Resumo dos Passos para Dedução em LPA
 
@@ -150,7 +150,7 @@ Considere as proposições:
 4. **Em encadeamentos, transfira os graus conforme as regras do sistema.**
 5. **Evite conclusões triviais diante de contradições; busque mais informações ou aplique mecanismos de resolução.**
 
----
+
 
 ## 7. Exercício Proposto
 
@@ -177,11 +177,10 @@ Qual o estado lógico de `C`?
    - λ_C > μ_C, grau de contradição = 0.4, incerteza = 0.3  
    - `C` tende a ser **falsa**, mas com alguma contradição.
 
----
+
 
 ## 8. Conclusão
 
 A LPA permite deduzir informações mesmo diante de incertezas e contradições, atribuindo graus de certeza e falsidade às proposições. O raciocínio passo a passo, como mostrado nos exemplos, é fundamental para aplicar a lógica paraconsistente de forma segura e eficaz em situações reais.
 
----
-```
+

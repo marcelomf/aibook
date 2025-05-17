@@ -45,8 +45,8 @@ Apesar dos avanços, o tratamento de contradições ainda apresenta desafios, co
 
 O impacto das contradições na construção de sistemas de raciocínio não clássico é profundo e transformador. Ao reconhecer que o mundo real é inerentemente imperfeito e contraditório, a lógica paraconsistente e outros sistemas não clássicos oferecem ferramentas mais flexíveis e realistas para modelar, analisar e tomar decisões em ambientes complexos. Assim, longe de serem meros problemas a serem eliminados, as contradições tornam-se oportunidades para o desenvolvimento de sistemas de raciocínio mais robustos e adaptativos.
 
----
+___
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógica Paraconsistente: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

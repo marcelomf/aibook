@@ -72,8 +72,8 @@ Considere um banco de dados de pacientes em um hospital, onde dois médicos regi
 
 A lógica paraconsistente representa uma poderosa ferramenta para a gestão de informações contraditórias em bancos de dados, especialmente em contextos onde a eliminação imediata de inconsistências não é viável ou desejável. Ao permitir a convivência controlada de contradições, ela amplia a capacidade dos sistemas de informação de lidar com a complexidade e a incerteza do mundo real, tornando-se cada vez mais relevante em aplicações modernas de ciência de dados, inteligência artificial e sistemas distribuídos.
 
----
+___
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli e João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

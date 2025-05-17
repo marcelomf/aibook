@@ -31,9 +31,9 @@ Além dos nomes acima, outros pensadores desempenharam papéis importantes na co
 
 As contribuições desses pioneiros permitiram que a lógica paraconsistente se consolidasse como um campo legítimo e fértil de pesquisa. Hoje, suas ideias influenciam não apenas a lógica e a filosofia, mas também áreas aplicadas como ciência da computação, inteligência artificial, direito e engenharia de sistemas. O reconhecimento de que contradições podem ser tratadas de forma racional e produtiva representa uma das mais importantes inovações do raciocínio lógico no século XX.
 
----
+___
 **Referências:**
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Béziau, J.-Y. (2012). *Paraconsistent logic: Consistency, contradiction and negation*. Springer.
-```
+

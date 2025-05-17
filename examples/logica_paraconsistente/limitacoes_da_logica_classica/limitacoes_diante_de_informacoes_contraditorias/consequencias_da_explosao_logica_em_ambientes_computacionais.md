@@ -58,8 +58,8 @@ Devido a essas consequências, ambientes computacionais modernos buscam alternat
 
 A explosão lógica representa uma limitação fundamental da lógica clássica em ambientes computacionais reais, onde a inconsistência é inevitável. O desenvolvimento e adoção de lógicas paraconsistentes e outros mecanismos de tolerância à inconsistência são essenciais para garantir a robustez, confiabilidade e utilidade de sistemas computacionais modernos.
 
----
+
 **Sugestão de leitura:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

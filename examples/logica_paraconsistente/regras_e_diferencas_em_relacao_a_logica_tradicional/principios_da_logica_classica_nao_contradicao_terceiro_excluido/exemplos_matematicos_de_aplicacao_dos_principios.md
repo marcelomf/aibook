@@ -3,7 +3,7 @@
 
 A lógica clássica, base do raciocínio matemático tradicional, fundamenta-se em dois princípios essenciais: o **princípio da não contradição** e o **princípio do terceiro excluído**. Estes princípios são cruciais para a construção de demonstrações, definição de estruturas matemáticas e validação de argumentos. A seguir, apresentamos exemplos matemáticos que ilustram a aplicação desses princípios.
 
----
+
 
 ## 1. Princípio da Não Contradição
 
@@ -33,7 +33,7 @@ A prova por contradição (reductio ad absurdum) explora esse princípio. Suponh
 2. Seguindo a demonstração, chega-se a uma contradição: tanto \(a\) quanto \(b\) seriam pares, o que contradiz a hipótese de serem primos entre si.
 3. Portanto, a suposição inicial é falsa, e \(\sqrt{2}\) é irracional.
 
----
+
 
 ## 2. Princípio do Terceiro Excluído
 
@@ -63,17 +63,16 @@ Considere a demonstração de que o produto de dois números ímpares é ímpar.
 
 O raciocínio se baseia no fato de que não há uma terceira possibilidade além de par ou ímpar.
 
----
+
 
 ## 3. Discussão: Limitações e Contexto
 
 Esses princípios são fundamentais na matemática clássica, mas podem ser insuficientes em contextos com informações contraditórias ou incompletas, como em bancos de dados inconsistentes ou sistemas de inteligência artificial. Nesses casos, a **lógica paraconsistente** propõe alternativas, permitindo lidar com contradições sem trivializar o sistema lógico.
 
----
+
 
 ## 4. Conclusão
 
 Os princípios da não contradição e do terceiro excluído são pilares do raciocínio matemático clássico, garantindo a consistência e a clareza das demonstrações. Os exemplos apresentados mostram como esses princípios são aplicados na prática, servindo de base para a construção de argumentos sólidos e confiáveis em matemática.
 
----
-```
+

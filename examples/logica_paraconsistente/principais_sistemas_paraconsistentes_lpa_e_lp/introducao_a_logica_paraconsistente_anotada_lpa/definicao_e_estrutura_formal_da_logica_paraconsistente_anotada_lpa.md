@@ -54,7 +54,7 @@ Esses valores ajudam a identificar se uma proposição está em situação de co
 A partir dos valores de μ e λ, é possível classificar o estado lógico de uma proposição:
 
 | μ   | λ   | Estado Lógico         |
-|-----|-----|----------------------|
+|--|--|-|
 | 1   | 0   | Verdadeiro           |
 | 0   | 1   | Falso                |
 | 1   | 1   | Contraditório        |
@@ -81,4 +81,4 @@ A proposição "O paciente tem a doença X" seria anotada como (0,8, 0,6). O sis
 ## Conclusão
 
 A Lógica Paraconsistente Anotada (LPA) oferece uma estrutura formal robusta para lidar com informações contraditórias e incertas, sendo uma ferramenta poderosa para aplicações em que a inconsistência é inevitável. Sua abordagem baseada em anotações permite um raciocínio mais flexível e realista, aproximando-se das necessidades de sistemas complexos do mundo real.
-```
+

@@ -56,5 +56,4 @@ A integração entre teoria da decisão e lógica paraconsistente representa um 
 - "Decision Making with Imperfect Information" (Y. Y. Haimes)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)
 
----
-```
+

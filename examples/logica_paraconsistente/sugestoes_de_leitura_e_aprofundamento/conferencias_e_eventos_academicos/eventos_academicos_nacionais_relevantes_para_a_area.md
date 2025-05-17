@@ -43,7 +43,7 @@ O **ENFLM** é um evento voltado para discussões filosóficas e matemáticas so
 - **Periodicidade:** Geralmente bienal
 - **Público-alvo:** Filósofos, matemáticos, lógicos e estudantes de pós-graduação.
 
----
+
 
 ### Dicas para Participação
 
@@ -51,10 +51,10 @@ O **ENFLM** é um evento voltado para discussões filosóficas e matemáticas so
 - **Minicursos e Workshops:** Aproveite as oportunidades de formação oferecidas durante os eventos, que frequentemente incluem minicursos sobre lógica paraconsistente e suas aplicações.
 - **Redes de Contato:** Utilize os eventos para ampliar sua rede de contatos, conhecer grupos de pesquisa e possíveis orientadores ou colaboradores.
 
----
+
 
 ### Conclusão
 
 A participação em eventos acadêmicos nacionais é essencial para quem deseja se manter atualizado e aprofundar seus conhecimentos em lógica paraconsistente. Além de acompanhar as novidades da área, esses encontros proporcionam oportunidades únicas de aprendizado, colaboração e desenvolvimento profissional. Consulte regularmente os sites das sociedades científicas e mantenha-se informado sobre as próximas edições desses eventos.
 
-```
+

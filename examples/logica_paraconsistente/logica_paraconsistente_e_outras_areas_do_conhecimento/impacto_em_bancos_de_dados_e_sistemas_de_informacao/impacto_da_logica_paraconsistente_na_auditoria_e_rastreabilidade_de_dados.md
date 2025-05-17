@@ -53,10 +53,10 @@ A lógica paraconsistente pode ser integrada a ferramentas de auditoria para ger
 
 A adoção da lógica paraconsistente na auditoria e rastreabilidade de dados representa um avanço significativo na gestão de informações em ambientes complexos e dinâmicos. Ao permitir o tratamento controlado de contradições, essa abordagem contribui para sistemas mais robustos, transparentes e confiáveis, alinhando-se às demandas atuais por integridade, conformidade e qualidade dos dados.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Lógica Paraconsistente*.  
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
-```
+

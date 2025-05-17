@@ -61,5 +61,4 @@ O uso da lógica paraconsistente em sistemas de monitoramento de desastres natur
 - Silva Filho, J. I., & Abe, J. M. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Unesp.
 - Abe, J. M., & Silva Filho, J. I. (2015). "Paraconsistent annotated logic and its applications to artificial intelligence." *Journal of Applied Logic*, 13(2), 1-15.
 
----
-```
+

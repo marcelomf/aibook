@@ -52,4 +52,4 @@ Na prática, especialmente em áreas como bancos de dados, inteligência artific
 ## Conclusão
 
 A lógica clássica trata paradoxos e inconsistências de forma rígida: qualquer contradição leva à trivialidade do sistema, e paradoxos são evitados por meio de restrições formais. Essa abordagem, embora poderosa em contextos matematicamente controlados, revela-se limitada diante da complexidade e ambiguidade do mundo real. Essas limitações motivaram o desenvolvimento de sistemas lógicos alternativos, como a lógica paraconsistente, capazes de lidar com contradições de maneira controlada e produtiva.
-```
+

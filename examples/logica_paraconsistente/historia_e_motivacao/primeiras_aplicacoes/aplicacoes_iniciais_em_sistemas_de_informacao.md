@@ -36,6 +36,6 @@ Além disso, a experiência adquirida nesses contextos contribuiu para o refinam
 - da Costa, N. C. A., & Subrahmanian, V. S. (1989). Paraconsistent Logics and Knowledge Bases. *Artificial Intelligence*.
 - Carnielli, W. A., & Marcos, J. (2002). A taxonomy of C-systems. In *Paraconsistency: The Logical Way to the Inconsistent* (pp. 1-94). Springer.
 
----
+___
 
 As aplicações iniciais da lógica paraconsistente em sistemas de informação foram fundamentais para demonstrar sua utilidade prática, estabelecendo as bases para sua adoção em áreas cada vez mais complexas e críticas da tecnologia da informação.

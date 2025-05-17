@@ -26,7 +26,7 @@ Descobertas matemáticas também mostraram que, em áreas como **teoria dos conj
 
 A lógica paraconsistente também dialoga com questões filosóficas sobre a natureza da verdade, da prova e da consistência em matemática. Ela desafia a visão tradicional de que contradições são sempre fatais para um sistema formal, propondo uma abordagem mais flexível e realista diante da complexidade dos sistemas matemáticos e computacionais modernos.
 
----
+___
 
 ## Referências
 
@@ -34,6 +34,6 @@ A lógica paraconsistente também dialoga com questões filosóficas sobre a nat
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Beziau, J.-Y. (2012). Paraconsistent logic from a modal viewpoint. *Journal of Applied Logic*, 10(1), 1-8.
 
----
+___
 
 A influência das descobertas matemáticas no contexto da lógica paraconsistente é, portanto, fundamental. Elas não apenas motivaram o surgimento dessa área, mas continuam a orientar seu desenvolvimento e aplicações em diversos campos do conhecimento.

@@ -49,4 +49,4 @@ Entre os desafios identificados, destacam-se:
 
 Os estudos comparativos recentes evidenciam que não existe um sistema paraconsistente universalmente superior; a escolha depende do contexto e dos requisitos da aplicação. A pesquisa contínua na área tem contribuído para o aprimoramento dos sistemas existentes e para o surgimento de novas abordagens, consolidando a lógica paraconsistente como uma ferramenta essencial para o tratamento de contradições em ambientes complexos e dinâmicos.
 
-```
+

@@ -3,7 +3,7 @@
 
 A lógica é o estudo das regras do raciocínio válido. Tradicionalmente, a **lógica clássica** tem sido o principal sistema lógico utilizado em matemática, filosofia e ciência da computação. No entanto, situações do mundo real frequentemente envolvem informações contraditórias, levando ao desenvolvimento de sistemas alternativos, como a **lógica paraconsistente**. Este tópico explora as principais diferenças entre esses dois paradigmas.
 
----
+___
 
 ## 1. Princípios Fundamentais
 
@@ -23,7 +23,7 @@ A lógica paraconsistente foi desenvolvida para lidar com situações em que con
 - **Rejeição da Explosão:** A presença de uma contradição não implica que qualquer proposição possa ser deduzida.
 - **Flexibilidade Semântica:** Pode admitir mais de dois valores de verdade, dependendo do sistema (por exemplo, verdadeiro, falso, ambos, nenhum).
 
----
+___
 
 ## 2. Tratamento de Contradições
 
@@ -41,7 +41,7 @@ A lógica paraconsistente foi projetada para evitar a explosão. Ela permite que
 **Exemplo:**
 No mesmo caso acima, a lógica paraconsistente reconhece a contradição, mas impede que conclusões arbitrárias sejam derivadas dela. Assim, o sistema pode continuar operando e processando informações úteis, mesmo diante de inconsistências.
 
----
+___
 
 ## 3. Aplicações Práticas
 
@@ -57,30 +57,29 @@ No mesmo caso acima, a lógica paraconsistente reconhece a contradição, mas im
 - **Inteligência artificial:** Ajuda agentes a tomar decisões racionais diante de informações contraditórias.
 - **Resolução de conflitos:** Útil em sistemas jurídicos, diagnósticos médicos e outras áreas onde opiniões ou dados podem divergir.
 
----
+___
 
 ## 4. Sistemas e Formalismos
 
 - **Lógica Clássica:** Baseada em sistemas como a lógica proposicional e de predicados, com regras rígidas de inferência.
 - **Lógica Paraconsistente:** Inclui diversos sistemas, como a Lógica Paraconsistente Anotada (LPA), Lógica de Priest (LP), entre outros, cada um com suas próprias regras para tratar contradições.
 
----
+___
 
 ## 5. Resumo Comparativo
 
 | Aspecto                  | Lógica Clássica         | Lógica Paraconsistente      |
-|--------------------------|------------------------|-----------------------------|
+|________________________--|________________________|___________________________--|
 | Contradições             | Não toleradas          | Toleradas e controladas     |
 | Princípio da Explosão    | Aceito                 | Rejeitado                   |
 | Valores de verdade       | Verdadeiro/Falso       | Pode admitir mais valores   |
 | Aplicações               | Sistemas consistentes  | Sistemas com inconsistências|
 | Robustez diante de erros | Baixa                  | Alta                        |
 
----
+___
 
 ## 6. Conclusão
 
 A principal diferença entre a lógica clássica e a lógica paraconsistente está na forma como cada uma lida com contradições. Enquanto a lógica clássica exige consistência absoluta, a lógica paraconsistente permite que sistemas continuem operando de maneira útil mesmo diante de informações conflitantes. Isso torna a lógica paraconsistente uma ferramenta poderosa e cada vez mais relevante em áreas que lidam com grandes volumes de dados, incertezas e conflitos de informação.
 
----
-```
+

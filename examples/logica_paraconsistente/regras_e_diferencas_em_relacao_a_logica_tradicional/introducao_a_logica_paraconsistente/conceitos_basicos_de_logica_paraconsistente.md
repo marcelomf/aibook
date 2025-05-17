@@ -22,7 +22,7 @@ Uma lógica é dita **paraconsistente** se ela rejeita o princípio da explosão
 ## 3. Diferenças em Relação à Lógica Clássica
 
 | Aspecto                  | Lógica Clássica         | Lógica Paraconsistente      |
-|--------------------------|------------------------|-----------------------------|
+|--||--|
 | Princípio da Explosão    | Válido                 | Rejeitado                   |
 | Contradições             | Tornam o sistema trivial| Podem ser tratadas          |
 | Aplicação                | Sistemas consistentes   | Sistemas inconsistentes     |
@@ -48,9 +48,9 @@ A lógica paraconsistente é especialmente útil em áreas como:
 
 A lógica paraconsistente representa uma evolução importante no campo do raciocínio formal, permitindo que sistemas lógicos sejam mais robustos e aplicáveis a situações do mundo real, onde a inconsistência é muitas vezes inevitável. Ao rejeitar o princípio da explosão, ela abre caminho para novas formas de tratar e raciocinar sobre informações contraditórias, tornando-se uma ferramenta fundamental em diversas áreas do conhecimento.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

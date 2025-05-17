@@ -70,7 +70,7 @@ Se não há evidência suficiente para decidir entre as interpretações, podemo
 
 A representação formal de ambiguidades linguísticas é um desafio central para a linguística computacional e a semântica formal. A lógica paraconsistente oferece um arcabouço teórico e prático para lidar com múltiplas interpretações e contradições de maneira controlada, tornando-se uma ferramenta valiosa para o avanço do processamento de linguagem natural e da compreensão automática de textos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.  

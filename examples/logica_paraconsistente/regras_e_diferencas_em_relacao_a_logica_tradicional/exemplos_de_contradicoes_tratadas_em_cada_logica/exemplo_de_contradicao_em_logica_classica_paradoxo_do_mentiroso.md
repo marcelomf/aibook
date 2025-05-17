@@ -37,7 +37,7 @@ O Paradoxo do Mentiroso motivou muitos debates em lógica, filosofia e teoria da
 
 O Paradoxo do Mentiroso é um exemplo clássico de contradição que desafia os fundamentos da lógica tradicional. Ele ilustra a necessidade de sistemas lógicos alternativos, como a lógica paraconsistente, capazes de lidar com contradições de maneira mais flexível e controlada, especialmente em contextos onde informações contraditórias são inevitáveis, como em bancos de dados, inteligência artificial e resolução de conflitos.
 
----
+
 
 **Referências:**
 

@@ -47,7 +47,7 @@ Diversos estudos e protótipos de sistemas de apoio à decisão jurídica já ut
 
 A aplicação da Lógica Paraconsistente Anotada em sistemas jurídicos representa um avanço significativo na forma como depoimentos contraditórios são tratados. Ao permitir a convivência controlada de informações conflitantes, a LPA contribui para decisões mais justas, fundamentadas e transparentes, tornando-se uma ferramenta valiosa para o futuro do direito e da justiça.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L. & da Costa, N.C.A. "Introdução à Lógica Paraconsistente"  

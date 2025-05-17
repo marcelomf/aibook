@@ -69,7 +69,7 @@ Pesquisas atuais exploram a combinação de lógica paraconsistente com técnica
 - **Priest, G. (2006). "In Contradiction: A Study of the Transconsistent."**  
   Discussão aprofundada sobre lógica paraconsistente e suas implicações filosóficas e práticas.
 
----
+
 
 A aplicação da lógica paraconsistente em sistemas de processamento de linguagem natural representa um avanço significativo na construção de sistemas inteligentes capazes de operar em ambientes complexos, incertos e contraditórios, aproximando ainda mais as máquinas da complexidade do raciocínio humano.
-```
+

@@ -45,7 +45,7 @@ Apesar das vantagens, a adoção de lógicas paraconsistentes em sistemas de seg
 
 Com o crescimento de sistemas baseados em inteligência artificial, big data e internet das coisas (IoT), a tendência é que a ocorrência de informações contraditórias aumente. A lógica paraconsistente se apresenta como uma ferramenta promissora para fortalecer a segurança da informação nesses ambientes, promovendo resiliência, adaptabilidade e tomada de decisão mais informada diante da incerteza e da contradição.
 
----
+
 
 **Em resumo**, a lógica paraconsistente oferece um novo paradigma para a segurança da informação em ambientes contraditórios, permitindo que sistemas computacionais lidem de forma controlada e segura com inconsistências, sem comprometer sua integridade ou disponibilidade. Sua adoção, contudo, deve ser cuidadosamente planejada e alinhada às necessidades e restrições de cada contexto organizacional.
-```
+

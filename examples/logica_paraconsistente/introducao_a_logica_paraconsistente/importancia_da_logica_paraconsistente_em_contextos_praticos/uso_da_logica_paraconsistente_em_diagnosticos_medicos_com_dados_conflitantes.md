@@ -56,9 +56,9 @@ Considere um paciente com sintomas de infecção, mas cujos exames laboratoriais
 
 A lógica paraconsistente representa um avanço significativo para o diagnóstico médico em contextos de incerteza e conflito de informações. Ao permitir que contradições sejam tratadas de forma controlada, ela contribui para decisões mais seguras, flexíveis e fundamentadas, refletindo melhor a complexidade do mundo real. Com o avanço da inteligência artificial e dos sistemas de apoio à decisão, a tendência é que a lógica paraconsistente se torne cada vez mais presente na prática médica, beneficiando pacientes e profissionais.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógica Paraconsistente: Teoria e Aplicações*.  
 - Abe, J. M., & Nakamatsu, K. (2016). *Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency*.
-```
+

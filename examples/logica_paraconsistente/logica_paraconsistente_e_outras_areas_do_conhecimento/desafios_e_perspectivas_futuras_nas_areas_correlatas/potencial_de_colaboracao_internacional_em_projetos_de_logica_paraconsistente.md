@@ -50,7 +50,7 @@ O futuro da colaboração internacional em lógica paraconsistente é promissor,
 
 O potencial de colaboração internacional em projetos de lógica paraconsistente é vasto e estratégico para o avanço da área. A superação dos desafios existentes e o fortalecimento das redes globais de pesquisa permitirão não apenas o desenvolvimento de novas teorias e aplicações, mas também a consolidação da lógica paraconsistente como ferramenta fundamental para o tratamento de contradições em sistemas complexos e dinâmicos. O futuro da área depende, em grande parte, da capacidade de pesquisadores, instituições e agências de fomento de trabalharem juntos, superando fronteiras geográficas e disciplinares.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Priest, G., & Tanaka, K. (2018). *Paraconsistent Logic*. Stanford Encyclopedia of Philosophy.

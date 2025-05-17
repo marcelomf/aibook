@@ -63,7 +63,7 @@ Outro exemplo é a aplicação de **redes neurais paraconsistentes**, que incorp
 
 Com o crescimento do volume e da diversidade dos dados, a lógica paraconsistente tende a se tornar cada vez mais relevante em IA. Pesquisas atuais buscam integrar essas abordagens a técnicas de aprendizado de máquina, mineração de dados e sistemas autônomos, ampliando a capacidade dos algoritmos de lidar com a complexidade e a ambiguidade do mundo real.
 
----
+___
 
 **Referências:**
 
@@ -71,4 +71,4 @@ Com o crescimento do volume e da diversidade dos dados, a lógica paraconsistent
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics: Consistency, Contradiction and Negation. *Notre Dame Journal of Formal Logic*, 34(4), 573-579.
 - Silva Filho, J. I. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Unesp.
 
-```
+

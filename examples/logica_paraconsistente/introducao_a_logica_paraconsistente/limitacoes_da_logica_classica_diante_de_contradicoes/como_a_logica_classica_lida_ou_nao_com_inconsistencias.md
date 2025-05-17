@@ -47,7 +47,7 @@ No mundo real, informações contraditórias são comuns. Sistemas que exigem co
 
 Devido a essas limitações, surgiram sistemas lógicos alternativos, como a **lógica paraconsistente**, que permitem lidar com contradições de forma controlada, sem que o sistema se torne trivial. Esses sistemas buscam preservar a utilidade do raciocínio mesmo na presença de inconsistências, tornando-se especialmente relevantes em aplicações modernas.
 
----
+___
 
 **Resumo:**  
 A lógica clássica não lida bem com inconsistências: qualquer contradição leva à explosão lógica, tornando o sistema trivial e inutilizável. Essa limitação motiva o estudo e a aplicação de lógicas alternativas, como a lógica paraconsistente, que permitem um tratamento mais flexível e realista das contradições presentes em sistemas complexos.

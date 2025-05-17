@@ -53,7 +53,7 @@ A lógica paraconsistente pode gerar resultados que desafiam a intuição dos us
 - **Explicação dos resultados:** Fornecer justificativas claras para as decisões tomadas pelo sistema.
 - **Transparência nos processos:** Permitir que os usuários compreendam como as contradições foram tratadas.
 
----
+___
 
 ## Conclusão
 
@@ -62,4 +62,4 @@ O sucesso de aplicações baseadas em lógica paraconsistente depende de uma abo
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
-```
+

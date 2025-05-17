@@ -24,7 +24,7 @@ Vamos demonstrar formalmente que $A \land \neg A$ é sempre falso, utilizando um
 ### Tabela-Verdade
 
 | $A$ | $\neg A$ | $A \land \neg A$ | $\neg (A \land \neg A)$ |
-|-----|----------|------------------|-------------------------|
+|--|-||-|
 | V   |    F     |        F         |           V             |
 | F   |    V     |        F         |           V             |
 
@@ -63,10 +63,9 @@ Apesar de sua centralidade na lógica clássica, o princípio da não contradiç
 
 A demonstração formal do princípio da não contradição mostra que, na lógica clássica, não existe situação em que uma proposição e sua negação sejam ambas verdadeiras. Esse princípio é essencial para a consistência e utilidade dos sistemas lógicos tradicionais, embora seja justamente sua flexibilização que dá origem à lógica paraconsistente, tema central deste eBook.
 
----
+
 
 **Referências:**
 - ARISTÓTELES. Metafísica. Livro IV.
 - MENDES, A. C. Lógica Proposicional: Fundamentos e Aplicações. Ed. Universitária, 2020.
 - PRIEST, G. An Introduction to Non-Classical Logic. Cambridge University Press, 2008.
-```

@@ -45,7 +45,7 @@ Gödel revolucionou a lógica com seus **teoremas da incompletude** (1931), most
 - **Charles Sanders Peirce (1839–1914):** Desenvolvimento da lógica de relações e quantificadores.
 - **Ludwig Wittgenstein (1889–1951):** Reflexões sobre a linguagem e a lógica em "Tractatus Logico-Philosophicus".
 
----
+
 
 ## Referências
 
@@ -55,7 +55,7 @@ Gödel revolucionou a lógica com seus **teoremas da incompletude** (1931), most
 - HILBERT, D. *Grundlagen der Geometrie*. 1899.
 - GÖDEL, K. *Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I*. 1931.
 
----
+
 
 A lógica clássica, portanto, é fruto do trabalho coletivo de diversos pensadores, cujas contribuições estabeleceram as bases do raciocínio formal e influenciaram profundamente a matemática, a ciência da computação e a filosofia contemporânea.
-```
+

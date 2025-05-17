@@ -2,7 +2,7 @@
 
 A lógica clássica, desenvolvida a partir dos trabalhos de Aristóteles e formalizada nos séculos XIX e XX, é baseada em alguns princípios fundamentais, entre os quais se destacam o **princípio da não contradição** e o **princípio do terceiro excluído**. Esses princípios são pilares do raciocínio dedutivo tradicional, mas, nas últimas décadas, têm sido alvo de críticas e revisões, especialmente diante de desafios práticos e teóricos em áreas como filosofia, matemática, ciência da computação e inteligência artificial. A seguir, discutimos as principais críticas contemporâneas a esses princípios.
 
----
+
 
 ## 1. Princípio da Não Contradição
 
@@ -22,7 +22,7 @@ O **princípio da não contradição** afirma que uma proposição não pode ser
 - **Exemplos Filosóficos e Científicos:**  
   Em filosofia, paradoxos como o do mentiroso (“Esta frase é falsa”) desafiam o princípio da não contradição. Na física, interpretações da mecânica quântica sugerem situações em que propriedades contraditórias podem coexistir até o momento da medição.
 
----
+
 
 ## 2. Princípio do Terceiro Excluído
 
@@ -42,7 +42,7 @@ O **princípio do terceiro excluído** afirma que, para qualquer proposição \(
 - **Questões Filosóficas:**  
   Filósofos contemporâneos argumentam que o princípio do terceiro excluído pode ser inadequado para descrever certos fenômenos, como paradoxos semânticos, estados intermediários ou situações de indefinição ontológica.
 
----
+
 
 ## 3. Implicações e Novos Caminhos
 
@@ -56,13 +56,13 @@ Essas críticas têm impulsionado avanços em áreas como:
 - **Filosofia da linguagem e da mente**
 - **Fundamentos da matemática**
 
----
+
 
 ## 4. Conclusão
 
 Os princípios da não contradição e do terceiro excluído foram fundamentais para o desenvolvimento da lógica e da ciência ocidental. No entanto, as críticas contemporâneas mostram que eles não são universais nem suficientes para todos os contextos. O estudo e a aplicação de lógicas alternativas, como a lógica paraconsistente, são essenciais para lidar com a complexidade, a incerteza e as contradições do mundo real, ampliando as fronteiras do raciocínio lógico e científico.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"

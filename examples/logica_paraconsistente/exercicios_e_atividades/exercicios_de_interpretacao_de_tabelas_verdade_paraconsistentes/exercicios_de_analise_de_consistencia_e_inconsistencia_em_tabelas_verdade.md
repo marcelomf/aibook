@@ -4,7 +4,7 @@ A análise de consistência e inconsistência em tabelas verdade é uma das ativ
 
 Neste tópico, você encontrará explicações, exemplos e exercícios práticos para desenvolver sua habilidade de interpretar e analisar tabelas verdade em sistemas paraconsistentes.
 
----
+
 
 ## 1. Revisão: Tabelas Verdade na Lógica Paraconsistente
 
@@ -17,14 +17,14 @@ Na lógica clássica, uma proposição pode ser **verdadeira (V)** ou **falsa (F
 
 Cada sistema paraconsistente pode adotar notações e interpretações próprias, mas o princípio geral é permitir a representação explícita de inconsistências.
 
----
+
 
 ## 2. Exemplo de Tabela Verdade Paraconsistente
 
 Considere a seguinte tabela verdade para o operador de negação (~) em um sistema paraconsistente de quatro valores:
 
 | p | ~p |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | I | I  |
@@ -32,7 +32,7 @@ Considere a seguinte tabela verdade para o operador de negação (~) em um siste
 
 Observe que a negação de uma proposição inconsistente permanece inconsistente, e a negação de uma indeterminada permanece indeterminada.
 
----
+
 
 ## 3. Exercícios Práticos
 
@@ -41,7 +41,7 @@ Observe que a negação de uma proposição inconsistente permanece inconsistent
 Dada a seguinte tabela verdade para o operador de conjunção (∧):
 
 | p | q | p ∧ q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | F     |
 | V | I | I     |
@@ -66,7 +66,7 @@ b) Em quais linhas o resultado é **inconsistente**?
 - a) Consistentes: Linhas 1, 2, 5
 - b) Inconsistentes: Linhas 3, 6, 8
 
----
+
 
 ### **Exercício 2: Análise de Inconsistência**
 
@@ -78,7 +78,7 @@ Considere a seguinte situação:
 Calcule o valor de p ∨ q (disjunção) usando a tabela abaixo:
 
 | p | q | p ∨ q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | V     |
 | V | I | I     |
@@ -96,7 +96,7 @@ Qual o valor de p ∨ q? O resultado é consistente ou inconsistente?
 **Resposta:**  
 - p = I, q = V → p ∨ q = I (inconsistente)
 
----
+
 
 ### **Exercício 3: Detecção de Indeterminação**
 
@@ -105,7 +105,7 @@ Dada a proposição r = U (indeterminado) e s = F (falso), qual o valor de r ∧
 **Resposta:**  
 - r = U, s = F → r ∧ s = U (indeterminado)
 
----
+
 
 ## 4. Dicas para Análise
 
@@ -115,19 +115,19 @@ Dada a proposição r = U (indeterminado) e s = F (falso), qual o valor de r ∧
 
 Ao analisar tabelas verdade paraconsistentes, sempre observe o significado dos valores e como os operadores lógicos se comportam diante de inconsistências e indeterminações.
 
----
+
 
 ## 5. Proposta de Atividade
 
 Monte uma tabela verdade para o operador de implicação (→) em um sistema paraconsistente de quatro valores (V, F, I, U). Analise, para cada linha, se o resultado é consistente, inconsistente ou indeterminado. Discuta suas conclusões com colegas ou em grupo de estudo.
 
----
+
 
 ## 6. Conclusão
 
 A análise de consistência e inconsistência em tabelas verdade paraconsistentes é fundamental para compreender como esses sistemas lógicos lidam com informações contraditórias. Praticar a interpretação dessas tabelas desenvolve a habilidade de raciocinar em contextos onde a lógica clássica falha, tornando-se uma ferramenta poderosa para aplicações em ciência da computação, inteligência artificial e resolução de conflitos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  

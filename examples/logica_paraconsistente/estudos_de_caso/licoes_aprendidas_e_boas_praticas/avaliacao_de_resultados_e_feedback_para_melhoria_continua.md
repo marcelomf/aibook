@@ -45,8 +45,8 @@ Com base nos estudos de caso e na literatura especializada, destacam-se as segui
 
 A avaliação de resultados e o uso sistemático de feedback são essenciais para garantir que soluções baseadas em lógica paraconsistente permaneçam eficazes, adaptáveis e alinhadas às necessidades dos usuários e das organizações. A melhoria contínua, sustentada por processos bem estruturados, contribui para o avanço da área e para o desenvolvimento de sistemas cada vez mais robustos e confiáveis.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

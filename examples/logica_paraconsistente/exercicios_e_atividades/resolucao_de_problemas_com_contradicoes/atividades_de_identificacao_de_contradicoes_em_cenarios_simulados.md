@@ -5,7 +5,7 @@ A identificação de contradições é uma etapa fundamental no estudo e aplica�
 
 Neste tópico, propomos atividades práticas para exercitar a identificação de contradições em cenários simulados, desenvolvendo habilidades essenciais para o raciocínio não clássico.
 
----
+
 
 ## 1. **Entendendo Contradições**
 
@@ -15,7 +15,7 @@ Antes de partir para as atividades, é importante compreender o que caracteriza 
 
 Na lógica clássica, a presença de uma contradição pode levar à trivialidade (princípio da explosão), onde qualquer proposição pode ser deduzida. Já na lógica paraconsistente, buscamos identificar, isolar e tratar essas contradições sem comprometer todo o sistema.
 
----
+
 
 ## 2. **Atividade 1: Cenário de Banco de Dados**
 
@@ -23,7 +23,7 @@ Na lógica clássica, a presença de uma contradição pode levar à trivialidad
 Considere um banco de dados de clientes de uma loja. Analise os registros abaixo e identifique possíveis contradições.
 
 | Cliente | CPF         | Status de Pagamento | Observação                |
-|---------|-------------|--------------------|---------------------------|
+||-|--||
 | Ana     | 123.456.789 | Em dia             | Nenhuma                   |
 | João    | 987.654.321 | Em atraso          | Pagamento realizado hoje  |
 | João    | 987.654.321 | Em dia             | Nenhuma                   |
@@ -38,7 +38,7 @@ Considere um banco de dados de clientes de uma loja. Analise os registros abaixo
 - Maria está "Em dia", mas a observação indica "Pagamento pendente", outra contradição.
 - A lógica paraconsistente pode ser usada para marcar esses registros como contraditórios, permitindo que o sistema continue operando e fornecendo respostas úteis, sem descartar ou ignorar os dados conflitantes.
 
----
+
 
 ## 3. **Atividade 2: Diagnóstico Médico**
 
@@ -56,7 +56,7 @@ Em um sistema de apoio à decisão médica, dois especialistas inserem as seguin
 - Há uma contradição direta entre as avaliações dos especialistas.
 - A lógica paraconsistente permite que ambas as informações sejam consideradas, possibilitando análises mais sofisticadas, como ponderar a confiabilidade de cada fonte ou buscar evidências adicionais antes de tomar uma decisão.
 
----
+
 
 ## 4. **Atividade 3: Sistema de Recomendação**
 
@@ -75,7 +75,7 @@ Um sistema de recomendação de filmes recebe avaliações de usuários para o f
 - Existe uma contradição entre as avaliações dos usuários.
 - Uma abordagem paraconsistente pode registrar a contradição e apresentar ao usuário final a existência de opiniões divergentes, ao invés de forçar uma decisão única, permitindo uma recomendação mais transparente e informada.
 
----
+
 
 ## 5. **Discussão e Reflexão**
 
@@ -84,11 +84,10 @@ Essas atividades mostram que contradições são comuns em cenários reais e que
 **Sugestão de exercício adicional:**  
 Crie um cenário simulado em sua área de interesse (por exemplo, jurídico, científico, empresarial) e identifique possíveis contradições. Discuta como a lógica paraconsistente pode ser aplicada para tratar essas situações.
 
----
+
 
 ## 6. **Conclusão**
 
 A identificação de contradições é o primeiro passo para o uso efetivo da lógica paraconsistente. Ao praticar com cenários simulados, desenvolvemos a capacidade de reconhecer e tratar inconsistências, tornando nossos sistemas e decisões mais resilientes diante da complexidade do mundo real.
 
----
-```
+

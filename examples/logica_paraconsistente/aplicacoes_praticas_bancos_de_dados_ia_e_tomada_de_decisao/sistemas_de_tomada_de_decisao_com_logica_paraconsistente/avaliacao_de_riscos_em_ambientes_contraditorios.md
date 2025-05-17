@@ -47,9 +47,9 @@ A partir desses valores, é possível calcular indicadores como o **grau de cert
 
 A avaliação de riscos em ambientes contraditórios é um desafio crescente na era da informação. A lógica paraconsistente oferece uma estrutura teórica e prática para enfrentar esse desafio, permitindo que sistemas de tomada de decisão operem de forma mais confiável, transparente e eficiente, mesmo diante da incerteza e da contradição. Ao incorporar essa abordagem, organizações e profissionais podem aprimorar significativamente seus processos de análise e gestão de riscos.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A. (1974). "On the theory of inconsistent formal systems."  
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."  
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

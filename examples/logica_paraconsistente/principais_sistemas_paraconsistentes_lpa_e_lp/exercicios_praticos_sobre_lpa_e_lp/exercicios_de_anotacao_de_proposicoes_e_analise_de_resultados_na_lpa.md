@@ -5,7 +5,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais utilizados p
 
 Neste tópico, apresentamos exercícios práticos para fixar o conceito de anotação de proposições e a análise dos resultados na LPA. Os exercícios são acompanhados de explicações detalhadas para facilitar o entendimento.
 
----
+
 
 ## 1. Revisão: Anotação de Proposições na LPA
 
@@ -26,7 +26,7 @@ A interpretação dos resultados permite classificar o estado da proposição em
 - **Indefinido:** Gc próximo de 0, Gct próximo de 0
 - **Contraditório:** Gct próximo de 1
 
----
+
 
 ## 2. Exercícios Práticos
 
@@ -46,7 +46,7 @@ Calcule o Grau de Certeza e o Grau de Contradição. Classifique o estado da pro
 - \(Gct = \min(0,8, 0,1) = 0,1\) (ou \(Gct = 0,8 + 0,1 - 1 = -0,1\), mas como não há contradição significativa, pode-se usar o mínimo)
 - **Classificação:** A proposição é **quase verdadeira** e **não contraditória**.
 
----
+
 
 ### Exercício 2: Situação Contraditória
 
@@ -64,7 +64,7 @@ Calcule o Grau de Certeza e o Grau de Contradição. O que isso indica sobre a p
 - \(Gct = \min(0,6, 0,7) = 0,6\) (ou \(Gct = 0,6 + 0,7 - 1 = 0,3\))
 - **Classificação:** A proposição está **próxima da contradição** (há muita evidência a favor e contra), e o grau de certeza é próximo de zero, indicando **indefinição**.
 
----
+
 
 ### Exercício 3: Proposição Falsa
 
@@ -82,7 +82,7 @@ Calcule o Grau de Certeza e o Grau de Contradição. Qual a conclusão?
 - \(Gct = \min(0,2, 0,9) = 0,2\)
 - **Classificação:** A proposição é **quase falsa** e **não contraditória**.
 
----
+
 
 ### Exercício 4: Proposição Indefinida
 
@@ -100,7 +100,7 @@ Calcule o Grau de Certeza e o Grau de Contradição. O que isso significa?
 - \(Gct = \min(0,5, 0,5) = 0,5\)
 - **Classificação:** A proposição está **indefinida** e **com alto grau de contradição**.
 
----
+
 
 ## 3. Interpretação dos Resultados
 
@@ -110,7 +110,7 @@ A análise dos graus de certeza e contradição permite ao usuário:
 - **Detectar conflitos:** Proposições com alto grau de contradição, mesmo que o grau de certeza seja alto ou baixo.
 - **Tratar incertezas:** Proposições com grau de certeza próximo de zero e baixo grau de contradição.
 
----
+
 
 ## 4. Proposta de Exercício
 
@@ -122,15 +122,15 @@ A análise dos graus de certeza e contradição permite ao usuário:
 **Pergunta:**  
 Calcule o Grau de Certeza e o Grau de Contradição. Como você classificaria essa proposição?
 
----
+
 
 ## 5. Conclusão
 
 Os exercícios de anotação e análise de proposições na LPA são fundamentais para compreender como a lógica paraconsistente pode ser aplicada na prática, especialmente em contextos onde a informação é incerta ou contraditória. A habilidade de interpretar corretamente os graus de certeza e contradição é essencial para a tomada de decisão em sistemas baseados em LPA.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A. "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Batens, D. "Paraconsistent Logic: Consistency, Contradiction and Negation"
-```
+

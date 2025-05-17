@@ -56,4 +56,4 @@ Frameworks computacionais baseados em lógica paraconsistente representam uma ev
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Paraconsistency and Belief Revision in Science*. Springer.
-```
+

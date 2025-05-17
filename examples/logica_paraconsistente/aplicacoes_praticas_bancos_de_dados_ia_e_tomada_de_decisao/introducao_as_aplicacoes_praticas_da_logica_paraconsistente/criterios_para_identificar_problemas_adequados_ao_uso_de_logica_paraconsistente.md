@@ -3,7 +3,7 @@
 
 A lógica paraconsistente destaca-se por sua capacidade de lidar com contradições de maneira controlada, evitando a trivialização do sistema lógico. No contexto das aplicações práticas, especialmente em áreas como bancos de dados, inteligência artificial (IA) e sistemas de tomada de decisão, é fundamental saber quando a adoção de uma abordagem paraconsistente é realmente apropriada. Este tópico apresenta critérios claros e atualizados para identificar problemas que se beneficiam do uso da lógica paraconsistente.
 
----
+___
 
 ## 1. Presença de Contradições Inerentes ou Inevitáveis
 
@@ -15,7 +15,7 @@ O critério mais fundamental é a existência de **contradições** que não pod
 
 Se o problema exige operar mesmo diante de contradições, a lógica paraconsistente é uma candidata natural.
 
----
+___
 
 ## 2. Necessidade de Continuidade Operacional
 
@@ -26,7 +26,7 @@ Em muitos contextos, **interromper o funcionamento do sistema devido a inconsist
 
 A lógica paraconsistente permite que o sistema continue operando, fornecendo respostas úteis mesmo diante de inconsistências.
 
----
+___
 
 ## 3. Impossibilidade ou Custo Elevado de Garantir Consistência Total
 
@@ -37,7 +37,7 @@ Em sistemas grandes e dinâmicos, **garantir a consistência total dos dados pod
 
 Nestes casos, a lógica paraconsistente oferece uma alternativa eficiente para lidar com inconsistências sem comprometer a utilidade do sistema.
 
----
+___
 
 ## 4. Relevância da Informação Contraditória
 
@@ -48,7 +48,7 @@ Em alguns domínios, **as próprias contradições são informativas** e devem s
 
 A lógica paraconsistente permite representar e raciocinar sobre essas contradições de forma explícita.
 
----
+___
 
 ## 5. Requisitos de Transparência e Justificativa
 
@@ -58,24 +58,24 @@ Sistemas que precisam **explicar suas decisões** ou justificar recomendações 
 - **Apresentar argumentos a favor e contra determinadas conclusões**
 - **Fornecer níveis de confiança ou graus de certeza**
 
----
+___
 
 ## 6. Limitações das Abordagens Clássicas
 
 Se abordagens tradicionais, como a lógica clássica ou sistemas baseados em consenso, **levam à trivialização** (qualquer conclusão pode ser derivada de uma contradição) ou à perda de informações relevantes (descartando dados contraditórios), a lógica paraconsistente é indicada.
 
----
+___
 
 ## 7. Exigência de Flexibilidade e Evolução
 
 Em ambientes onde **as regras, dados ou premissas mudam frequentemente**, a lógica paraconsistente oferece flexibilidade para incorporar novas informações, mesmo que contradigam o conhecimento anterior, sem a necessidade de reestruturar todo o sistema.
 
----
+___
 
 ## Resumo dos Critérios
 
 | Critério                                         | Descrição                                                                 |
-|--------------------------------------------------|---------------------------------------------------------------------------|
+|________________________________________________--|___________________________________________________________________________|
 | Contradições Inerentes                           | O problema envolve dados ou regras contraditórias inevitáveis             |
 | Continuidade Operacional                         | O sistema não pode parar diante de inconsistências                        |
 | Consistência Total Inviável                      | Garantir consistência é impossível ou muito caro                          |
@@ -84,9 +84,9 @@ Em ambientes onde **as regras, dados ou premissas mudam frequentemente**, a lóg
 | Limitações das Abordagens Clássicas              | Lógica clássica leva à trivialização ou perda de informação               |
 | Flexibilidade e Evolução                         | O sistema precisa se adaptar a mudanças e novas contradições              |
 
----
+___
 
 ## Considerações Finais
 
 A identificação criteriosa de problemas adequados ao uso da lógica paraconsistente é essencial para garantir que sua aplicação traga benefícios reais. Ao analisar a natureza dos dados, os requisitos do sistema e as limitações das abordagens tradicionais, é possível determinar quando a lógica paraconsistente é a escolha mais apropriada para lidar com inconsistências de forma produtiva e segura.
-```
+

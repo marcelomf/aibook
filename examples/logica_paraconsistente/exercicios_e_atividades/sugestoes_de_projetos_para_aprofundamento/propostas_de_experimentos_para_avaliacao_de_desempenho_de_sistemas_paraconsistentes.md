@@ -3,7 +3,7 @@
 
 A avaliação de desempenho de sistemas baseados em lógica paraconsistente é fundamental para validar sua eficácia e aplicabilidade em cenários reais, especialmente quando comparados a abordagens clássicas. A seguir, são apresentadas propostas de experimentos que podem ser desenvolvidos como projetos de aprofundamento, visando analisar o comportamento, a robustez e a eficiência de sistemas paraconsistentes em diferentes contextos.
 
----
+
 
 ## 1. **Detecção e Tratamento de Inconsistências em Bancos de Dados**
 
@@ -19,7 +19,7 @@ Avaliar a capacidade de um sistema paraconsistente em identificar, isolar e trat
   - Tempo de resposta das consultas.
 - **Análise:** Comparar os resultados obtidos por ambos os sistemas, destacando vantagens e limitações da abordagem paraconsistente.
 
----
+
 
 ## 2. **Resolução de Conflitos em Sistemas Multiagentes**
 
@@ -35,7 +35,7 @@ Testar a eficácia de sistemas paraconsistentes na resolução de conflitos de i
   - Comparação com métodos tradicionais de resolução de conflitos.
 - **Análise:** Avaliar a escalabilidade e a qualidade das decisões tomadas pelo sistema paraconsistente.
 
----
+
 
 ## 3. **Aplicação em Sistemas de Diagnóstico Baseados em Conhecimento**
 
@@ -51,7 +51,7 @@ Investigar como sistemas paraconsistentes podem melhorar o desempenho de sistema
   - Tempo de processamento.
 - **Análise:** Identificar em quais situações a lógica paraconsistente oferece vantagens significativas.
 
----
+
 
 ## 4. **Avaliação de Algoritmos Paraconsistentes em Inteligência Artificial**
 
@@ -67,7 +67,7 @@ Comparar o desempenho de algoritmos de IA (ex: classificação, tomada de decis�
   - Eficiência computacional.
 - **Análise:** Discutir os ganhos e desafios da abordagem paraconsistente em IA.
 
----
+
 
 ## 5. **Estudo de Caso: Tomada de Decisão em Ambientes Incertos**
 
@@ -83,7 +83,7 @@ Explorar como sistemas paraconsistentes podem apoiar a tomada de decisão em amb
   - Comparação com sistemas baseados em lógica clássica ou probabilística.
 - **Análise:** Avaliar a utilidade prática da lógica paraconsistente em contextos reais de incerteza.
 
----
+
 
 ## Considerações Finais
 
@@ -91,5 +91,4 @@ Esses experimentos permitem não apenas avaliar o desempenho técnico dos sistem
 
 > **Dica:** Para aprofundamento, explore ferramentas e bibliotecas que implementam lógica paraconsistente, como o Prolog Paraconsistente, e busque parcerias com pesquisadores de áreas afins para enriquecer a análise dos experimentos.
 
----
-```
+

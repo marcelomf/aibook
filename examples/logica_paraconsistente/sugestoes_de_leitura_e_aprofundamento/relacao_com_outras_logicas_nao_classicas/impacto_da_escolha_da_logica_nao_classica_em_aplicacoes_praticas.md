@@ -53,11 +53,11 @@ Nesses cenários, a adoção de lógicas não clássicas, como a lógica paracon
 
 A escolha da lógica não clássica adequada é um fator crítico para o sucesso de aplicações que lidam com informações complexas, contraditórias ou incertas. O impacto prático dessa escolha se reflete na robustez, flexibilidade e capacidade de adaptação dos sistemas desenvolvidos. Com o avanço das pesquisas e o aumento da complexidade dos problemas enfrentados, a tendência é que o uso de lógicas não clássicas se torne cada vez mais comum e necessário em múltiplas áreas do conhecimento.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Beziau, J.-Y. (Ed.). (2012). *Paraconsistency: Logic and Applications*. Springer.
 
-```
+

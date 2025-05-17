@@ -52,8 +52,8 @@ A distinção entre inconsistência e trivialidade tem profundas implicações p
 
 A relação entre trivialidade e inconsistência é um dos principais motivadores para o desenvolvimento da lógica paraconsistente. Enquanto na lógica clássica a inconsistência leva inevitavelmente à trivialidade, na lógica paraconsistente é possível conviver com contradições de forma controlada, preservando a utilidade do sistema lógico. Essa abordagem amplia significativamente as possibilidades de aplicação da lógica em contextos reais, onde a inconsistência é muitas vezes inevitável.
 
----
+
 **Sugestão de leitura complementar:**  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.  
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

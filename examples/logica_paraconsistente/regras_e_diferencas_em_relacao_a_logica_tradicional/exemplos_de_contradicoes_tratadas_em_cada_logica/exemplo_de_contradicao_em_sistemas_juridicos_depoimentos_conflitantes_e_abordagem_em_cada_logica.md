@@ -51,7 +51,7 @@ O sistema reconhece a contradição, mas não deduz conclusões arbitrárias. Em
 ## 4. Comparação Resumida
 
 | Situação                  | Lógica Clássica                      | Lógica Paraconsistente                |
-|--------------------------|--------------------------------------|---------------------------------------|
+|--|--||
 | Depoimentos contraditórios | Sistema se torna trivial (explosão)  | Contradição é registrada e tratada    |
 | Decisão                   | Precisa eliminar contradições antes  | Pode operar mesmo com contradições    |
 | Utilidade prática         | Limitada em contextos reais          | Alta em contextos complexos e reais   |
@@ -60,9 +60,9 @@ O sistema reconhece a contradição, mas não deduz conclusões arbitrárias. Em
 
 A lógica paraconsistente oferece uma abordagem mais realista e robusta para o tratamento de contradições em sistemas jurídicos, especialmente em situações de depoimentos conflitantes. Ao permitir que o sistema continue operando e sinalize conflitos, ela contribui para decisões mais informadas e justas, aproximando-se das necessidades práticas do direito e da sociedade.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Graham Priest
-```
+

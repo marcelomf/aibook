@@ -31,7 +31,7 @@ O desenvolvimento de ferramentas computacionais baseadas em lógica paraconsiste
 
 Por fim, observa-se um aumento de estudos interdisciplinares que aplicam a lógica paraconsistente em áreas como biologia computacional, análise de redes sociais, processamento de linguagem natural e ética em IA. Essas pesquisas demonstram a versatilidade e relevância crescente da lógica paraconsistente em contextos complexos e multifacetados.
 
----
+
 
 **Referências Recentes:**
 
@@ -41,4 +41,4 @@ Por fim, observa-se um aumento de estudos interdisciplinares que aplicam a lógi
 - Silva, R. C., & Subrahmanian, V. S. (2024). "Paraconsistent Reasoning in Artificial Intelligence: Recent Advances and Applications." *Artificial Intelligence Review*, 57(2), 345-370.
 
 Essas tendências indicam que a lógica paraconsistente continuará a desempenhar um papel fundamental na pesquisa e no desenvolvimento de soluções inovadoras para problemas envolvendo contradição e inconsistência em múltiplos domínios do conhecimento.
-```
+

@@ -70,14 +70,14 @@ A capacidade de representar graus de certeza e incerteza torna a LPA especialmen
 
 A representação de graus de certeza e incerteza na LPA é um avanço significativo em relação à lógica clássica, pois permite lidar de forma estruturada com a complexidade e a ambiguidade presentes em muitos sistemas reais. Ao quantificar a evidência favorável e contrária, a LPA oferece uma base sólida para o desenvolvimento de sistemas inteligentes, robustos e adaptativos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
 
----
+
 
 **Exercício sugerido:**  
 Dada a proposição "O sensor indica que a máquina está ligada" com evidências \( μ = 0.8 \) e \( λ = 0.3 \), calcule o grau de certeza e o grau de incerteza segundo a LPA. Interprete o resultado.

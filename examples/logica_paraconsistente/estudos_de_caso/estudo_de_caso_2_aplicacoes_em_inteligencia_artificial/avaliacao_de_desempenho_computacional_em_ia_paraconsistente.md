@@ -46,11 +46,11 @@ Um exemplo prático pode ser observado em sistemas de diagnóstico médico assis
 
 A avaliação de desempenho computacional é um aspecto crucial para a adoção de IA paraconsistente em aplicações reais. Embora existam desafios relacionados ao aumento do custo computacional, os benefícios em termos de robustez e capacidade de lidar com inconsistências justificam o investimento em pesquisa e desenvolvimento nessa área. O avanço de algoritmos otimizados e a integração com outras técnicas de IA tendem a tornar a lógica paraconsistente cada vez mais viável e eficiente em cenários práticos.
 
----
+___
 
 **Sugestão de Leitura Complementar:**
 
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *A Universal Logic Approach to Paraconsistency*. Springer.
 
-```
+

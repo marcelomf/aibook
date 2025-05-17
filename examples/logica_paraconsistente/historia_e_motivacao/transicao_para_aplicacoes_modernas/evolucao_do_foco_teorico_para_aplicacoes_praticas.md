@@ -30,4 +30,4 @@ A tendência é que, à medida que a complexidade dos sistemas de informação a
 ### Conclusão
 
 A evolução do foco teórico para aplicações práticas na lógica paraconsistente reflete a maturidade do campo e sua capacidade de responder a demandas reais da sociedade contemporânea. O diálogo entre teoria e prática tem enriquecido ambas as dimensões, tornando a lógica paraconsistente uma área dinâmica, inovadora e cada vez mais indispensável para o tratamento de contradições no mundo moderno.
-```
+

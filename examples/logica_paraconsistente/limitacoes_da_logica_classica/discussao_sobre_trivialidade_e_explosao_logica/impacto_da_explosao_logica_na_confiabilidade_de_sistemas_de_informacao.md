@@ -45,4 +45,4 @@ A lógica paraconsistente surge como uma resposta direta ao problema da explosã
 ## Conclusão
 
 A explosão lógica representa um desafio significativo para a confiabilidade de sistemas de informação baseados em lógica clássica. Em ambientes onde a inconsistência é inevitável — como bancos de dados dinâmicos, sistemas de inteligência artificial e aplicações críticas —, é fundamental adotar estratégias que previnam ou mitiguem os efeitos da explosão lógica. A lógica paraconsistente destaca-se como uma alternativa promissora, permitindo que sistemas de informação sejam mais robustos, confiáveis e adaptados à complexidade do mundo real.
-```
+

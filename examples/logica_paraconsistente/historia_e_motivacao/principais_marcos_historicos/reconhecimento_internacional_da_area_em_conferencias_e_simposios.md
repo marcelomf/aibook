@@ -24,7 +24,7 @@ O reconhecimento internacional da área também se reflete em periódicos de alt
 
 O espaço conquistado pela lógica paraconsistente em conferências e simpósios internacionais demonstra sua relevância teórica e prática. O diálogo constante entre pesquisadores de diferentes países tem impulsionado o desenvolvimento de novos sistemas lógicos, aplicações inovadoras e abordagens interdisciplinares. O reconhecimento internacional também contribui para a formação de novas gerações de pesquisadores, consolidando a lógica paraconsistente como um campo dinâmico e em expansão.
 
----
+___
 
 **Referências:**
 

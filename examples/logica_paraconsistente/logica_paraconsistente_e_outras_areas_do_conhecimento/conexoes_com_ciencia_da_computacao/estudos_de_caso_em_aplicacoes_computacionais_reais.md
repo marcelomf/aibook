@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente tem se mostrado uma ferramenta poderosa para enfrentar desafios práticos em ciência da computação, especialmente em contextos onde a inconsistência de informações é inevitável. A seguir, apresentamos estudos de caso que ilustram como sistemas paraconsistentes são aplicados em cenários computacionais reais, destacando seus benefícios e resultados.
 
----
+___
 
 ## 1. Gerenciamento de Bancos de Dados Inconsistentes
 
@@ -23,7 +23,7 @@ Sistemas de gerenciamento de bancos de dados têm incorporado a Lógica Paracons
 
 Essa abordagem permite que o sistema continue operando mesmo diante de inconsistências, fornecendo respostas mais informadas e evitando decisões precipitadas baseadas em dados potencialmente errôneos.
 
----
+___
 
 ## 2. Inteligência Artificial e Sistemas Especialistas
 
@@ -43,7 +43,7 @@ A lógica paraconsistente tem sido empregada para:
 
 Em um sistema de apoio à decisão médica, sintomas e exames podem sugerir diagnósticos conflitantes. Utilizando lógica paraconsistente, o sistema pode apresentar ao médico não apenas o diagnóstico mais provável, mas também o grau de contradição entre as evidências, auxiliando na avaliação crítica do caso.
 
----
+___
 
 ## 3. Resolução de Conflitos em Sistemas Multiagentes
 
@@ -63,7 +63,7 @@ A lógica paraconsistente é utilizada para:
 
 Em um sistema de robôs autônomos para busca e resgate, diferentes robôs podem relatar localizações conflitantes de vítimas. Um módulo paraconsistente permite que o sistema central avalie todas as informações, priorize buscas em áreas de maior consenso e mantenha registro das contradições para futuras verificações.
 
----
+___
 
 ## 4. Detecção e Tratamento de Fake News
 
@@ -79,11 +79,10 @@ Algoritmos baseados em lógica paraconsistente podem:
 - **Sinalizar conteúdos** que apresentam alto grau de inconsistência, recomendando cautela ao usuário.
 - **Apoiar jornalistas e moderadores** na triagem de informações para checagem manual.
 
----
+___
 
 ## Considerações Finais
 
 Os estudos de caso apresentados demonstram que a Lógica Paraconsistente oferece soluções práticas e robustas para problemas computacionais onde a inconsistência é inevitável. Ao permitir o processamento controlado de contradições, sistemas baseados em lógica paraconsistente aumentam a resiliência, a transparência e a confiabilidade de aplicações em ciência da computação, tornando-se uma ferramenta indispensável em cenários complexos e dinâmicos.
 
----
-```
+

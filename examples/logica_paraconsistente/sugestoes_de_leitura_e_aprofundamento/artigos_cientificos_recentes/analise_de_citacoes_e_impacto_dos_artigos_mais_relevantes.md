@@ -51,11 +51,11 @@ Para acompanhar o impacto e as tendências em Lógica Paraconsistente, recomenda
 
 A análise de citações revela que a Lógica Paraconsistente é um campo dinâmico, com artigos clássicos que continuam a ser amplamente referenciados e novas publicações ganhando destaque à medida que surgem aplicações inovadoras. Para estudantes e pesquisadores, acompanhar os artigos mais citados é fundamental para compreender o estado da arte e identificar oportunidades de pesquisa e colaboração.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - [Google Scholar – Paraconsistent Logic](https://scholar.google.com/scholar?q=paraconsistent+logic)
 - [Scopus – Paraconsistent Logic](https://www.scopus.com/search/form.uri?display=basic#basic)
 - [Handbook of Philosophical Logic](https://link.springer.com/book/10.1007/978-94-017-0450-0)
 
-```
+

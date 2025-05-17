@@ -46,7 +46,7 @@ Em sistemas multiagentes, onde agentes autônomos podem ter percepções e objet
 - A negociação e resolução de conflitos sem a necessidade de consenso absoluto.
 - A manutenção da operação do sistema mesmo diante de informações contraditórias, fundamental em aplicações como robótica colaborativa e redes de sensores.
 
----
+___
 
 ## Considerações Finais
 
@@ -56,5 +56,4 @@ A integração da lógica paraconsistente com tecnologias emergentes representa 
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *A Universal Logic Approach to Paraconsistency*. Springer.
 
----
-```
+

@@ -39,7 +39,7 @@ Apesar dos avanços, a aceitação da lógica paraconsistente ainda enfrenta des
 
 A lógica paraconsistente, portanto, não é apenas uma resposta técnica a problemas práticos, mas também uma resposta filosófica profunda a questões sobre a natureza do raciocínio, da verdade e da realidade.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -47,6 +47,6 @@ A lógica paraconsistente, portanto, não é apenas uma resposta técnica a prob
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Béziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+___
 
 A compreensão das motivações filosóficas é fundamental para entender não apenas o surgimento, mas também a aceitação e o desenvolvimento contínuo da lógica paraconsistente no cenário científico e intelectual contemporâneo.

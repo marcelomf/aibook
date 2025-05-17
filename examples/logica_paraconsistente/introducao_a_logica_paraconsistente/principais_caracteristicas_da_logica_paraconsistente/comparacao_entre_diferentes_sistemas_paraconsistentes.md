@@ -80,7 +80,7 @@ Além dos sistemas acima, existem outros desenvolvimentos, como:
 ## Tabela Comparativa
 
 | Sistema                      | Base Semântica         | Grau de Contradição | Aplicações Típicas           | Facilidade de Implementação |
-|------------------------------|------------------------|---------------------|------------------------------|-----------------------------|
+|______________________________|________________________|_____________________|______________________________|___________________________--|
 | LPA                          | Anotações (μ, λ)       | Quantitativo        | IA, bancos de dados          | Média                       |
 | Lógica de Priest (LP)        | Três valores           | Qualitativo         | Filosofia, teoria da lógica  | Alta                        |
 | Lógica Relevante             | Relevância inferencial | Qualitativo         | Argumentação, direito        | Média                       |
@@ -95,4 +95,4 @@ A escolha do sistema paraconsistente mais adequado depende do contexto e dos obj
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction"  
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Logics of Formal Inconsistency"
-```
+

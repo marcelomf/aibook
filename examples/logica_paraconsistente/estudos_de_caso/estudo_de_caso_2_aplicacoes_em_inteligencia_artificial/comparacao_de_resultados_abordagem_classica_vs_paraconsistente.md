@@ -7,7 +7,7 @@ A inteligência artificial (IA) frequentemente lida com grandes volumes de dados
 
 A lógica paraconsistente surge como uma alternativa robusta para tratar essas situações, permitindo que sistemas de IA operem de maneira controlada mesmo diante de inconsistências. A seguir, apresentamos uma comparação detalhada entre as abordagens clássica e paraconsistente em um cenário típico de IA.
 
----
+___
 
 #### Cenário Prático
 
@@ -19,7 +19,7 @@ Imagine um sistema de IA para diagnóstico médico que recebe informações de d
 
 Essas informações são contraditórias: enquanto um especialista afirma a presença de febre, outro nega, e o sensor sugere febre.
 
----
+___
 
 ### Abordagem Clássica
 
@@ -30,7 +30,7 @@ Na lógica clássica, a presença de contradição entre as afirmações "O paci
 - Não há mecanismo para quantificar ou isolar a contradição.
 - A tomada de decisão automatizada é inviabilizada em cenários com dados contraditórios.
 
----
+___
 
 ### Abordagem Paraconsistente
 
@@ -46,23 +46,23 @@ O sistema pode então calcular um **índice de inconsistência** e um **índice 
 - **Tomada de decisão informada:** O sistema pode, por exemplo, alertar o usuário sobre a inconsistência e sugerir a coleta de mais dados, ou tomar decisões baseadas no grau de certeza predominante.
 - **Resiliência a dados imperfeitos:** O sistema continua operando mesmo com informações conflitantes, fornecendo respostas graduais e justificadas.
 
----
+___
 
 ### Comparação dos Resultados
 
 | Critério                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|----------------------------------|----------------------------------|----------------------------------|
+|_________________________________-|_________________________________-|_________________________________-|
 | **Tratamento de Contradições**   | Explosão lógica (sistema trivial)| Contradições são isoladas e quantificadas |
 | **Confiabilidade dos Resultados**| Comprometida                     | Mantida, com indicação de incerteza |
 | **Tomada de Decisão**            | Impossibilitada                  | Possível, com base em graus de certeza |
 | **Explicabilidade**              | Baixa                            | Alta, com justificativas baseadas nos índices calculados |
 | **Aplicabilidade em IA**         | Limitada a dados consistentes    | Adequada para ambientes reais, com dados imperfeitos |
 
----
+___
 
 ### Considerações Finais
 
 A comparação evidencia que a lógica paraconsistente oferece vantagens significativas para aplicações de IA em ambientes onde a inconsistência é inevitável. Ao permitir o processamento controlado de contradições, sistemas paraconsistentes aumentam a robustez, a confiabilidade e a transparência das decisões automatizadas. Isso é especialmente relevante em áreas críticas, como saúde, finanças e sistemas autônomos, onde decisões baseadas em dados imperfeitos são rotineiras.
 
 Portanto, a adoção de lógicas paraconsistentes representa um avanço fundamental para o desenvolvimento de sistemas de IA mais inteligentes, resilientes e confiáveis.
-```
+

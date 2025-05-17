@@ -3,7 +3,7 @@
 
 A análise de casos práticos com inconsistências é uma etapa fundamental na aplicação da Lógica Paraconsistente, especialmente em contextos como bancos de dados, sistemas de inteligência artificial e resolução de conflitos de informação. Para que a lógica paraconsistente seja empregada de maneira eficaz, é necessário adotar procedimentos sistemáticos para identificar e classificar as inconsistências presentes nos dados ou informações analisadas. Este tópico apresenta um guia prático e atualizado para conduzir esse processo.
 
----
+
 
 ## 1. **Identificação de Inconsistências**
 
@@ -28,7 +28,7 @@ A identificação de inconsistências consiste em detectar situações em que du
 
 - **Documentar cada inconsistência identificada**, especificando as informações conflitantes, sua origem e o contexto em que ocorrem.
 
----
+
 
 ## 2. **Classificação de Inconsistências**
 
@@ -52,7 +52,7 @@ Após a identificação, é importante classificar as inconsistências para orie
 - **Contradições Indiretas:** Ocorrem por meio de inferências a partir de diferentes conjuntos de dados ou regras.
 - **Ambiguidade:** Quando a informação é vaga ou permite múltiplas interpretações, podendo levar a inconsistências.
 
----
+
 
 ## 3. **Ferramentas e Técnicas de Apoio**
 
@@ -60,14 +60,14 @@ Após a identificação, é importante classificar as inconsistências para orie
 - **Ferramentas de Lógica Paraconsistente:** Softwares e bibliotecas específicas para modelagem e análise de inconsistências.
 - **Visualização de Dados:** Gráficos, diagramas e dashboards facilitam a identificação visual de padrões e conflitos.
 
----
+
 
 ## 4. **Exemplo Prático**
 
 **Cenário:** Um sistema de cadastro de clientes apresenta os seguintes registros:
 
 | Cliente | CPF         | Status de Pagamento |
-|---------|-------------|--------------------|
+||-|--|
 | João    | 123.456.789-00 | Em dia             |
 | João    | 123.456.789-00 | Inadimplente       |
 
@@ -76,15 +76,15 @@ Após a identificação, é importante classificar as inconsistências para orie
 2. **Classificação:** Inconsistência de dados, contradição direta, potencialmente crítica (pode afetar decisões de crédito).
 3. **Ação:** Registrar o conflito e aplicar lógica paraconsistente para tratar a situação sem descartar nenhuma das informações.
 
----
+
 
 ## 5. **Considerações Finais**
 
 A identificação e classificação de inconsistências são etapas essenciais para o uso efetivo da Lógica Paraconsistente. Ao seguir procedimentos sistemáticos, é possível tratar informações contraditórias de forma controlada, extraindo valor mesmo em cenários de incerteza e conflito. O domínio dessas técnicas é fundamental para profissionais que atuam em áreas onde a consistência absoluta dos dados não pode ser garantida.
 
----
+
 
 **Sugestão de Exercício:**  
 Aplique os procedimentos descritos acima em um conjunto de dados fictício ou real de sua área de interesse. Identifique e classifique pelo menos três inconsistências, justificando suas decisões.
 
-```
+

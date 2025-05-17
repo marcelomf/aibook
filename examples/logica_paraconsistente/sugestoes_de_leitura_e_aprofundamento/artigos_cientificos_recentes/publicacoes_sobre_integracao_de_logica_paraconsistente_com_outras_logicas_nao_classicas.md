@@ -62,6 +62,6 @@ Nos últimos anos, a pesquisa tem avançado para a construção de **frameworks 
 
 A integração da lógica paraconsistente com outras lógicas não clássicas representa uma fronteira promissora para o avanço do raciocínio formal em ambientes complexos e incertos. As publicações recentes demonstram não apenas o vigor teórico do campo, mas também seu potencial prático em diversas áreas do conhecimento.
 
----
+
 
 **Para aprofundar-se, recomenda-se a leitura dos artigos e livros citados, bem como o acompanhamento de periódicos especializados como Journal of Applied Logic, Studia Logica e Synthese.**

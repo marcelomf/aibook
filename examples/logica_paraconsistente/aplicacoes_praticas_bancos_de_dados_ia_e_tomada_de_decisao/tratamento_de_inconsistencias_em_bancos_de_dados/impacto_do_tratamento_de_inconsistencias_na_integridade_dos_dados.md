@@ -55,4 +55,4 @@ O tratamento de inconsistências com lógica paraconsistente representa um avan�
 **Leitura recomendada:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics in Knowledge Representation*. Artificial Intelligence, 61(2), 365-395.
-```
+

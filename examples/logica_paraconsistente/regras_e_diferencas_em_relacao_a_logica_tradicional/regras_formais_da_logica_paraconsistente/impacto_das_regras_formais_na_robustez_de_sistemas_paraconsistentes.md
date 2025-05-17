@@ -45,8 +45,8 @@ Apesar das vantagens, a definição de regras formais em lógicas paraconsistent
 
 As regras formais são o alicerce da robustez em sistemas paraconsistentes. Elas permitem que tais sistemas operem de maneira confiável em ambientes repletos de incertezas e contradições, ampliando significativamente o leque de aplicações práticas da lógica. Ao compreender e aplicar essas regras, pesquisadores e profissionais podem construir sistemas mais resilientes, flexíveis e úteis para os desafios do mundo real.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2002). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
-```
+

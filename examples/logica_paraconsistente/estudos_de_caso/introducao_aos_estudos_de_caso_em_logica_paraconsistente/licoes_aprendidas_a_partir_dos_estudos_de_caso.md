@@ -36,9 +36,9 @@ Reconhecer esses desafios é fundamental para planejar projetos realistas e bem-
 
 Por fim, os estudos de caso evidenciam que a lógica paraconsistente abre novas possibilidades de inovação, especialmente em áreas emergentes como big data, aprendizado de máquina e sistemas autônomos. Ao permitir que sistemas operem de maneira robusta mesmo diante de incertezas e contradições, a lógica paraconsistente contribui para o desenvolvimento de soluções mais resilientes e adaptativas.
 
----
+___
 
 ## **Conclusão**
 
 As lições aprendidas a partir dos estudos de caso reforçam a relevância da Lógica Paraconsistente como uma abordagem poderosa para o tratamento de contradições e incertezas em sistemas complexos. Ao oferecer flexibilidade, controle e aplicabilidade em diversos domínios, essa lógica se consolida como uma alternativa viável e promissora à lógica clássica, especialmente em cenários onde a consistência absoluta das informações não pode ser garantida. O avanço contínuo na pesquisa e na aplicação prática da lógica paraconsistente certamente trará novas oportunidades e desafios, impulsionando o desenvolvimento de sistemas mais inteligentes e confiáveis.
-```
+

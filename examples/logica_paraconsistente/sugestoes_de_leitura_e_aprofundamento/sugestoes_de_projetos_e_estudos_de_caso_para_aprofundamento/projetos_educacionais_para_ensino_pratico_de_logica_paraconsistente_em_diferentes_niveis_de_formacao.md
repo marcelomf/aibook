@@ -2,7 +2,7 @@
 
 A Lógica Paraconsistente, por sua natureza inovadora e interdisciplinar, oferece um campo fértil para o desenvolvimento de projetos educacionais que promovam o aprendizado prático e contextualizado. A seguir, são apresentadas sugestões de projetos e abordagens didáticas para o ensino da lógica paraconsistente em diferentes níveis de formação, desde o ensino médio até a pós-graduação.
 
----
+
 
 ## 1. Ensino Médio: Introdução à Lógica e Contradições
 
@@ -22,7 +22,7 @@ Os alunos recebem pequenos textos ou situações-problema contendo informações
 **Resultados Esperados:**  
 Desenvolvimento do pensamento crítico, compreensão inicial sobre a existência de lógicas alternativas e valorização do debate racional.
 
----
+
 
 ## 2. Graduação: Aplicações Computacionais e Resolução de Conflitos
 
@@ -42,7 +42,7 @@ Os estudantes recebem um banco de dados propositalmente inconsistente (com regis
 **Resultados Esperados:**  
 Compreensão prática das vantagens da lógica paraconsistente em sistemas reais, desenvolvimento de habilidades em modelagem e resolução de problemas computacionais.
 
----
+
 
 ## 3. Pós-Graduação: Pesquisa e Desenvolvimento de Novos Sistemas Lógicos
 
@@ -63,7 +63,7 @@ Os pós-graduandos escolhem um problema real de IA (por exemplo, fusão de infor
 **Resultados Esperados:**  
 Avanço do conhecimento na área, produção de soluções inovadoras e publicações acadêmicas.
 
----
+
 
 ## 4. Oficinas Interdisciplinares: Filosofia, Matemática e Computação
 
@@ -83,20 +83,20 @@ Oficinas temáticas em que os participantes analisam casos reais (como fake news
 **Resultados Esperados:**  
 Visão ampliada sobre o papel da lógica paraconsistente, desenvolvimento de habilidades argumentativas e capacidade de análise crítica interdisciplinar.
 
----
+
 
 ## Considerações Finais
 
 Projetos educacionais práticos são fundamentais para consolidar o aprendizado da lógica paraconsistente, tornando o conteúdo mais acessível e relevante para estudantes de diferentes níveis. A adoção dessas iniciativas contribui para a formação de profissionais e pesquisadores capazes de lidar com a complexidade e as contradições do mundo real, promovendo inovação e pensamento crítico em diversas áreas do conhecimento.
 
----
+
 
 **Sugestão de Leitura Complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Batens, D. (2002). *Inconsistency-adaptive logics*. In *Frontiers of Paraconsistent Logic*.
 
----
+
 
 **Exercício Proposto:**  
 Desenvolva um mini-projeto, adaptando uma das sugestões acima ao seu contexto educacional, e compartilhe os resultados com seus colegas ou orientador.

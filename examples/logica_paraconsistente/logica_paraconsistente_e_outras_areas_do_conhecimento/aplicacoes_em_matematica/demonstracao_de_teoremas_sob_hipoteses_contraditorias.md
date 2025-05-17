@@ -61,7 +61,7 @@ Sistemas como a LPA permitem **anotar** proposições com informações sobre se
 
 A demonstração de teoremas sob hipóteses contraditórias, viabilizada pela lógica paraconsistente, representa um avanço significativo para a matemática e áreas correlatas. Ela permite que o raciocínio matemático seja mais robusto diante de incertezas e inconsistências, ampliando o alcance e a aplicabilidade da matemática em contextos complexos e dinâmicos.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógica Paraconsistente: Essencial"

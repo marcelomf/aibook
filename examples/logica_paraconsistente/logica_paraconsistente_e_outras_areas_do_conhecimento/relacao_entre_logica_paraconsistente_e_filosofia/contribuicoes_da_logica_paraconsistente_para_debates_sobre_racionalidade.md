@@ -35,7 +35,7 @@ Ela fundamenta filosoficamente a ideia de que o progresso científico não exige
 
 No campo da inteligência artificial e dos sistemas de apoio à decisão, a lógica paraconsistente permite que agentes artificiais lidem racionalmente com dados contraditórios, algo comum em ambientes complexos e dinâmicos. Isso amplia o conceito de racionalidade computacional, tornando-o mais próximo da racionalidade humana, que frequentemente opera sob incerteza e conflito de informações.
 
----
+___
 
 ## **Conclusão**
 
@@ -46,5 +46,4 @@ A lógica paraconsistente amplia e aprofunda o debate filosófico sobre racional
 - Graham Priest, "In Contradiction"
 - Susan Haack, "Deviant Logic, Fuzzy Logic: Beyond the Formalism"
 
----
-```
+

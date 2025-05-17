@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente, por sua natureza inovadora e interdisciplinar, oferece um campo fértil para o desenvolvimento de projetos educacionais que promovam o pensamento crítico, a resolução de problemas e a compreensão de sistemas lógicos não clássicos. A seguir, apresentamos sugestões de projetos que podem ser implementados em ambientes educacionais, desde o ensino médio até a pós-graduação, visando aprofundar o entendimento e a aplicação da lógica paraconsistente.
 
----
+
 
 ## 1. **Simulação de Bancos de Dados Inconsistentes**
 
@@ -18,7 +18,7 @@ Os alunos devem criar um banco de dados simples (por exemplo, de cadastro de alu
 - Linguagens de programação como Python ou Java
 - Ferramentas de visualização de dados
 
----
+
 
 ## 2. **Desenvolvimento de Chatbots Paraconsistentes**
 
@@ -32,7 +32,7 @@ Os estudantes devem projetar um chatbot capaz de receber perguntas e respostas c
 - Plataformas de desenvolvimento de chatbots (Dialogflow, Microsoft Bot Framework)
 - Implementação de módulos lógicos personalizados
 
----
+
 
 ## 3. **Estudo de Casos Filosóficos e Éticos**
 
@@ -47,7 +47,7 @@ Os alunos escolhem casos clássicos da filosofia (como o paradoxo do mentiroso o
 - Redação de ensaios críticos
 - Debates mediados
 
----
+
 
 ## 4. **Jogos Didáticos de Resolução de Conflitos**
 
@@ -61,7 +61,7 @@ Desenvolver jogos de tabuleiro, cartas ou digitais em que os participantes preci
 - Jogos de detetive com pistas contraditórias
 - Simulações de negociações com múltiplos agentes
 
----
+
 
 ## 5. **Implementação de Sistemas de Tomada de Decisão Paraconsistente**
 
@@ -75,7 +75,7 @@ Os alunos desenvolvem modelos computacionais que utilizam a Lógica Paraconsiste
 - Linguagens de programação (Python, R)
 - Softwares de modelagem e simulação
 
----
+
 
 ## 6. **Oficinas Interdisciplinares: Lógica Paraconsistente e Outras Áreas**
 
@@ -85,7 +85,7 @@ Explorar as conexões da lógica paraconsistente com áreas como matemática, ci
 **Descrição:**  
 Organizar oficinas em que grupos multidisciplinares de alunos investiguem aplicações da lógica paraconsistente em problemas reais de suas áreas de interesse, apresentando os resultados em seminários ou feiras de ciências.
 
----
+
 
 ## 7. **Criação de Materiais Didáticos Interativos**
 
@@ -95,11 +95,10 @@ Produzir recursos educacionais inovadores para o ensino da lógica paraconsisten
 **Descrição:**  
 Os estudantes podem criar vídeos explicativos, infográficos, animações ou aplicativos interativos que ilustrem conceitos fundamentais, exemplos e aplicações da lógica paraconsistente, tornando o aprendizado mais acessível e envolvente.
 
----
+
 
 ## Considerações Finais
 
 A implementação desses projetos educacionais contribui para o desenvolvimento de competências analíticas, criativas e colaborativas, além de proporcionar uma compreensão mais profunda da lógica paraconsistente e suas aplicações. Professores e orientadores podem adaptar as sugestões conforme o nível de ensino e os recursos disponíveis, incentivando a pesquisa, a experimentação e a interdisciplinaridade no processo de aprendizagem.
 
----
-```
+

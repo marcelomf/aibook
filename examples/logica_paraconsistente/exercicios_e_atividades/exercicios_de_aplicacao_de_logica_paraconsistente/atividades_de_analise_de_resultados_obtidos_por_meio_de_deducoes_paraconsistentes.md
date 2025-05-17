@@ -4,7 +4,7 @@ A análise dos resultados obtidos por meio de deduções paraconsistentes é uma
 
 Neste tópico, propomos atividades práticas para analisar, interpretar e discutir os resultados de deduções realizadas em sistemas paraconsistentes. Essas atividades são essenciais para consolidar o entendimento teórico e desenvolver habilidades de aplicação em contextos reais.
 
----
+
 
 ## 1. **Análise de Consistência e Inconsistência**
 
@@ -23,7 +23,7 @@ Considere as proposições:
 
 Na lógica clássica, a presença simultânea de P e ¬P levaria à trivialização. Na lógica paraconsistente, analise como o sistema lida com essa situação e quais conclusões ainda podem ser consideradas válidas.
 
----
+
 
 ## 2. **Avaliação de Grau de Certeza e Contradição**
 
@@ -41,7 +41,7 @@ Se uma proposição Q tem grau de verdade 0,7 e grau de falsidade 0,4, discuta:
 - O que isso significa em termos práticos?
 - Como essa informação pode ser utilizada em um sistema de apoio à decisão?
 
----
+
 
 ## 3. **Comparação com a Lógica Clássica**
 
@@ -57,7 +57,7 @@ Escolha um problema e resolva-o utilizando tanto a lógica clássica quanto a l�
 
 Em um banco de dados com registros contraditórios sobre o status de um cliente, analise as respostas fornecidas por cada sistema lógico e discuta as implicações práticas.
 
----
+
 
 ## 4. **Estudo de Caso: Resolução de Conflitos de Informação**
 
@@ -73,7 +73,7 @@ Apresente um estudo de caso (real ou hipotético) em que informações contradit
 
 Em um sistema de diagnóstico médico, dois exames apresentam resultados opostos para uma mesma condição. Utilize a lógica paraconsistente para analisar a situação e discutir possíveis encaminhamentos.
 
----
+
 
 ## 5. **Reflexão Crítica**
 
@@ -85,19 +85,19 @@ Promova uma discussão sobre os resultados obtidos nas atividades anteriores, ab
 - Em que contextos ela é mais apropriada?
 - Quais cuidados devem ser tomados ao interpretar resultados paraconsistentes?
 
----
+
 
 ## Considerações Finais
 
 A análise dos resultados de deduções paraconsistentes é uma habilidade essencial para quem deseja aplicar essa lógica em contextos práticos. Por meio das atividades propostas, é possível desenvolver uma compreensão crítica sobre como lidar com contradições, avaliar graus de certeza e tomar decisões informadas mesmo diante de informações conflitantes. Essas competências são cada vez mais relevantes em áreas como ciência de dados, inteligência artificial, sistemas de informação e resolução de conflitos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Introdução à Teoria da Lógica Paraconsistente*.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
+
 
 **Exercício Final:**  
 Escolha um cenário de sua área de interesse onde informações contraditórias possam surgir. Modele o problema utilizando lógica paraconsistente, realize as deduções e analise criticamente os resultados, destacando as vantagens e limitações encontradas.

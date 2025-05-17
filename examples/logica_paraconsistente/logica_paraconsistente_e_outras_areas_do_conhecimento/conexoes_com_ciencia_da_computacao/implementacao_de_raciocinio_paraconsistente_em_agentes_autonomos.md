@@ -55,11 +55,11 @@ Apesar dos avanços, a implementação de raciocínio paraconsistente em agentes
 
 No entanto, à medida que agentes autônomos se tornam mais presentes em ambientes dinâmicos e incertos, a lógica paraconsistente tende a desempenhar um papel cada vez mais relevante, promovendo sistemas mais resilientes, adaptativos e confiáveis.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logic programming. *Theoretical Computer Science*.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. *Studia Logica*.
 
-```
+

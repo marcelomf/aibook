@@ -4,7 +4,7 @@ A aplicação da lógica paraconsistente em bancos de dados é uma área de pesq
 
 A lógica paraconsistente oferece uma abordagem alternativa, permitindo que bancos de dados operem mesmo na presença de contradições, sem comprometer a integridade do sistema como um todo. Para viabilizar essa abordagem, diversas ferramentas, frameworks e extensões têm sido desenvolvidas, tanto em ambientes acadêmicos quanto industriais. A seguir, apresentamos algumas das principais soluções e iniciativas para suporte à lógica paraconsistente em bancos de dados.
 
----
+
 
 ## 1. Bancos de Dados Paraconsistentes
 
@@ -22,7 +22,7 @@ O BDLPA é um sistema experimental brasileiro que implementa a LPA diretamente n
 - Interface para consulta e visualização dos graus de evidência.
 - Ferramentas para análise de inconsistências.
 
----
+
 
 ## 2. Extensões e Plugins para SGBDs Tradicionais
 
@@ -41,7 +41,7 @@ Em SGBDs como Oracle, SQL Server e MySQL, é possível implementar lógica parac
 - Calcular graus de certeza e contradição.
 - Responder a consultas levando em conta a presença de conflitos.
 
----
+
 
 ## 3. Frameworks e Bibliotecas para Integração
 
@@ -51,13 +51,13 @@ Linguagens de programação lógica, como Prolog, têm extensões para lógica p
 ### b) **APIs e Middlewares**
 Frameworks de middleware podem ser utilizados para intermediar o acesso a bancos de dados, aplicando lógica paraconsistente nas consultas e respostas. Essas soluções geralmente são desenvolvidas sob demanda, utilizando linguagens como Python, Java ou C#, e podem ser integradas a sistemas legados.
 
----
+
 
 ## 4. Ferramentas de Visualização e Análise
 
 Ferramentas de BI (Business Intelligence) e análise de dados podem ser adaptadas para exibir informações sobre inconsistências e graus de evidência, facilitando a tomada de decisão em ambientes com dados contraditórios. Algumas soluções acadêmicas oferecem dashboards específicos para análise paraconsistente.
 
----
+
 
 ## 5. Desafios e Perspectivas
 
@@ -68,7 +68,7 @@ Apesar dos avanços, a adoção de ferramentas paraconsistentes em ambientes de 
 
 No entanto, com o crescimento do volume e da complexidade dos dados, espera-se que soluções paraconsistentes ganhem cada vez mais relevância, especialmente em áreas como big data, inteligência artificial e integração de sistemas heterogêneos.
 
----
+
 
 ## 6. Sugestões de Leitura e Exploração
 
@@ -80,7 +80,7 @@ No entanto, com o crescimento do volume e da complexidade dos dados, espera-se q
   - [Paraconsistent-PostgreSQL (GitHub)](https://github.com/ParaconsistentDB/Paraconsistent-PostgreSQL)
   - [XParaconsistent Prolog (GitHub)](https://github.com/xparaconsistent/xparaconsistent-prolog)
 
----
+
 
 ## Conclusão
 

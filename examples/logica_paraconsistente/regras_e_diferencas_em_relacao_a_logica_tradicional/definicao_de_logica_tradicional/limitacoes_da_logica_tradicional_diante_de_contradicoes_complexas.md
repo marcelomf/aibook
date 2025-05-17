@@ -36,7 +36,7 @@ As limitações da lógica tradicional diante de contradições complexas têm c
 
 Essas limitações motivaram o desenvolvimento de **lógicas não clássicas**, como a **lógica paraconsistente**, que permite lidar com contradições de forma controlada, sem que o sistema se torne trivial. Essas lógicas oferecem ferramentas para raciocinar em ambientes inconsistentes, preservando a utilidade e a confiabilidade das inferências.
 
----
+
 
 **Em resumo**, a lógica tradicional, embora poderosa e fundamental para o desenvolvimento do pensamento formal, mostra-se inadequada para lidar com contradições complexas presentes em muitos contextos práticos. O reconhecimento dessas limitações impulsionou a busca por alternativas, como a lógica paraconsistente, capazes de enfrentar os desafios impostos pela complexidade e inconsistência do mundo real.
-```
+

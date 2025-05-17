@@ -2,7 +2,7 @@
 
 A lógica paraconsistente oferece ferramentas poderosas para lidar com situações em que informações contraditórias estão presentes, sem que isso leve à trivialização do raciocínio (ou seja, sem que qualquer conclusão se torne válida apenas por existir uma contradição). Neste tópico, apresentamos exercícios práticos que ilustram como a lógica paraconsistente pode ser aplicada para resolver problemas reais envolvendo contradições, especialmente em contextos como bancos de dados, inteligência artificial e sistemas de tomada de decisão.
 
----
+
 
 ## 1. Introdução à Resolução de Contradições
 
@@ -10,7 +10,7 @@ Na lógica clássica, a presença de uma contradição (por exemplo, afirmar sim
 
 A lógica paraconsistente, por outro lado, permite que sistemas continuem funcionando e tomando decisões racionais mesmo quando confrontados com informações conflitantes. Os exercícios a seguir demonstram como isso pode ser feito na prática.
 
----
+
 
 ## 2. Exercício 1: Diagnóstico Médico com Informações Contraditórias
 
@@ -33,7 +33,7 @@ Na lógica clássica, essa contradição inviabilizaria qualquer conclusão. Na 
 **Atividade:**  
 Implemente uma tabela simples com os graus de crença e discuta qual decisão seria mais prudente.
 
----
+
 
 ## 3. Exercício 2: Banco de Dados Inconsistente
 
@@ -56,7 +56,7 @@ Como um sistema paraconsistente pode tratar essa inconsistência ao gerar corres
 **Atividade:**  
 Simule a consulta ao banco de dados e proponha uma política de decisão baseada em lógica paraconsistente.
 
----
+
 
 ## 4. Exercício 3: Inteligência Artificial e Contradições em Dados de Treinamento
 
@@ -79,7 +79,7 @@ Como a lógica paraconsistente pode ser usada para que o sistema aprenda a lidar
 **Atividade:**  
 Crie uma tabela de frequências para cada associação e discuta como o sistema pode tomar decisões em situações ambíguas.
 
----
+
 
 ## 5. Exercício 4: Resolução de Conflitos em Sistemas Multiagentes
 
@@ -100,7 +100,7 @@ Como a lógica paraconsistente pode ajudar o sistema a tomar uma decisão racion
 **Atividade:**  
 Atribua graus de confiança a cada agente e simule a decisão do sistema.
 
----
+
 
 ## 6. Dicas para a Resolução de Exercícios com Lógica Paraconsistente
 
@@ -110,19 +110,19 @@ Atribua graus de confiança a cada agente e simule a decisão do sistema.
 - **Considere a possibilidade de múltiplas soluções ou respostas.**
 - **Documente o processo de decisão, destacando como as contradições foram tratadas.**
 
----
+
 
 ## 7. Conclusão
 
 A lógica paraconsistente permite que sistemas e profissionais lidem de forma racional e controlada com informações contraditórias, evitando a paralisia ou a explosão de conclusões inválidas. Os exercícios apresentados demonstram como aplicar esses conceitos em situações práticas, promovendo um raciocínio mais robusto e adaptável em ambientes complexos e incertos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" (Newton da Costa)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)
 
----
+
 
 **Exercite-se:**  
 Crie seus próprios exemplos de situações contraditórias em sua área de atuação e tente resolvê-los utilizando os princípios da lógica paraconsistente!

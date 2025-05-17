@@ -41,4 +41,4 @@ Por exemplo, sistemas de controle de versão distribuídos, como o Git, já impl
 ## Considerações Finais
 
 Os conflitos de versões em sistemas de controle de software são exemplos concretos das limitações da lógica clássica diante de informações contraditórias. A necessidade de intervenção manual e a impossibilidade de acomodar múltiplas versões simultaneamente evidenciam a importância de abordagens lógicas mais flexíveis, como a lógica paraconsistente, especialmente em ambientes colaborativos e dinâmicos. Compreender essas limitações é fundamental para o desenvolvimento de ferramentas e métodos mais robustos para o gerenciamento de informações inconsistentes no desenvolvimento de software.
-```
+

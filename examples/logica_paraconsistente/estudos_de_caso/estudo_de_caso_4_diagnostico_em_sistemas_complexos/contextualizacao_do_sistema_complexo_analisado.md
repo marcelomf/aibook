@@ -34,8 +34,8 @@ Considere uma situação em que dois sensores de pressão em um reator químico 
 
 Com o avanço da Indústria 4.0 e a crescente automação de processos industriais, a complexidade dos sistemas e a quantidade de dados disponíveis aumentam exponencialmente. Métodos tradicionais de diagnóstico tornam-se insuficientes diante de cenários cada vez mais dinâmicos e incertos. A aplicação da lógica paraconsistente em diagnósticos de sistemas complexos representa uma abordagem inovadora e eficaz, alinhada às demandas atuais de robustez, flexibilidade e inteligência nos processos industriais.
 
----
+___
 
 **Resumo:**  
 A contextualização deste estudo de caso evidencia a importância da lógica paraconsistente no diagnóstico de sistemas complexos, como plantas industriais automatizadas, onde a presença de informações contraditórias é inevitável. Ao permitir o tratamento controlado dessas contradições, a lógica paraconsistente contribui para diagnósticos mais confiáveis e decisões mais seguras em ambientes críticos.
-```
+

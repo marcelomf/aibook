@@ -51,11 +51,11 @@ Considere um corpus bilíngue em que a palavra "pitch" aparece em contextos de m
 
 A lógica paraconsistente oferece uma abordagem inovadora e eficaz para a resolução de conflitos semânticos em corpora linguísticos. Ao permitir a coexistência de informações contraditórias e fornecer mecanismos para inferência controlada, ela contribui significativamente para o avanço da linguística computacional e do processamento de linguagem natural. O uso dessa lógica representa um passo importante para lidar com a complexidade e a riqueza da linguagem humana em ambientes digitais e automatizados.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - da Costa, N. C. A. (1974). "On the theory of inconsistent formal systems."
 - Carnielli, W. A., & Coniglio, M. E. (2016). "Paraconsistent Logic: Consistency, Contradiction and Negation."
 - Priest, G. (2006). "In Contradiction: A Study of the Transconsistent."
 
-```
+

@@ -62,10 +62,10 @@ Apesar das vantagens, a implementação de algoritmos paraconsistentes ainda enf
 
 A lógica paraconsistente e seus algoritmos oferecem uma abordagem inovadora e eficaz para o apoio à decisão em ambientes onde a contradição é inevitável. Ao permitir o tratamento controlado de inconsistências, esses algoritmos ampliam as possibilidades de análise e tomada de decisão, tornando-se ferramentas valiosas para profissionais e organizações que lidam com informações complexas e conflitantes.
 
----
+___
 
 **Sugestão de Leitura Complementar:**
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."
 - Batens, D. (2000). "A Survey of Inconsistency-Adaptive Logics."
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

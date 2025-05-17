@@ -19,7 +19,7 @@ A lógica clássica, base do raciocínio tradicional, adota o princípio da expl
 Considere um banco de dados de clientes com as seguintes informações:
 
 | Cliente | Status de Pagamento |
-|---------|--------------------|
+||--|
 | João    | Em dia             |
 | João    | Inadimplente       |
 
@@ -38,7 +38,7 @@ Na lógica paraconsistente, o sistema reconhece a contradição, mas não a prop
 - **Compare** as respostas que cada abordagem forneceria ao usuário.
 - **Discuta** qual abordagem é mais útil nesse contexto e por quê.
 
----
+
 
 ## 4. Atividade 2: Diagnóstico Médico
 
@@ -64,7 +64,7 @@ A lógica paraconsistente permite registrar a contradição e, por exemplo, reco
 - **Descreva** como cada abordagem trataria a situação.
 - **Avalie** as implicações práticas para a segurança do paciente.
 
----
+
 
 ## 5. Atividade 3: Inteligência Artificial e Resolução de Conflitos
 
@@ -90,7 +90,7 @@ O agente pode sinalizar a inconsistência, adotar uma postura cautelosa (por exe
 - **Simule** a resposta do sistema em cada abordagem.
 - **Discuta** os riscos e benefícios de cada resposta.
 
----
+
 
 ## 6. Reflexão Final
 
@@ -100,7 +100,7 @@ Após realizar as atividades, reflita:
 - Existem contextos em que a lógica clássica ainda é preferível?
 - Como a escolha da abordagem lógica pode impactar a confiabilidade e a utilidade de sistemas computacionais e de apoio à decisão?
 
----
+
 
 ## 7. Sugestão de Exercício
 
@@ -109,6 +109,6 @@ Escolha um cenário do seu cotidiano (por exemplo, informações contraditórias
 1. Modele a situação usando lógica clássica e paraconsistente.
 2. Analise os resultados e proponha qual abordagem seria mais adequada.
 
----
+
 
 Essas atividades visam não apenas exercitar o raciocínio lógico, mas também desenvolver uma compreensão crítica sobre a importância de escolher a abordagem lógica mais adequada para cada contexto, especialmente em ambientes onde a contradição é inevitável.

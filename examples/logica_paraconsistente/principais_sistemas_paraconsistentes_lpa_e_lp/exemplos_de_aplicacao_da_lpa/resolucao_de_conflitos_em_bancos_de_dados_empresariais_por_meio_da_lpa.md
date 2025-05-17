@@ -31,7 +31,7 @@ Esses valores podem ser obtidos, por exemplo, a partir da quantidade de fontes q
 Imagine um banco de dados de clientes em que o campo "Status de Pagamento" apresenta informações conflitantes:
 
 | Cliente | Fonte A         | Fonte B         |
-|---------|-----------------|-----------------|
+||--|--|
 | João    | Em dia          | Inadimplente    |
 
 Ao aplicar a LPA, podemos anotar o registro de João da seguinte forma:
@@ -71,7 +71,7 @@ A LPA já é utilizada em diversos contextos empresariais, como:
 
 A adoção da Lógica Paraconsistente Anotada em bancos de dados empresariais representa um avanço significativo na gestão de informações contraditórias. Ao permitir a convivência controlada de dados conflitantes, a LPA contribui para a integridade, transparência e eficiência dos processos de negócio, tornando-se uma ferramenta essencial para empresas que buscam excelência em gestão da informação.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and Information Processing."  

@@ -69,9 +69,9 @@ A validação dos resultados obtidos por sistemas paraconsistentes deve ser cont
 
 **Exemplo:** Em aplicações de inteligência artificial, comparar as decisões tomadas com e sem lógica paraconsistente pode evidenciar ganhos em robustez e confiabilidade.
 
----
+___
 
 ## **Conclusão**
 
 A adoção da lógica paraconsistente em diferentes contextos demanda uma abordagem cuidadosa e estruturada. As boas práticas aqui apresentadas, fundamentadas em experiências reais, contribuem para o sucesso da implementação, promovendo sistemas mais resilientes, transparentes e capazes de lidar com a complexidade inerente a ambientes contraditórios. O contínuo aprendizado e adaptação são essenciais para maximizar os benefícios dessa poderosa ferramenta lógica.
-```
+

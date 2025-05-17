@@ -47,11 +47,11 @@ Apesar de sua importância, esses princípios também impõem limitações à l�
 
 Essas limitações motivaram o desenvolvimento de lógicas alternativas, como a **lógica paraconsistente**, que busca relaxar o princípio da não contradição para permitir o tratamento controlado de contradições sem comprometer toda a estrutura lógica.
 
----
+
 
 **Referências:**
 
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Mendelson, E. (2015). *Introduction to Mathematical Logic*. CRC Press.
-```
+

@@ -49,8 +49,8 @@ A discussão sobre a universalidade dos princípios clássicos tem profundas imp
 
 Embora os princípios da não contradição e do terceiro excluído sejam fundamentais para a lógica clássica e tenham ampla aplicabilidade, sua universalidade não é absoluta. Em muitos contextos práticos e teóricos, é necessário adotar sistemas lógicos mais flexíveis, capazes de lidar com contradições e incertezas de maneira controlada. A lógica paraconsistente surge, assim, como uma resposta inovadora a essas limitações, ampliando as possibilidades do raciocínio formal e da modelagem de sistemas complexos.
 
----
+
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógica Paraconsistente: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

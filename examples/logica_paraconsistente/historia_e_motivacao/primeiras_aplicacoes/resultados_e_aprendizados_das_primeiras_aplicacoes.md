@@ -54,8 +54,8 @@ Outro aprendizado importante foi a valorização da **transparência nos process
 
 As primeiras aplicações da lógica paraconsistente demonstraram seu potencial para transformar a maneira como lidamos com informações contraditórias. Os resultados práticos e os aprendizados teóricos consolidaram a lógica paraconsistente como uma ferramenta indispensável em contextos onde a inconsistência é inevitável, abrindo caminho para avanços em diversas áreas do conhecimento.
 
----
+___
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A. (1974). "On the theory of inconsistent formal systems."  
 - Carnielli, W. A., & Coniglio, M. E. (2016). "Paraconsistent Logic: Consistency, Contradiction and Negation."
-```
+

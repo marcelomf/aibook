@@ -45,4 +45,4 @@ Ambientes de big data são dinâmicos, com dados e requisitos em constante evolu
 Apesar dos desafios, a pesquisa em lógica paraconsistente aplicada a big data tem avançado, com propostas de algoritmos distribuídos, técnicas de indexação e frameworks híbridos que buscam equilibrar robustez lógica e eficiência computacional. No entanto, a **escalabilidade** permanece como uma das principais limitações para a adoção ampla dessas soluções em ambientes de produção.
 
 A superação desses obstáculos depende do desenvolvimento de novas abordagens teóricas e práticas, bem como da colaboração entre as comunidades de lógica, ciência da computação e engenharia de dados. O futuro da lógica paraconsistente em big data está atrelado à capacidade de criar soluções que sejam, ao mesmo tempo, **teoricamente sólidas e operacionalmente viáveis** em larga escala.
-```
+

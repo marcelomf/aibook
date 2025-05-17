@@ -36,10 +36,10 @@ Em setores como finanças, saúde, logística e segurança, a capacidade de oper
 
 A lógica paraconsistente pode ser combinada com outras abordagens, como lógica fuzzy, aprendizado de máquina e sistemas especialistas, ampliando ainda mais sua aplicabilidade e potencial de inovação.
 
----
+___
 
 ## Conclusão
 
 O uso da lógica paraconsistente em ambientes práticos representa um avanço significativo na forma como lidamos com a complexidade e a imperfeição dos dados do mundo real. Suas vantagens incluem maior tolerância a inconsistências, tomada de decisão mais robusta, flexibilidade operacional, melhoria na qualidade dos dados e aplicabilidade em contextos críticos. Por essas razões, a lógica paraconsistente tem se consolidado como uma ferramenta essencial em diversas áreas da ciência e da tecnologia, promovendo soluções mais inteligentes, resilientes e confiáveis.
 
-```
+

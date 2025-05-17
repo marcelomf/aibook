@@ -34,10 +34,9 @@ No campo da Lógica Paraconsistente e áreas afins, destacam-se eventos como:
 
 Esses eventos reúnem especialistas de todo o mundo e são fontes importantes de atualização e networking.
 
----
+
 
 ### **Conclusão**
 
 Os eventos acadêmicos são motores essenciais para o avanço da pesquisa científica. Eles promovem a circulação de ideias, estimulam a colaboração e contribuem para a formação de pesquisadores críticos e atualizados. No contexto da Lógica Paraconsistente, a participação em conferências e encontros científicos tem sido decisiva para o desenvolvimento teórico e prático da área, consolidando-a como um campo dinâmico e inovador do raciocínio não clássico.
 
-```

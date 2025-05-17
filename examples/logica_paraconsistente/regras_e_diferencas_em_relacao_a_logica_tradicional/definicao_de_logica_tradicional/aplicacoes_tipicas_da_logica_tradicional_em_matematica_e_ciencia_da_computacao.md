@@ -53,4 +53,4 @@ A definição de autômatos, gramáticas formais e linguagens regulares utiliza 
 ## Considerações Finais
 
 A lógica tradicional é um alicerce indispensável para a matemática e a ciência da computação. Sua clareza, precisão e capacidade de evitar ambiguidades tornam-na a escolha natural para a construção de sistemas formais, desenvolvimento de algoritmos e verificação de propriedades matemáticas e computacionais. No entanto, suas limitações diante de informações contraditórias motivaram o surgimento de sistemas lógicos alternativos, como a lógica paraconsistente, que busca lidar de forma mais flexível com inconsistências presentes em situações do mundo real.
-```
+

@@ -5,7 +5,7 @@ A análise e o tratamento de inconsistências em bancos de dados são desafios r
 
 Neste tópico, apresentamos algumas das principais ferramentas e recursos disponíveis para análise de inconsistências em bancos de dados, destacando suas funcionalidades, aplicações e relação com abordagens paraconsistentes.
 
----
+
 
 ## 1. **Data Cleaning Tools (Ferramentas de Limpeza de Dados)**
 
@@ -19,7 +19,7 @@ Ferramentas de limpeza de dados são amplamente utilizadas para detectar e corri
   Plataforma de preparação de dados que utiliza algoritmos inteligentes para sugerir correções e padronizações, facilitando a detecção de inconsistências.
   - [Site oficial](https://www.trifacta.com/)
 
----
+
 
 ## 2. **Ferramentas de Detecção de Conflitos e Inconsistências**
 
@@ -33,7 +33,7 @@ Algumas ferramentas são especializadas em identificar conflitos lógicos e inco
   Em bancos de dados semânticos (ontologias), ferramentas como o **Protégé** (com plugins como Pellet ou HermiT) permitem identificar inconsistências lógicas em bases de conhecimento expressas em OWL.
   - [Protégé](https://protege.stanford.edu/)
 
----
+
 
 ## 3. **Sistemas de Gerenciamento de Bancos de Dados com Suporte a Inconsistências**
 
@@ -45,7 +45,7 @@ Alguns SGBDs e extensões oferecem suporte explícito ao gerenciamento de dados 
 - **Consistent Query Answering (CQA) Tools**  
   Ferramentas como **Consistent Query Answering Toolkit** permitem executar consultas que retornam apenas respostas consistentes, mesmo quando o banco de dados contém inconsistências.
 
----
+
 
 ## 4. **Ferramentas de Integração de Dados**
 
@@ -59,7 +59,7 @@ A integração de múltiplas fontes de dados frequentemente gera inconsistência
   Ferramenta de automação de fluxo de dados que pode ser configurada para detectar e tratar inconsistências em tempo real.
   - [Site oficial](https://nifi.apache.org/)
 
----
+
 
 ## 5. **Ferramentas Baseadas em Lógica Paraconsistente**
 
@@ -72,7 +72,7 @@ Embora ainda em desenvolvimento e mais restritas ao meio acadêmico, algumas fer
 - **Paraconsistent Reasoners**  
   Razoadoradores (reasoners) experimentais, como o **Paraconsistent Reasoner for OWL**, permitem inferência sobre bases de conhecimento inconsistentes, sem trivialização.
 
----
+
 
 ## 6. **Considerações Finais**
 
@@ -80,7 +80,7 @@ A escolha da ferramenta adequada depende do contexto, do tipo de inconsistência
 
 O avanço das pesquisas em lógica paraconsistente tem impulsionado o desenvolvimento de novas ferramentas e extensões para bancos de dados, tornando cada vez mais viável o tratamento controlado de inconsistências em sistemas reais.
 
----
+
 
 ### **Leituras Complementares**
 
@@ -88,7 +88,7 @@ O avanço das pesquisas em lógica paraconsistente tem impulsionado o desenvolvi
 - **Bertossi, L. E. (2011). Database Repairing and Consistent Query Answering. Synthesis Lectures on Data Management.**
 - **Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.**
 
----
+
 
 > **Dica:** Para explorar e experimentar a análise de inconsistências, recomenda-se utilizar conjuntos de dados públicos e ferramentas open-source, facilitando o aprendizado prático dos conceitos apresentados neste eBook.
-```
+

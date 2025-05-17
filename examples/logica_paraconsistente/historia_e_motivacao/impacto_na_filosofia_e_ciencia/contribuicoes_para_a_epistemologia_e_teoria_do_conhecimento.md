@@ -30,4 +30,4 @@ Além disso, a lógica paraconsistente oferece uma base formal para teorias plur
 ## Conclusão
 
 A lógica paraconsistente representa uma revolução silenciosa na epistemologia e na teoria do conhecimento. Ao permitir o tratamento formal de contradições, ela aproxima a lógica da realidade complexa e imperfeita do conhecimento humano, oferecendo novas ferramentas para a análise, modelagem e compreensão dos processos cognitivos. Suas contribuições vão além da técnica, influenciando profundamente a maneira como entendemos a racionalidade, a verdade e a própria natureza do saber.
-```
+

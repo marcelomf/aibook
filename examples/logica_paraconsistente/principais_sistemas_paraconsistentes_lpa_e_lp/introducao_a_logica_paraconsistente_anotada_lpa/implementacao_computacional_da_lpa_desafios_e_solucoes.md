@@ -82,5 +82,4 @@ A implementação computacional da LPA é um campo dinâmico e desafiador, que e
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."
 - Santos, P. S. (2010). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
 
----
-```
+

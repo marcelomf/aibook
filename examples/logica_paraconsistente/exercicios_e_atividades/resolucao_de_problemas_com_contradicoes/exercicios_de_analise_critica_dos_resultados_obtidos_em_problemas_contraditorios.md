@@ -57,10 +57,10 @@ A análise crítica dos resultados em problemas contraditórios é essencial par
 
 > **Sugestão:** Após resolver os exercícios, discuta suas respostas com colegas ou em grupos de estudo, buscando diferentes perspectivas sobre a análise crítica dos resultados.
 
----
+
 
 **Leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli e João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
-```
+

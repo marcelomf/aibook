@@ -40,8 +40,8 @@ A lógica paraconsistente surge como uma resposta a essa necessidade. Ela propõ
 
 A crescente complexidade dos sistemas de informação e a inevitabilidade de inconsistências em ambientes reais tornam indispensável o desenvolvimento de abordagens lógicas alternativas à lógica clássica. A lógica paraconsistente representa um avanço fundamental nesse sentido, oferecendo ferramentas teóricas e práticas para o raciocínio em ambientes contraditórios, sem sacrificar a coerência e a utilidade dos sistemas.
 
----
+
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

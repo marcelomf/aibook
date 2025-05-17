@@ -56,7 +56,7 @@ Nos últimos anos, surgiram modelos híbridos, em que parte do conteúdo é de a
 
 A escolha entre acesso aberto e acesso restrito impacta diretamente a disseminação e o avanço do conhecimento científico. Para quem estuda ou pesquisa Lógica Paraconsistente, conhecer as diferenças entre esses modelos e saber como navegar por ambos é fundamental para garantir acesso à literatura mais relevante e atualizada. Incentivar o acesso aberto é uma forma de promover a ciência inclusiva, colaborativa e global.
 
----
+
 
 **Sugestão:** Sempre verifique se sua instituição possui acesso a bases restritas e explore ao máximo as opções de acesso aberto para ampliar seu repertório de pesquisa.
-```
+

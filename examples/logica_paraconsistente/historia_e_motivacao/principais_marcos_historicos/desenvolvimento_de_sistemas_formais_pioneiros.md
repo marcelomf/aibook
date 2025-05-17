@@ -30,5 +30,4 @@ Esses sistemas formais pioneiros abriram caminho para uma nova abordagem do raci
 - Jaśkowski, S. (1948). Rachunek zdań dla systemów dedukcyjnych sprzecznych. *Studia Societatis Scientiarum Torunensis*, 5, 55-77.
 - Carnielli, W. A., Coniglio, M. E., & Marcos, J. (2007). Logics of Formal Inconsistency. In *Handbook of Philosophical Logic* (pp. 1-93). Springer.
 
----
-```
+

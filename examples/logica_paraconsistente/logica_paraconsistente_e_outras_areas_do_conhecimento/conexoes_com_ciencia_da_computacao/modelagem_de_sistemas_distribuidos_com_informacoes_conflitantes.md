@@ -72,7 +72,7 @@ Apesar dos avanços, a integração da lógica paraconsistente em sistemas distr
 
 No entanto, com o crescimento de sistemas cada vez mais distribuídos e autônomos, a lógica paraconsistente tende a se tornar uma ferramenta cada vez mais relevante para garantir robustez, flexibilidade e confiabilidade em ambientes sujeitos a inconsistências.
 
----
+___
 
 **Referências:**
 
@@ -80,7 +80,7 @@ No entanto, com o crescimento de sistemas cada vez mais distribuídos e autônom
 - Subrahmanian, V. S. (1994). *Paraconsistent Logic Programming*. In *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 - Brito, A. S., & Silva, M. R. (2018). *Lógica Paraconsistente Anotada e Aplicações em Sistemas Distribuídos*. Revista de Computação Aplicada.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Capítulo "Lógica Paraconsistente Anotada" deste eBook  

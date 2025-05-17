@@ -3,7 +3,7 @@
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, oferece ferramentas valiosas para enfrentar desafios práticos em diversas áreas. Suas regras formais, que impedem a explosão lógica (ou seja, a dedução de qualquer conclusão a partir de uma contradição), são aplicadas em situações onde a inconsistência é inevitável ou até mesmo natural. A seguir, apresentamos exemplos concretos de como essas regras são empregadas em problemas reais.
 
----
+
 
 ## 1. **Bancos de Dados Inconsistentes**
 
@@ -16,7 +16,7 @@ Utilizando regras formais da lógica paraconsistente, como as da Lógica Paracon
 ### **Benefício**
 Isso possibilita consultas e análises mais robustas, que consideram a incerteza e a contradição, fornecendo respostas mais realistas e úteis para os usuários.
 
----
+
 
 ## 2. **Inteligência Artificial e Sistemas Especialistas**
 
@@ -29,7 +29,7 @@ As regras formais permitem que o sistema mantenha múltiplas hipóteses contradi
 ### **Benefício**
 A IA torna-se mais resiliente e confiável, especialmente em ambientes complexos e dinâmicos, onde a contradição é inevitável.
 
----
+
 
 ## 3. **Resolução de Conflitos em Sistemas de Tomada de Decisão**
 
@@ -42,7 +42,7 @@ As regras formais permitem modelar e analisar as diferentes posições sem que a
 ### **Benefício**
 Decisões mais informadas e transparentes, com explicitação dos pontos de conflito e das incertezas envolvidas.
 
----
+
 
 ## 4. **Processamento de Linguagem Natural**
 
@@ -55,7 +55,7 @@ Ao aplicar as regras formais, sistemas de processamento de linguagem podem ident
 ### **Benefício**
 Análises mais precisas e contextualizadas, com maior capacidade de lidar com a complexidade da linguagem humana.
 
----
+
 
 ## 5. **Controle de Sistemas Industriais**
 
@@ -68,11 +68,10 @@ As regras formais permitem que o sistema de controle continue operando de forma 
 ### **Benefício**
 Maior robustez e segurança operacional, reduzindo paradas desnecessárias e riscos de acidentes.
 
----
+
 
 ## **Conclusão**
 
 A aplicação das regras formais da lógica paraconsistente em problemas reais demonstra sua relevância prática e potencial transformador. Ao permitir o tratamento racional e controlado de contradições, a lógica paraconsistente amplia as fronteiras do raciocínio automatizado e da análise de dados, tornando-se uma ferramenta essencial em contextos onde a inconsistência é parte do cenário.
 
----
-```
+

@@ -31,10 +31,9 @@ Aplicar a lógica paraconsistente a problemas do mundo real, como bancos de dado
 
 A integração de sistemas paraconsistentes com infraestruturas já estabelecidas, baseadas em lógica clássica, também se mostrou problemática. Era preciso garantir a interoperabilidade e a consistência dos dados, evitando que a introdução de mecanismos paraconsistentes comprometesse a integridade dos sistemas legados.
 
----
+___
 
 ### **Considerações finais**
 
 Apesar desses desafios, as primeiras implementações da lógica paraconsistente foram fundamentais para demonstrar sua viabilidade e utilidade prática. O enfrentamento dessas dificuldades impulsionou o desenvolvimento de novas técnicas, ferramentas e abordagens, consolidando a lógica paraconsistente como um campo relevante e promissor para o tratamento de informações contraditórias em diversas áreas do conhecimento.
 
-```

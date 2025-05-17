@@ -27,7 +27,7 @@ Estudos de caso são recursos valiosos no ensino da lógica paraconsistente, poi
 
 Por fim, os estudos de caso contribuem para a validação empírica dos modelos paraconsistentes, fornecendo dados e evidências que podem ser utilizados para aprimorar teorias, ajustar parâmetros e propor novas abordagens. Esse ciclo de feedback entre teoria e prática é essencial para o avanço contínuo da lógica paraconsistente como campo de pesquisa e aplicação.
 
----
+___
 
 Em resumo, os estudos de caso em lógica paraconsistente têm como objetivos principais demonstrar a utilidade prática da abordagem, ilustrar seu funcionamento, avaliar sua eficiência, fomentar a inovação, apoiar o ensino e contribuir para o desenvolvimento teórico e prático da área. Eles são, portanto, instrumentos indispensáveis para a consolidação e expansão da lógica paraconsistente no cenário científico e tecnológico contemporâneo.
-```
+

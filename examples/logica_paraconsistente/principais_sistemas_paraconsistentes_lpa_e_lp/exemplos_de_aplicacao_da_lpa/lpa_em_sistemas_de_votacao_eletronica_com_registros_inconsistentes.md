@@ -41,7 +41,7 @@ Dessa forma, o sistema não precisa descartar toda a informação diante de uma 
 Suponha que, após o fechamento das urnas, o sistema detecte os seguintes registros para um eleitor:
 
 | Registro | μ (Favorável) | λ (Contrário) |
-|----------|---------------|--------------|
+|-||--|
 | Voto A   | 0,9           | 0,1          |
 | Voto B   | 0,7           | 0,6          |
 

@@ -2,7 +2,7 @@
 
 O estudo e a aplicação da lógica paraconsistente têm se beneficiado do desenvolvimento de ferramentas computacionais que permitem modelar, simular e analisar sistemas baseados em raciocínio não clássico. Estas ferramentas são essenciais tanto para pesquisadores quanto para profissionais que desejam explorar as potencialidades da lógica paraconsistente em contextos práticos, como bancos de dados, inteligência artificial e sistemas de apoio à decisão. A seguir, apresentamos uma visão geral dos principais softwares e ambientes de modelagem e simulação de lógica paraconsistente disponíveis atualmente.
 
----
+
 
 ### 1. **Paraconsistent Logic Analyzer (PLA)**
 
@@ -18,7 +18,7 @@ O PLA é amplamente utilizado em pesquisas acadêmicas e em projetos de automaç
 **Referência:**  
 - [PLA - Paraconsistent Logic Analyzer (UTFPR)](https://www.utfpr.edu.br/campus/cp/pesquisa-e-pos-graduacao/laboratorios/lapac/pla)
 
----
+
 
 ### 2. **Lógica Paraconsistente Anotada (LPA) Toolbox para MATLAB**
 
@@ -33,7 +33,7 @@ O LPA Toolbox é especialmente útil para engenheiros e cientistas da computaç�
 **Referência:**  
 - [LPA Toolbox - UTFPR](https://www.utfpr.edu.br/campus/cp/pesquisa-e-pos-graduacao/laboratorios/lapac/lpa-toolbox)
 
----
+
 
 ### 3. **Prover9/Mace4 com Extensões Paraconsistentes**
 
@@ -46,7 +46,7 @@ O **Prover9** é um provador automático de teoremas para lógica de primeira or
 **Referência:**  
 - [Prover9 and Mace4](https://www.cs.unm.edu/~mccune/prover9/)
 
----
+
 
 ### 4. **Protégé com Plugins para Lógicas Não Clássicas**
 
@@ -55,7 +55,7 @@ O **Protégé** é uma plataforma de código aberto para modelagem de ontologias
 **Referência:**  
 - [Protégé](https://protege.stanford.edu/)
 
----
+
 
 ### 5. **Ferramentas de Pesquisa e Desenvolvimento Personalizadas**
 
@@ -67,7 +67,7 @@ Além das ferramentas mencionadas, muitos grupos de pesquisa desenvolvem seus pr
 
 O acesso a esses softwares geralmente ocorre por meio de colaboração acadêmica ou em projetos de pesquisa.
 
----
+
 
 ## Considerações Finais
 
@@ -78,6 +78,6 @@ O uso de softwares de modelagem e simulação é fundamental para o avanço da l
 - **"Lógica Paraconsistente: Teoria e Aplicações"** – Newton C. A. da Costa, Walter A. Carnielli, Décio Krause
 - **"Paraconsistent Logic: Consistency, Contradiction and Negation"** – Koji Tanaka, Francesco Berto, Edwin Mares, Graham Priest
 
----
+
 
 > **Dica:** Muitos dos softwares citados possuem documentação, tutoriais e exemplos práticos disponíveis em seus sites oficiais ou em repositórios acadêmicos. Aproveite esses recursos para aprofundar seu aprendizado e experimentar a lógica paraconsistente em diferentes contextos.

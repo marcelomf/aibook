@@ -44,9 +44,9 @@ Apesar dos avanços, a aplicação da lógica paraconsistente em epistemologia a
 
 A lógica paraconsistente representa uma inovação significativa para as teorias contemporâneas do conhecimento, oferecendo meios formais e práticos para lidar com a complexidade, a incerteza e a contradição inerentes à busca pelo saber. Sua adoção crescente em epistemologia, filosofia da ciência, inteligência artificial e sistemas de informação indica que, no século XXI, pensar logicamente não significa mais evitar contradições a todo custo, mas saber conviver e raciocinar produtivamente com elas.
 
----
+___
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógica Paraconsistente: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

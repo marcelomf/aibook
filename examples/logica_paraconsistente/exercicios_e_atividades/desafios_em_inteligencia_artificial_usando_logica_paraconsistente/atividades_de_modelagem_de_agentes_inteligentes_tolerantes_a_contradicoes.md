@@ -64,11 +64,11 @@ A seguir, são apresentadas atividades práticas para a modelagem de agentes int
 
 A modelagem de agentes inteligentes tolerantes a contradições é fundamental para aplicações reais de IA, onde a inconsistência de dados é inevitável. A lógica paraconsistente oferece uma base teórica e prática robusta para enfrentar esse desafio, permitindo que agentes operem de forma confiável e útil mesmo em ambientes complexos e incertos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" (Newton da Costa)  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)  
 - Artigos sobre aplicações de LPA em sistemas inteligentes
 
-```
+

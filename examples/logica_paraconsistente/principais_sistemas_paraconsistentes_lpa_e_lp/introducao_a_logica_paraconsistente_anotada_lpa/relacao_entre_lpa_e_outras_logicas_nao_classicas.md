@@ -55,9 +55,9 @@ A LPA pode ser integrada a outros sistemas lógicos não clássicos para criar f
 
 A Lógica Paraconsistente Anotada (LPA) ocupa um lugar de destaque entre as lógicas não clássicas, oferecendo uma abordagem formal e flexível para o tratamento de contradições. Sua relação com outras lógicas não clássicas é de complementaridade: cada sistema aborda limitações específicas da lógica clássica, e a escolha entre eles depende do tipo de problema a ser resolvido. A LPA, em particular, é especialmente valiosa em contextos onde a informação pode ser contraditória, mas ainda assim é necessário raciocinar de forma não trivial e controlada.
 
----
+
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Walter Carnielli & João Marcos, "On the Generation of Logics of Formal Inconsistency"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

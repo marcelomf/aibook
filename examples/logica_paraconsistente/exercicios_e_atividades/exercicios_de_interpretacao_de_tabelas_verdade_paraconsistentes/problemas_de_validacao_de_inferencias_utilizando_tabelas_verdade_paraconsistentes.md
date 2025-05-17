@@ -18,7 +18,7 @@ Esses valores adicionais permitem que as lógicas paraconsistentes lidem com sit
 Ao construir tabelas verdade em lógicas paraconsistentes, é necessário considerar todos os valores possíveis para cada proposição. Por exemplo, para duas proposições \( p \) e \( q \), as combinações possíveis podem ser:
 
 | p | q |
-|---|---|
+|||
 | V | V |
 | V | F |
 | F | V |
@@ -51,7 +51,7 @@ Na lógica clássica, se \( p \) é verdadeiro e \( p \rightarrow q \) é verdad
 Vamos considerar a Lógica de Priest (LP), onde os valores possíveis são V, F e V&F.
 
 | p     | q     | p → q | Inferência válida? |
-|-------|-------|-------|-------------------|
+|-|-|-|-|
 | V     | V     | V     | Sim               |
 | V     | F     | F     | Não               |
 | F     | V     | V     | Sim               |
@@ -93,7 +93,7 @@ O número de linhas nas tabelas verdade cresce rapidamente com o número de prop
 
 A validação de inferências utilizando tabelas verdade paraconsistentes é uma tarefa fundamental, porém mais desafiadora do que na lógica clássica. É necessário compreender os valores de verdade adicionais, as regras dos conectivos e os critérios de validade adotados. O domínio dessas técnicas permite aplicar a lógica paraconsistente de forma eficaz em situações reais, como bancos de dados inconsistentes, sistemas de IA e resolução de conflitos, onde a contradição não pode ser simplesmente ignorada ou eliminada.
 
----
+
 
 **Sugestão de exercício:**  
 Construa a tabela verdade paraconsistente para o argumento abaixo, considerando os valores V, F e V&F, e analise se a inferência é válida:

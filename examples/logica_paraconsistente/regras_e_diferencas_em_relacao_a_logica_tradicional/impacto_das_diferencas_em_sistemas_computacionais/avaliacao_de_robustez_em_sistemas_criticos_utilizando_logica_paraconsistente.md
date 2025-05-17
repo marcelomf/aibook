@@ -70,9 +70,9 @@ Esse monitoramento contínuo aumenta a robustez operacional e reduz o risco de f
 
 A avaliação de robustez em sistemas críticos utilizando lógica paraconsistente representa um avanço significativo na engenharia de sistemas confiáveis. Ao permitir o tratamento controlado de contradições, essa abordagem amplia a resiliência e a segurança de aplicações onde a falha não é uma opção. Com o avanço das tecnologias e a crescente complexidade dos sistemas, a lógica paraconsistente tende a se consolidar como ferramenta essencial para a robustez em ambientes críticos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

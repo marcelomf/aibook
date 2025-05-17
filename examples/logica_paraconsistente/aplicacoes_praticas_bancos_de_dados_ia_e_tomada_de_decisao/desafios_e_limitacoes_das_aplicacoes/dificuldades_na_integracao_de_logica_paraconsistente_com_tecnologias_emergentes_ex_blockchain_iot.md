@@ -27,7 +27,7 @@ A manipulação de informações contraditórias pode abrir brechas para ataques
 
 A maioria das ferramentas e plataformas de blockchain e IoT não foi projetada para lidar com raciocínio não clássico. A integração de lógica paraconsistente pode exigir modificações profundas em infraestruturas já estabelecidas, o que pode ser inviável em muitos casos devido a custos, riscos e resistência à mudança.
 
----
+___
 
 ### **Perspectivas Futuras**
 
@@ -36,4 +36,4 @@ Apesar dos desafios, a integração da lógica paraconsistente com tecnologias e
 ### **Conclusão**
 
 A lógica paraconsistente oferece soluções inovadoras para o tratamento de inconsistências, mas sua integração com tecnologias emergentes como blockchain e IoT ainda enfrenta obstáculos técnicos e conceituais. Superar essas dificuldades exigirá esforços conjuntos de pesquisa, desenvolvimento de padrões e colaboração entre as comunidades de lógica, ciência da computação e engenharia de sistemas.
-```
+

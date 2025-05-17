@@ -27,9 +27,9 @@ Com o tempo, à medida que mais aplicações práticas foram desenvolvidas e os 
 
 A reação inicial de ceticismo e resistência deu lugar a uma postura mais aberta e investigativa, refletindo a capacidade da ciência de se adaptar e evoluir diante de novos desafios e possibilidades.
 
----
+___
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*, 15(4), 497-510.
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287-393). Springer.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

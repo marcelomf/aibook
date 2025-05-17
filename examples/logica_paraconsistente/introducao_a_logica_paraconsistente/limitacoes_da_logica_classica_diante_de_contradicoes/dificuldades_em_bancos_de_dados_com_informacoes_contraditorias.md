@@ -59,4 +59,4 @@ Por exemplo, sistemas baseados em lógica paraconsistente podem:
 O tratamento de informações contraditórias em bancos de dados é um desafio central para a confiabilidade e utilidade dos sistemas de informação modernos. As limitações da lógica clássica evidenciam a necessidade de abordagens mais flexíveis, como a lógica paraconsistente, que permite lidar de forma controlada com inconsistências, preservando a utilidade do sistema e a integridade dos dados.
 
 A adoção de técnicas paraconsistentes representa um avanço significativo na gestão de bancos de dados complexos, especialmente em contextos onde a contradição é inerente ao processo de coleta e integração de informações.
-```
+

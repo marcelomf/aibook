@@ -3,7 +3,7 @@
 
 A lógica paraconsistente surge como resposta à limitação da lógica clássica diante de contradições, permitindo que sistemas lógicos possam lidar com informações inconsistentes sem colapsar em trivialidade. Entre os principais sistemas paraconsistentes, destacam-se a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**. Embora ambos permitam o tratamento controlado de contradições, eles diferem significativamente na forma como representam e manipulam inconsistências. A seguir, detalhamos essas diferenças.
 
----
+
 
 ## 1. Lógica Paraconsistente Anotada (LPA)
 
@@ -24,7 +24,7 @@ Por exemplo, uma proposição `P` pode ser anotada como `(μ, λ) = (0.8, 0.6)`,
 - **Flexibilidade:** Adequada para aplicações que exigem avaliação quantitativa de informações conflitantes.
 - **Decisão baseada em evidências:** Possibilita a definição de estratégias para lidar com diferentes níveis de inconsistência.
 
----
+
 
 ## 2. Lógica de Priest (LP)
 
@@ -46,30 +46,29 @@ A inconsistência é representada explicitamente pelo valor **ambos**: uma propo
 - **Clareza conceitual:** A inconsistência é explicitamente marcada, sem necessidade de valores numéricos.
 - **Adequada para análise filosófica:** Útil em contextos onde o interesse está na possibilidade de contradições, e não em seu grau.
 
----
+
 
 ## 3. Comparação Direta
 
 | Aspecto                        | LPA (Lógica Paraconsistente Anotada) | LP (Lógica de Priest)         |
-|--------------------------------|--------------------------------------|-------------------------------|
+|--|--|-|
 | **Representação**              | Pares de evidências (μ, λ)           | Valores de verdade múltiplos  |
 | **Grau de inconsistência**     | Quantitativo (medido)                | Qualitativo (presença/ausência)|
 | **Expressividade**             | Alta (permite gradação)              | Menor (apenas presença)       |
 | **Aplicações típicas**         | Sistemas de decisão, IA, bancos de dados | Filosofia, teoria da lógica   |
 | **Exemplo de inconsistência**  | (0.9, 0.9)                           | V e F simultaneamente         |
 
----
+
 
 ## 4. Implicações Práticas
 
 - **LPA** é preferida quando é necessário **avaliar o grau de inconsistência** e tomar decisões baseadas em níveis de confiança ou conflito.
 - **LP** é mais adequada para **análises teóricas** e situações em que a simples presença de contradição já é suficiente para o raciocínio.
 
----
+
 
 ## 5. Conclusão
 
 A escolha entre LPA e LP depende do contexto e das necessidades da aplicação. Enquanto a LPA oferece uma abordagem quantitativa e flexível para lidar com inconsistências, a LP fornece uma estrutura conceitual clara para a coexistência de contradições. Compreender essas diferenças é fundamental para selecionar o sistema paraconsistente mais adequado para cada problema.
 
----
-```
+

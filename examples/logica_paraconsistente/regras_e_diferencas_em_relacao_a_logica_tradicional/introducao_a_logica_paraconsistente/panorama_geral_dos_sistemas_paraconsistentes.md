@@ -55,10 +55,10 @@ Apesar dos avanços, os sistemas paraconsistentes ainda enfrentam desafios, como
 
 Os sistemas paraconsistentes representam uma evolução significativa no campo da lógica, oferecendo soluções práticas para o tratamento de contradições em ambientes complexos e dinâmicos. Seu estudo é fundamental para quem deseja compreender e desenvolver sistemas capazes de lidar com a incerteza e a inconsistência de forma eficiente e controlada.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli e João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

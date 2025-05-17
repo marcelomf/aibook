@@ -2,7 +2,7 @@
 
 A Lógica Paraconsistente Anotada (LPA) e a Lógica de Priest (LP) são dois dos principais sistemas paraconsistentes desenvolvidos para lidar com contradições de maneira controlada. Embora ambos permitam a manipulação de informações contraditórias sem que o sistema lógico se torne trivial, eles diferem significativamente em sua estrutura formal, especialmente na definição e no comportamento de seus operadores lógicos. A seguir, apresentamos uma comparação detalhada dos operadores lógicos utilizados em cada sistema.
 
----
+
 
 ## 1. Operadores Lógicos na Lógica Paraconsistente Anotada (LPA)
 
@@ -27,7 +27,7 @@ A LPA, especialmente em sua versão mais conhecida (LPA-𝔖), foi desenvolvida 
 
 - **LPA:** A implicação é mais complexa e pode variar conforme a versão da LPA, mas geralmente envolve relações entre as anotações das proposições envolvidas, levando em conta a consistência e a evidência.
 
----
+
 
 ## 2. Operadores Lógicos na Lógica de Priest (LP)
 
@@ -64,18 +64,18 @@ A Lógica de Priest, também conhecida como **Lógica Paraconsistente de Três V
 
 - **LP:** A implicação é definida de modo que apenas F → V = V, F → F = V, F → B = V, V → V = V, V → F = F, V → B = B, B → V = V, B → F = B, B → B = B.
 
----
+
 
 ## 3. Comparação Direta dos Operadores
 
 | Operador | LPA | LP |
-|----------|-----|----|
+|-|--|-|
 | **Negaçao (¬)** | Inverte evidências favorável/contrária: (μ, λ) → (λ, μ) | V ↔ F, B permanece B |
 | **Conjunção (∧)** | (min(μ₁, μ₂), max(λ₁, λ₂)) | Tabela de três valores, B propaga contradição |
 | **Disjunção (∨)** | (max(μ₁, μ₂), min(λ₁, λ₂)) | Tabela de três valores, V domina |
 | **Implicação (→)** | Depende das anotações e da consistência | Tabela de três valores, B propaga incerteza |
 
----
+
 
 ## 4. Considerações Finais
 
@@ -83,7 +83,7 @@ A Lógica de Priest, também conhecida como **Lógica Paraconsistente de Três V
 - **LP** é mais simples e adequada para raciocínio formal sobre contradições, especialmente em contextos filosóficos e teóricos.
 - Em ambos os sistemas, os operadores lógicos são adaptados para evitar a explosão lógica (ou trivialidade), permitindo que contradições sejam tratadas de forma controlada e útil.
 
----
+
 
 ## Referências
 
@@ -91,7 +91,7 @@ A Lógica de Priest, também conhecida como **Lógica Paraconsistente de Três V
 - Priest, G. (1979). The Logic of Paradox. Journal of Philosophical Logic, 8(1), 219–241.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. In Frontiers of Paraconsistent Logic.
 
----
+
 
 **Resumo:**  
 A comparação dos operadores lógicos em LPA e LP revela abordagens distintas para o tratamento de contradições: enquanto a LPA utiliza anotações para quantificar evidências e adapta os operadores para manipular essas informações, a LP adota uma abordagem qualitativa baseada em três valores de verdade, com operadores definidos por tabelas de verdade específicas. Ambas as lógicas são fundamentais para o avanço do raciocínio não clássico e para aplicações que exigem tolerância a inconsistências.

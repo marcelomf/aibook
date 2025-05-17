@@ -45,6 +45,6 @@ A colaboração internacional tem sido fundamental para o avanço da lógica par
 
 Os projetos colaborativos internacionais em lógica paraconsistente têm impulsionado a pesquisa e a inovação, ampliando as fronteiras do conhecimento e das aplicações práticas. Participar dessas redes é uma excelente oportunidade para quem deseja contribuir ativamente para o desenvolvimento da área, além de ampliar sua formação acadêmica e profissional em um contexto globalizado.
 
----
+
 *Para mais informações sobre grupos de pesquisa, eventos e oportunidades de colaboração, consulte as páginas oficiais das instituições e mantenha-se atento aos editais de financiamento e chamadas para eventos internacionais.*
-```
+

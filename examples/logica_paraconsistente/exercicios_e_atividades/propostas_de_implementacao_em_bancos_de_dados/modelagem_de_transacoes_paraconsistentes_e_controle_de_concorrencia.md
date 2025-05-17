@@ -55,7 +55,7 @@ Alguns sistemas de bancos de dados e frameworks já exploram conceitos próximos
 
 **Desafio:** Modele um esquema simples de banco de dados paraconsistente para um sistema de cadastro de clientes, permitindo que diferentes fontes possam inserir informações contraditórias (por exemplo, diferentes endereços para o mesmo cliente). Implemente um mecanismo de anotação das fontes e um procedimento para consulta que destaque as contradições encontradas.
 
----
+
 
 A modelagem de transações paraconsistentes e o controle de concorrência baseado em lógica paraconsistente representam uma evolução significativa para bancos de dados em ambientes complexos e dinâmicos. Ao permitir o tratamento explícito de contradições, esses sistemas ampliam as possibilidades de integração, análise e tomada de decisão em cenários do mundo real.
-```
+

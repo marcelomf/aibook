@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente surge como uma alternativa poderosa à lógica clássica, especialmente em contextos onde a presença de contradições é inevitável ou frequente. Embora cada abordagem lógica possua suas vantagens e limitações, há cenários práticos em que as vantagens da lógica paraconsistente superam claramente suas restrições, tornando-a a escolha mais adequada. A seguir, apresentamos exemplos concretos dessas situações, destacando como a adoção da lógica paraconsistente pode trazer benefícios significativos.
 
----
+
 
 ## 1. **Gestão de Bancos de Dados Inconsistentes**
 
@@ -16,7 +16,7 @@ A lógica clássica não tolera contradições: uma vez detectada uma inconsist�
 ### **Superando Limitações**
 Embora a lógica paraconsistente possa ser mais complexa de implementar e exigir maior poder computacional, sua capacidade de manter o funcionamento do sistema diante de inconsistências supera essas limitações, especialmente em ambientes críticos onde a disponibilidade e a continuidade do serviço são essenciais.
 
----
+
 
 ## 2. **Inteligência Artificial e Sistemas de Tomada de Decisão**
 
@@ -29,7 +29,7 @@ A lógica paraconsistente permite que o sistema processe e avalie informações 
 ### **Superando Limitações**
 Apesar de exigir modelagem lógica mais sofisticada, a capacidade de lidar com incertezas e contradições torna a lógica paraconsistente indispensável em aplicações onde a falha em processar informações conflitantes pode levar a decisões erradas ou à paralisação do sistema.
 
----
+
 
 ## 3. **Resolução de Conflitos em Informações Jurídicas e Filosóficas**
 
@@ -42,7 +42,7 @@ A lógica paraconsistente permite analisar e debater argumentos contraditórios 
 ### **Superando Limitações**
 Embora a análise paraconsistente possa ser mais trabalhosa, ela oferece uma abordagem mais realista e flexível para lidar com a complexidade do raciocínio humano, superando a limitação da lógica clássica de rejeitar qualquer sistema com contradições.
 
----
+
 
 ## 4. **Diagnóstico em Engenharia e Medicina**
 
@@ -55,9 +55,9 @@ A lógica paraconsistente permite que o diagnóstico avance mesmo diante de dado
 ### **Superando Limitações**
 Apesar de exigir maior cuidado na interpretação dos resultados, a abordagem paraconsistente aumenta a resiliência do processo diagnóstico, reduzindo o risco de decisões baseadas em exclusão prematura de dados.
 
----
+
 
 ## **Conclusão**
 
 Em todos esses exemplos, as vantagens da lógica paraconsistente — especialmente sua tolerância a contradições e sua capacidade de manter a operacionalidade do sistema — superam as limitações relacionadas à complexidade e ao custo computacional. Em contextos onde a informação é incerta, incompleta ou contraditória, a lógica paraconsistente se mostra não apenas útil, mas muitas vezes indispensável para garantir resultados confiáveis e decisões fundamentadas.
-```
+

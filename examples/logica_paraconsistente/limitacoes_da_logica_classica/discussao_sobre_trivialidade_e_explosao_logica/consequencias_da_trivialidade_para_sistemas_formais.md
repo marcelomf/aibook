@@ -48,9 +48,9 @@ Devido a essas consequências, surgiram lógicas alternativas, como a **lógica 
 
 A trivialidade representa uma limitação fundamental dos sistemas formais baseados na lógica clássica. Suas consequências — perda de confiabilidade, inutilidade prática, impossibilidade de diagnóstico de erros e limitações epistemológicas — motivaram o desenvolvimento de lógicas não clássicas, como a lógica paraconsistente, que buscam oferecer ferramentas mais robustas para o raciocínio em contextos reais, onde contradições são inevitáveis.
 
----
+
 **Referências:**
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

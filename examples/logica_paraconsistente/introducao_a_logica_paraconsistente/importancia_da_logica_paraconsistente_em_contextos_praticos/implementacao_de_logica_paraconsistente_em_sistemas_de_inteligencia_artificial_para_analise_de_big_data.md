@@ -5,7 +5,7 @@ A crescente disponibilidade de grandes volumes de dados — o chamado **Big Data
 
 A **lógica paraconsistente** surge como uma solução robusta para esse problema, permitindo que sistemas de inteligência artificial (IA) processem e analisem dados contraditórios de forma controlada, sem perder a capacidade de raciocínio útil. A seguir, discutimos como a lógica paraconsistente pode ser implementada em sistemas de IA para análise de Big Data, destacando benefícios, desafios e exemplos práticos.
 
----
+___
 
 ## 1. Por que usar lógica paraconsistente em Big Data?
 
@@ -13,7 +13,7 @@ A **lógica paraconsistente** surge como uma solução robusta para esse problem
 - **Raciocínio não trivial:** Ao contrário da lógica clássica, que colapsa diante de uma contradição, a lógica paraconsistente mantém a capacidade de inferir conclusões úteis, isolando e tratando inconsistências localmente.
 - **Flexibilidade e adaptabilidade:** Sistemas baseados em lógica paraconsistente podem adaptar suas decisões conforme novas informações (inclusive contraditórias) são incorporadas, tornando-se mais resilientes em ambientes dinâmicos.
 
----
+___
 
 ## 2. Como implementar lógica paraconsistente em IA para Big Data
 
@@ -37,7 +37,7 @@ Os sistemas mais utilizados incluem:
 - **Sistemas especialistas:** Regras de produção podem ser enriquecidas com operadores paraconsistentes, permitindo decisões mesmo diante de informações conflitantes.
 - **Processamento de linguagem natural:** A análise de textos pode se beneficiar da lógica paraconsistente para lidar com ambiguidades e contradições em grandes volumes de documentos.
 
----
+___
 
 ## 3. Exemplos práticos
 
@@ -45,7 +45,7 @@ Os sistemas mais utilizados incluem:
 - **Saúde e medicina:** Prontuários eletrônicos frequentemente contêm informações conflitantes de diferentes profissionais. Sistemas baseados em lógica paraconsistente podem sugerir diagnósticos ou tratamentos considerando todas as evidências, mesmo as contraditórias.
 - **Monitoramento de redes sociais:** A análise de opiniões e notícias em tempo real pode envolver dados inconsistentes. A lógica paraconsistente permite identificar tendências e padrões sem ser prejudicada por contradições pontuais.
 
----
+___
 
 ## 4. Desafios e perspectivas
 
@@ -57,11 +57,10 @@ Apesar dos avanços, a implementação de lógica paraconsistente em sistemas de
 
 No entanto, a tendência é que, com o avanço das pesquisas e o aumento da demanda por sistemas tolerantes à inconsistência, a lógica paraconsistente se torne cada vez mais integrada às soluções de IA para análise de grandes volumes de dados.
 
----
+___
 
 ## 5. Conclusão
 
 A lógica paraconsistente representa uma poderosa ferramenta para a análise de Big Data em sistemas de inteligência artificial, permitindo lidar de forma eficaz com contradições e incertezas inerentes a ambientes complexos e dinâmicos. Sua implementação, embora desafiadora, abre novas possibilidades para o desenvolvimento de sistemas mais robustos, flexíveis e confiáveis, capazes de extrair valor mesmo de dados imperfeitos ou conflitantes.
 
----
-```
+

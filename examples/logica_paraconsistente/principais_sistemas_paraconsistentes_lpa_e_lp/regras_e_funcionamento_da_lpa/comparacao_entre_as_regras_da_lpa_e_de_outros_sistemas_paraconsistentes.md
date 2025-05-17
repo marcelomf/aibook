@@ -46,7 +46,7 @@ A Lógica C1, também desenvolvida por Newton da Costa, introduz um operador de 
 ## 5. Comparação das Regras
 
 | Sistema                | Explosão | Graus de Evidência | Operadores Especiais | Relevância | Aplicações Típicas                |
-|------------------------|----------|--------------------|----------------------|------------|-----------------------------------|
+||-|--|-||--|
 | **LPA**                | Não      | Sim                | Sim (certeza, contradição) | Não        | Bancos de dados, IA, decisão      |
 | **LP (Priest)**        | Não      | Não                | Não                 | Não        | Filosofia, teoria da verdade      |
 | **Lógica Relevante**   | Não      | Não                | Não                 | Sim        | Argumentação, análise de textos   |
@@ -62,10 +62,10 @@ A Lógica C1, também desenvolvida por Newton da Costa, introduz um operador de 
 
 A LPA se destaca entre os sistemas paraconsistentes por sua capacidade de lidar com diferentes graus de evidência, oferecendo uma abordagem mais flexível e detalhada para o tratamento de informações contraditórias. Outros sistemas, como LP, Lógica Relevante e C1, também evitam a explosão, mas diferem nas regras de inferência e nos mecanismos para lidar com contradições. A escolha do sistema mais adequado depende do contexto e das necessidades específicas da aplicação.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction"
 - Walter Carnielli e João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

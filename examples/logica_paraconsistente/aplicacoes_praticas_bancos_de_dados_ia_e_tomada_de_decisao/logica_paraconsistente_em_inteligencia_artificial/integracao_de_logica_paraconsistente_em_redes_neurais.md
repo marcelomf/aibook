@@ -63,7 +63,7 @@ No entanto, o potencial dessa integração é significativo, especialmente à me
 - **da Costa, N. C. A., & French, S. (2003).** *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - **Carnielli, W. A., & Coniglio, M. E. (2016).** *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+___
 
 A integração da lógica paraconsistente em redes neurais representa um avanço importante para a construção de sistemas de IA mais flexíveis, interpretáveis e robustos diante das incertezas e contradições do mundo real.
-```
+

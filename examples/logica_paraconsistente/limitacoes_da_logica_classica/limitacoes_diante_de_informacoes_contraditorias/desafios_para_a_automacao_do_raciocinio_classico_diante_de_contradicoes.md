@@ -65,7 +65,7 @@ Devido a essas limitações, surgiram abordagens alternativas, como a **lógica 
 
 A automação do raciocínio baseada em lógica clássica enfrenta desafios fundamentais diante de contradições, tanto do ponto de vista teórico quanto prático. A incapacidade de tolerar inconsistências limita a aplicabilidade da lógica clássica em ambientes reais, motivando o desenvolvimento de sistemas lógicos alternativos, como a lógica paraconsistente, que são mais adequados para lidar com a complexidade e a imperfeição inerentes à informação do mundo real.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.  

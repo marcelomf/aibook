@@ -75,4 +75,4 @@ A implementação da Lógica de Priest em sistemas de controle de qualidade indu
 **Sugestão de leitura complementar:**  
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287–393). Springer.
 - Batens, D. (2007). Adaptive Logics and Dynamic Proofs. *Logic Journal of the IGPL*, 15(4), 295–308.
-```
+

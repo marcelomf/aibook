@@ -53,4 +53,4 @@ A escolha entre LPA e LP deve considerar as necessidades específicas da aplica�
 - **LP** é indicada para aplicações que exigem apenas a tolerância à contradição, com menor complexidade e maior eficiência computacional.
 
 Em resumo, as diferenças entre LPA e LP impactam diretamente a forma como sistemas computacionais e humanos lidam com informações contraditórias, influenciando desde a modelagem dos dados até a tomada de decisões práticas em ambientes reais.
-```
+

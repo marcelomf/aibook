@@ -22,7 +22,7 @@ A **LPA** utiliza anotações para representar diferentes graus de certeza e con
 #### Exemplo de Tabela Verdade para a Negação na LPA
 
 | $A$ | $\neg A$ |
-|-----|----------|
+|--|-|
 | V   | F        |
 | F   | V        |
 | T   | T        |
@@ -35,7 +35,7 @@ A **LPA** utiliza anotações para representar diferentes graus de certeza e con
 #### Exemplo de Tabela Verdade para a Conjunção na LPA
 
 | $A$ | $B$ | $A \land B$ |
-|-----|-----|-------------|
+|--|--|-|
 | V   | V   | V           |
 | V   | F   | F           |
 | V   | T   | T           |
@@ -62,7 +62,7 @@ A **LP** (também chamada de lógica da paraconsistência de Priest) é uma lóg
 #### Exemplo de Tabela Verdade para a Negação na LP
 
 | $A$ | $\neg A$ |
-|-----|----------|
+|--|-|
 | V   | F        |
 | F   | V        |
 | B   | B        |
@@ -73,7 +73,7 @@ A **LP** (também chamada de lógica da paraconsistência de Priest) é uma lóg
 #### Exemplo de Tabela Verdade para a Disjunção na LP
 
 | $A$ | $B$ | $A \lor B$ |
-|-----|-----|------------|
+|--|--||
 | V   | V   | V          |
 | V   | F   | V          |
 | V   | B   | V          |
@@ -119,13 +119,13 @@ Qual o valor de $A \land B$ e $\neg (A \lor B)$?
 
 A análise de tabelas verdade em sistemas paraconsistentes como LPA e LP é essencial para compreender como essas lógicas tratam contradições de forma controlada. Ao interpretar corretamente os resultados, é possível aplicar essas lógicas em contextos reais, garantindo robustez e flexibilidade diante de informações inconsistentes.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 
----
+
 
 **Exercício para o leitor:**  
 Monte a tabela verdade da implicação ($A \rightarrow B$) na LP e analise como o valor B (ambos) afeta o resultado.

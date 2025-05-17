@@ -35,7 +35,7 @@ A Web Semântica e a integração de dados de múltiplas fontes (data fusion) en
 
 Na área de segurança da informação, a análise de logs e eventos pode gerar informações contraditórias sobre o estado de um sistema ou a ocorrência de incidentes. A lógica paraconsistente permite que sistemas de detecção de intrusos e análise forense tratem essas contradições de forma controlada, evitando falsos positivos ou negativos decorrentes de inconsistências nos dados.
 
----
+___
 
 Em resumo, as motivações práticas para o uso da lógica paraconsistente em ciência da computação são vastas e crescentes. Ela oferece uma abordagem flexível e poderosa para o tratamento de inconsistências, tornando-se indispensável em aplicações modernas que exigem robustez, confiabilidade e adaptabilidade diante de informações imperfeitas ou contraditórias.
-```
+

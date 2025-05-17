@@ -16,7 +16,7 @@ Na lógica clássica, a presença de uma contradição (por exemplo, um registro
 Considere um banco de dados de clientes com as seguintes informações provenientes de diferentes fontes:
 
 | Cliente | Fonte A (Status) | Fonte B (Status) |
-|---------|------------------|------------------|
+|_________|__________________|__________________|
 | João    | Ativo            | Inativo          |
 
 Na lógica clássica, a consulta "João está ativo?" não pode ser respondida de forma consistente. Na lógica paraconsistente, podemos anotar a proposição "João está ativo" com evidências a favor (Fonte A) e contra (Fonte B), reconhecendo explicitamente o conflito.
@@ -47,4 +47,4 @@ A presença de ambos os valores em 1 indica um conflito máximo, que pode ser id
 A aplicação da lógica paraconsistente na identificação de conflitos em bancos de dados representa um avanço significativo em relação às abordagens tradicionais. Ao permitir a representação e o tratamento explícito de inconsistências, essa abordagem contribui para a robustez, transparência e confiabilidade dos sistemas de informação, especialmente em contextos onde a integração de múltiplas fontes é inevitável.
 
 Para aprofundar-se no tema, recomenda-se a leitura de trabalhos sobre Lógica Paraconsistente Anotada, integração de dados e sistemas tolerantes a inconsistências, além da experimentação prática com ferramentas que implementam tais conceitos.
-```
+

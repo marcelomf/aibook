@@ -34,9 +34,9 @@ A interoperabilidade pode aumentar a complexidade computacional, pois requer mec
 
 A falta de interoperabilidade fluida pode desencorajar a adoção de sistemas paraconsistentes em ambientes onde a integração com sistemas legados é essencial. Além disso, a manutenção de interfaces e tradutores entre diferentes paradigmas lógicos pode demandar recursos especializados e aumentar o custo operacional.
 
----
+___
 
 ### Considerações Finais
 
 Apesar dos avanços teóricos e práticos da lógica paraconsistente, a interoperabilidade com sistemas tradicionais permanece um desafio relevante. Superar essas limitações requer esforços em padronização, desenvolvimento de ferramentas de tradução semântica e pesquisa em métodos híbridos que conciliem as vantagens de ambos os paradigmas. O entendimento dessas limitações é fundamental para projetar soluções robustas e eficientes em ambientes heterogêneos, onde a convivência de múltiplos sistemas lógicos é uma realidade cada vez mais comum.
-```
+

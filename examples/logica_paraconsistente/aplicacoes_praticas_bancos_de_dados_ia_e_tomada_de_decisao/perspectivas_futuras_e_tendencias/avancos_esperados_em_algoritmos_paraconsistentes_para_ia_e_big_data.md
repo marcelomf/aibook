@@ -67,8 +67,8 @@ Apesar dos avanços, ainda existem desafios a serem superados, como:
 
 Os avanços esperados em algoritmos paraconsistentes para IA e Big Data prometem transformar a forma como lidamos com informações contraditórias e incertas. A integração dessas técnicas com aprendizado de máquina, o desenvolvimento de soluções escaláveis e a aplicação em áreas como PLN e sistemas autônomos são tendências que devem ganhar força nos próximos anos. À medida que novas ferramentas e padrões são desenvolvidos, a lógica paraconsistente tende a se consolidar como um componente essencial para a próxima geração de sistemas inteligentes e resilientes.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
-```
+

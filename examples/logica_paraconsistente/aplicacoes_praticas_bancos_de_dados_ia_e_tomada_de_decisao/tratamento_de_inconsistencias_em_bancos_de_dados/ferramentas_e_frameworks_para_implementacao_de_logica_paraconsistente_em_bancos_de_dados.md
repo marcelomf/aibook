@@ -2,7 +2,7 @@
 
 A crescente complexidade dos sistemas de informação e a necessidade de lidar com dados contraditórios ou incompletos têm impulsionado o desenvolvimento de abordagens não clássicas para o gerenciamento de bancos de dados. A lógica paraconsistente, ao permitir o tratamento controlado de inconsistências sem comprometer a integridade do sistema, tornou-se uma alternativa promissora. Neste contexto, diversas ferramentas e frameworks têm sido desenvolvidos para incorporar princípios paraconsistentes em bancos de dados relacionais, NoSQL e sistemas de tomada de decisão. A seguir, apresentamos um panorama das principais soluções disponíveis, suas características e aplicações.
 
----
+___
 
 ## 1. Bancos de Dados Paraconsistentes
 
@@ -22,7 +22,7 @@ Alguns projetos propõem extensões para linguagens de consulta, como SQL, para 
   - **Paraconsistent SQL:** Propostas acadêmicas sugerem a inclusão de operadores como `IS CONTRADICTORY` ou funções de anotação de tuplas, facilitando a identificação e manipulação de dados inconsistentes.
   - **NoSQL:** Bancos de dados NoSQL, como MongoDB e Cassandra, podem ser adaptados para armazenar metadados paraconsistentes, utilizando campos adicionais para anotações de inconsistência.
 
----
+___
 
 ## 2. Frameworks e Bibliotecas
 
@@ -41,13 +41,13 @@ Frameworks de sistemas especialistas, como **Drools** (Java) e **CLIPS** (C), po
 - **Exemplo:**  
   - **Paraconsistent Drools:** Extensões experimentais do Drools para suportar regras paraconsistentes, permitindo a definição de políticas para tratamento de conflitos em bases de conhecimento.
 
----
+___
 
 ## 3. Ferramentas de Visualização e Auditoria de Inconsistências
 
 Ferramentas de visualização de dados, como **Tableau** e **Power BI**, podem ser integradas a bancos de dados paraconsistentes para exibir não apenas os dados, mas também indicadores de inconsistência e contradição. Plugins e scripts personalizados podem ser desenvolvidos para destacar registros problemáticos e sugerir ações corretivas.
 
----
+___
 
 ## 4. Plataformas Acadêmicas e Protótipos
 
@@ -56,13 +56,13 @@ Diversos grupos de pesquisa mantêm protótipos e plataformas experimentais para
 - **Paraconsistent Database Prototype (USP):** Protótipo desenvolvido no Instituto de Ciências Matemáticas e de Computação da USP, focado em consultas paraconsistentes e visualização de inconsistências.
 - **Lógica Paraconsistente em Prolog:** Implementações de sistemas de consulta paraconsistente utilizando Prolog, facilitando experimentos e ensino.
 
----
+___
 
 ## 5. Integração com Inteligência Artificial
 
 A lógica paraconsistente tem sido integrada a frameworks de IA para tratamento de dados contraditórios em aprendizado de máquina e sistemas de recomendação. Bibliotecas como **Scikit-learn** (Python) podem ser estendidas com módulos de pré-processamento paraconsistente, auxiliando na robustez dos modelos diante de dados inconsistentes.
 
----
+___
 
 ## 6. Considerações Finais
 
@@ -74,7 +74,7 @@ Embora ainda não existam soluções comerciais amplamente difundidas, o campo d
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logic programming.**
 - **Repositórios GitHub:** Pesquise por "paraconsistent logic database" para encontrar projetos experimentais e bibliotecas.
 
----
+___
 
 **Resumo:**  
 A implementação da lógica paraconsistente em bancos de dados é um campo em desenvolvimento, com diversas ferramentas acadêmicas, bibliotecas e frameworks experimentais disponíveis. A tendência é que, com o aumento da complexidade dos dados e a necessidade de sistemas mais tolerantes a inconsistências, essas soluções se tornem cada vez mais relevantes e integradas ao ecossistema de bancos de dados e inteligência artificial.

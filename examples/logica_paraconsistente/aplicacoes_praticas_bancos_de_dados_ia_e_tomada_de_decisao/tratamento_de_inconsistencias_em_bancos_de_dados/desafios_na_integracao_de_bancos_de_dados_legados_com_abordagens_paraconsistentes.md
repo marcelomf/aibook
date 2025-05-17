@@ -66,4 +66,4 @@ Apesar das dificuldades, algumas estratégias podem facilitar a integração de 
 A integração de bancos de dados legados com abordagens paraconsistentes representa um avanço significativo na capacidade de lidar com informações contraditórias, ampliando a robustez e a utilidade dos sistemas de informação. No entanto, exige uma abordagem multidisciplinar, envolvendo aspectos técnicos, organizacionais e conceituais. O sucesso depende do planejamento cuidadoso, da escolha adequada de ferramentas e modelos, e do engajamento das equipes envolvidas.
 
 A lógica paraconsistente, ao permitir a convivência controlada de contradições, abre novas possibilidades para a integração e análise de dados em ambientes complexos e dinâmicos, tornando-se uma ferramenta valiosa para a evolução dos sistemas de informação contemporâneos.
-```
+

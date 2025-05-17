@@ -25,7 +25,7 @@ Estudos de caso também servem como ponto de partida para novas pesquisas e inov
 
 Por fim, a utilização de estudos de caso promove uma aprendizagem ativa, na qual o leitor é convidado a participar do processo de resolução de problemas, em vez de apenas absorver informações passivamente. Esse engajamento aumenta a retenção do conhecimento e prepara o indivíduo para enfrentar desafios reais em sua trajetória acadêmica e profissional.
 
----
+___
 
 Em resumo, os estudos de caso são ferramentas indispensáveis para a compreensão prática da Lógica Paraconsistente. Eles não apenas ilustram a aplicabilidade dos conceitos teóricos, mas também desenvolvem competências essenciais, validam a utilidade da lógica em contextos reais e fomentam a inovação. Por isso, a análise detalhada de casos concretos é parte central do aprendizado e do avanço na área da lógica paraconsistente.
-```
+

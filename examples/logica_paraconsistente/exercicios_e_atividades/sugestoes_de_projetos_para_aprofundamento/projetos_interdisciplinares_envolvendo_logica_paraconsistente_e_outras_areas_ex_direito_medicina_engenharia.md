@@ -48,14 +48,14 @@ Projetos interdisciplinares envolvendo lógica paraconsistente promovem inovaç�
 
 **Sugestão:** Para iniciar um projeto interdisciplinar, recomenda-se formar equipes multidisciplinares, identificar problemas reais que envolvam contradições e buscar parcerias com especialistas em lógica, ciência da computação e a área de aplicação escolhida.
 
----
+
 
 **Leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.  
 - Prieto, A. (2019). *Lógica Paraconsistente e suas Aplicações*. Editora UFSC.
 
----
+
 
 **Exercício sugerido:**  
 Escolha uma área de interesse e elabore um esboço de projeto interdisciplinar que utilize lógica paraconsistente para resolver um problema real envolvendo informações contraditórias. Descreva os objetivos, a equipe necessária e os resultados esperados.

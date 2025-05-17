@@ -32,7 +32,7 @@ A lógica paraconsistente foi desenvolvida justamente para permitir o raciocíni
 Considere um banco de dados com as seguintes informações sobre um produto:
 
 | Produto | Em Estoque | Fora de Estoque |
-|---------|------------|----------------|
+|||-|
 | X       | Sim        | Sim            |
 
 Na lógica clássica, essa contradição inviabilizaria qualquer inferência segura sobre o produto X. Já na lógica paraconsistente, é possível responder a consultas de forma mais informativa:
@@ -45,7 +45,7 @@ Além disso, sistemas baseados em lógica paraconsistente podem atribuir graus d
 ## 4. Comparação de Resultados
 
 | Aspecto                        | Lógica Clássica                        | Lógica Paraconsistente                |
-|--------------------------------|----------------------------------------|---------------------------------------|
+|--|-||
 | **Tratamento de Contradições** | Não tolera; pode levar à explosão      | Tolera; controla e isola contradições |
 | **Respostas a Consultas**      | Pode rejeitar ou omitir resultados     | Fornece respostas qualificadas        |
 | **Perda de Informação**        | Possível ao descartar dados conflitantes| Minimizada; informações são preservadas|
@@ -69,10 +69,10 @@ Além disso, sistemas baseados em lógica paraconsistente podem atribuir graus d
 
 A lógica paraconsistente oferece uma abordagem inovadora e eficaz para o tratamento de inconsistências em bancos de dados, permitindo que sistemas continuem operando e fornecendo informações úteis mesmo diante de contradições. Ao comparar com a lógica clássica, fica claro que a paraconsistência amplia as possibilidades de análise e tomada de decisão em ambientes complexos, tornando-se uma ferramenta essencial para aplicações modernas em ciência da computação, inteligência artificial e gestão de dados.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 
-```
+

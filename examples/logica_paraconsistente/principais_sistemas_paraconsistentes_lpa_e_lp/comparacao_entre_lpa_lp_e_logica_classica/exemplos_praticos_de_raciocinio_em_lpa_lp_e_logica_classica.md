@@ -3,7 +3,7 @@
 
 A compreensão das diferenças entre a Lógica Paraconsistente Anotada (LPA), a Lógica de Priest (LP) e a lógica clássica é fundamental para entender como cada sistema lida com contradições e inconsistências. A seguir, apresentamos exemplos práticos que ilustram o raciocínio em cada uma dessas lógicas, destacando suas abordagens diante de informações contraditórias.
 
----
+
 
 ## 1. Lógica Clássica
 
@@ -23,7 +23,7 @@ Se, em um banco de dados, encontramos as duas informações simultaneamente (A e
 **Consequência:**  
 O sistema perde a capacidade de raciocinar de forma útil, pois qualquer conclusão pode ser considerada verdadeira.
 
----
+
 
 ## 2. Lógica Paraconsistente Anotada (LPA)
 
@@ -51,7 +51,7 @@ Esses valores podem ser obtidos de diferentes fontes de informação (sensores, 
 **Consequência:**  
 O sistema pode, por exemplo, emitir um alerta de inconsistência, mas não deduz que qualquer proposição é verdadeira. O raciocínio é mantido de forma controlada.
 
----
+
 
 ## 3. Lógica de Priest (LP)
 
@@ -74,17 +74,17 @@ Na LP, é possível que ambas sejam verdadeiras em um mesmo mundo (ou contexto),
 **Consequência:**  
 A LP permite trabalhar com contradições localizadas, sem comprometer todo o sistema de inferência.
 
----
+
 
 ## 4. Comparação Prática
 
 | Situação                        | Lógica Clássica         | LPA                                   | LP                                   |
-|----------------------------------|------------------------|----------------------------------------|--------------------------------------|
+|-||-|--|
 | A e ¬A são verdadeiras           | Explosão (trivialidade)| Contradição controlada, raciocínio possível | Contradição permitida, sem explosão  |
 | Decisão diante da contradição    | Impossível             | Sinaliza inconsistência, busca mais dados | Reconhece contradição, limita inferências |
 | Aplicação típica                 | Sistemas sem inconsistências | Bancos de dados, IA, sistemas de decisão | Filosofia, teoria da verdade, IA     |
 
----
+
 
 ## 5. Exemplo Integrado: Diagnóstico em Sistemas de Saúde
 
@@ -107,11 +107,10 @@ Imagine um sistema de apoio à decisão médica que recebe informações de múl
 - Aceita que ambas as informações sejam verdadeiras.
 - Permite continuar o raciocínio, mas restringe as conclusões para evitar deduções inválidas.
 
----
+
 
 ## 6. Conclusão
 
 Os exemplos práticos mostram que, enquanto a lógica clássica é adequada para contextos livres de contradições, a LPA e a LP oferecem ferramentas robustas para lidar com inconsistências de forma controlada e útil. Isso é especialmente relevante em aplicações modernas, como bancos de dados, inteligência artificial e sistemas de apoio à decisão, onde informações contraditórias são frequentes e não podem ser simplesmente descartadas.
 
----
-```
+

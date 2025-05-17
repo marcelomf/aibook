@@ -3,7 +3,7 @@
 
 A análise de dados contraditórios é um dos campos mais promissores para a aplicação da Lógica Paraconsistente, especialmente em contextos empresariais e científicos, onde a integridade e a consistência dos dados são frequentemente desafiadas por erros de entrada, integrações de múltiplas fontes ou atualizações concorrentes. A seguir, apresentamos sugestões de projetos e estudos de caso que podem ser desenvolvidos para aprofundar o entendimento e a aplicação prática da lógica paraconsistente na análise de dados contraditórios.
 
----
+
 
 ## 1. **Detecção e Tratamento de Inconsistências em Bancos de Dados Empresariais**
 
@@ -21,7 +21,7 @@ Desenvolva um sistema que utilize lógica paraconsistente para identificar, clas
 3. Comparação dos resultados com métodos tradicionais de limpeza de dados.
 4. Elaboração de relatório com recomendações para integração em sistemas empresariais.
 
----
+
 
 ## 2. **Fusão de Dados Científicos de Múltiplas Fontes**
 
@@ -39,7 +39,7 @@ Projetar um estudo de caso em que dados científicos provenientes de diferentes 
 3. Modelagem dos conflitos utilizando lógica paraconsistente.
 4. Análise dos resultados e discussão sobre a robustez das conclusões obtidas.
 
----
+
 
 ## 3. **Monitoramento de Dados em Tempo Real com Contradições**
 
@@ -56,7 +56,7 @@ Desenvolver um sistema de monitoramento em tempo real (ex: sensores industriais,
 2. Implementação de um módulo de análise paraconsistente para tratamento dos dados.
 3. Testes de desempenho e análise de casos em que a abordagem paraconsistente supera métodos tradicionais.
 
----
+
 
 ## 4. **Auditoria de Dados Históricos com Contradições**
 
@@ -74,7 +74,7 @@ Realizar uma auditoria em bancos de dados históricos (ex: registros médicos, h
 3. Aplicação de técnicas paraconsistentes para tratamento e reconciliação dos dados.
 4. Elaboração de recomendações para prevenção de futuras inconsistências.
 
----
+
 
 ## 5. **Desenvolvimento de Ferramentas de Visualização de Contradições**
 
@@ -92,7 +92,7 @@ Criar ferramentas de visualização que permitam aos usuários identificar rapid
 3. Testes de usabilidade com usuários reais ou simulados.
 4. Avaliação do impacto na eficiência da análise de dados contraditórios.
 
----
+
 
 ## Referências para Aprofundamento
 
@@ -101,7 +101,7 @@ Criar ferramentas de visualização que permitam aos usuários identificar rapid
 - **Carnielli, W. A., Coniglio, M. E. (2016).** Paraconsistent Logic: Consistency, Contradiction and Negation. *Springer*.
 - **Priest, G. (2002).** Paraconsistent Logic. In *Handbook of Philosophical Logic*.
 
----
+
 
 Esses projetos proporcionam oportunidades práticas para aplicar e aprofundar os conceitos de lógica paraconsistente, promovendo avanços tanto na teoria quanto na prática da análise de dados contraditórios em ambientes empresariais e científicos.
-```
+

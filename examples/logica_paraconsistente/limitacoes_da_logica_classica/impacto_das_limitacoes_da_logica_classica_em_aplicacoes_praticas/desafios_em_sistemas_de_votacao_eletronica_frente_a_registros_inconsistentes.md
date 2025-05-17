@@ -48,8 +48,8 @@ Diante desses desafios, pesquisadores têm explorado abordagens baseadas em lóg
 
 A robustez dos sistemas de votação eletrônica depende, em grande parte, da capacidade de lidar com registros inconsistentes de maneira transparente e confiável. As limitações da lógica clássica evidenciam a necessidade de novas abordagens, como a lógica paraconsistente, que oferecem ferramentas mais adequadas para enfrentar os desafios do mundo real, onde a inconsistência é, muitas vezes, inevitável. A adoção dessas abordagens pode aumentar a segurança, a transparência e a confiança nos processos eleitorais, contribuindo para a legitimidade das democracias modernas.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Subrahmanian, V. S. (1994). *Paraconsistent Database Systems*. Cambridge University Press.
-```
+

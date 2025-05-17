@@ -70,5 +70,4 @@ A aplicação da lógica paraconsistente em sistemas de banco de dados represent
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa e Walter Carnielli  
 - "Paraconsistent Databases" – Leopoldo Bertossi, Jan Chomicki, et al.
 
----
-```
+

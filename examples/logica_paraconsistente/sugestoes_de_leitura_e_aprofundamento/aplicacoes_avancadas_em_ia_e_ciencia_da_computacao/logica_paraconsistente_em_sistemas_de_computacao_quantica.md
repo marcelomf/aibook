@@ -47,5 +47,4 @@ Além disso, há investigações sobre a implementação de **circuitos lógicos
 
 A lógica paraconsistente oferece um arcabouço teórico robusto para enfrentar os desafios lógicos da computação quântica, promovendo avanços em áreas como verificação formal, tolerância a falhas e inteligência artificial quântica. À medida que a tecnologia quântica evolui, a integração de lógicas não clássicas, como a paraconsistente, será cada vez mais fundamental para o desenvolvimento de sistemas computacionais inovadores, resilientes e capazes de lidar com a complexidade do mundo quântico.
 
----
-```
+

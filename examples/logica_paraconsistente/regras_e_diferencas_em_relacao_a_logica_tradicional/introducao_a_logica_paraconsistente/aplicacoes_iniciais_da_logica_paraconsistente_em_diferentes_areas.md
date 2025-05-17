@@ -3,7 +3,7 @@
 
 A lógica paraconsistente surgiu como resposta à necessidade de lidar com contradições de maneira controlada, sem que todo o sistema lógico se tornasse trivial. Desde sua concepção, pesquisadores perceberam o potencial dessa abordagem para resolver problemas práticos em diversas áreas do conhecimento, especialmente onde a inconsistência de informações é inevitável ou recorrente. A seguir, destacam-se algumas das aplicações iniciais mais relevantes da lógica paraconsistente em diferentes domínios.
 
----
+
 
 ## 1. Bancos de Dados e Sistemas de Informação
 
@@ -14,7 +14,7 @@ A lógica paraconsistente permite que bancos de dados operem mesmo diante de inc
 - **Integração de dados heterogêneos**: quando diferentes bancos de dados são integrados, podem surgir conflitos de informação.
 - **Sistemas de apoio à decisão**: onde informações incompletas ou contraditórias precisam ser consideradas até que sejam resolvidas.
 
----
+
 
 ## 2. Inteligência Artificial e Sistemas Especialistas
 
@@ -27,7 +27,7 @@ Aplicações iniciais incluem:
 
 A lógica paraconsistente permite que esses sistemas mantenham a capacidade de raciocínio e tomada de decisão, mesmo diante de contradições temporárias.
 
----
+
 
 ## 3. Resolução de Conflitos e Tomada de Decisão
 
@@ -38,7 +38,7 @@ Em áreas como **administração, direito e ciências sociais**, a lógica parac
 
 A abordagem paraconsistente permite analisar e ponderar as informações conflitantes, sem descartar automaticamente nenhuma delas, promovendo decisões mais robustas e fundamentadas.
 
----
+
 
 ## 4. Engenharia do Conhecimento e Representação Formal
 
@@ -47,17 +47,17 @@ Na **engenharia do conhecimento**, a lógica paraconsistente foi empregada para 
 - **Sistemas de gestão do conhecimento**: que agregam informações de múltiplos especialistas, sujeitos a discordâncias.
 - **Web Semântica**: onde a integração de dados de diferentes fontes pode gerar inconsistências.
 
----
+
 
 ## 5. Filosofia e Fundamentos da Matemática
 
 Além das aplicações tecnológicas, a lógica paraconsistente teve impacto significativo na **filosofia** e nos **fundamentos da matemática**, ao permitir a análise formal de paradoxos e sistemas inconsistentes sem recorrer à trivialidade. Isso abriu novas perspectivas para o estudo de sistemas formais e da própria natureza da verdade e da prova matemática.
 
----
+
 
 ## Considerações Finais
 
 As aplicações iniciais da lógica paraconsistente demonstraram seu valor em contextos onde a inconsistência não pode ser evitada, mas precisa ser gerenciada de forma racional. Ao permitir o raciocínio controlado diante de contradições, a lógica paraconsistente se consolidou como uma ferramenta fundamental em áreas como bancos de dados, inteligência artificial, resolução de conflitos e representação do conhecimento, além de influenciar debates filosóficos e matemáticos sobre a lógica e a verdade.
 
 Com o avanço das tecnologias e o aumento da complexidade dos sistemas de informação, a importância da lógica paraconsistente tende a crescer, tornando-se cada vez mais relevante para pesquisadores, profissionais e estudantes de diversas áreas.
-```
+

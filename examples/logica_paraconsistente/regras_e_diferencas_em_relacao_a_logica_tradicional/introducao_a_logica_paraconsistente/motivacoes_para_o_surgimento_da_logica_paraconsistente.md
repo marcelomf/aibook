@@ -49,9 +49,9 @@ A lógica paraconsistente não busca substituir a lógica clássica, mas sim **c
 
 Em resumo, a lógica paraconsistente surgiu da necessidade de superar as limitações da lógica clássica diante de contradições inevitáveis em sistemas reais. Ao permitir o raciocínio não trivial em ambientes inconsistentes, ela amplia as possibilidades de modelagem, análise e tomada de decisão em diversas áreas do conhecimento, tornando-se uma ferramenta essencial para o raciocínio não clássico.
 
----
+
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*.
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), *Handbook of Philosophical Logic*.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

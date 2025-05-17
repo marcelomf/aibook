@@ -68,9 +68,9 @@ Pesquisas recentes exploram o uso de **estruturas topológicas** e **categorias*
 - **Categorias:**  
   Facilitam a generalização de propriedades e a construção de modelos abstratos para diferentes sistemas paraconsistentes.
 
----
+___
 
 ## Conclusão
 
 As lógicas paraconsistentes dependem de uma variedade de estruturas matemáticas para garantir que contradições possam ser tratadas de forma controlada e produtiva. Desde matrizes de verdade multivaloradas até álgebras de anotações e grafos de inferência, essas estruturas fornecem a base formal necessária para aplicações em bancos de dados, inteligência artificial, sistemas de decisão e muito mais. O estudo dessas estruturas é fundamental para compreender o funcionamento e o potencial das lógicas paraconsistentes no tratamento de informações complexas e contraditórias.
-```
+

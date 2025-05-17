@@ -80,10 +80,10 @@ Robôs autônomos podem receber informações conflitantes de sensores (por exem
 
 A detecção e o tratamento de inconsistências em bases de conhecimento de IA são desafios centrais para o desenvolvimento de sistemas inteligentes robustos e confiáveis. A lógica paraconsistente oferece um arcabouço teórico e prático para enfrentar esses desafios, permitindo que sistemas de IA operem de forma eficaz mesmo em ambientes complexos e contraditórios. Com o avanço das aplicações de IA, o domínio dessas técnicas torna-se cada vez mais essencial para pesquisadores e profissionais da área.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - "Lógica Paraconsistente: Teoria e Aplicações" (Newton da Costa)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Graham Priest)
 - Artigos recentes sobre lógica paraconsistente em IA em periódicos de inteligência artificial e ciência da computação.
-```
+

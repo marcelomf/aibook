@@ -11,7 +11,7 @@ A, \neg A \vdash B
 
 A seguir, apresentamos exemplos matemáticos que ilustram o mecanismo da explosão lógica na lógica clássica.
 
----
+
 
 ## Exemplo 1: Explosão Lógica com Proposições Simples
 
@@ -32,7 +32,7 @@ Suponha que, por algum motivo, aceitemos ambas como verdadeiras em nosso sistema
 
 Assim, a partir da contradição \( A \) e \( \neg A \), deduzimos \( B \), mesmo que \( B \) não tenha relação lógica com \( A \).
 
----
+
 
 ## Exemplo 2: Explosão Lógica em Álgebra Booleana
 
@@ -53,7 +53,7 @@ Se aceitamos simultaneamente \( P \) e \( \neg P \), podemos provar qualquer pro
 
 Portanto, a partir da contradição, deduzimos que "0 = 1", o que é absurdo do ponto de vista matemático.
 
----
+
 
 ## Exemplo 3: Explosão Lógica em Provas Matemáticas
 
@@ -72,7 +72,7 @@ Se ambas são aceitas, podemos provar qualquer proposição matemática, como "T
 4. \( \neg S \) (repetição)
 5. \( T \) (por eliminação do disjuntor)
 
----
+
 
 ## Discussão
 
@@ -80,7 +80,7 @@ Esses exemplos mostram que, na lógica clássica, a presença de uma contradiç�
 
 A **lógica paraconsistente** foi desenvolvida justamente para evitar esse fenômeno, permitindo que sistemas possam lidar com contradições de forma controlada, sem que a explosão lógica ocorra.
 
----
+
 
 ## Referências
 
@@ -88,6 +88,6 @@ A **lógica paraconsistente** foi desenvolvida justamente para evitar esse fenô
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
 
----
+
 
 Esses exemplos ilustram a importância de sistemas lógicos alternativos, como a lógica paraconsistente, para lidar com contradições de maneira não trivial e segura.

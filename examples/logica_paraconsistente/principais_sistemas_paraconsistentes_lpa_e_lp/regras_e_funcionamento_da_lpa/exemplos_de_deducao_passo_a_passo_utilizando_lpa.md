@@ -3,7 +3,7 @@
 
 A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos dentro do campo das lógicas paraconsistentes. Ela foi desenvolvida para lidar com informações contraditórias de maneira controlada, permitindo que se trabalhe com graus de certeza e incerteza sem que o sistema lógico se torne trivial. Neste tópico, apresentaremos exemplos práticos de dedução passo a passo utilizando a LPA, destacando como suas regras permitem raciocinar mesmo diante de contradições.
 
----
+
 
 ## 1. Revisão Rápida: Como Funciona a LPA
 
@@ -21,7 +21,7 @@ A partir desses valores, é possível calcular:
 
 Esses graus ajudam a classificar o estado lógico da proposição (verdade, falsidade, contradição, indefinição).
 
----
+
 
 ## 2. Exemplo 1: Diagnóstico Médico
 
@@ -48,7 +48,7 @@ Um sistema de apoio à decisão médica recebe informações sobre um paciente q
 4. **Dedução:**
    - O sistema pode deduzir que, apesar de alguma contradição, há uma evidência razoável para considerar a presença da doença, mas recomenda cautela devido à contradição detectada.
 
----
+
 
 ## 3. Exemplo 2: Banco de Dados Inconsistente
 
@@ -75,7 +75,7 @@ Um banco de dados armazena informações sobre o status de um pedido `P`:
 4. **Dedução:**
    - O sistema reconhece a contradição e pode acionar um processo de verificação adicional, ao invés de simplesmente assumir que o pedido foi ou não entregue.
 
----
+
 
 ## 4. Exemplo 3: Sistema de Decisão em Inteligência Artificial
 
@@ -102,7 +102,7 @@ Um agente inteligente avalia se deve acionar um alarme de incêndio (`A`):
 4. **Dedução:**
    - O agente decide não acionar o alarme, mas registra a contradição para análise posterior, podendo ajustar os sensores ou solicitar manutenção.
 
----
+
 
 ## 5. Considerações Finais
 
@@ -110,5 +110,4 @@ A LPA permite que sistemas computacionais e humanos tomem decisões mesmo diante
 
 Esses exemplos ilustram como a dedução na LPA é feita de forma quantitativa e qualitativa, promovendo decisões mais seguras e fundamentadas em ambientes incertos e contraditórios.
 
----
-```
+

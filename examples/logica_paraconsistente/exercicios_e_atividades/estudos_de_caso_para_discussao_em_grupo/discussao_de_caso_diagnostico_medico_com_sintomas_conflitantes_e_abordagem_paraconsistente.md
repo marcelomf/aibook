@@ -72,9 +72,9 @@ Em vez de descartar hipóteses contraditórias, a abordagem paraconsistente perm
 
 A lógica paraconsistente oferece uma estrutura teórica e prática para lidar com situações de incerteza e contradição, comuns na medicina. Ao permitir a consideração controlada de informações conflitantes, ela contribui para diagnósticos mais seguros, decisões mais informadas e uma melhor comunicação entre profissionais de saúde.
 
----
+
 
 **Sugestão de atividade:**  
 Divida o grupo em equipes e peça que cada uma proponha um plano de ação para o caso apresentado, justificando suas escolhas com base na abordagem paraconsistente. Em seguida, compare as estratégias e discuta os resultados.
 
-```
+

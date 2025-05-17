@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente é um campo dinâmico e interdisciplinar, que continua a atrair o interesse de pesquisadores em todo o mundo. Nos últimos anos, diversos estudiosos têm contribuído significativamente para o avanço teórico e prático da área, seja desenvolvendo novos sistemas lógicos, seja aplicando conceitos paraconsistentes em contextos como inteligência artificial, ciência da computação, filosofia e matemática. A seguir, destacam-se alguns dos principais pesquisadores contemporâneos cujas obras e pesquisas têm sido fundamentais para o desenvolvimento da lógica paraconsistente.
 
----
+
 
 ## 1. **Newton da Costa (Brasil)**
 
@@ -13,7 +13,7 @@ Embora Newton da Costa tenha iniciado sua carreira acadêmica na segunda metade 
   - *Paraconsistent Logic: Consistency, Contradiction and Negation* (com Walter Carnielli)
   - *The Logic of Inconsistent Mathematics*
 
----
+
 
 ## 2. **Walter Carnielli (Brasil)**
 
@@ -23,7 +23,7 @@ Professor da Universidade Estadual de Campinas (UNICAMP), Carnielli é um dos ma
   - *Paraconsistent Logic: Consistency, Contradiction and Negation* (com Newton da Costa)
   - Diversos artigos em revistas internacionais sobre aplicações e fundamentos de lógicas paraconsistentes.
 
----
+
 
 ## 3. **Graham Priest (Austrália/Reino Unido)**
 
@@ -33,7 +33,7 @@ Graham Priest é um dos mais influentes filósofos e lógicos contemporâneos, c
   - *In Contradiction: A Study of the Transconsistent*
   - *An Introduction to Non-Classical Logic: From If to Is*
 
----
+
 
 ## 4. **João Marcos (Brasil)**
 
@@ -43,7 +43,7 @@ Professor da Universidade Federal do Rio Grande do Norte (UFRN), João Marcos é
   - Diversos artigos sobre semântica e sistemas de dedução para lógicas paraconsistentes.
   - Participação em coletâneas e conferências internacionais.
 
----
+
 
 ## 5. **Jean-Yves Béziau (França/Brasil/Suíça)**
 
@@ -53,7 +53,7 @@ Béziau é um lógico francês com forte atuação no Brasil e na Suíça, conhe
   - *Handbook of Paraconsistency* (editor)
   - Diversos artigos sobre fundamentos e aplicações de lógicas não clássicas.
 
----
+
 
 ## 6. **Leonardo Mortari (Brasil)**
 
@@ -62,7 +62,7 @@ Pesquisador brasileiro com contribuições relevantes para a aplicação de lóg
 - **Obras recomendadas:**  
   - Artigos e capítulos de livros sobre aplicações práticas da LPA em engenharia e computação.
 
----
+
 
 ## 7. **Cleverson Zafalon (Brasil)**
 
@@ -71,7 +71,7 @@ Professor e pesquisador com foco em aplicações de lógicas paraconsistentes em
 - **Obras recomendadas:**  
   - Artigos em periódicos nacionais e internacionais sobre aplicações da lógica paraconsistente.
 
----
+
 
 ## 8. **Outros Pesquisadores Internacionais**
 
@@ -81,14 +81,14 @@ Além dos nomes acima, vale mencionar outros estudiosos que têm contribuído pa
 - **David Makinson** (Reino Unido): Pesquisas em lógica não monotônica e raciocínio inconsistente.
 - **Shahid Rahman** (França): Estudos sobre diálogo lógico e lógicas não clássicas.
 
----
+
 
 ## **Conclusão**
 
 O campo da lógica paraconsistente é plural e interdisciplinar, contando com uma comunidade ativa de pesquisadores no Brasil e no exterior. O diálogo entre diferentes áreas do conhecimento, como filosofia, matemática, ciência da computação e engenharia, tem impulsionado novas aplicações e aprofundado a compreensão teórica das lógicas paraconsistentes. Para quem deseja se aprofundar, acompanhar o trabalho desses pesquisadores é fundamental para estar atualizado com os avanços mais recentes da área.
 
----
+
 
 **Sugestão:**  
 Para acompanhar as publicações e novidades, recomenda-se consultar periódicos como *Journal of Applied Non-Classical Logics*, *Studia Logica* e *Logic Journal of the IGPL*, além de participar de eventos como o *World Congress on Paraconsistency*.
-```
+

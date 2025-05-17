@@ -5,7 +5,7 @@ A implementação prática de sistemas baseados em lógica paraconsistente tem s
 
 A seguir, apresentamos uma visão geral das principais bibliotecas e pacotes disponíveis, bem como orientações para seu uso e integração em projetos.
 
----
+
 
 ## 1. Python
 
@@ -43,7 +43,7 @@ Python é uma das linguagens mais populares para pesquisa e desenvolvimento em l
 
 - **Descrição:** Embora o `sympy.logic` seja voltado para lógica clássica, pode ser estendido para simular comportamentos paraconsistentes, especialmente em projetos de pesquisa.
 
----
+
 
 ## 2. R
 
@@ -68,7 +68,7 @@ R é amplamente utilizado em estatística e ciência de dados, e também possui 
 
 - **Descrição:** Pacotes como `sets` e `FuzzyR` podem ser adaptados para simular raciocínio paraconsistente, especialmente em sistemas de decisão.
 
----
+
 
 ## 3. Prolog
 
@@ -93,14 +93,14 @@ Prolog é uma linguagem lógica por excelência, e há implementações e extens
 
 - **Descrição:** SWI-Prolog pode ser estendido com regras customizadas para simular lógica paraconsistente, utilizando predicados para marcar contradições e graus de crença.
 
----
+
 
 ## 4. Outras Ferramentas e Recursos
 
 - **Matlab/Octave:** Existem scripts e funções para lógica paraconsistente, especialmente em aplicações de engenharia e controle.
 - **Ferramentas Web:** Alguns simuladores online permitem experimentar com tabelas de verdade paraconsistentes e sistemas de inferência.
 
----
+
 
 ## 5. Considerações Finais
 
@@ -111,7 +111,7 @@ Apesar de a lógica paraconsistente ainda não contar com o mesmo ecossistema de
 - Considere adaptar bibliotecas de lógica fuzzy ou clássica para suas necessidades paraconsistentes.
 - Participe de fóruns e grupos de pesquisa para trocar experiências e obter suporte.
 
----
+
 
 ### Referências
 
@@ -120,7 +120,7 @@ Apesar de a lógica paraconsistente ainda não contar com o mesmo ecossistema de
 - [CRAN - paraconsistent package](https://cran.r-project.org/web/packages/paraconsistent/index.html)
 - [SWI-Prolog](https://www.swi-prolog.org/)
 
----
+
 
 > **Nota:** Como a área está em constante evolução, novas bibliotecas e ferramentas podem surgir. Recomenda-se sempre buscar por atualizações e contribuições recentes na comunidade científica e de software livre.
-```
+

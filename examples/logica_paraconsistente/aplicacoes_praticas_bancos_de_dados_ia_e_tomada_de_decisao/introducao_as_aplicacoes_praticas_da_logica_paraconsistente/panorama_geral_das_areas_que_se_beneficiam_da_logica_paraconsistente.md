@@ -45,10 +45,10 @@ Além das áreas citadas, a lógica paraconsistente tem sido aplicada em:
 - **Ciência da computação**, em verificação formal, programação lógica e sistemas tolerantes a falhas.
 - **Engenharia**, em sistemas de controle e automação que operam sob condições incertas ou contraditórias.
 
----
+___
 
 ## Conclusão
 
 O uso da lógica paraconsistente representa um avanço significativo na capacidade de lidar com a complexidade do mundo real, onde a perfeição e a consistência absoluta raramente são alcançadas. Ao permitir o raciocínio controlado diante de contradições, essa abordagem amplia as possibilidades de aplicação da lógica em diversas áreas, promovendo sistemas mais robustos, flexíveis e adaptáveis às necessidades contemporâneas.
 
-```
+

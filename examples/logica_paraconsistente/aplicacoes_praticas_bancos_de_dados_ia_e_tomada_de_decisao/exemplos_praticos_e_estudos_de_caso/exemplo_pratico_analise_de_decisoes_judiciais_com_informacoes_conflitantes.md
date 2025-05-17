@@ -25,7 +25,7 @@ Suponha que, em um processo de acidente de trânsito, temos as seguintes informa
 Utilizando, por exemplo, a Lógica Paraconsistente Anotada (LPA), cada informação pode ser representada por um par de valores: o grau de evidência favorável (μ) e o grau de evidência contrária (λ).
 
 | Informação                | μ (favorável) | λ (contrária) |
-|---------------------------|:-------------:|:-------------:|
+|___________________________|:____________-:|:____________-:|
 | Réu acima do limite       |     0,7       |     0,6       |
 | Réu dentro do limite      |     0,6       |     0,7       |
 
@@ -54,10 +54,10 @@ Com base nesses resultados, o juiz pode:
 
 A utilização da Lógica Paraconsistente na análise de decisões judiciais com informações conflitantes representa um avanço significativo na busca por decisões mais justas e fundamentadas. Ao permitir o tratamento controlado de contradições, essa abordagem contribui para a transparência e a racionalidade do processo decisório, especialmente em contextos onde a complexidade e a ambiguidade das informações são inevitáveis.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógicas Paraconsistentes*.  
 - Subrahmanian, V. S. (1994). *Paraconsistent Logic Programming*.
 
-```
+

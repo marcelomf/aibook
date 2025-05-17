@@ -2,7 +2,7 @@
 
 A análise de tabelas verdade e estruturas semânticas é fundamental para compreender o funcionamento dos sistemas lógicos, especialmente quando se trata de lógicas não clássicas, como a Lógica Paraconsistente. Neste tópico, você encontrará explicações, exemplos e exercícios práticos para desenvolver sua habilidade de analisar e construir tabelas verdade e interpretar estruturas semânticas em sistemas paraconsistentes.
 
----
+
 
 ## 1. Introdução
 
@@ -10,7 +10,7 @@ Na lógica clássica, a tabela verdade é uma ferramenta que permite determinar 
 
 Além das tabelas verdade, as estruturas semânticas (como modelos e interpretações) são essenciais para entender como as fórmulas são avaliadas em diferentes contextos, especialmente quando há informações inconsistentes.
 
----
+
 
 ## 2. Tabelas Verdade em Lógicas Paraconsistentes
 
@@ -26,7 +26,7 @@ Na LPA, cada proposição pode receber diferentes graus de evidência favorável
 #### Tabela Verdade para a Conjunção (AND, ∧):
 
 | A           | B           | A ∧ B      |
-|-------------|-------------|------------|
+|-|-||
 | V (1,0)     | V (1,0)     | V (1,0)    |
 | V (1,0)     | F (0,1)     | F (0,1)    |
 | I (1,1)     | V (1,0)     | I (1,1)    |
@@ -38,7 +38,7 @@ Na LPA, cada proposição pode receber diferentes graus de evidência favorável
 
 > **Observação:** Os valores podem ser calculados por regras específicas do sistema, como o mínimo para μ e o máximo para λ na conjunção.
 
----
+
 
 ## 3. Estruturas Semânticas em Lógicas Paraconsistentes
 
@@ -48,7 +48,7 @@ Em lógicas paraconsistentes, uma estrutura semântica geralmente consiste em um
 
 Dada uma proposição `P` com μ = 0.8 e λ = 0.7, dizemos que há forte evidência a favor e considerável evidência contra `P`, caracterizando uma situação de **quase-inconsistência**.
 
----
+
 
 ## 4. Exercícios Práticos
 
@@ -67,11 +67,11 @@ Construa a tabela verdade para as operações `A ∧ B` e `A ∨ B` (use mínimo
 - **A ∨ B:** μ = max(1, 0.5) = 1; λ = min(0.5, 1) = 0.5
 
 | Operação | μ  | λ  |
-|----------|----|----|
+|-|-|-|
 | A ∧ B    | 0.5| 1  |
 | A ∨ B    | 1  |0.5 |
 
----
+
 
 ### Exercício 2: Interpretação Semântica
 
@@ -86,7 +86,7 @@ a) Como μ = λ ≠ 0, temos uma situação de **inconsistência** (há evidênc
 
 b) Em termos de decisão, pode ser necessário buscar mais informações ou aplicar critérios de desempate, pois a evidência é contraditória.
 
----
+
 
 ### Exercício 3: Análise de Contradição
 
@@ -100,7 +100,7 @@ O que acontece com o sistema? Explique.
 
 Na LPA, `P` é **inconsistente**, mas o sistema não se torna trivial. Outras proposições não são automaticamente verdadeiras; a contradição é localizada e controlada.
 
----
+
 
 ## 5. Dicas para Análise
 
@@ -109,7 +109,7 @@ Na LPA, `P` é **inconsistente**, mas o sistema não se torna trivial. Outras pr
 - Lembre-se de que, em lógicas paraconsistentes, contradições não levam à trivialidade.
 - Use tabelas verdade para visualizar como as operações lógicas se comportam com múltiplos valores.
 
----
+
 
 ## 6. Sugestões de Leitura
 
@@ -117,12 +117,12 @@ Na LPA, `P` é **inconsistente**, mas o sistema não se torna trivial. Outras pr
 - **Paraconsistent Logic: Consistency, Contradiction and Negation** – Koji Tanaka et al.
 - **Lógica Paraconsistente Anotada: Fundamentos e Aplicações** – Walter Carnielli, João Marcos
 
----
+
 
 ## 7. Conclusão
 
 A análise de tabelas verdade e estruturas semânticas em sistemas paraconsistentes é uma habilidade essencial para quem deseja compreender e aplicar essas lógicas em contextos reais. Pratique os exercícios propostos e aprofunde-se nas leituras recomendadas para consolidar seu entendimento.
 
----
+
 
 **Próximo passo:** Resolva os exercícios propostos e tente criar suas próprias tabelas verdade para diferentes operações e valores de μ e λ!

@@ -67,8 +67,8 @@ Essas lógicas são especialmente relevantes em áreas como inteligência artifi
 
 Os princípios da lógica clássica são fundamentais para garantir a consistência lógica em sistemas computacionais, assegurando que o raciocínio automático seja confiável e previsível. No entanto, a crescente complexidade dos sistemas e a presença de informações contraditórias exigem abordagens mais flexíveis, como a lógica paraconsistente, que permite lidar com inconsistências de forma controlada e produtiva. Compreender a relação entre esses princípios e a consistência lógica é essencial para o desenvolvimento de sistemas robustos e adaptáveis na era da informação.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

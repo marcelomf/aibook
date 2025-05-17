@@ -38,7 +38,7 @@ Além disso, surgiram variantes e extensões, como a **Lógica Paraconsistente A
 
 Hoje, a lógica paraconsistente é reconhecida como uma área consolidada da lógica não clássica, com uma comunidade internacional ativa, periódicos especializados e aplicações práticas em ciência da computação, engenharia, direito, filosofia e outras áreas. Seu desenvolvimento contínuo reflete a necessidade crescente de sistemas formais capazes de lidar com a complexidade e a inconsistência inerentes à informação no mundo real.
 
----
+___
 
 **Referências:**
 
@@ -47,4 +47,4 @@ Hoje, a lógica paraconsistente é reconhecida como uma área consolidada da ló
 - Béziau, J.-Y. (2012). Paraconsistent logic from a modal viewpoint. *Journal of Applied Logic*, 10(1), 1-8.
 - Miró Quesada, F. (1976). "Lógica Paraconsistente". Congresso Internacional de Filosofia, Buenos Aires.
 
-```
+

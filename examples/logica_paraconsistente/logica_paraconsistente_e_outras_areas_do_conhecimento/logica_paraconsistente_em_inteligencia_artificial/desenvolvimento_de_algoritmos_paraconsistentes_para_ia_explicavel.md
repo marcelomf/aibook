@@ -70,7 +70,7 @@ No entanto, a tendência é que a lógica paraconsistente desempenhe um papel ca
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics and Knowledge Bases. Artificial Intelligence, 61(2), 1-23.**
 - **Santos, A. M., & Abe, J. M. (2014). Lógica Paraconsistente Anotada: Teoria e Aplicações.**
 
----
+___
 
 A lógica paraconsistente, ao permitir o desenvolvimento de algoritmos que tratam contradições de forma controlada, representa um avanço fundamental para a explicabilidade e a confiança em sistemas de IA, aproximando a tecnologia das necessidades e expectativas humanas.
-```
+

@@ -49,7 +49,7 @@ Sistemas paraconsistentes não-monotônicos permitem que conclusões sejam revis
 - **Sistemas Especialistas Dinâmicos**: Em áreas como diagnóstico médico ou manutenção preditiva, onde novas evidências podem contradizer hipóteses anteriores, lógicas paraconsistentes não-monotônicas permitem a atualização dinâmica do conhecimento sem perda de consistência global.
 - **Inteligência Artificial Adaptativa**: Em agentes inteligentes que interagem com ambientes dinâmicos e incertos, essas lógicas permitem adaptação contínua diante de informações conflitantes.
 
----
+___
 
 ## Considerações Finais
 
@@ -59,5 +59,4 @@ A escolha do sistema paraconsistente mais adequado depende do contexto da aplica
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Lógica Paraconsistente*.
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
-```
+

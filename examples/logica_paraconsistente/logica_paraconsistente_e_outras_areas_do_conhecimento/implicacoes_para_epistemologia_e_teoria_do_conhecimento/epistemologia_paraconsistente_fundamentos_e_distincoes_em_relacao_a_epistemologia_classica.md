@@ -61,10 +61,10 @@ A **epistemologia paraconsistente** é uma abordagem que incorpora os princípio
 
 A epistemologia paraconsistente representa uma evolução significativa na teoria do conhecimento, ao reconhecer e tratar de forma sistemática a presença de contradições. Ao invés de buscar uma eliminação rígida das inconsistências, propõe métodos para gerenciá-las, promovendo uma visão mais realista e flexível do processo de construção do conhecimento. Essa abordagem amplia as possibilidades de investigação e aplicação em diversos campos, tornando-se cada vez mais relevante em um mundo caracterizado pela complexidade e pela abundância de informações contraditórias.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógica Paraconsistente: Essencial"
 - Graham Priest, "In Contradiction"
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

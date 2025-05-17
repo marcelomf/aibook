@@ -43,4 +43,4 @@ A decisão sobre qual sistema lógico adotar deve considerar:
 ## Considerações Finais
 
 A escolha entre lógica clássica e lógica paraconsistente não é excludente; em muitos casos, abordagens híbridas podem ser empregadas, utilizando o melhor de cada sistema conforme a necessidade. O impacto das vantagens e limitações de cada abordagem deve ser cuidadosamente avaliado em função dos objetivos, restrições e características específicas de cada aplicação. Assim, é possível construir sistemas mais robustos, flexíveis e capazes de lidar com os desafios do mundo real, onde a informação raramente é perfeita ou totalmente consistente.
-```
+

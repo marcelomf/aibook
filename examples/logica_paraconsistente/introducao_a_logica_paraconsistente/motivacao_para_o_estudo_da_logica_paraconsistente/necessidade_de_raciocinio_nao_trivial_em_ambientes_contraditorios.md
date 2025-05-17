@@ -33,5 +33,4 @@ A necessidade de um raciocínio não trivial em ambientes contraditórios motivo
 
 A lógica paraconsistente surge, portanto, como uma resposta à necessidade de raciocínio não trivial em ambientes contraditórios. Ela oferece ferramentas teóricas e práticas para lidar com inconsistências de maneira controlada, preservando a capacidade de inferência e decisão. Em um mundo cada vez mais complexo e interconectado, onde a informação é abundante e nem sempre coerente, a lógica paraconsistente se mostra essencial para o desenvolvimento de sistemas robustos, confiáveis e inteligentes.
 
----
-```
+

@@ -39,7 +39,7 @@ Este handbook reúne artigos de especialistas internacionais, cobrindo uma ampla
 **Descrição:**  
 Este livro apresenta uma coletânea de artigos que exploram tanto os aspectos teóricos quanto as aplicações práticas da lógica paraconsistente. Os capítulos abordam temas como semântica, sistemas formais, aplicações em inteligência artificial e filosofia da lógica.
 
----
+
 
 ### **Dicas para o Leitor**
 
@@ -47,10 +47,10 @@ Este livro apresenta uma coletânea de artigos que exploram tanto os aspectos te
 - **Pré-requisitos:** Embora alguns títulos sejam introdutórios, outros exigem conhecimento prévio em lógica formal e filosofia.
 - **Complemento:** Para um estudo mais aprofundado, recomenda-se a leitura de artigos científicos recentes, disponíveis em periódicos especializados como *Journal of Philosophical Logic* e *Studia Logica*.
 
----
+
 
 ### **Conclusão**
 
 Os livros listados acima representam o que há de mais relevante e consolidado na literatura internacional sobre lógica paraconsistente. Eles oferecem diferentes perspectivas — filosófica, matemática e aplicada — e são essenciais para quem deseja compreender a fundo esse fascinante ramo da lógica não clássica.
 
-```
+

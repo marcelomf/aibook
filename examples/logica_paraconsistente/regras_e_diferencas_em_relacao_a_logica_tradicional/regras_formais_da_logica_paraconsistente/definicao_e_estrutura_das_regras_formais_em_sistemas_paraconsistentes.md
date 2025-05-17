@@ -55,7 +55,7 @@ Na lógica LP, uma proposição pode ser verdadeira, falsa, ambas ou nenhuma. As
 ## 5. Comparação com a lógica clássica
 
 | Aspecto                  | Lógica Clássica         | Lógica Paraconsistente         |
-|--------------------------|------------------------|-------------------------------|
+|--||-|
 | Princípio da explosão    | Válido                 | Rejeitado                     |
 | Tratamento de contradições | Trivialização do sistema | Contradições são toleradas    |
 | Regras de inferência     | Estritas, universais   | Adaptadas, restritivas        |
@@ -68,4 +68,4 @@ A definição e estrutura das regras formais em sistemas paraconsistentes são e
 ## 7. Conclusão
 
 As regras formais dos sistemas paraconsistentes representam uma evolução significativa em relação à lógica clássica, permitindo o tratamento controlado de contradições. Ao rejeitar o princípio da explosão e adaptar as regras de inferência, esses sistemas oferecem uma base sólida para o raciocínio em contextos complexos e incertos, ampliando as possibilidades de aplicação da lógica no mundo real.
-```
+

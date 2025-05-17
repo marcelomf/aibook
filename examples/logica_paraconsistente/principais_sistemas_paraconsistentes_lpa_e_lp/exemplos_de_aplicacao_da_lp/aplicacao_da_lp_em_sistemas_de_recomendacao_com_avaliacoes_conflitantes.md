@@ -59,10 +59,10 @@ A implementação da LP em sistemas de recomendação pode envolver:
 
 A aplicação da Lógica de Priest (LP) em sistemas de recomendação representa um avanço significativo na capacidade de lidar com avaliações conflitantes. Ao permitir a coexistência controlada de contradições, a LP torna os sistemas mais realistas, transparentes e úteis, especialmente em contextos onde a diversidade de opiniões é a regra, e não a exceção.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287–393).  
 - Subrahmanian, V. S. (1994). *Paraconsistent Logic Programming*. In *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 
-```
+

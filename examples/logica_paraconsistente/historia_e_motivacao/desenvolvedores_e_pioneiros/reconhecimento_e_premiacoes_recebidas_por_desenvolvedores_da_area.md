@@ -44,7 +44,7 @@ Além dos prêmios individuais, a lógica paraconsistente tem sido tema de simp�
 
 O reconhecimento e as premiações recebidas pelos desenvolvedores da lógica paraconsistente refletem a relevância e o impacto dessa área no cenário científico global. As contribuições de Newton da Costa, Graham Priest, Itala D’Ottaviano e outros pioneiros não apenas expandiram os limites do raciocínio lógico, mas também abriram novas possibilidades para aplicações em ciência da computação, inteligência artificial, filosofia e matemática. O contínuo reconhecimento institucional e acadêmico atesta a vitalidade e a importância da lógica paraconsistente no mundo contemporâneo.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Da Costa, N. C. A., Krause, D., & D’Ottaviano, I. M. L. (2007). *Lógica Paraconsistente: Introdução e Aplicações*. Editora Unicamp.

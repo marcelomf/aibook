@@ -58,10 +58,10 @@ A lógica paraconsistente amplia significativamente as capacidades dos sistemas 
 
 Para quem deseja aprofundar-se no tema, recomenda-se estudar a Lógica Paraconsistente Anotada e explorar casos de uso em diferentes domínios, além de acompanhar os avanços em inteligência artificial e raciocínio não clássico.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent logic: Consistency, contradiction and negation."
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."
 - Abe, Jair Minoro; Nakamatsu, Kazumi. "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

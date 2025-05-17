@@ -58,7 +58,7 @@ A combinação de lógicas não clássicas é um campo ativo de pesquisa, com av
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Caleiro, C., et al. (2005). "Fibring of Logics as a Universal Construction." *Logic Journal of the IGPL*, 13(2), 183–216.
 
----
+
 
 A combinação de lógicas não clássicas é um tema fascinante e desafiador, fundamental para o avanço do raciocínio automatizado e da modelagem de sistemas complexos. O estudo contínuo dessas interações é essencial para o desenvolvimento de soluções inovadoras em ciência, tecnologia e filosofia.
-```
+

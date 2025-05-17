@@ -37,7 +37,7 @@ No mesmo exemplo do banco de dados, se o sistema for baseado em lógica paracons
 ## Tabela Comparativa
 
 | Aspecto                        | Lógica Clássica                | Lógica Paraconsistente         |
-|--------------------------------|-------------------------------|-------------------------------|
+|--|-|-|
 | Contradição (\(A\) e \(\neg A\)) | Leva à explosão (trivialidade) | Não leva à explosão           |
 | Inferência a partir de contradição | Qualquer proposição pode ser inferida | Apenas proposições justificadas podem ser inferidas |
 | Utilidade diante de inconsistências | Sistema se torna inútil       | Sistema pode continuar operando |
@@ -54,4 +54,4 @@ A capacidade de **tolerar contradições** sem perder a utilidade lógica é o p
 ## Conclusão
 
 A diferença fundamental entre a lógica clássica e a lógica paraconsistente reside na forma como cada uma lida com contradições. Enquanto a lógica clássica sucumbe à explosão lógica, tornando-se trivial diante de qualquer contradição, a lógica paraconsistente oferece mecanismos para **controlar e isolar contradições**, permitindo que o raciocínio continue de maneira significativa e útil. Essa característica é essencial para aplicações modernas que lidam com grandes volumes de dados e informações potencialmente conflitantes.
-```
+

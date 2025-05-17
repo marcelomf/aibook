@@ -24,4 +24,4 @@ A lógica clássica não oferece mecanismos para operar de forma útil diante de
 ### Conclusão
 
 A crescente complexidade dos problemas enfrentados por setores como direito, medicina e ciência da computação evidencia a necessidade de abordagens lógicas mais flexíveis e realistas. A lógica paraconsistente surge como resposta a essa demanda, fornecendo ferramentas teóricas e práticas para lidar com contradições de maneira controlada, sem recorrer à trivialidade. Dessa forma, contribui para a construção de sistemas mais robustos, confiáveis e alinhados com a realidade multifacetada das informações contemporâneas.
-```
+

@@ -37,10 +37,10 @@ Apesar de sua importância, a lógica clássica apresenta limitações quando ap
 
 A lógica clássica é a espinha dorsal da matemática formal, fornecendo as regras e princípios que sustentam a construção de teorias, a demonstração de teoremas e a estruturação do conhecimento matemático. Compreender a relação entre lógica clássica e matemática é essencial para entender tanto os fundamentos quanto as limitações do raciocínio matemático tradicional, além de abrir caminho para o estudo de lógicas não clássicas, como a lógica paraconsistente, que busca superar algumas dessas limitações.
 
----
+
 
 **Sugestão de leitura complementar:**
 - "Introdução à Lógica Matemática" – Elliott Mendelson
 - "Princípios da Matemática" – Bertrand Russell
 - "Lógica Matemática" – Stephen Cole Kleene
-```
+

@@ -44,7 +44,7 @@ Outros sistemas paraconsistentes, como a **Lógica de Priest (LP)**, a **Lógica
 ## 4. Resumo Comparativo
 
 | Aspecto                  | LPA                                      | LP / C1 / Lógica Relevante         |
-|--------------------------|------------------------------------------|------------------------------------|
+|--|||
 | Representação            | Anotações (graus de evidência)           | Valores de verdade (binário/trivalente) |
 | Tratamento de contradição| Classificação e graduação                | Permissão de coexistência          |
 | Aplicabilidade           | Prática (IA, bancos de dados, etc.)      | Teórica ou restrita                |
@@ -54,9 +54,9 @@ Outros sistemas paraconsistentes, como a **Lógica de Priest (LP)**, a **Lógica
 
 A Lógica Paraconsistente Anotada (LPA) distingue-se dos demais sistemas paraconsistentes principalmente por sua abordagem quantitativa e estruturada das contradições, baseada em anotações que expressam diferentes graus de evidência. Essa fundamentação torna a LPA especialmente adequada para aplicações práticas que exigem o tratamento refinado de informações contraditórias, enquanto outros sistemas paraconsistentes, como LP e C1, oferecem abordagens mais gerais ou teóricas para a coexistência de contradições, sem detalhamento dos graus de inconsistência.
 
----
+
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. Notre Dame Journal of Formal Logic.
 - Priest, G. (1979). The logic of paradox. Journal of Philosophical Logic.
 - Subrahmanian, V. S. (1991). Paraconsistent logic programming. In: Handbook of Logic in Artificial Intelligence and Logic Programming.
-```
+

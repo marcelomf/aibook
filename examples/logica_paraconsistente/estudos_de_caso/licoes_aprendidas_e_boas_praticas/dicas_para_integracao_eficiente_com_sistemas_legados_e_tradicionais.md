@@ -6,7 +6,7 @@ A integração de sistemas baseados em Lógica Paraconsistente com ambientes leg
 
 A seguir, destacam-se dicas essenciais para uma integração eficiente:
 
----
+___
 
 ### 1. **Mapeamento e Compreensão dos Sistemas Legados**
 
@@ -19,7 +19,7 @@ Antes de iniciar qualquer integração, é fundamental realizar um mapeamento de
 
 Esse diagnóstico inicial permite antecipar possíveis conflitos e planejar estratégias de integração mais adequadas.
 
----
+___
 
 ### 2. **Definição de Interfaces Claras e Padronizadas**
 
@@ -29,7 +29,7 @@ A comunicação entre sistemas paraconsistentes e legados deve ser feita por mei
 - **Implemente contratos de API claros**;
 - **Documente as interfaces para facilitar manutenção e evolução**.
 
----
+___
 
 ### 3. **Gerenciamento de Contradições e Inconsistências**
 
@@ -39,7 +39,7 @@ Sistemas legados geralmente não estão preparados para lidar com contradições
 - **Registrar e monitorar ocorrências de inconsistências**: Mantenha logs detalhados para auditoria e análise posterior.
 - **Definir políticas de fallback**: Em casos onde a contradição não possa ser resolvida automaticamente, estabeleça procedimentos para intervenção manual ou notificação de responsáveis.
 
----
+___
 
 ### 4. **Testes Rigorosos e Validação Cruzada**
 
@@ -49,7 +49,7 @@ A integração deve ser acompanhada de uma bateria de testes que simulem cenári
 - **Validação cruzada dos resultados** entre o sistema paraconsistente e o legado;
 - **Testes de desempenho** para garantir que o tratamento de contradições não impacte negativamente a performance.
 
----
+___
 
 ### 5. **Capacitação e Envolvimento das Equipes**
 
@@ -59,7 +59,7 @@ A lógica paraconsistente pode ser um conceito novo para muitos profissionais en
 - **Envolva as equipes de manutenção dos sistemas legados** desde o início do projeto;
 - **Estimule a comunicação entre times multidisciplinares** para troca de conhecimento e alinhamento de expectativas.
 
----
+___
 
 ### 6. **Monitoramento Contínuo e Melhoria Incremental**
 
@@ -69,7 +69,7 @@ Após a integração, é fundamental manter um processo contínuo de monitoramen
 - **Colete feedback dos usuários e operadores** para identificar pontos de melhoria;
 - **Atualize e refine as regras paraconsistentes** conforme novas situações e necessidades surgirem.
 
----
+___
 
 ## Conclusão
 
@@ -77,5 +77,4 @@ A integração de sistemas paraconsistentes com ambientes legados e tradicionais
 
 A experiência mostra que, com uma abordagem estruturada e colaborativa, a lógica paraconsistente pode ser incorporada de forma eficiente, ampliando a capacidade das organizações de lidar com informações contraditórias e ambientes complexos.
 
----
-```
+

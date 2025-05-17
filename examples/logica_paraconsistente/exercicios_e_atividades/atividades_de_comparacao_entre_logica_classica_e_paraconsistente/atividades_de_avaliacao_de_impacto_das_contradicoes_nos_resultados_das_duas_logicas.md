@@ -41,7 +41,7 @@ No contexto de um sistema de decisão automatizado, avalie o impacto dessa contr
 - **Lógica Paraconsistente:**  
   O sistema reconhece a contradição, mas não permite que qualquer proposição seja deduzida. Ele pode, por exemplo, sinalizar a inconsistência, solicitar revisão dos dados ou tomar decisões baseadas em graus de certeza, mantendo a utilidade do sistema.
 
----
+
 
 ## 3. Atividade 2: Simulação de Decisão em Ambiente Contraditório
 
@@ -73,7 +73,7 @@ Diante de uma base de dados que contém simultaneamente as informações "João 
     - Aplicar uma política de decisão conservadora (por exemplo, negar crédito até que a situação seja esclarecida).
     - Utilizar graus de certeza para ponderar a decisão.
 
----
+
 
 ## 4. Atividade 3: Discussão e Reflexão
 
@@ -91,7 +91,7 @@ Após realizar as atividades anteriores, discuta:
 - A lógica clássica é mais simples e eficiente em ambientes onde a consistência dos dados pode ser garantida.
 - A escolha da lógica deve considerar o contexto de aplicação e a tolerância a inconsistências.
 
----
+
 
 ## 5. Conclusão
 
@@ -99,5 +99,4 @@ Essas atividades demonstram, na prática, o impacto das contradições nos resul
 
 > **Sugestão:** Experimente criar outros exemplos de situações contraditórias em diferentes domínios (como medicina, direito ou ciência de dados) e analise como cada lógica se comporta.
 
----
-```
+

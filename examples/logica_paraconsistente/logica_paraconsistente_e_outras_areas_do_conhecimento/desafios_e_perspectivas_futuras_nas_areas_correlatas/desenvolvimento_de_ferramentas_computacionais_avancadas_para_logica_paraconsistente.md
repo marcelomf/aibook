@@ -61,7 +61,7 @@ Uma das iniciativas brasileiras de destaque é o **LPA-Tools**, um conjunto de f
 
 O desenvolvimento de ferramentas computacionais avançadas para lógica paraconsistente é fundamental para a consolidação e expansão de suas aplicações práticas. Superar desafios de eficiência, integração e usabilidade permitirá que a lógica paraconsistente desempenhe um papel cada vez mais relevante em cenários reais, onde a contradição é inevitável e precisa ser tratada de forma racional e produtiva.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  

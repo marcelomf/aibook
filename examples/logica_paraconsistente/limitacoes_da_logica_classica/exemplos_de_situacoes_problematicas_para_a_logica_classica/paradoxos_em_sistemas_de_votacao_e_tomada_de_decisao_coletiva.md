@@ -43,10 +43,10 @@ Diante dessas limitações, pesquisadores têm buscado alternativas para lidar c
 
 Os paradoxos em sistemas de votação e tomada de decisão coletiva ilustram de forma clara as limitações da lógica clássica diante de situações contraditórias. Esses desafios motivam o desenvolvimento e a aplicação de lógicas não clássicas, como a lógica paraconsistente, que oferecem ferramentas mais adequadas para lidar com a complexidade e a inconsistência inerentes à decisão coletiva.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Arrow, K. J. (1951). *Social Choice and Individual Values*.
 - Rescher, N. (1979). *The Principle of Contradiction: A Study in the Foundations of Logic*.
 - Priest, G. (2002). *Paraconsistent Logic*.
-```
+

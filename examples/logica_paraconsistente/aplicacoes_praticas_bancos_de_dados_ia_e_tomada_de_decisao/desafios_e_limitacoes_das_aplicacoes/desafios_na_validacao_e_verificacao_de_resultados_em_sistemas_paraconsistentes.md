@@ -31,9 +31,9 @@ Apesar dos avanços teóricos, ainda há uma carência de padrões, frameworks e
 
 A ausência de benchmarks padronizados para avaliar a eficácia dos métodos de validação em sistemas paraconsistentes dificulta a comparação entre diferentes abordagens e a identificação de melhores práticas. A avaliação empírica, portanto, ainda é um campo em desenvolvimento, com necessidade de mais estudos de caso e experimentação prática.
 
----
+___
 
 ### **Considerações Finais**
 
 A validação e verificação de resultados em sistemas paraconsistentes são áreas de pesquisa ativa, com desafios que vão desde questões teóricas até limitações práticas de implementação. Superar esses desafios requer o desenvolvimento de novos métodos, ferramentas e critérios de avaliação, além de uma compreensão aprofundada do contexto de aplicação. Apesar das dificuldades, o potencial da lógica paraconsistente para lidar com informações contraditórias de forma controlada justifica o investimento em soluções que tornem sua validação e verificação mais robustas e confiáveis.
-```
+

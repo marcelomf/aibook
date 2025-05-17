@@ -30,7 +30,7 @@ Uma das abordagens mais utilizadas é a **Lógica Paraconsistente Anotada (LPA)*
 **Exemplo de modelagem:**
 
 | ClienteID | Ativo | Evidência Favorável | Evidência Contrária |
-|-----------|-------|--------------------|--------------------|
+|_________--|______-|__________________--|__________________--|
 | 001       | Sim   | 0.8                | 0.2                |
 | 002       | Não   | 0.4                | 0.6                |
 
@@ -43,7 +43,7 @@ Outra técnica é permitir o registro de múltiplas versões de um mesmo dado, a
 **Exemplo:**
 
 | ProdutoID | Preço | Fonte         | Data       |
-|-----------|-------|---------------|------------|
+|_________--|______-|_______________|____________|
 | 1001      | 50.00 | Sistema A     | 2024-05-01 |
 | 1001      | 48.00 | Sistema B     | 2024-05-01 |
 
@@ -82,9 +82,9 @@ Essas técnicas são especialmente valiosas em áreas como:
 
 A adoção de técnicas de modelagem de dados baseadas em lógica paraconsistente representa um avanço significativo na capacidade dos sistemas de informação de lidar com a complexidade e a imperfeição do mundo real. Ao permitir o registro, a identificação e o tratamento controlado de contradições, esses sistemas tornam-se mais flexíveis, robustos e úteis em cenários críticos para a ciência, a indústria e a sociedade.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*, 5(1), 25-63.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. *Notre Dame Journal of Formal Logic*, 34(4), 573-579.
-```
+

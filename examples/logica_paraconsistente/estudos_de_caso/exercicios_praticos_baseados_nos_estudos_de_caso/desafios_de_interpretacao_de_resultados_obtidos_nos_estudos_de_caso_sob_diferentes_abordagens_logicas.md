@@ -49,13 +49,13 @@ Para consolidar a compreensão dos desafios de interpretação, propomos os segu
 
 A lógica paraconsistente oferece ferramentas poderosas para lidar com contradições, mas impõe desafios interpretativos que exigem atenção especial. A escolha do sistema lógico, a clareza na comunicação dos resultados e a validação cruzada são aspectos essenciais para o sucesso de aplicações práticas. O entendimento desses desafios é fundamental para o desenvolvimento de sistemas mais robustos e confiáveis em ambientes complexos e incertos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*.  
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*.
 
----
+___
 
 **Exercite-se:** Reflita sobre como a lógica paraconsistente pode ser aplicada em sua área de atuação e quais desafios de interpretação você antecipa. Compartilhe suas conclusões com colegas para enriquecer o debate!

@@ -48,8 +48,8 @@ Diante desses desafios, abordagens alternativas, como a **Lógica Paraconsistent
 
 As limitações da lógica clássica diante de sintomas conflitantes representam um obstáculo significativo para a eficácia de sistemas de diagnóstico automatizado. A adoção de lógicas não clássicas, como a lógica paraconsistente, oferece caminhos promissores para lidar com a complexidade e a incerteza inerentes a ambientes reais, tornando os sistemas mais robustos, confiáveis e úteis em situações críticas.
 
----
+
 **Sugestão de leitura:**  
 - "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso" (eBook)
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

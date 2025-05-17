@@ -87,7 +87,7 @@ Os algoritmos devem implementar regras de inferência paraconsistentes, que dife
 - **da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. Notre Dame Journal of Formal Logic.**
 - **Batens, D. (2007). Adaptive Logics and Dynamic Proofs. Logic Journal of IGPL.**
 
----
+
 
 O desenvolvimento de algoritmos paraconsistentes para IA é um campo promissor, especialmente em aplicações que exigem tolerância a inconsistências e explicabilidade. Ao dominar esses conceitos, você estará preparado para criar sistemas inteligentes mais robustos e confiáveis.
-```
+

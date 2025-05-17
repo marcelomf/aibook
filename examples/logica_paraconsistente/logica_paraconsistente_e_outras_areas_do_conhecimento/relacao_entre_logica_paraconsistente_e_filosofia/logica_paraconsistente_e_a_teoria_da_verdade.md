@@ -38,4 +38,4 @@ A lógica paraconsistente oferece uma nova perspectiva sobre a teoria da verdade
 - Graham Priest, *In Contradiction: A Study of the Transconsistent*.
 - Newton da Costa, *Lógica Paraconsistente: Introdução e Aplicações*.
 - Susan Haack, *Philosophy of Logics*.
-```
+

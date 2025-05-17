@@ -48,7 +48,7 @@ A lógica paraconsistente, ao permitir o tratamento controlado de contradições
 
 Apesar dos avanços, ainda existem desafios a serem superados, como a escalabilidade dos algoritmos paraconsistentes, a integração com tecnologias emergentes e a necessidade de ferramentas de desenvolvimento mais acessíveis. No entanto, o potencial de impacto da lógica paraconsistente em sistemas críticos e inovadores é cada vez mais reconhecido, abrindo caminho para novas pesquisas e aplicações.
 
----
+___
 
 **Em resumo**, a lógica paraconsistente está se consolidando como uma abordagem essencial para o tratamento de contradições em sistemas complexos. Suas aplicações práticas tendem a se expandir, acompanhando a evolução tecnológica e as demandas por sistemas mais resilientes, transparentes e confiáveis em diversos setores da sociedade.
-```
+

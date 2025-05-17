@@ -62,7 +62,7 @@ Diversas ferramentas e linguagens podem ser utilizadas para implementar algoritm
 - **Linguagens de Propósito Geral**: Python, Java e C++ podem ser utilizados, especialmente com bibliotecas específicas para lógica não clássica.
 - **Softwares Específicos**: Existem frameworks acadêmicos e comerciais para lógica paraconsistente, como o LPA-Tool.
 
----
+___
 
 ## Conclusão
 

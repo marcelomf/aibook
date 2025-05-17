@@ -35,7 +35,7 @@ Esses questionamentos motivaram o surgimento de novas abordagens lógicas, capaz
 
 A busca por lógicas alternativas foi impulsionada por pesquisadores como Stanisław Jaśkowski e Newton da Costa, que, a partir da década de 1940, propuseram sistemas lógicos nos quais o princípio da explosão não se aplica. Essas lógicas permitiram o desenvolvimento de ferramentas teóricas e práticas para o tratamento de contradições, abrindo caminho para aplicações em diversas áreas do conhecimento.
 
----
+___
 
 **Em resumo**, os primeiros questionamentos sobre a limitação da lógica clássica surgiram da constatação de que, em muitos contextos reais e teóricos, a presença de contradições não pode ser evitada e não deveria levar à inutilidade do raciocínio lógico. Esse reconhecimento foi fundamental para o desenvolvimento da lógica paraconsistente, que busca oferecer uma resposta mais flexível e realista aos desafios do raciocínio em ambientes complexos e contraditórios.
-```
+

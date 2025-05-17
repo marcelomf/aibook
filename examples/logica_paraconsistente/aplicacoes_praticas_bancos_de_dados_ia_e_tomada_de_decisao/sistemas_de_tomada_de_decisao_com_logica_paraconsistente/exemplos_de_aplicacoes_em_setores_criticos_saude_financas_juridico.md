@@ -3,7 +3,7 @@
 
 A lógica paraconsistente tem se mostrado uma ferramenta poderosa para lidar com situações em que informações contraditórias ou incertas são inevitáveis. Setores críticos como saúde, finanças e jurídico frequentemente enfrentam cenários nos quais decisões precisam ser tomadas mesmo diante de dados conflitantes ou incompletos. A seguir, apresentamos exemplos práticos de como sistemas de tomada de decisão baseados em lógica paraconsistente podem ser aplicados nesses contextos.
 
----
+___
 
 ### 1. Saúde
 
@@ -16,7 +16,7 @@ No ambiente hospitalar, é comum que diferentes exames, opiniões de especialist
 - Isso permite que o sistema apresente ao médico não apenas uma resposta binária (doença presente/ausente), mas um espectro de possibilidades, indicando quais diagnósticos são mais prováveis mesmo diante de inconsistências nos dados.
 - **Exemplo prático:** Um sistema de triagem em pronto-socorro pode utilizar lógica paraconsistente para priorizar pacientes, mesmo quando sintomas e exames apresentam resultados ambíguos ou conflitantes.
 
----
+___
 
 ### 2. Finanças
 
@@ -29,7 +29,7 @@ No setor financeiro, decisões como concessão de crédito ou detecção de frau
 - Na **detecção de fraudes**, a lógica paraconsistente permite que sistemas de monitoramento considerem simultaneamente indícios conflitantes (transações suspeitas versus histórico confiável), reduzindo tanto falsos positivos quanto falsos negativos.
 - **Exemplo prático:** Um banco pode empregar um sistema paraconsistente para decidir sobre a aprovação de um empréstimo, levando em conta relatórios contraditórios sem descartar informações relevantes.
 
----
+___
 
 ### 3. Jurídico
 
@@ -42,11 +42,10 @@ O setor jurídico lida frequentemente com depoimentos, documentos e evidências 
 - Isso permite que juízes e advogados tenham uma visão mais completa do caso, considerando todas as informações disponíveis, mesmo que conflitantes.
 - **Exemplo prático:** Em processos de arbitragem, sistemas baseados em lógica paraconsistente podem auxiliar na ponderação de argumentos das partes, facilitando a resolução de disputas complexas.
 
----
+___
 
 ## Considerações Finais
 
 A adoção da lógica paraconsistente em sistemas de tomada de decisão representa um avanço significativo para setores críticos, onde a robustez diante de informações contraditórias é essencial. Ao permitir que decisões sejam tomadas de forma mais informada e segura, mesmo em cenários de incerteza, a lógica paraconsistente contribui para a melhoria da qualidade dos serviços e para a redução de riscos em áreas sensíveis da sociedade.
 
----
-```
+

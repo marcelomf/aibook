@@ -55,6 +55,6 @@ Embora o uso de lógica paraconsistente em ferramentas de verificação formal a
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. Notre Dame Journal of Formal Logic, 34(4), 619-629.**
 - **Batens, D. (2000). A survey of inconsistency-adaptive logics. In Frontiers of paraconsistent logic (pp. 49-73).**
 
----
+___
 
 Ferramentas de verificação formal baseadas em lógica paraconsistente representam uma fronteira promissora para a ciência da computação, oferecendo soluções inovadoras para os desafios impostos pela inconsistência em sistemas complexos.

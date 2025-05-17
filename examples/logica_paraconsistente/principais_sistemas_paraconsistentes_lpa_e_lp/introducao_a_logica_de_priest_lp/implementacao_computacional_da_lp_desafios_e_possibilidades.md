@@ -67,9 +67,9 @@ Algumas ferramentas e frameworks já oferecem suporte à lógica paraconsistente
 
 A implementação computacional da Lógica de Priest (LP) representa um avanço significativo para o tratamento de inconsistências em sistemas inteligentes. Embora apresente desafios técnicos, as possibilidades abertas por essa abordagem são vastas, especialmente em áreas onde a contradição é inevitável ou inerente ao domínio de aplicação. O desenvolvimento contínuo de algoritmos, estruturas de dados e ferramentas específicas para a LP tende a ampliar ainda mais seu impacto na ciência da computação, inteligência artificial e áreas correlatas.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6).
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

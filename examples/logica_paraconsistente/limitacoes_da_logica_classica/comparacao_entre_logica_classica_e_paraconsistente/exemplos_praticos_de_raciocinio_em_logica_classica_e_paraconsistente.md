@@ -3,7 +3,7 @@
 
 A compreensão das diferenças entre a lógica clássica e a lógica paraconsistente é fundamental para perceber suas aplicações e limitações no tratamento de informações contraditórias. A seguir, apresentamos exemplos práticos que ilustram como cada abordagem lida com situações de inconsistência.
 
----
+
 
 ## 1. Exemplo em Lógica Clássica
 
@@ -23,7 +23,7 @@ Segundo o **princípio da explosão** (ex contradictione sequitur quodlibet), um
 **Resumo:**  
 Na lógica clássica, a presença de contradições torna o sistema trivial, pois qualquer afirmação pode ser considerada verdadeira.
 
----
+
 
 ## 2. Exemplo em Lógica Paraconsistente
 
@@ -42,7 +42,7 @@ A lógica paraconsistente permite que F ("O paciente tem febre") e ¬F ("O pacie
 **Resumo:**  
 Na lógica paraconsistente, contradições são toleradas e tratadas de forma controlada, permitindo que o raciocínio continue de maneira útil e não trivial.
 
----
+
 
 ## 3. Exemplo em Bancos de Dados
 
@@ -63,7 +63,7 @@ Um banco de dados recebe dois registros para o mesmo cliente:
 - Pode permitir consultas que retornem ambos os endereços, ou indicar que há dúvida sobre o endereço correto.
 - O processamento de outras informações do cliente pode continuar normalmente, sem que a inconsistência contamine todo o banco de dados.
 
----
+
 
 ## 4. Exemplo em Inteligência Artificial
 
@@ -83,11 +83,11 @@ Um sistema de recomendação recebe avaliações contraditórias sobre um produt
 - O sistema pode reconhecer a existência de opiniões conflitantes e, em vez de ignorar uma delas, pode apresentar ao usuário final que há **divergência significativa** nas avaliações.
 - Pode sugerir que o produto é **controverso** ou recomendar com base em outros critérios, sem descartar informações relevantes.
 
----
+
 
 ## Conclusão
 
 A lógica clássica é poderosa, mas limitada quando confrontada com contradições, pois não oferece mecanismos para lidar com inconsistências sem comprometer todo o sistema. Já a lógica paraconsistente permite que sistemas continuem operando de forma útil mesmo diante de informações contraditórias, sendo especialmente valiosa em contextos como bancos de dados, inteligência artificial e sistemas de tomada de decisão.
 
 Esses exemplos práticos demonstram a importância da lógica paraconsistente para aplicações modernas, onde a informação pode ser incompleta, incerta ou contraditória, e a necessidade de raciocínio robusto é cada vez maior.
-```
+

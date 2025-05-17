@@ -73,7 +73,7 @@ A lógica paraconsistente pode ser incorporada a sistemas de aprendizado de máq
 
 O raciocínio paraconsistente representa um avanço significativo para o desenvolvimento de sistemas de aprendizado de máquina mais flexíveis, confiáveis e adaptados à complexidade do mundo real. Ao permitir que algoritmos lidem de forma controlada com contradições e incertezas, a lógica paraconsistente amplia o alcance e a aplicabilidade da inteligência artificial em domínios críticos e sensíveis à qualidade da informação.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics in Artificial Intelligence."

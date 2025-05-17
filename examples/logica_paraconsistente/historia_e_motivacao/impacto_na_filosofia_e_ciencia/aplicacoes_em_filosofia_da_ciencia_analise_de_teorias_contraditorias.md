@@ -48,4 +48,4 @@ A lógica paraconsistente representa uma ferramenta poderosa para a filosofia da
 - Newton da Costa & Steven French, *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*  
 - Otávio Bueno, *Paraconsistency and the Philosophy of Science*  
 - Imre Lakatos, *The Methodology of Scientific Research Programmes*
-```
+

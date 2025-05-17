@@ -35,7 +35,7 @@ Além de casos específicos, foram incluídos exemplos com potencial de generali
 
 Por fim, considerou-se a disponibilidade de informações detalhadas sobre cada estudo de caso, incluindo dados, metodologia e resultados. Isso permite uma análise mais aprofundada e transparente, possibilitando que o leitor compreenda não apenas a aplicação da lógica paraconsistente, mas também os impactos e limitações de cada abordagem.
 
----
+___
 
 A adoção desses critérios assegura que os estudos de caso apresentados neste eBook não apenas ilustrem a teoria, mas também inspirem o leitor a explorar e aplicar a lógica paraconsistente em diferentes domínios do conhecimento e da prática profissional.
-```
+

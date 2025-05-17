@@ -46,7 +46,7 @@ A LP utiliza tabelas-verdade modificadas para os conectivos lógicos. Veja, por 
 ### Negação (¬)
 
 | P | ¬P |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | B | B  |
@@ -54,7 +54,7 @@ A LP utiliza tabelas-verdade modificadas para os conectivos lógicos. Veja, por 
 ### Conjunção (∧)
 
 | P | Q | P ∧ Q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | F     |
 | V | B | B     |
@@ -68,7 +68,7 @@ A LP utiliza tabelas-verdade modificadas para os conectivos lógicos. Veja, por 
 ### Disjunção (∨)
 
 | P | Q | P ∨ Q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | V     |
 | V | B | V     |
@@ -150,8 +150,8 @@ Na LP, podemos atribuir o valor **B** à proposição "Cliente está ativo", per
 
 A Lógica de Priest (LP) permite representar e manipular proposições contraditórias de forma controlada, sem que o sistema lógico se torne trivial. Os exemplos acima mostram como a LP lida com proposições e deduções em situações de inconsistência, sendo especialmente útil em contextos como bancos de dados, inteligência artificial e sistemas de tomada de decisão, onde informações contraditórias podem surgir naturalmente.
 
----
+
 **Referências:**
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

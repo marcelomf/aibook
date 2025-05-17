@@ -42,4 +42,4 @@ Apesar dos avanços, alguns desafios persistem, como a explicabilidade dos resul
 ### 4. Considerações Finais
 
 As perspectivas de superação das limitações atuais da lógica paraconsistente são animadoras. O contínuo avanço teórico, aliado ao progresso tecnológico, tende a consolidar a lógica paraconsistente como uma ferramenta indispensável para o tratamento de informações contraditórias em ambientes complexos e dinâmicos. A expectativa é que, nos próximos anos, novas aplicações surjam e a lógica paraconsistente se torne cada vez mais integrada ao cotidiano de sistemas inteligentes e de apoio à decisão.
-```
+

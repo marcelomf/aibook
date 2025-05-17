@@ -53,7 +53,7 @@ Apesar de suas vantagens, a aplicação da lógica paraconsistente à análise d
 
 No entanto, o avanço das pesquisas em lógica paraconsistente e suas aplicações em linguística, ciência da computação e inteligência artificial aponta para um futuro promissor, em que a análise de discursos contraditórios será cada vez mais precisa, automatizada e útil para a compreensão dos fenômenos comunicativos complexos.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -61,7 +61,7 @@ No entanto, o avanço das pesquisas em lógica paraconsistente e suas aplicaçõ
 - Beziau, J.-Y. (2012). Paraconsistent logic: Consistency, contradiction and negation. *Springer*.
 - Batens, D. (2002). Inconsistency-adaptive logics. In *Handbook of Philosophical Logic*.
 
----
+___
 
 **Resumo:**  
 A lógica paraconsistente oferece uma abordagem inovadora e eficaz para a análise de discursos contraditórios, permitindo que inconsistências sejam tratadas de forma controlada e produtiva. Sua aplicação em linguística e semântica amplia as possibilidades de compreensão e modelagem dos fenômenos discursivos, tornando-se uma ferramenta valiosa para pesquisadores e profissionais das áreas de linguagem, comunicação e tecnologia.

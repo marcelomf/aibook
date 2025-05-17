@@ -48,7 +48,7 @@ A flexibilidade da lógica paraconsistente pode ser explorada de forma maliciosa
 
 A ausência de padrões amplamente aceitos para a implementação de sistemas paraconsistentes pode dificultar a integração com outros sistemas e a avaliação de conformidade legal e ética.
 
----
+___
 
 ## **Considerações Finais**
 
@@ -58,4 +58,4 @@ O uso da lógica paraconsistente em setores críticos deve ser acompanhado de um
 - Floridi, L. (2019). *The Logic of Information: A Theory of Philosophy as Conceptual Design*. Oxford University Press.  
 - LGPD (Lei Geral de Proteção de Dados Pessoais) – Lei nº 13.709/2018  
 - European Commission. (2021). *Ethics Guidelines for Trustworthy AI*.
-```
+

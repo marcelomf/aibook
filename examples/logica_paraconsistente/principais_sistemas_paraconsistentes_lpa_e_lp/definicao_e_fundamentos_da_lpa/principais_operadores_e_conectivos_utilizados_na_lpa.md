@@ -79,7 +79,7 @@ Esses operadores são fundamentais para a tomada de decisão em sistemas baseado
 ## 3. Tabela-Resumo dos Operadores
 
 | Operador         | Definição na LPA                                 |
-|------------------|-------------------------------------------------|
+||-|
 | Negaçao (¬)      | ¬P(μ, λ) = P(λ, μ)                              |
 | Conjunção (∧)    | (P ∧ Q) = (min(μ1, μ2), max(λ1, λ2))            |
 | Disjunção (∨)    | (P ∨ Q) = (max(μ1, μ2), min(λ1, λ2))            |
@@ -91,9 +91,9 @@ Esses operadores são fundamentais para a tomada de decisão em sistemas baseado
 
 Os operadores e conectivos da LPA permitem manipular informações contraditórias de maneira formal e controlada, sendo especialmente úteis em aplicações como bancos de dados inconsistentes, sistemas especialistas e inteligência artificial. O entendimento desses operadores é fundamental para o uso efetivo da LPA em problemas reais, onde a contradição não pode ser simplesmente ignorada ou eliminada.
 
----
+
 **Referências:**
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics: Consistency, Contradiction and Negation. In *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. In *Frontiers of Paraconsistent Logic*.
 - Silva Filho, J. I. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*.
-```
+

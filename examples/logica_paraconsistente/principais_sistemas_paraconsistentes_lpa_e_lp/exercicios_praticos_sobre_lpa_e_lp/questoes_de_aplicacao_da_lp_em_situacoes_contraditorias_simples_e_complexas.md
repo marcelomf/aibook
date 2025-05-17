@@ -3,7 +3,7 @@
 
 A **Lógica de Priest (LP)**, também conhecida como Lógica Paraconsistente de Priest, é um dos sistemas paraconsistentes mais estudados e aplicados. Ela foi desenvolvida para permitir o raciocínio em contextos onde contradições podem surgir, sem que isso leve à trivialização do sistema lógico (ou seja, sem que qualquer proposição se torne automaticamente verdadeira). Neste tópico, exploraremos como a LP pode ser aplicada em situações contraditórias, tanto simples quanto complexas, por meio de exemplos práticos e questões de aplicação.
 
----
+
 
 ## 1. Revisão: O que é a Lógica de Priest (LP)?
 
@@ -14,7 +14,7 @@ A LP é uma lógica proposicional paraconsistente que rejeita o princípio da ex
   - Falso (F)
   - Ambos (V e F) — para proposições contraditórias
 
----
+
 
 ## 2. Situações Contraditórias Simples
 
@@ -40,7 +40,7 @@ Se o sistema precisa decidir se concede crédito a João, como a LP pode ajudar?
 **Resposta:**  
 A LP permite que o sistema identifique a contradição sem tomar uma decisão precipitada. O sistema pode, por exemplo, sinalizar a inconsistência para revisão manual ou aplicar regras específicas para casos contraditórios, sem comprometer a integridade das decisões para outros clientes.
 
----
+
 
 ## 3. Situações Contraditórias Complexas
 
@@ -72,7 +72,7 @@ A LP permite que o sistema reconheça a contradição sobre o sintoma X e, ao in
 
 Assim, a LP oferece uma base lógica para lidar com incertezas e inconsistências comuns em ambientes complexos, como a medicina.
 
----
+
 
 ## 4. Exercícios de Aplicação
 
@@ -86,7 +86,7 @@ Em um sistema de cadastro, consta que "Maria é funcionária" (F) e "Maria não 
 **Resposta Esperada:**  
 A LP aceita que F e ¬F podem ser ambos verdadeiros. Não é possível inferir qualquer outra proposição arbitrária sobre Maria, mas a contradição pode ser sinalizada para revisão.
 
----
+
 
 ### Exercício 2: Situação Complexa
 
@@ -102,7 +102,7 @@ Em um sistema de controle de acesso, temos as seguintes informações:
 **Resposta Esperada:**  
 A LP reconhece a contradição entre P e ¬P. O sistema pode evitar conceder ou negar acesso automaticamente, optando por uma revisão manual ou por regras específicas para casos contraditórios, sem comprometer a segurança do sistema.
 
----
+
 
 ## 5. Considerações Finais
 
@@ -112,5 +112,4 @@ A Lógica de Priest (LP) é uma ferramenta poderosa para lidar com contradiçõe
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
-```
+

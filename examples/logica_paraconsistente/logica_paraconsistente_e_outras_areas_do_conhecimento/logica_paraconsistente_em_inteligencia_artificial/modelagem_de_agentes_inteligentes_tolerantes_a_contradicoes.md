@@ -4,7 +4,7 @@ A inteligência artificial (IA) tem avançado rapidamente, impulsionando aplica�
 
 Nesse contexto, a **lógica paraconsistente** surge como uma poderosa ferramenta para a modelagem de agentes inteligentes tolerantes a contradições. Este tópico explora como a lógica paraconsistente pode ser empregada na construção de agentes capazes de operar de forma robusta mesmo diante de informações conflitantes.
 
----
+___
 
 ## 1. Desafios das Contradições em Inteligência Artificial
 
@@ -17,7 +17,7 @@ Em ambientes reais, agentes inteligentes frequentemente recebem informações de
 
 Na lógica clássica, a presença de uma contradição pode comprometer todo o raciocínio do agente, tornando-o incapaz de tomar decisões confiáveis.
 
----
+___
 
 ## 2. Lógica Paraconsistente: Fundamentos para Agentes Inteligentes
 
@@ -29,7 +29,7 @@ A lógica paraconsistente permite que sistemas lógicos manipulem contradições
 
 Entre os sistemas paraconsistentes mais utilizados na IA, destacam-se a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**, que oferecem mecanismos formais para representar e manipular graus de verdade, falsidade e inconsistência.
 
----
+___
 
 ## 3. Arquitetura de Agentes Tolerantes a Contradições
 
@@ -50,7 +50,7 @@ A modelagem de agentes inteligentes tolerantes a contradições pode ser estrutu
 - **Avaliação de confiabilidade:** O agente pode ponderar diferentes alternativas com base no grau de inconsistência das informações.
 - **Ações robustas:** O agente pode optar por ações mais seguras quando confrontado com informações altamente contraditórias.
 
----
+___
 
 ## 4. Exemplos Práticos
 
@@ -76,7 +76,7 @@ Em negociações automáticas, agentes podem receber propostas e contra-proposta
 - Rastrear a origem das contradições.
 - Propor soluções de compromisso ou solicitar esclarecimentos.
 
----
+___
 
 ## 5. Vantagens e Limitações
 
@@ -91,13 +91,13 @@ Em negociações automáticas, agentes podem receber propostas e contra-proposta
 - **Complexidade computacional:** Algoritmos paraconsistentes podem ser mais custosos.
 - **Necessidade de modelagem cuidadosa:** A representação e o tratamento de contradições exigem atenção para evitar ambiguidades.
 
----
+___
 
 ## 6. Perspectivas Futuras
 
 A modelagem de agentes inteligentes tolerantes a contradições é uma área em expansão, com aplicações promissoras em sistemas autônomos, internet das coisas, big data e inteligência coletiva. A integração da lógica paraconsistente com técnicas de aprendizado de máquina e raciocínio probabilístico é um campo de pesquisa ativo, visando criar agentes cada vez mais adaptativos e confiáveis.
 
----
+___
 
 ## Referências para Leitura Adicional
 
@@ -105,6 +105,6 @@ A modelagem de agentes inteligentes tolerantes a contradições é uma área em 
 - **da Costa, N. C. A. (1974).** On the Theory of Inconsistent Formal Systems. *Notre Dame Journal of Formal Logic*.
 - **Subrahmanian, V. S. (1994).** Paraconsistent Logics in Artificial Intelligence. *Artificial Intelligence*.
 
----
+___
 
 A lógica paraconsistente oferece, portanto, uma base sólida para a construção de agentes inteligentes capazes de enfrentar os desafios do mundo real, onde a contradição é muitas vezes inevitável.

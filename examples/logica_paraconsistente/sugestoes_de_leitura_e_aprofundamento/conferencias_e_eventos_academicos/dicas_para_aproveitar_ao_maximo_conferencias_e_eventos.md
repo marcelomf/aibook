@@ -3,7 +3,7 @@
 
 Participar de conferências e eventos acadêmicos é uma excelente oportunidade para expandir conhecimentos, estabelecer conexões profissionais e se atualizar sobre as tendências e pesquisas mais recentes em Lógica Paraconsistente e áreas afins. Para que a experiência seja realmente proveitosa, é importante adotar algumas estratégias antes, durante e após o evento. A seguir, apresentamos dicas práticas para maximizar seu aproveitamento:
 
----
+
 
 ## 1. **Planeje com Antecedência**
 
@@ -11,7 +11,7 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Estude a programação:** Analise a grade de palestras, minicursos, painéis e sessões de pôsteres. Identifique os temas e palestrantes de maior interesse para seu perfil acadêmico ou profissional.
 - **Inscreva-se com antecedência:** Muitas conferências oferecem descontos para inscrições antecipadas e vagas limitadas em workshops ou sessões especiais.
 
----
+
 
 ## 2. **Prepare-se para o Evento**
 
@@ -19,7 +19,7 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Defina objetivos claros:** Estabeleça metas, como aprender sobre determinado sistema paraconsistente, conhecer possíveis colaboradores ou buscar orientações para pesquisas futuras.
 - **Prepare perguntas:** Elabore questões relevantes para fazer durante as sessões, enriquecendo sua participação e visibilidade.
 
----
+
 
 ## 3. **Durante o Evento**
 
@@ -28,14 +28,14 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Anote informações importantes:** Registre ideias, referências bibliográficas, insights e contatos para consulta posterior.
 - **Visite sessões de pôsteres:** Muitas pesquisas inovadoras são apresentadas em pôsteres. Converse com os autores e explore novas perspectivas.
 
----
+
 
 ## 4. **Aproveite as Atividades Sociais**
 
 - **Participe de coffee breaks, almoços e eventos sociais:** Esses momentos informais são ideais para conhecer pesquisadores, professores e profissionais de diferentes instituições.
 - **Compartilhe experiências:** Troque impressões sobre as palestras e busque recomendações de leitura ou pesquisa.
 
----
+
 
 ## 5. **Após o Evento**
 
@@ -44,7 +44,7 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Compartilhe o conhecimento:** Apresente um resumo do evento para colegas, grupos de estudo ou em redes sociais acadêmicas, consolidando o aprendizado e ampliando o impacto da sua participação.
 - **Acompanhe publicações:** Muitos eventos disponibilizam anais, vídeos ou materiais complementares. Aproveite para revisar conteúdos e acessar trabalhos apresentados.
 
----
+
 
 ## 6. **Dicas Extras para Conferências Online**
 
@@ -52,7 +52,7 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Participe dos fóruns virtuais:** Use chats, fóruns e grupos de discussão para interagir com outros participantes.
 - **Grave sessões (quando permitido):** Assim, você pode rever conteúdos posteriormente.
 
----
+
 
 ## 7. **Sugestões de Eventos em Lógica Paraconsistente e Áreas Relacionadas**
 
@@ -61,7 +61,7 @@ Participar de conferências e eventos acadêmicos é uma excelente oportunidade 
 - **Encontros da Sociedade Brasileira de Lógica (SBL)**
 - **Workshops em Inteligência Artificial e Raciocínio Não Clássico**
 
----
+
 
 Participar de conferências e eventos acadêmicos é um investimento valioso para quem deseja se aprofundar em Lógica Paraconsistente e ampliar sua atuação na comunidade científica. Com planejamento e participação ativa, você potencializa o aprendizado, constrói uma rede de contatos sólida e se mantém atualizado sobre as inovações da área.
-```
+

@@ -59,7 +59,7 @@ Apesar de seu potencial, a teoria dos conjuntos paraconsistente ainda enfrenta d
 
 A lógica paraconsistente oferece uma abordagem inovadora para a teoria dos conjuntos, permitindo a existência e o estudo de conjuntos inconsistentes sem que isso leve à trivialização do sistema. Essa perspectiva amplia as possibilidades de investigação matemática e tem implicações profundas para a filosofia, ciência da computação e outras áreas do conhecimento. O desenvolvimento de teorias dos conjuntos não clássicas baseadas em lógica paraconsistente é um campo ativo e promissor, que desafia e expande os limites tradicionais da matemática.
 
----
+___
 
 **Sugestão de leitura complementar:**
 
@@ -67,6 +67,6 @@ A lógica paraconsistente oferece uma abordagem inovadora para a teoria dos conj
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli e João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
 
----
+___
 
 *Este texto faz parte do capítulo "Lógica Paraconsistente e Outras Áreas do Conhecimento" do eBook "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso".*

@@ -9,7 +9,7 @@ A lógica clássica, base do raciocínio tradicional, não tolera contradições
 
 Os exercícios a seguir exploram cenários reais e simulados, incentivando o leitor a aplicar ambos os paradigmas e refletir sobre os resultados obtidos.
 
----
+___
 
 ## Exercício 1: Banco de Dados Inconsistente
 
@@ -31,7 +31,7 @@ Um banco de dados de clientes apresenta as seguintes informações contraditóri
 **Discussão:**  
 - Compare as respostas e discuta qual abordagem é mais adequada para sistemas que lidam com dados reais e sujeitos a inconsistências.
 
----
+___
 
 ## Exercício 2: Diagnóstico Médico Automatizado
 
@@ -53,7 +53,7 @@ Um sistema de apoio à decisão médica recebe os seguintes laudos para um pacie
 **Discussão:**  
 - Analise os riscos e benefícios de cada abordagem no contexto da saúde.
 
----
+___
 
 ## Exercício 3: Resolução de Conflitos em Inteligência Artificial
 
@@ -73,7 +73,7 @@ Um agente inteligente recebe as seguintes informações de duas fontes distintas
 **Discussão:**  
 - Reflita sobre a importância da tolerância à inconsistência em sistemas autônomos.
 
----
+___
 
 ## Orientações para Resolução
 
@@ -83,7 +83,7 @@ Um agente inteligente recebe as seguintes informações de duas fontes distintas
 - **Compare** os resultados, destacando as vantagens e desvantagens de cada abordagem.
 - **Discuta** possíveis aplicações práticas e implicações para o desenvolvimento de sistemas robustos.
 
----
+___
 
 ## Conclusão
 
@@ -92,5 +92,4 @@ A realização desses exercícios permite ao leitor compreender, de forma práti
 **Sugestão:**  
 Após resolver os exercícios, consulte as referências e leituras recomendadas para aprofundar o entendimento sobre os fundamentos e aplicações da lógica paraconsistente.
 
----
-```
+

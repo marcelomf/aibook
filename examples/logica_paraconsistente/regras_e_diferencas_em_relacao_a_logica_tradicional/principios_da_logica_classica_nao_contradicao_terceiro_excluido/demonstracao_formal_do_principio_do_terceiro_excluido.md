@@ -25,7 +25,7 @@ A demonstração do princípio do terceiro excluído pode ser feita utilizando a
 Vamos construir a tabela-verdade para \( P \vee \neg P \):
 
 | \( P \) | \( \neg P \) | \( P \vee \neg P \) |
-|:-------:|:------------:|:-------------------:|
+|:-:|::|:-:|
 |   V     |      F       |         V           |
 |   F     |      V       |         V           |
 

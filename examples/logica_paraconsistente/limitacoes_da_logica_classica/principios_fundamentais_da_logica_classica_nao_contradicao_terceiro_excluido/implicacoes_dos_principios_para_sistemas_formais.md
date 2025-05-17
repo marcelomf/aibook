@@ -59,8 +59,8 @@ As limitações impostas pelos princípios da lógica clássica motivaram o dese
 
 Os princípios da não contradição e do terceiro excluído são pilares da lógica clássica e dos sistemas formais tradicionais. Eles garantem rigor e clareza, mas também impõem restrições que podem ser problemáticas em contextos de incerteza ou contradição. O reconhecimento dessas limitações é fundamental para a evolução de sistemas formais mais flexíveis, como os baseados em lógica paraconsistente, capazes de lidar com a complexidade do mundo real.
 
----
+
 **Sugestão de leitura:**  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.  
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
-```
+

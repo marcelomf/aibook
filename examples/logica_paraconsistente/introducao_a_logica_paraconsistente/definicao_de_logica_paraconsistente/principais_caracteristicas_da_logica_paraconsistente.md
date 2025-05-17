@@ -40,7 +40,7 @@ Existem vários sistemas de lógica paraconsistente, cada um com suas próprias 
 
 A lógica paraconsistente está relacionada a outros sistemas não clássicos, como a **lógica intuicionista** e a **lógica relevante**, mas se diferencia por seu foco específico na gestão de contradições sem explosão.
 
----
+___
 
 Em resumo, a lógica paraconsistente representa uma abordagem inovadora e prática para o tratamento de inconsistências, oferecendo ferramentas teóricas e aplicadas para raciocinar de forma robusta em ambientes complexos e contraditórios. Sua principal característica é a recusa do princípio da explosão, permitindo que sistemas lógicos permaneçam úteis e confiáveis mesmo diante de contradições inevitáveis no mundo real.
-```
+

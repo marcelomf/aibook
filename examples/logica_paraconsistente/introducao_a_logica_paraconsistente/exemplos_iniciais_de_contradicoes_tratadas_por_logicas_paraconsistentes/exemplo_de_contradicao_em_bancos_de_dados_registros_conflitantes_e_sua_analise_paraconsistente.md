@@ -8,7 +8,7 @@ No contexto de bancos de dados, a integridade e a consistência das informaçõe
 Considere um banco de dados de clientes de uma empresa. Suponha que, após a integração de dados de duas filiais, encontramos os seguintes registros para o mesmo cliente:
 
 | ID_Cliente | Nome         | Endereço                | Telefone      |
-|------------|--------------|-------------------------|---------------|
+|____________|____________--|________________________-|_______________|
 | 123        | Ana Pereira  | Rua das Flores, 100     | (11) 99999-0001 |
 | 123        | Ana Pereira  | Av. Central, 200        | (11) 99999-0001 |
 
@@ -50,9 +50,9 @@ Ao detectar a contradição (dois endereços para o mesmo cliente), a lógica pa
 
 A análise paraconsistente de registros conflitantes em bancos de dados representa um avanço significativo em relação à abordagem clássica, pois permite lidar com a complexidade e a imperfeição inerentes a sistemas de informação reais. Ao reconhecer e tratar contradições de forma controlada, a lógica paraconsistente contribui para a construção de sistemas mais robustos, flexíveis e confiáveis, especialmente em ambientes onde a integridade absoluta dos dados nem sempre pode ser garantida.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

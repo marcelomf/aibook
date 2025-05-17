@@ -5,7 +5,7 @@ A **Lógica de Priest (LP)**, também conhecida como Lógica Paraconsistente de 
 
 Neste tópico, apresentamos um exemplo prático de aplicação da LP em situações contraditórias, destacando como esse sistema lógico pode ser utilizado para tratar informações inconsistentes de maneira controlada e útil.
 
----
+
 
 ## Contexto: Gerenciamento de Informações em Bancos de Dados
 
@@ -20,7 +20,7 @@ Imagine um sistema de gerenciamento de banco de dados de uma grande empresa, ond
 
 Na lógica clássica, a presença dessas duas afirmações contraditórias (`P` e `¬P`) levaria à explosão lógica: qualquer proposição poderia ser inferida como verdadeira, tornando o sistema inútil para tomada de decisão.
 
----
+
 
 ## Aplicação da LP: Tratando a Contradição
 
@@ -45,7 +45,7 @@ Na LP, a contradição não implica trivialidade. O sistema permite que tanto `P
      - Solicitar confirmação de ambos os departamentos.
      - Registrar o estado como "indeterminado" até que a contradição seja resolvida.
 
----
+
 
 ## Benefícios da Abordagem Paraconsistente
 
@@ -53,9 +53,9 @@ Na LP, a contradição não implica trivialidade. O sistema permite que tanto `P
 - **Transparência:** As contradições são explicitamente identificadas e tratadas, em vez de mascaradas ou ignoradas.
 - **Flexibilidade:** Permite a implementação de políticas de resolução de conflitos adaptadas ao contexto da organização.
 
----
+
 
 ## Conclusão
 
 A aplicação da Lógica de Priest (LP) em situações contraditórias, como no gerenciamento de bancos de dados, demonstra sua utilidade prática. Ao permitir que contradições coexistam sem levar à trivialidade, a LP oferece uma base sólida para sistemas que precisam lidar com informações inconsistentes de forma controlada, transparente e eficiente. Essa abordagem é especialmente relevante em ambientes complexos, onde a integridade e a continuidade do raciocínio são essenciais, mesmo diante de dados conflitantes.
-```
+

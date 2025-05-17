@@ -46,11 +46,10 @@ A lógica paraconsistente, por ser um campo interdisciplinar e relativamente rec
 - **Associação de Lógica, Metodologia e Filosofia da Ciência (ALFMC):**  
   Promove eventos internacionais e divulga pesquisas em lógica paraconsistente, incentivando a colaboração entre pesquisadores de diferentes países.
 
----
+
 
 ### Conclusão
 
 As iniciativas de divulgação científica em lógica paraconsistente têm desempenhado papel fundamental na democratização do conhecimento, aproximando a pesquisa de ponta do público interessado e estimulando novas aplicações e colaborações. Seja por meio de portais, eventos, cursos ou comunidades online, o acesso a informações confiáveis e atualizadas sobre lógica paraconsistente nunca foi tão amplo, contribuindo para o avanço da área e sua inserção em contextos práticos e interdisciplinares.
 
 **Sugestão:** Para se manter atualizado, recomenda-se acompanhar os portais dos principais grupos de pesquisa, participar de eventos e integrar comunidades online, aproveitando a riqueza de materiais disponíveis em português e em outras línguas.
-```

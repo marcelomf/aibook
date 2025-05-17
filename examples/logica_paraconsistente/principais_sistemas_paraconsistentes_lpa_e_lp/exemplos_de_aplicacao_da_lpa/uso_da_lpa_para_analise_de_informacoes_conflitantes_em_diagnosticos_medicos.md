@@ -62,5 +62,4 @@ O uso da Lógica Paraconsistente Anotada representa um avanço significativo na 
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and their Applications."  
 - Abe, J. M., & Nakamatsu, K. (2016). "Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency."
 
----
-```
+

@@ -25,7 +25,7 @@ Um sistema de apoio à decisão médica recebe os seguintes laudos para um pacie
 2. Explique como a lógica paraconsistente permite que o sistema continue funcionando sem concluir que "qualquer coisa é verdadeira".
 3. Proponha uma estratégia para tomada de decisão diante dessa contradição.
 
----
+
 
 ### Exercício 2: Banco de Dados Inconsistente
 
@@ -39,7 +39,7 @@ Considere um banco de dados de clientes com os seguintes registros para o mesmo 
 2. Mostre como consultas ao banco podem ser respondidas sem descartar toda a informação ou aceitar ambas como verdade absoluta.
 3. Sugira um procedimento para atualização ou reconciliação dos dados usando princípios paraconsistentes.
 
----
+
 
 ### Exercício 3: Inteligência Artificial e Contradição em Regras
 
@@ -55,7 +55,7 @@ O sensor X está ativado.
 2. Explique como o sistema pode lidar com a contradição sem entrar em colapso lógico.
 3. Discuta possíveis ações do sistema diante dessa situação.
 
----
+
 
 ### Exercício 4: Resolução de Conflitos em Informações
 
@@ -69,7 +69,7 @@ Duas fontes de informação sobre um evento afirmam:
 2. Analise como diferentes graus de confiabilidade das fontes podem ser incorporados ao modelo.
 3. Proponha uma decisão baseada na análise paraconsistente.
 
----
+
 
 ## 3. Dicas para Resolução
 
@@ -82,7 +82,7 @@ Duas fontes de informação sobre um evento afirmam:
 
 A formulação e resolução de problemas contraditórios são essenciais para compreender o potencial da lógica paraconsistente. Ao praticar com exemplos reais e simulados, o leitor desenvolve habilidades para aplicar essa lógica em contextos complexos, tornando-se apto a lidar com inconsistências de maneira produtiva e segura.
 
----
+
 
 **Sugestão:** Após resolver os exercícios, compare suas soluções com colegas ou consulte materiais de referência para aprofundar sua compreensão sobre as diferentes abordagens possíveis na lógica paraconsistente.
-```
+

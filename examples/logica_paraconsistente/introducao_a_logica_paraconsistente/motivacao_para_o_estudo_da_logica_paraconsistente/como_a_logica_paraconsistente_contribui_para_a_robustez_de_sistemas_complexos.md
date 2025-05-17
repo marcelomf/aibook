@@ -55,9 +55,9 @@ A lógica paraconsistente também se integra a outras áreas, como:
 
 A lógica paraconsistente representa um avanço significativo na construção de sistemas complexos, tornando-os mais **robustos, adaptáveis e confiáveis** diante de informações contraditórias. Ao permitir o processamento controlado de inconsistências, ela amplia as fronteiras do que é possível em bancos de dados, inteligência artificial, sistemas de decisão e além. Para engenheiros, cientistas e profissionais de tecnologia, compreender e aplicar a lógica paraconsistente é um passo fundamental para enfrentar os desafios dos sistemas modernos.
 
----
+___
 **Sugestão de leitura:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógicas Paraconsistentes*.  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

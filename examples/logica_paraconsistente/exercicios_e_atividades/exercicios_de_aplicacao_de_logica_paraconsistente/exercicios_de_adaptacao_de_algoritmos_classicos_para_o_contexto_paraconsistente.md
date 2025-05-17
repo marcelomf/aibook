@@ -2,7 +2,7 @@
 
 A adaptação de algoritmos clássicos para o contexto da lógica paraconsistente é um exercício fundamental para compreender como o raciocínio não clássico pode ser incorporado em sistemas computacionais e de tomada de decisão. A seguir, apresentamos uma série de exercícios práticos que desafiam o leitor a modificar algoritmos tradicionais, tornando-os capazes de lidar com informações contraditórias de maneira controlada, sem incorrer em trivialidade lógica.
 
----
+
 
 ## 1. **Adaptação do Algoritmo de Busca em Banco de Dados**
 
@@ -16,7 +16,7 @@ Adapte o algoritmo clássico de busca para que, ao encontrar contradições, ele
 **Exercício:**  
 Implemente, em pseudocódigo, a função `buscarStatusCliente(idCliente)` que retorna o status do cliente segundo a abordagem acima.
 
----
+
 
 ## 2. **Resolução Paraconsistente de Sistemas de Regras**
 
@@ -39,7 +39,7 @@ Adapte o algoritmo de inferência clássico para que, ao detectar contradição,
 
 Descreva o fluxo do algoritmo e a resposta para o caso acima.
 
----
+
 
 ## 3. **Algoritmo de Tomada de Decisão Paraconsistente**
 
@@ -55,7 +55,7 @@ Adapte o algoritmo clássico de tomada de decisão para que, ao receber informa�
 
 Implemente um pseudocódigo para o algoritmo adaptado.
 
----
+
 
 ## 4. **Classificação Paraconsistente em Machine Learning**
 
@@ -67,7 +67,7 @@ Adapte o algoritmo de votação majoritária para classificação, de modo que, 
 
 Descreva como o algoritmo deve ser modificado e exemplifique com um caso prático.
 
----
+
 
 ## 5. **Exercício de Reflexão: Vantagens e Desafios**
 
@@ -79,7 +79,7 @@ Após realizar os exercícios anteriores, reflita sobre:
 
 Escreva um breve texto (5 a 10 linhas) com sua análise.
 
----
+
 
 ## **Dicas para Resolução**
 
@@ -88,13 +88,13 @@ Escreva um breve texto (5 a 10 linhas) com sua análise.
 - Considere como representar, no código ou no fluxo do algoritmo, os estados "inconsistente", "contraditório" ou "indeterminado".
 - Pense em como essas adaptações podem ser úteis em aplicações reais, como bancos de dados, sistemas especialistas e inteligência artificial.
 
----
+
 
 ## **Sugestão de Leitura Complementar**
 
 - **Lógica Paraconsistente: Teoria e Aplicações** – Walter Carnielli, João Marcos, Marcelo E. Coniglio.
 - **Paraconsistent Logic: Consistency, Contradiction and Negation** – Koji Tanaka, Francesco Berto, Edwin Mares, Graham Priest.
 
----
+
 
 Esses exercícios proporcionam uma oportunidade prática de aplicar os conceitos da lógica paraconsistente, promovendo uma compreensão mais profunda de suas aplicações e desafios no contexto computacional e de tomada de decisão.

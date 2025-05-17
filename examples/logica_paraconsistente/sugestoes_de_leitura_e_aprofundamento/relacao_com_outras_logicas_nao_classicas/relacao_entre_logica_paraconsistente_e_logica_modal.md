@@ -53,4 +53,4 @@ Considere um sistema de banco de dados distribuído, onde diferentes fontes pode
 ## Conclusão
 
 A relação entre lógica paraconsistente e lógica modal é um campo fértil e em expansão, com aplicações teóricas e práticas relevantes. A integração dessas abordagens permite tratar sistemas complexos, nos quais contradições e modalidades coexistem, ampliando significativamente as possibilidades de modelagem e raciocínio em contextos reais.
-```
+

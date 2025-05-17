@@ -40,4 +40,4 @@ O avanço da lógica paraconsistente em IA depende de uma abordagem interdiscipl
 ### Considerações Finais
 
 A lógica paraconsistente oferece uma abordagem poderosa para enfrentar um dos grandes desafios da inteligência artificial: o tratamento de informações contraditórias e incertas. Apesar dos obstáculos técnicos e conceituais, as perspectivas futuras são animadoras, especialmente com o avanço de sistemas híbridos, o desenvolvimento de ferramentas especializadas e a crescente demanda por IA explicável e robusta. O contínuo investimento em pesquisa e desenvolvimento será fundamental para que a lógica paraconsistente desempenhe um papel central na próxima geração de sistemas inteligentes.
-```
+

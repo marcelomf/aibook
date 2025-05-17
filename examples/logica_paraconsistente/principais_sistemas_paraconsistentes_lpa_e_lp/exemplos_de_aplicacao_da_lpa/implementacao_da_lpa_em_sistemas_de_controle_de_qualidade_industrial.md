@@ -69,5 +69,4 @@ A implementação da LPA em sistemas de controle de qualidade industrial represe
 - Silva Filho, J. I., & da Costa, N. C. A. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*.
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
-```
+

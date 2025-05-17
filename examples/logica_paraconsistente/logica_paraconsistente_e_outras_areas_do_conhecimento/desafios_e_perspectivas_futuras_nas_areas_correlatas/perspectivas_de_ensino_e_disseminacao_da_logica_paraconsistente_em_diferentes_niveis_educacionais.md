@@ -52,4 +52,4 @@ Para ampliar a presença da lógica paraconsistente nos diferentes níveis educa
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, representa uma ferramenta poderosa para a formação de cidadãos críticos e preparados para os desafios do mundo contemporâneo. Sua disseminação em diferentes níveis educacionais depende de esforços conjuntos de pesquisadores, educadores e instituições, visando não apenas o domínio técnico, mas também a compreensão de sua relevância filosófica, científica e social.
 
 Com iniciativas inovadoras e colaborativas, é possível tornar a lógica paraconsistente cada vez mais acessível, contribuindo para a formação de uma sociedade mais reflexiva, criativa e apta a lidar com a complexidade da informação no século XXI.
-```
+

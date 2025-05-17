@@ -41,10 +41,10 @@ As críticas aos princípios fundamentais da lógica clássica não significam n
 
 Os princípios da não contradição e do terceiro excluído foram pilares da lógica clássica, mas enfrentam críticas filosóficas profundas, especialmente diante de paradoxos, contextos de incerteza e a complexidade do mundo real. O surgimento de lógicas não clássicas, como a lógica paraconsistente, representa uma resposta a essas críticas, permitindo um tratamento mais flexível e realista das contradições e incertezas.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Dummett, M. (1977). *Elements of Intuitionism*. Oxford University Press.
-```
+

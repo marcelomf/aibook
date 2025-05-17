@@ -4,7 +4,7 @@
 
 A identificação e classificação de exemplos em diferentes sistemas de lógica paraconsistente é uma habilidade fundamental para quem deseja compreender e aplicar essas lógicas em contextos práticos. Neste tópico, vamos explorar como distinguir entre os principais sistemas paraconsistentes — especialmente a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)** — e outros sistemas, a partir de exemplos e exercícios práticos.
 
----
+
 
 ## 1. Introdução aos Sistemas Paraconsistentes
 
@@ -14,7 +14,7 @@ Os sistemas de lógica paraconsistente foram desenvolvidos para lidar com situa�
 - **Lógica de Priest (LP):** Permite que proposições sejam simultaneamente verdadeiras e falsas, sem colapsar o sistema.
 - **Outros sistemas:** Incluem lógicas de relevância, lógicas de Belnap, lógicas de três valores, entre outras.
 
----
+
 
 ## 2. Características Distintivas dos Sistemas
 
@@ -36,7 +36,7 @@ Os sistemas de lógica paraconsistente foram desenvolvidos para lidar com situa�
 - **Lógicas de relevância:** Focam na relação entre premissas e conclusões, evitando inferências irrelevantes.
 - **Lógicas de três valores:** Introduzem um terceiro valor (por exemplo, "indeterminado").
 
----
+
 
 ## 3. Exemplos Práticos de Classificação
 
@@ -51,7 +51,7 @@ A seguir, apresentamos exemplos para que você pratique a identificação do sis
 **Resposta:**  
 A Lógica Paraconsistente Anotada (LPA) é a mais adequada, pois permite expressar o grau de evidência favorável e desfavorável simultaneamente, facilitando a análise de inconsistências.
 
----
+
 
 ### Exemplo 2
 
@@ -62,7 +62,7 @@ A Lógica Paraconsistente Anotada (LPA) é a mais adequada, pois permite express
 **Resposta:**  
 A Lógica de Priest (LP) é apropriada, pois permite que uma proposição seja simultaneamente verdadeira e falsa, sem que isso implique que qualquer proposição seja verdadeira (evitando a explosão lógica).
 
----
+
 
 ### Exemplo 3
 
@@ -73,7 +73,7 @@ A Lógica de Priest (LP) é apropriada, pois permite que uma proposição seja s
 **Resposta:**  
 A Lógica de Belnap é indicada, pois trabalha explicitamente com quatro valores de verdade: verdadeiro, falso, ambos e nenhum.
 
----
+
 
 ## 4. Exercícios Propostos
 
@@ -88,7 +88,7 @@ Dado o seguinte cenário:
 > a) Qual sistema paraconsistente é mais adequado para modelar essa situação?
 > b) Justifique sua resposta.
 
----
+
 
 ### Exercício 2
 
@@ -100,7 +100,7 @@ Considere a seguinte base de dados:
 > a) Qual sistema paraconsistente permite que ambas as informações coexistam sem que o sistema se torne trivial?
 > b) Explique como esse sistema lida com a contradição.
 
----
+
 
 ### Exercício 3
 
@@ -114,7 +114,7 @@ Em um sistema de controle de acesso, as informações podem ser:
 a) Qual sistema paraconsistente pode ser utilizado para modelar esses quatro estados?  
 b) Dê um exemplo de aplicação prática desse sistema.
 
----
+
 
 ## 5. Dicas para Classificação
 
@@ -123,12 +123,12 @@ b) Dê um exemplo de aplicação prática desse sistema.
 - **Se há mais de dois valores de verdade, considere lógicas de múltiplos valores (Belnap, três valores, etc.).**
 - **Considere o contexto da aplicação:** Controle, bancos de dados, IA, filosofia, etc.
 
----
+
 
 ## 6. Conclusão
 
 A correta identificação do sistema paraconsistente mais adequado para cada situação é essencial para o sucesso na modelagem e resolução de problemas envolvendo informações contraditórias. Praticar a classificação de exemplos ajuda a consolidar o entendimento das diferenças entre LPA, LP e outros sistemas, além de preparar o leitor para aplicações práticas em diversas áreas do conhecimento.
 
----
+
 
 **Sugestão:** Resolva os exercícios propostos e compare suas respostas com as explicações apresentadas neste capítulo. Isso ajudará a fixar os conceitos e a desenvolver a habilidade de identificar e aplicar sistemas paraconsistentes em situações reais.

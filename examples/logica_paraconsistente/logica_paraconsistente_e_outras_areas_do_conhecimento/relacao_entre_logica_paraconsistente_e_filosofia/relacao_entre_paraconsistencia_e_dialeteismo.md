@@ -44,9 +44,9 @@ A relação entre paraconsistência e dialeteísmo tem profundas implicações f
 
 A lógica paraconsistente e o dialeteísmo representam respostas inovadoras aos limites da lógica clássica diante de contradições. Enquanto a paraconsistência oferece uma estrutura formal para raciocinar em contextos contraditórios, o dialeteísmo propõe que algumas contradições são, de fato, verdadeiras. A interação entre esses conceitos continua a ser um campo fértil de pesquisa e debate na filosofia contemporânea, com impactos práticos em ciência da computação, matemática e teoria da informação.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Graham Priest, *In Contradiction: A Study of the Transconsistent*.
 - Newton da Costa, *Lógicas Paraconsistentes: Introdução e Aplicações*.
-```
+

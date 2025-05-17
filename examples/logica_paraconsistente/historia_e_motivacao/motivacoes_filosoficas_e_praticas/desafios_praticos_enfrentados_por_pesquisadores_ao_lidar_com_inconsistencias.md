@@ -41,7 +41,7 @@ Ao lidar com inconsistências, é fundamental que os resultados e decisões poss
 
 **Desafio:** Desenvolver mecanismos de explicação que tornem transparentes as razões pelas quais determinadas decisões foram tomadas, mesmo em contextos de contradição.
 
----
+___
 
 ## **O Papel da Lógica Paraconsistente**
 
@@ -53,11 +53,11 @@ A lógica paraconsistente surge como uma resposta a esses desafios, oferecendo f
 
 Ao adotar abordagens paraconsistentes, pesquisadores podem construir sistemas mais flexíveis, resilientes e alinhados com a complexidade do mundo real, onde a inconsistência é muitas vezes inevitável.
 
----
+___
 
 **Referências:**
 
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*, 15(4), 497-510.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

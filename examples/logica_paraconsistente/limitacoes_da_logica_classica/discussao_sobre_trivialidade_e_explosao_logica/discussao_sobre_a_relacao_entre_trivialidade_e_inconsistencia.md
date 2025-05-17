@@ -60,7 +60,7 @@ Isso tem profundas implicações práticas, permitindo, por exemplo:
 
 A relação entre trivialidade e inconsistência é um ponto central na discussão sobre os limites da lógica clássica. Enquanto na lógica clássica a presença de uma contradição leva inevitavelmente à trivialidade do sistema, lógicas alternativas como a paraconsistente buscam romper essa ligação, permitindo o tratamento controlado de inconsistências. Compreender essa relação é fundamental para o desenvolvimento de sistemas lógicos mais robustos e aplicáveis a contextos reais, onde a inconsistência é muitas vezes inevitável.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógica Paraconsistente: Essencial"

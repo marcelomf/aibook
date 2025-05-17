@@ -14,7 +14,7 @@ A lógica paraconsistente e a lógica intuicionista são dois importantes ramos 
 ### 2. **Princípios Lógicos Fundamentais**
 
 | Princípio                  | Lógica Clássica | Lógica Paraconsistente | Lógica Intuicionista |
-|----------------------------|:--------------:|:---------------------:|:-------------------:|
+|-|:--:|::|:-:|
 | Princípio da Não Contradição |      ✔️        |         ✔️*           |         ✔️          |
 | Princípio do Terceiro Excluído |      ✔️        |         ✔️            |         ❌           |
 | Princípio da Explosão      |      ✔️        |         ❌            |         ✔️          |
@@ -66,7 +66,7 @@ Considere um sistema de informações médicas onde, por erro, um paciente é re
 ### 6. **Resumo Comparativo**
 
 | Aspecto                | Lógica Paraconsistente         | Lógica Intuicionista           |
-|------------------------|-------------------------------|-------------------------------|
+||-|-|
 | Contradições           | Podem ser admitidas e tratadas| Não são admitidas              |
 | Princípio do Terceiro Excluído | Geralmente aceito           | Rejeitado                      |
 | Princípio da Explosão  | Rejeitado                     | Aceito                         |
@@ -77,11 +77,11 @@ Considere um sistema de informações médicas onde, por erro, um paciente é re
 
 A lógica paraconsistente e a lógica intuicionista representam abordagens distintas para os limites da lógica clássica. Enquanto a primeira busca **tolerar e gerenciar contradições**, a segunda **restringe o que pode ser considerado verdadeiro**, exigindo provas construtivas e rejeitando certos princípios clássicos. Ambas são fundamentais para o avanço da lógica, da matemática e da ciência da computação, cada uma respondendo a desafios específicos em suas áreas de aplicação.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Arend Heyting, "Intuitionism: An Introduction"
 - Graham Priest, "In Contradiction"
 - Jean-Yves Girard, "Proofs and Types"
-```
+

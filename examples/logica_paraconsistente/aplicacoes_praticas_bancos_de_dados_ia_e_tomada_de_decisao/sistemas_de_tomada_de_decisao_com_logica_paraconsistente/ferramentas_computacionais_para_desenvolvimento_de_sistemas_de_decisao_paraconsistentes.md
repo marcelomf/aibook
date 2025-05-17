@@ -79,10 +79,10 @@ O desenvolvimento de sistemas de decisão paraconsistentes ainda é um campo em 
 
 A adoção dessas ferramentas permite que profissionais e pesquisadores implementem sistemas de decisão mais flexíveis, capazes de lidar com a complexidade e a contradição inerentes a muitos domínios do conhecimento contemporâneo.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
-```
+

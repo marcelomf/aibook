@@ -4,7 +4,7 @@ A construção de tabelas verdade é uma ferramenta fundamental para analisar o 
 
 Neste tópico, você encontrará explicações, exemplos e exercícios práticos para construir e interpretar tabelas verdade em lógicas paraconsistentes.
 
----
+
 
 ## 1. Fundamentos das Tabelas Verdade Paraconsistentes
 
@@ -18,14 +18,14 @@ Na lógica clássica, uma proposição só pode ser **Verdadeira (V)** ou **Fals
 Por exemplo, na **Lógica de Priest (LP)**, os valores possíveis são:
 
 | Símbolo | Significado                        |
-|---------|------------------------------------|
+|||
 | V       | Verdadeiro                         |
 | F       | Falso                              |
 | A       | Ambos (Verdadeiro e Falso)         |
 
 Na **Lógica Paraconsistente Anotada (LPA)**, os valores podem ser representados por pares (μ, λ), onde μ indica o grau de evidência favorável e λ o grau de evidência contrária.
 
----
+
 
 ## 2. Exemplo de Tabela Verdade Paraconsistente (Lógica de Priest)
 
@@ -34,7 +34,7 @@ Considere as proposições **p** e **q**. Os valores possíveis para cada uma s�
 Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conjunção):
 
 | p | q | p ∧ q |
-|---|---|--------|
+|||--|
 | V | V |   V    |
 | V | F |   F    |
 | V | A |   A    |
@@ -49,7 +49,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 - Na LP, a conjunção de dois valores "Ambos" (A) resulta em "Ambos" (A).
 - Se um dos valores for F, a conjunção é F, exceto quando ambos são A.
 
----
+
 
 ## 3. Exercícios Práticos
 
@@ -61,19 +61,19 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 - A disjunção é verdadeira se pelo menos um dos valores for V ou A.
 - Se ambos forem F, o resultado é F.
 
----
+
 
 ### Exercício 2
 
 **Considere a negação (~p) na Lógica de Priest. Complete a tabela:**
 
 | p | ~p |
-|---|----|
+||-|
 | V | ?  |
 | F | ?  |
 | A | ?  |
 
----
+
 
 ### Exercício 3
 
@@ -86,14 +86,14 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 
 **Construa a tabela verdade para a conjunção (p ∧ q) considerando todos os pares possíveis.**
 
----
+
 
 ## 4. Respostas Comentadas
 
 ### Resposta do Exercício 1
 
 | p | q | p ∨ q |
-|---|---|--------|
+|||--|
 | V | V |   V    |
 | V | F |   V    |
 | V | A |   V    |
@@ -107,7 +107,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 ### Resposta do Exercício 2
 
 | p | ~p |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | A | A  |
@@ -117,7 +117,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 ### Resposta do Exercício 3
 
 | p   | q   | p ∧ q |
-|-----|-----|--------|
+|--|--|--|
 | (1,0) | (1,0) | (1,0) |
 | (1,0) | (0,1) | (0,1) |
 | (1,0) | (1,1) | (1,0) |
@@ -135,7 +135,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 | (0,0) | (1,1) | (0,0) |
 | (0,0) | (0,0) | (0,0) |
 
----
+
 
 ## 5. Dicas para Construção de Tabelas Verdade Paraconsistentes
 
@@ -144,7 +144,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 - **Preencha a tabela** considerando todas as combinações possíveis de valores.
 - **Analise os resultados** para compreender como a lógica paraconsistente lida com contradições e indeterminações.
 
----
+
 
 ## 6. Sugestões de Atividades
 
@@ -152,7 +152,7 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 - Analise situações reais (como bancos de dados inconsistentes) e modele proposições utilizando tabelas verdade paraconsistentes.
 - Compare os resultados obtidos com a lógica clássica e discuta as diferenças.
 
----
+
 
 ## 7. Referências para Estudo
 
@@ -160,6 +160,6 @@ Vamos construir a tabela verdade para a proposição composta **p ∧ q** (conju
 - **da Costa, N. C. A.** (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 - **Priest, G.** (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic.
 
----
+
 
 Com a prática desses exercícios, você estará apto a construir e interpretar tabelas verdade em lógicas paraconsistentes, uma habilidade essencial para aplicações em áreas que lidam com informações contraditórias ou incertas.

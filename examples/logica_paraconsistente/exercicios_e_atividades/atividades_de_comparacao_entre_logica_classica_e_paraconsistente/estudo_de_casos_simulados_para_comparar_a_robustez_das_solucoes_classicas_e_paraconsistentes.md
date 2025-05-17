@@ -3,13 +3,13 @@
 
 A comparação entre lógica clássica e lógica paraconsistente é fundamental para compreender as vantagens e limitações de cada abordagem diante de situações reais, especialmente quando há informações contraditórias ou inconsistentes. Neste tópico, apresentamos estudos de casos simulados que ilustram como cada sistema lida com inconsistências e avaliamos a robustez das soluções propostas.
 
----
+
 
 ## 1. Introdução
 
 A lógica clássica, base do raciocínio tradicional, segue o princípio da não contradição: uma proposição não pode ser verdadeira e falsa ao mesmo tempo. Quando confrontada com contradições, a lógica clássica se torna trivial, ou seja, qualquer afirmação pode ser deduzida a partir de uma contradição (princípio do explosion, *ex contradictione quodlibet*). Já a lógica paraconsistente foi desenvolvida justamente para evitar esse problema, permitindo que sistemas continuem operando mesmo diante de inconsistências.
 
----
+
 
 ## 2. Caso Simulado 1: Banco de Dados de Pacientes
 
@@ -33,7 +33,7 @@ Na lógica paraconsistente, o sistema reconhece a contradição, mas não permit
 - **Lógica Clássica:** Falha ao lidar com a contradição, tornando-se incapaz de fornecer respostas confiáveis.
 - **Lógica Paraconsistente:** Mantém a operação do sistema, sinaliza a inconsistência e permite ações corretivas ou decisões baseadas em incerteza.
 
----
+
 
 ## 3. Caso Simulado 2: Sistema de Diagnóstico em Inteligência Artificial
 
@@ -57,7 +57,7 @@ O sistema paraconsistente pode processar ambas as informações, reconhecendo a 
 - **Lógica Clássica:** Incapaz de agir diante da contradição, podendo comprometer a segurança ou a eficiência do sistema.
 - **Lógica Paraconsistente:** Permite respostas graduais, mantém o funcionamento do sistema e oferece mecanismos para tratar a inconsistência.
 
----
+
 
 ## 4. Caso Simulado 3: Resolução de Conflitos em Informações Jurídicas
 
@@ -81,7 +81,7 @@ A lógica paraconsistente permite que o sistema jurídico registre ambas as info
 - **Lógica Clássica:** Pode levar à paralisação do processo ou à necessidade de descartar informações.
 - **Lógica Paraconsistente:** Favorece a continuidade da análise, mesmo diante de conflitos, e permite decisões mais informadas.
 
----
+
 
 ## 5. Conclusão
 
@@ -89,11 +89,10 @@ Os estudos de casos simulados demonstram que a lógica paraconsistente oferece m
 
 Essa robustez torna a lógica paraconsistente especialmente valiosa em aplicações como bancos de dados, inteligência artificial, sistemas jurídicos e qualquer área onde a informação pode ser incompleta, ambígua ou contraditória.
 
----
+
 
 ## 6. Atividade Proposta
 
 **Analise um cenário de sua área de interesse onde informações contraditórias possam surgir. Descreva como a lógica clássica e a lógica paraconsistente tratariam o caso, e avalie qual abordagem seria mais robusta para a situação apresentada.**
 
----
-```
+

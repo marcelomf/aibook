@@ -47,9 +47,9 @@ Apesar dos avanços, a implementação de lógica paraconsistente em sistemas au
 
 A lógica paraconsistente representa um avanço significativo para a robustez de sistemas autônomos, permitindo que operem de forma confiável em ambientes complexos e contraditórios. Sua capacidade de tolerar inconsistências, tomar decisões graduais e fornecer explicações transparentes a torna uma ferramenta indispensável para o futuro da inteligência artificial e da automação inteligente.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
-```
+

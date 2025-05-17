@@ -45,8 +45,8 @@ Apesar do potencial, a adoção da lógica paraconsistente nessas áreas enfrent
 
 No futuro, espera-se que a lógica paraconsistente desempenhe um papel cada vez mais relevante na gestão de informações complexas e contraditórias, promovendo inovação e robustez em áreas críticas para a sociedade.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

@@ -5,7 +5,7 @@ A trivialidade, também conhecida como **explosão lógica** (do latim *ex contr
 
 A **Lógica Paraconsistente** surge justamente para lidar com contradições de maneira controlada, evitando a trivialidade. A seguir, discutimos as principais estratégias adotadas por sistemas lógicos para evitar a explosão lógica e manter a utilidade do raciocínio mesmo diante de inconsistências.
 
----
+
 
 ## 1. Modificação das Regras de Inferência
 
@@ -15,7 +15,7 @@ A principal estratégia das lógicas paraconsistentes é **alterar as regras de 
 
 Na LPA, cada proposição pode receber diferentes graus de evidência favorável e contrária, permitindo que contradições sejam representadas explicitamente sem que o sistema colapse. As regras de inferência são cuidadosamente definidas para que a presença de contradições não implique a aceitação de qualquer conclusão.
 
----
+
 
 ## 2. Introdução de Novos Valores de Verdade
 
@@ -25,7 +25,7 @@ Outra abordagem comum é a **ampliação do conjunto de valores de verdade**. En
 
 A Lógica de Priest, também conhecida como Lógica da Explosão Controlada, permite que uma proposição seja simultaneamente verdadeira e falsa, mas restringe as inferências que podem ser feitas a partir dessa situação. Assim, a explosão lógica é evitada.
 
----
+
 
 ## 3. Separação de Contextos ou Módulos
 
@@ -35,7 +35,7 @@ Em sistemas complexos, pode-se **isolar contradições em contextos ou módulos 
 
 Cada agente pode operar com sua própria base de conhecimento, e mecanismos de mediação são usados para resolver ou gerenciar contradições quando necessário, sem comprometer a integridade do sistema global.
 
----
+
 
 ## 4. Priorização e Revisão de Informações
 
@@ -45,7 +45,7 @@ Alguns sistemas lógicos implementam **mecanismos de priorização ou revisão d
 
 Técnicas de revisão de crenças, como o modelo AGM (Alchourrón, Gärdenfors e Makinson), permitem atualizar bases de conhecimento de forma racional diante de novas informações contraditórias, minimizando a perda de informações relevantes.
 
----
+
 
 ## 5. Restrições Sintáticas e Semânticas
 
@@ -55,7 +55,7 @@ Por fim, algumas lógicas paraconsistentes impõem **restrições sintáticas ou
 
 Algumas lógicas introduzem operadores específicos para indicar que uma proposição é consistente, permitindo que apenas proposições marcadas como consistentes sejam usadas em determinadas inferências.
 
----
+
 
 ## Considerações Finais
 
@@ -63,10 +63,10 @@ Evitar a trivialidade é fundamental para que sistemas lógicos possam lidar de 
 
 A lógica paraconsistente, portanto, representa um avanço significativo em relação à lógica clássica, oferecendo ferramentas teóricas e práticas para o tratamento racional de contradições no mundo real.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli, "Lógicas Paraconsistentes e Aplicações"
-```
+

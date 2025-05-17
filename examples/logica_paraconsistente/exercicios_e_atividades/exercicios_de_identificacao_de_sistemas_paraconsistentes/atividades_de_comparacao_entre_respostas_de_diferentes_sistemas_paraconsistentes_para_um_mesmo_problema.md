@@ -7,7 +7,7 @@ A lógica paraconsistente se destaca por permitir o tratamento controlado de con
 
 Nesta atividade, propomos a comparação entre as respostas fornecidas por diferentes sistemas paraconsistentes diante de um mesmo problema lógico. O objetivo é exercitar a identificação das características de cada sistema e analisar como eles tratam contradições e incertezas.
 
----
+
 
 ## 1. Problema Proposto
 
@@ -18,7 +18,7 @@ Considere o seguinte conjunto de informações sobre um banco de dados de client
 
 Suponha que, por erro de integração de dados, ambas as informações estão presentes e consideradas verdadeiras no sistema.
 
----
+
 
 ## 2. Análise em Diferentes Sistemas Paraconsistentes
 
@@ -43,7 +43,7 @@ A Lógica de Priest (também chamada de Lógica Paraconsistente de Priest) permi
 
 Na lógica relevante, a inferência só é permitida se houver uma relação relevante entre as premissas e a conclusão. A presença de A e ¬A não permite deduzir qualquer proposição arbitrária, pois a relevância é exigida. Assim, o sistema reconhece a contradição, mas restringe as inferências possíveis.
 
----
+
 
 ## 3. Atividade Prática
 
@@ -52,7 +52,7 @@ Na lógica relevante, a inferência só é permitida se houver uma relação rel
 Diante do problema apresentado, preencha a tabela abaixo indicando como cada sistema lida com a contradição:
 
 | Sistema Lógico                | Permite inferir qualquer proposição? | Como trata a contradição?                | Exemplo de ação recomendada              |
-|-------------------------------|:------------------------------------:|------------------------------------------|------------------------------------------|
+|-|::|||
 | Lógica Clássica               | Sim                                  | Explosão lógica (trivialidade)           | Sistema inutilizável para inferências    |
 | Lógica Paraconsistente Anotada| Não                                  | Sinaliza inconsistência                  | Solicitar revisão dos dados              |
 | Lógica de Priest (LP)         | Não                                  | Aceita A e ¬A como verdadeiros           | Prossegue com operações, reconhecendo a contradição |
@@ -67,19 +67,19 @@ Considere agora que, além das informações anteriores, o sistema precisa decid
 - **Lógica de Priest (LP):** Pode registrar a contradição e adotar uma política específica para casos contraditórios, como aguardar mais informações.
 - **Lógica Relevante:** Pode restringir a decisão até que haja uma relação relevante que permita inferir a ação correta.
 
----
+
 
 ## 4. Discussão
 
 A comparação entre diferentes sistemas paraconsistentes evidencia que a escolha do sistema lógico impacta diretamente a forma como contradições são tratadas e as decisões subsequentes. Enquanto a lógica clássica falha diante de inconsistências, os sistemas paraconsistentes oferecem alternativas robustas para manter a operação e a confiabilidade dos sistemas, cada um com suas particularidades.
 
----
+
 
 ## 5. Sugestão de Atividade
 
 Escolha um cenário de sua área de interesse (por exemplo, diagnóstico médico, análise jurídica, sistemas de recomendação) e proponha um conjunto de informações contraditórias. Analise, com base nos sistemas paraconsistentes estudados, como cada um trataria o problema e quais decisões poderiam ser tomadas.
 
----
+
 
 **Referências:**
 
@@ -87,5 +87,4 @@ Escolha um cenário de sua área de interesse (por exemplo, diagnóstico médico
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. *Studia Logica*.
 
----
-```
+

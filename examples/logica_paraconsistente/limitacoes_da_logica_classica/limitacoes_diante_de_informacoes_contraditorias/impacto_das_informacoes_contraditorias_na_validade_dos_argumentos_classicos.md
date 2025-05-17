@@ -52,11 +52,11 @@ Devido a essas limitações, surgiram sistemas lógicos alternativos, como a **l
 
 O impacto das informações contraditórias na lógica clássica é profundo: elas tornam o sistema trivial e inutilizável para inferências confiáveis. Por isso, compreender essas limitações é fundamental para o desenvolvimento de sistemas lógicos mais robustos, capazes de lidar com a complexidade e a inconsistência do mundo real.
 
----
+
 
 **Referências:**
 
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
-```
+

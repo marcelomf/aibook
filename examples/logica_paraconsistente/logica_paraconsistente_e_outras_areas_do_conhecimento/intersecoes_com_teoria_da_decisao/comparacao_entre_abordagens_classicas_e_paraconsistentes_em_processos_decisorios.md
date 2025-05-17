@@ -32,7 +32,7 @@ A **lógica paraconsistente** foi desenvolvida justamente para lidar com situaç
 ## Comparação Direta
 
 | Aspecto                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|--------------------------------|----------------------------------|----------------------------------|
+|______________________________--|_________________________________-|_________________________________-|
 | Tolerância à contradição       | Não                              | Sim                              |
 | Princípio da explosão          | Sim                              | Não                              |
 | Tratamento de inconsistências  | Exclusão ou revisão de dados     | Análise e quantificação da contradição |
@@ -54,5 +54,4 @@ A escolha entre abordagens clássicas e paraconsistentes depende do contexto e d
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli e João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
----
-```
+

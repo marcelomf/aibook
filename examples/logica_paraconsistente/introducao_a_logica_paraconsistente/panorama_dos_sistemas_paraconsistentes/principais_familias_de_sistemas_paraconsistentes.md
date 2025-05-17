@@ -69,23 +69,23 @@ Sistemas paraconsistentes também foram estendidos para lógicas modais e tempor
 ### Aplicações:
 - Raciocínio sobre sistemas dinâmicos, agentes autônomos e inteligência artificial.
 
----
+___
 
 ## Resumo Comparativo
 
 | Família                        | Característica Principal                        | Exemplo Notável                |
-|-------------------------------|------------------------------------------------|-------------------------------|
+|______________________________-|________________________________________________|______________________________-|
 | Lógicas Anotadas              | Uso de anotações para graus de verdade         | LPA, LPAEτ                    |
 | Lógicas de Tolerância         | Aceitam verdade e falsidade simultâneas        | LP (Priest), Dialeteísmo      |
 | Lógicas Relevantes            | Exigem relevância entre premissas e conclusão  | Lógica R                      |
 | Lógicas de Quatro Valores     | Tratam contradição e indeterminação            | Lógica de Belnap (FOUR)       |
 | Lógicas Modais/Temporais      | Extensões para contextos dinâmicos             | Lógicas modais paraconsistentes|
 
----
+___
 
 ## Considerações Finais
 
 O desenvolvimento das diferentes famílias de sistemas paraconsistentes reflete a diversidade de desafios enfrentados ao lidar com contradições em contextos reais. Cada abordagem oferece ferramentas específicas para modelar, analisar e resolver problemas em que a lógica clássica se mostra insuficiente. O estudo dessas famílias é fundamental para compreender o potencial e as limitações da lógica paraconsistente em aplicações práticas e teóricas.
 
 Para aprofundar-se, recomenda-se a leitura de obras especializadas e a exploração de estudos de caso apresentados nos capítulos seguintes deste eBook.
-```
+

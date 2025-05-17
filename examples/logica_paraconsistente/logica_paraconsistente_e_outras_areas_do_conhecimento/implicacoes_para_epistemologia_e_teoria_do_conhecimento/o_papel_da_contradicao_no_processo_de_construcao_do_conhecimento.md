@@ -37,9 +37,9 @@ Essa perspectiva tem impacto em diversas áreas:
 
 O papel da contradição no processo de construção do conhecimento é, portanto, ambíguo e fundamental. Longe de ser apenas um defeito a ser eliminado, a contradição pode ser um recurso epistemológico valioso, desde que tratada de maneira adequada. A lógica paraconsistente oferece ferramentas formais para essa tarefa, promovendo uma visão mais realista, flexível e dinâmica do conhecimento humano.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógica Paraconsistente: Introdução e Aplicações"  
 - Thomas S. Kuhn, "A Estrutura das Revoluções Científicas"  
 - Graham Priest, "In Contradiction"
-```
+

@@ -5,7 +5,7 @@
 
 A aplicação da Lógica Paraconsistente (LP) em sistemas de Inteligência Artificial (IA) tem se mostrado uma abordagem promissora para lidar com situações em que informações contraditórias ou incertas são inevitáveis. A seguir, destacam-se as principais lições aprendidas a partir dos estudos de caso apresentados, bem como recomendações para o desenvolvimento de aplicações futuras.
 
----
+___
 
 #### Lições Aprendidas
 
@@ -25,7 +25,7 @@ A aplicação da Lógica Paraconsistente (LP) em sistemas de Inteligência Artif
    - Embora a LP ofereça vantagens conceituais, sua implementação pode demandar maior poder computacional, especialmente em sistemas de grande escala ou tempo real.
    - A escolha do sistema paraconsistente mais adequado (por exemplo, LPA, LP, ou outros) deve considerar o equilíbrio entre expressividade lógica e eficiência computacional.
 
----
+___
 
 #### Recomendações para Aplicações Futuras
 
@@ -49,9 +49,9 @@ A aplicação da Lógica Paraconsistente (LP) em sistemas de Inteligência Artif
    - Sistemas baseados em LP devem ser continuamente monitorados quanto ao desempenho e à capacidade de lidar com novas formas de contradição ou inconsistência.
    - A avaliação empírica, por meio de benchmarks e estudos de caso, é essencial para validar e aprimorar as soluções propostas.
 
----
+___
 
 ### Considerações Finais
 
 A Lógica Paraconsistente representa uma ferramenta poderosa para o desenvolvimento de sistemas de IA mais resilientes, transparentes e confiáveis em ambientes complexos e incertos. As lições aprendidas até o momento indicam que, embora existam desafios técnicos e conceituais, as oportunidades de inovação são significativas. O avanço das pesquisas e o desenvolvimento de ferramentas acessíveis serão determinantes para o sucesso das aplicações futuras da LP em Inteligência Artificial.
-```
+

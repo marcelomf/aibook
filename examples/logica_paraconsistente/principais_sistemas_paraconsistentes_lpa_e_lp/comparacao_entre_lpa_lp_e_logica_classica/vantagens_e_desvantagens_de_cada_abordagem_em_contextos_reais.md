@@ -16,7 +16,7 @@ A escolha entre diferentes sistemas lógicos — como a Lógica Paraconsistente 
 - **Explosão da Contradição (Princípio da Explosão):** Se uma contradição é introduzida, qualquer proposição pode ser derivada como verdadeira, tornando o sistema trivial e inutilizável em contextos com dados inconsistentes.
 - **Rigidez:** Não lida bem com incertezas, ambiguidades ou informações parciais, comuns em sistemas reais como bancos de dados, IA e tomada de decisão.
 
----
+
 
 ## Lógica Paraconsistente Anotada (LPA)
 
@@ -32,7 +32,7 @@ A escolha entre diferentes sistemas lógicos — como a Lógica Paraconsistente 
 - **Curva de Aprendizado:** Exige familiaridade com conceitos não tradicionais, o que pode dificultar a adoção por profissionais acostumados à lógica clássica.
 - **Interpretação dos Resultados:** A multiplicidade de valores e anotações pode tornar a interpretação dos resultados menos direta.
 
----
+
 
 ## Lógica de Priest (LP)
 
@@ -48,19 +48,19 @@ A escolha entre diferentes sistemas lógicos — como a Lógica Paraconsistente 
 - **Limitações Práticas:** Em aplicações que exigem distinção entre diferentes tipos ou níveis de contradição, a LP pode ser insuficiente.
 - **Adoção Limitada:** Apesar de sua importância teórica, há menos ferramentas e aplicações práticas desenvolvidas em comparação com a LPA.
 
----
+
 
 ## Comparação em Contextos Reais
 
 | Critério                  | Lógica Clássica | LPA                        | LP                         |
-|---------------------------|-----------------|----------------------------|----------------------------|
+||--|-|-|
 | **Tolerância à Contradição** | Baixa           | Alta                       | Alta                       |
 | **Expressividade**        | Baixa           | Muito alta                 | Média                      |
 | **Complexidade**          | Baixa           | Alta                       | Média                      |
 | **Aplicações Práticas**   | Ampla, mas limitada em contextos inconsistentes | Ampla, especialmente em ambientes incertos ou contraditórios | Moderada, mais teórica     |
 | **Facilidade de Uso**     | Alta            | Média/baixa                | Média                      |
 
----
+
 
 ## Considerações Finais
 
@@ -70,5 +70,4 @@ A escolha entre diferentes sistemas lógicos — como a Lógica Paraconsistente 
 
 A escolha do sistema lógico mais adequado deve considerar o tipo de problema, a natureza dos dados e os requisitos de robustez e interpretabilidade do raciocínio.
 
----
-```
+

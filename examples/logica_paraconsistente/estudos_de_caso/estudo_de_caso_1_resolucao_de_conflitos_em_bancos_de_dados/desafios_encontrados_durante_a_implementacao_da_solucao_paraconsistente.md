@@ -47,9 +47,9 @@ Por fim, garantir que a solução paraconsistente está funcionando corretamente
 - **Testes de consistência**: Desenvolver casos de teste que cubram cenários de inconsistência e verifiquem se o sistema responde conforme esperado.
 - **Auditoria e rastreabilidade**: Manter registros claros das decisões tomadas pelo sistema em situações de conflito.
 
----
+___
 
 ## Considerações Finais
 
 Apesar dos desafios, a implementação de soluções paraconsistentes em bancos de dados oferece vantagens significativas na gestão de informações contraditórias, aumentando a robustez e a flexibilidade dos sistemas. O sucesso dessa abordagem depende de um planejamento cuidadoso, da escolha adequada das ferramentas e da capacitação das equipes envolvidas. Com o avanço das pesquisas e o desenvolvimento de novas tecnologias, espera-se que muitos desses desafios sejam gradualmente superados, tornando a lógica paraconsistente uma alternativa cada vez mais viável e eficiente para a resolução de conflitos em bancos de dados.
-```
+

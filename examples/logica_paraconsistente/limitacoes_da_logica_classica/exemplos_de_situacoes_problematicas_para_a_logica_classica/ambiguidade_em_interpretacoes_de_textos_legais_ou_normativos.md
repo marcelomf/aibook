@@ -37,4 +37,4 @@ Por exemplo, ao aplicar uma lógica paraconsistente a textos legais, é possíve
 ### Considerações Finais
 
 A ambiguidade em textos legais é um desafio real e recorrente, que evidencia as limitações da lógica clássica em contextos onde a contradição não pode ser simplesmente eliminada. A lógica paraconsistente surge como uma ferramenta poderosa para modelar, analisar e resolver tais situações, contribuindo para a construção de sistemas jurídicos e normativos mais robustos e adaptados à complexidade do mundo real.
-```
+

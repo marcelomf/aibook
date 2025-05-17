@@ -65,7 +65,7 @@ Além das classes acima, existem outras abordagens, como:
 ## 4. Resumo Comparativo
 
 | Classe                        | Característica Principal                  | Exemplo           | Aplicações Típicas                  |
-|-------------------------------|-------------------------------------------|-------------------|-------------------------------------|
+|______________________________-|__________________________________________-|__________________-|____________________________________-|
 | LFIs                          | Rejeição controlada da explosão           | LPA, dC1          | Bancos de dados, IA, decisão        |
 | Lógicas de três valores       | Valor adicional para contradição          | LP, Kleene        | Filosofia, computação               |
 | Lógicas relevantes            | Inferência depende de relevância          | Lógica R          | Filosofia, teoria da relevância     |
@@ -81,5 +81,4 @@ A classificação dos sistemas paraconsistentes reflete a diversidade de abordag
 - Graham Priest, "In Contradiction"
 - Walter Carnielli & João Marcos, "On the Generation of Logics of Formal Inconsistency"
 
----
-```
+

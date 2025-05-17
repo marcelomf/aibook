@@ -50,7 +50,7 @@ Diante dessas limitações, abordagens baseadas em **lógica paraconsistente** t
 
 A presença de inconsistências é uma realidade inevitável em sistemas industriais complexos. As limitações da lógica clássica, ao não tolerar contradições, podem comprometer a eficácia dos sistemas de controle de qualidade. A adoção de abordagens como a lógica paraconsistente representa um avanço significativo, permitindo maior robustez, flexibilidade e confiabilidade na tomada de decisões industriais, mesmo em cenários de incerteza e conflito de informações.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso" (eBook)

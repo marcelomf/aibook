@@ -3,7 +3,7 @@
 
 A escolha entre lógica clássica e lógica paraconsistente depende fortemente do contexto e dos objetivos do sistema lógico em questão. Ambas as abordagens possuem vantagens e desvantagens que se manifestam de maneiras distintas em aplicações práticas, como bancos de dados, inteligência artificial, sistemas de decisão e resolução de conflitos. A seguir, apresentamos uma análise comparativa das principais vantagens e desvantagens de cada abordagem em cenários reais.
 
----
+
 
 ## Lógica Clássica
 
@@ -22,7 +22,7 @@ A lógica clássica, também conhecida como lógica bivalente, é o sistema lóg
 - **Rigidez diante de Inconsistências:** Em contextos onde dados contraditórios são comuns (como bancos de dados reais, informações de sensores ou relatos humanos), a lógica clássica pode falhar em fornecer respostas úteis.
 - **Dificuldade em Modelar Incerteza e Ambiguidade:** Não lida bem com situações em que a informação é incompleta, ambígua ou contraditória, exigindo abordagens complementares (como lógica fuzzy ou probabilística).
 
----
+
 
 ## Lógica Paraconsistente
 
@@ -42,11 +42,11 @@ A lógica paraconsistente foi desenvolvida para lidar com contradições de form
 - **Possível Perda de Rigor:** Em alguns casos, a tolerância à contradição pode ser vista como uma perda de rigor lógico, especialmente em contextos onde a consistência é crítica (como em certas áreas da matemática).
 - **Desafios na Integração com Sistemas Legados:** A integração de lógica paraconsistente com sistemas baseados em lógica clássica pode exigir adaptações e conversões complexas.
 
----
+
 
 ## Considerações Finais
 
 A lógica clássica permanece insubstituível em contextos onde a consistência é garantida e desejada, como na matemática formal e em sistemas críticos. Por outro lado, a lógica paraconsistente se destaca em ambientes dinâmicos e incertos, onde contradições são inevitáveis e precisam ser gerenciadas de forma produtiva.
 
 Em muitos casos, a escolha ideal pode envolver a combinação de ambas as abordagens, utilizando a lógica clássica como base e recorrendo à lógica paraconsistente para tratar exceções e inconsistências. O avanço das aplicações em inteligência artificial, ciência de dados e sistemas autônomos tende a aumentar a relevância das lógicas paraconsistentes, tornando seu estudo cada vez mais importante para profissionais e pesquisadores dessas áreas.
-```
+

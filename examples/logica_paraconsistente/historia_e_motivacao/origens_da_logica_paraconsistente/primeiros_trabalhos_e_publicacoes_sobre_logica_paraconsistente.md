@@ -37,7 +37,7 @@ A partir dessas primeiras publicações, a lógica paraconsistente ganhou reconh
 
 Hoje, a lógica paraconsistente é uma área consolidada, com aplicações práticas e teóricas em diversos domínios, e continua a ser objeto de pesquisa e desenvolvimento em todo o mundo.
 
----
+___
 
 **Referências:**
 
@@ -45,4 +45,4 @@ Hoje, a lógica paraconsistente é uma área consolidada, com aplicações prát
 - Jaśkowski, S. (1948). Rachunek zdań dla systemów dedukcyjnych sprzecznych. *Studia Societatis Scientiarum Torunensis*, 5, 55–77.
 - Priest, G. (1979). The Logic of Paradox. *Journal of Philosophical Logic*, 8(1), 219–241.
 - da Costa, N. C. A. (1974). *Lógica Paraconsistente: Essencialmente Inconsistente*. São Paulo: Editora Herder.
-```
+

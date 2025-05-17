@@ -46,6 +46,6 @@ Para aprofundar-se nos desafios e perspectivas da lógica paraconsistente, recom
 
 A lógica paraconsistente continua sendo um campo dinâmico e interdisciplinar, com desafios técnicos e teóricos relevantes para o avanço da ciência da computação, inteligência artificial e gestão de informações. A leitura dos artigos sugeridos permitirá ao leitor acompanhar as discussões mais recentes e identificar oportunidades de pesquisa e aplicação em contextos inovadores.
 
----
+
 *Este conteúdo foi elaborado com base em publicações científicas recentes e tendências observadas até 2024. Para acesso aos artigos completos, recomenda-se consultar bases de dados como IEEE Xplore, SpringerLink, ScienceDirect e ACM Digital Library.*
-```
+

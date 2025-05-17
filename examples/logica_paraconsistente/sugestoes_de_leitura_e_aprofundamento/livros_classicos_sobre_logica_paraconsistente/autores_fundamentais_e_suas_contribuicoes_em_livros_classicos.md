@@ -52,7 +52,7 @@ Diderik Batens é conhecido por seu trabalho em lógicas adaptativas e sistemas 
 - **"Adaptive Logics and Dynamic Proofs: Selected Papers in a Framework for Reasoning with Inconsistency, Uncertainty, and Change" (2017)**  
   Coletânea de artigos que apresenta o desenvolvimento das lógicas adaptativas, uma vertente importante da lógica paraconsistente.
 
----
+
 
 ## Referências Complementares
 
@@ -63,9 +63,9 @@ Além dos autores e livros citados, recomenda-se a consulta a coletâneas e manu
 
 Essas obras oferecem uma visão panorâmica e aprofundada do campo, sendo úteis para quem deseja se aprofundar ainda mais.
 
----
+
 
 ## Conclusão
 
 O estudo da lógica paraconsistente é enriquecido pelo contato com as obras desses autores fundamentais. Seus livros clássicos não apenas apresentam os fundamentos teóricos, mas também discutem aplicações práticas e implicações filosóficas, tornando-se leituras indispensáveis para quem deseja compreender e pesquisar o tema.
-```
+

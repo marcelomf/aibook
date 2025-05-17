@@ -44,7 +44,7 @@ A lógica paraconsistente permite que sistemas de raciocínio operem mesmo diant
 2. Aplique as regras da LPA para determinar o estado lógico da proposição "O paciente tem a doença".
 3. Interprete o resultado e sugira uma recomendação para o médico.
 
----
+___
 
 ### Exercício 2: Banco de Dados Inconsistente
 
@@ -58,7 +58,7 @@ A lógica paraconsistente permite que sistemas de raciocínio operem mesmo diant
 2. Atribua níveis de confiança a cada registro.
 3. Utilize a lógica paraconsistente para decidir qual endereço deve ser considerado para correspondência oficial.
 
----
+___
 
 ### Exercício 3: Sistema de Recomendação com Avaliações Contraditórias
 
@@ -73,7 +73,7 @@ A lógica paraconsistente permite que sistemas de raciocínio operem mesmo diant
 2. Aplique um sistema paraconsistente para calcular uma recomendação final.
 3. Justifique a recomendação com base na análise lógica.
 
----
+___
 
 ## 4. Dicas para a Modelagem Paraconsistente
 
@@ -85,10 +85,10 @@ A lógica paraconsistente permite que sistemas de raciocínio operem mesmo diant
 
 A modelagem de situações práticas com lógica paraconsistente é uma habilidade essencial para lidar com problemas do mundo real, onde a informação nem sempre é perfeita ou consistente. Ao praticar com estudos de caso e exercícios, o leitor desenvolve a capacidade de aplicar conceitos teóricos em contextos aplicados, tornando-se apto a propor soluções inovadoras em áreas como ciência da computação, inteligência artificial, gestão de dados e tomada de decisão.
 
----
+___
 
 **Sugestão de leitura complementar**:  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
-```
+

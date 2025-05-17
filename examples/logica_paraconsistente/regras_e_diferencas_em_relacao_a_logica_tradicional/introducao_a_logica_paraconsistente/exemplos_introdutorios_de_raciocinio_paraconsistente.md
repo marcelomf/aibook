@@ -67,8 +67,8 @@ Diferentemente da lógica clássica, a lógica paraconsistente não permite que 
 
 Os exemplos acima mostram que a lógica paraconsistente é especialmente útil em contextos onde a informação pode ser incerta, incompleta ou contraditória, como em bancos de dados, sistemas de apoio à decisão, inteligência artificial e resolução de conflitos. Ao permitir o raciocínio controlado diante de contradições, ela amplia as possibilidades de modelagem e solução de problemas complexos, tornando-se uma ferramenta valiosa para pesquisadores e profissionais de diversas áreas.
 
----
+
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

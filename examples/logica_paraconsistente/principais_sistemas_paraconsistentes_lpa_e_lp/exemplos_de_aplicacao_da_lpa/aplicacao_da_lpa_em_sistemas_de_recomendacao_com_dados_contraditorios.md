@@ -23,7 +23,7 @@ A partir desses valores, a LPA calcula índices como o **Grau de Contradição**
 Imagine um sistema de recomendação que utiliza a LPA para lidar com avaliações contraditórias de filmes. Considere o filme "Aventura X", com as seguintes avaliações de diferentes usuários:
 
 | Usuário | Avaliação Favorável (μ) | Avaliação Contrária (λ) |
-|---------|------------------------|------------------------|
+||||
 | João    | 0,8                    | 0,2                    |
 | Maria   | 0,3                    | 0,7                    |
 | Ana     | 0,6                    | 0,4                    |
@@ -53,10 +53,10 @@ O sistema pode então recomendar "Aventura X" com uma indicação de incerteza, 
 
 A aplicação da LPA em sistemas de recomendação representa um avanço significativo na capacidade de lidar com dados contraditórios, tornando as recomendações mais robustas, transparentes e confiáveis. Ao incorporar a lógica paraconsistente, esses sistemas podem oferecer sugestões mais alinhadas com a complexidade e diversidade das opiniões humanas, promovendo uma experiência de usuário mais rica e informada.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and their Applications."  
 - Batens, D. (2000). "A General Characterization of Adaptive Logics."  
 - Santos, P. S. (2010). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

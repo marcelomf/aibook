@@ -59,7 +59,7 @@ As plataformas GitHub e GitLab concentram projetos de código aberto relacionado
 - **Verifique licenças de uso**: A maioria dos projetos é open source, mas sempre confira as permissões para uso e modificação.
 - **Participe de comunidades**: Fóruns, listas de discussão e grupos em redes sociais podem indicar novas ferramentas e oportunidades de colaboração.
 
----
+
 
 ### **Referências e Links Úteis**
 
@@ -69,7 +69,7 @@ As plataformas GitHub e GitLab concentram projetos de código aberto relacionado
 - [Grupo de Lógica Paraconsistente da USP](https://www.ime.usp.br/~paraconsistente/)
 - [Laboratório de Inteligência Paraconsistente – UNESP](https://www.feis.unesp.br/#!/departamentos/engenharia-eletrica/lip/)
 
----
+
 
 Esses repositórios e ferramentas são fundamentais para quem deseja experimentar, implementar ou aprofundar-se na lógica paraconsistente, seja em pesquisa, ensino ou aplicações práticas. O uso dessas plataformas permite não apenas o acesso a recursos já desenvolvidos, mas também a colaboração ativa na evolução desse campo dinâmico.
-```
+

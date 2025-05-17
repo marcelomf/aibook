@@ -3,7 +3,7 @@
 
 A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais utilizados para tratar informações contraditórias de forma controlada, permitindo que se trabalhe com proposições que podem ser simultaneamente verdadeiras e falsas em algum grau. Neste tópico, você encontrará uma explicação clara sobre como identificar contradições em proposições utilizando a LPA, seguida de exercícios práticos para fixação do conteúdo.
 
----
+
 
 ## 1. Introdução à Identificação de Contradições na LPA
 
@@ -26,7 +26,7 @@ Gc = min(μ, λ)
 - **Gc = 0**: Não há contradição.
 - **Gc > 0**: Existe contradição, sendo mais intensa quanto maior for o valor.
 
----
+
 
 ## 2. Exemplos Práticos
 
@@ -54,7 +54,7 @@ Proposição **Q**: "O arquivo foi salvo com sucesso."
 **Interpretação:**  
 A contradição é baixa, pois há forte evidência a favor e pouca evidência contra.
 
----
+
 
 ## 3. Exercícios Práticos
 
@@ -76,7 +76,7 @@ Qual o grau de contradição? Há contradição significativa?
 Sim, há contradição significativa, pois as evidências a favor e contra são igualmente altas.
 </details>
 
----
+
 
 ### Exercício 2
 
@@ -96,7 +96,7 @@ Calcule o grau de contradição e interprete o resultado.
 A contradição é baixa, pois a evidência contrária é muito maior que a favor.
 </details>
 
----
+
 
 ### Exercício 3
 
@@ -116,7 +116,7 @@ Existe contradição? Justifique.
 Sim, existe contradição moderada, pois as evidências a favor e contra são iguais e intermediárias.
 </details>
 
----
+
 
 ### Exercício 4
 
@@ -136,7 +136,7 @@ Qual o grau de contradição? O que isso indica?
 Não há contradição, pois só há evidência a favor.
 </details>
 
----
+
 
 ## 4. Dicas para Identificação de Contradições
 
@@ -144,11 +144,10 @@ Não há contradição, pois só há evidência a favor.
 - **Contradição nula** ocorre quando μ = 0 ou λ = 0.
 - Valores intermediários indicam diferentes graus de contradição, úteis para análise de incertezas em sistemas reais.
 
----
+
 
 ## 5. Conclusão
 
 A identificação de contradições em proposições utilizando a LPA é fundamental para o tratamento de informações inconsistentes em bancos de dados, sistemas de decisão e inteligência artificial. Praticar a análise dos pares (μ, λ) e o cálculo do grau de contradição permite ao estudante ou profissional aplicar a lógica paraconsistente de forma eficaz em situações do cotidiano.
 
----
-```
+

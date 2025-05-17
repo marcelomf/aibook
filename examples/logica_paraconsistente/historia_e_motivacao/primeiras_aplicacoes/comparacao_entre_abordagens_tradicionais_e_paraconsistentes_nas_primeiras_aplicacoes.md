@@ -24,7 +24,7 @@ A lógica paraconsistente foi desenvolvida justamente para evitar o colapso do r
 ## Exemplos Práticos: Um Contraste
 
 | Situação                        | Lógica Clássica                      | Lógica Paraconsistente                |
-|----------------------------------|--------------------------------------|---------------------------------------|
+|_________________________________-|____________________________________--|_______________________________________|
 | Banco de dados com registros     | Contradição leva à inutilização      | Contradição é localizada e tratada    |
 | Diagnóstico médico com sintomas  | Contradições invalidam conclusões    | Possível raciocinar com incerteza     |
 | Fusão de informações de sensores | Dados conflitantes descartados       | Dados conflitantes analisados juntos  |
@@ -39,8 +39,8 @@ Além disso, a lógica paraconsistente abriu caminho para novas formas de racioc
 
 A comparação entre abordagens tradicionais e paraconsistentes nas primeiras aplicações evidencia a importância de se adaptar o raciocínio lógico às necessidades do mundo real. Enquanto a lógica clássica oferece clareza e rigor em contextos ideais, a lógica paraconsistente se destaca em cenários onde a contradição é inevitável, proporcionando ferramentas teóricas e práticas para lidar com a complexidade e a incerteza das informações.
 
----
+___
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

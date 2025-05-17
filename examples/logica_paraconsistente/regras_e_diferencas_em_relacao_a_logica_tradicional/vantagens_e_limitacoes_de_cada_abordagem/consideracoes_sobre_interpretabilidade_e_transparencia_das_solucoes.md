@@ -33,4 +33,4 @@ Na lógica tradicional, a presença de uma contradição leva à trivialidade (p
 ### Considerações Finais
 
 A adoção da lógica paraconsistente traz benefícios significativos em termos de robustez frente a informações contraditórias, mas impõe desafios adicionais quanto à interpretabilidade e transparência das soluções. O sucesso na aplicação dessa abordagem depende, em grande parte, da clareza com que as regras são apresentadas e da capacidade do sistema de justificar suas conclusões de forma acessível aos usuários finais. Assim, ao projetar sistemas baseados em lógica paraconsistente, é fundamental equilibrar o poder expressivo com a necessidade de explicabilidade, garantindo que as soluções sejam não apenas corretas, mas também compreensíveis e confiáveis.
-```
+

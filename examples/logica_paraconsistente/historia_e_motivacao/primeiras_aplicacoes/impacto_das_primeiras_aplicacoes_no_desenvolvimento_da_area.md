@@ -36,8 +36,8 @@ O sucesso dessas primeiras aplicações teve um impacto profundo no desenvolvime
 
 As primeiras aplicações da lógica paraconsistente foram decisivas para sua consolidação como área de pesquisa e prática. Elas mostraram que é possível conviver com contradições de maneira controlada e produtiva, abrindo novas possibilidades para o tratamento de informações complexas e incertas. O impacto dessas aplicações continua a ser sentido até hoje, impulsionando inovações em áreas como inteligência artificial, ciência de dados e sistemas de informação.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Sistemas Formais Inconsistentes"  
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

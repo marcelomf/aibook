@@ -5,7 +5,7 @@ O avanço da Lógica Paraconsistente e sua aplicação em áreas como inteligên
 
 Neste tópico, apresentamos uma visão geral dos principais IDEs e ambientes de software que oferecem suporte ao estudo e à aplicação da lógica paraconsistente, destacando suas características, recursos e exemplos de uso.
 
----
+
 
 ### 1. **Protégé com Plugins de Lógica Paraconsistente**
 
@@ -18,7 +18,7 @@ O [Protégé](https://protege.stanford.edu/) é um dos ambientes mais populares 
 
 - **Exemplo de uso**: Em sistemas de informação médica, onde dados contraditórios podem surgir, o Protégé permite identificar e tratar essas inconsistências sem invalidar toda a base de conhecimento.
 
----
+
 
 ### 2. **Paraconsistent Logic Programming Environments**
 
@@ -33,7 +33,7 @@ Ambientes de programação lógica, como o [SWI-Prolog](https://www.swi-prolog.o
 
 - **Exemplo de uso**: Desenvolvimento de sistemas especialistas que precisam lidar com informações contraditórias, como diagnósticos médicos ou análise de dados de sensores.
 
----
+
 
 ### 3. **Ambientes Acadêmicos e Simuladores**
 
@@ -47,7 +47,7 @@ Diversos grupos de pesquisa desenvolveram simuladores e ambientes didáticos par
   - Visualização de processos de inferência.
   - Exportação de resultados para análise posterior.
 
----
+
 
 ### 4. **Ambientes de Programação Genéricos com Bibliotecas Paraconsistentes**
 
@@ -60,7 +60,7 @@ Linguagens de programação populares, como Python, Java e C#, podem ser utiliza
   - Flexibilidade para integração com outras bibliotecas de IA e ciência de dados.
   - Suporte a testes automatizados e depuração.
 
----
+
 
 ### 5. **Ferramentas Online e Plataformas de Código Aberto**
 
@@ -69,7 +69,7 @@ Com o crescimento do movimento open source, diversas ferramentas e projetos cola
 - **GitHub**: Repositórios com implementações de sistemas paraconsistentes, exemplos de código e documentação.
 - **Jupyter Notebooks**: Exemplos interativos de lógica paraconsistente, permitindo experimentação direta no navegador.
 
----
+
 
 ## Considerações Finais
 
@@ -77,7 +77,7 @@ Embora o suporte a lógica paraconsistente ainda não seja tão difundido quanto
 
 **Sugestão:** Para quem deseja iniciar, recomenda-se explorar ambientes como o Protégé (com plugins), LPAProlog e bibliotecas Python, além de buscar repositórios e exemplos em plataformas como o GitHub. A participação em comunidades acadêmicas e fóruns especializados também pode ser valiosa para troca de experiências e acesso a novas ferramentas.
 
----
+
 
 **Referências:**
 - [Protégé Ontology Editor](https://protege.stanford.edu/)
@@ -85,4 +85,4 @@ Embora o suporte a lógica paraconsistente ainda não seja tão difundido quanto
 - [ParaconsistentPy - Python Library](https://github.com/Paraconsistent-Logic/ParaconsistentPy)
 - [SWI-Prolog](https://www.swi-prolog.org/)
 - [LPA-Tools](https://www.lpa-tools.org/) (projeto acadêmico)
-```
+

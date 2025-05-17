@@ -84,6 +84,6 @@ Para estudantes e pesquisadores interessados em integrar essas redes, recomenda-
 - [Studia Logica](https://www.springer.com/journal/11225)
 - [Logic Journal of the IGPL](https://academic.oup.com/jigpal)
 
----
+
 
 A colaboração internacional é, portanto, um dos pilares do desenvolvimento da lógica paraconsistente, promovendo avanços teóricos, aplicações inovadoras e a formação de uma comunidade científica global e integrada.

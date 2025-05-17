@@ -5,13 +5,13 @@ A avaliação de riscos e a tomada de decisão são processos centrais em divers
 
 A **lógica paraconsistente** surge como uma alternativa poderosa para lidar com essas situações, permitindo que sistemas de avaliação e decisão operem de forma robusta mesmo na presença de inconsistências. A seguir, exploramos como a lógica paraconsistente impacta positivamente a avaliação de riscos e a tomada de decisão.
 
----
+___
 
 ## 1. Lógica Paraconsistente: Uma Breve Revisão
 
 A lógica paraconsistente é um ramo da lógica não clássica que rejeita o princípio da explosão. Isso significa que, mesmo diante de informações contraditórias, não se pode concluir arbitrariamente qualquer proposição. Em vez disso, a lógica paraconsistente permite que se trabalhe com graus de certeza, incerteza, falsidade e contradição, fornecendo uma estrutura formal para raciocinar em ambientes incertos e conflituosos.
 
----
+___
 
 ## 2. Avaliação de Riscos em Ambientes Incertos
 
@@ -27,7 +27,7 @@ A lógica paraconsistente permite modelar essas situações sem descartar inform
 - **Avaliação gradual do risco:** Utilizando sistemas como a Lógica Paraconsistente Anotada (LPA), é possível atribuir graus de credibilidade e contradição a cada informação, resultando em uma avaliação de risco mais realista e transparente.
 - **Tomada de decisão informada:** O decisor pode visualizar claramente onde há consenso, onde há dúvida e onde há conflito, ajustando suas estratégias de acordo.
 
----
+___
 
 ## 3. Tomada de Decisão Robusta
 
@@ -41,7 +41,7 @@ A tomada de decisão baseada em lógica clássica pode falhar quando confrontada
 
 Considere um sistema de apoio à decisão médica que recebe laudos de diferentes especialistas sobre um diagnóstico. Se dois especialistas discordam, a lógica clássica exigiria escolher um lado ou descartar ambos. Com lógica paraconsistente, o sistema pode registrar a contradição, ponderar a decisão conforme a experiência de cada especialista e sugerir exames adicionais para resolver a incerteza, ao invés de tomar uma decisão precipitada.
 
----
+___
 
 ## 4. Aplicações e Benefícios
 
@@ -57,7 +57,7 @@ Os principais benefícios incluem:
 - **Redução de perdas de informação** por não descartar dados contraditórios.
 - **Aprimoramento da transparência** e rastreabilidade do processo decisório.
 
----
+___
 
 ## 5. Desafios e Perspectivas Futuras
 
@@ -69,7 +69,7 @@ Apesar dos avanços, a adoção da lógica paraconsistente em sistemas de avalia
 
 No entanto, com o crescimento do volume e da complexidade dos dados, especialmente em áreas como big data e inteligência artificial, a tendência é que a lógica paraconsistente se torne cada vez mais relevante para a avaliação de riscos e a tomada de decisão em ambientes reais.
 
----
+___
 
 ## Referências
 
@@ -77,5 +77,5 @@ No entanto, com o crescimento do volume e da complexidade dos dados, especialmen
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Silva Filho, J. I., & Abe, J. M. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Livraria da Física.
 
----
-```
+___
+

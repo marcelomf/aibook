@@ -5,7 +5,7 @@ A modelagem de sistemas que lidam com grandes volumes de dados — como bancos d
 
 Neste contexto, a escolha da abordagem lógica para tratar inconsistências é fundamental. A seguir, comparamos como a **lógica clássica** e a **lógica paraconsistente** lidam com problemas de modelagem em sistemas com dados inconsistentes.
 
----
+
 
 ## 1. Lógica Clássica: Limitações diante da Inconsistência
 
@@ -26,7 +26,7 @@ Na lógica clássica, a presença dessas duas afirmações contraditórias torna
 - **Necessidade de pré-processamento:** É obrigatório eliminar ou resolver todas as inconsistências antes de qualquer inferência lógica, o que pode ser inviável em sistemas grandes ou dinâmicos.
 - **Perda de informação:** Muitas vezes, a resolução de inconsistências implica descartar dados potencialmente úteis.
 
----
+
 
 ## 2. Lógica Paraconsistente: Uma Alternativa Robusta
 
@@ -51,19 +51,19 @@ Na lógica paraconsistente, o sistema reconhece a contradição, mas **não perm
 - **Preservação de informações:** Não é necessário descartar dados automaticamente; inconsistências podem ser tratadas de forma contextual.
 - **Flexibilidade:** Permite modelar sistemas mais próximos da realidade, onde contradições são comuns.
 
----
+
 
 ## 3. Comparação Resumida
 
 | Aspecto                        | Lógica Clássica                        | Lógica Paraconsistente                |
-|---------------------------------|----------------------------------------|---------------------------------------|
+||-||
 | Princípio da explosão           | Sim                                    | Não                                   |
 | Tolerância a inconsistências    | Baixa                                  | Alta                                  |
 | Necessidade de pré-processamento| Alta                                   | Baixa                                 |
 | Preservação de informações      | Baixa (descarta dados contraditórios)  | Alta (mantém e sinaliza contradições) |
 | Aplicabilidade                 | Sistemas com dados limpos e consistentes| Sistemas com dados reais e dinâmicos  |
 
----
+
 
 ## 4. Considerações Finais
 
@@ -71,5 +71,4 @@ A modelagem de sistemas com dados inconsistentes é um desafio crescente na era 
 
 A escolha entre as abordagens depende do contexto e dos requisitos do sistema. Em ambientes onde a consistência absoluta é inviável ou indesejável, a lógica paraconsistente se mostra uma alternativa poderosa e moderna para a modelagem de sistemas complexos.
 
----
-```
+

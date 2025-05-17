@@ -53,9 +53,9 @@ Embora a LP ofereça vantagens significativas, seu uso requer:
 
 A aplicação da Lógica de Priest (LP) na análise de dados contraditórios em pesquisas científicas representa um avanço metodológico importante, permitindo que pesquisadores lidem de forma racional e produtiva com inconsistências inevitáveis no processo científico. Ao adotar a LP, é possível manter a integridade do raciocínio lógico, promover a transparência na análise de dados e orientar o desenvolvimento de novos estudos para a resolução de conflitos, contribuindo para a evolução do conhecimento científico.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

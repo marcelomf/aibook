@@ -64,4 +64,4 @@ A aplicação da LPA em sistemas de inteligência artificial para tomada de deci
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and Knowledge Bases."  
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."  
 - Santos, S. B., & Abe, J. M. (2005). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

@@ -4,7 +4,7 @@ A lógica paraconsistente se destaca por sua capacidade de lidar com contradiç�
 
 Neste tópico, vamos explorar como interpretar esses valores intermediários em tabelas verdade paraconsistentes, utilizando exemplos práticos e destacando sua importância para a análise de informações contraditórias.
 
----
+
 
 ## 1. Valores de Verdade em Lógicas Paraconsistentes
 
@@ -17,14 +17,14 @@ Na lógica clássica, uma proposição só pode ser **verdadeira (V)** ou **fals
 
 Algumas lógicas, como a **Lógica de Priest (LP)**, utilizam apenas três valores: verdadeiro, falso e ambos (verdadeiro e falso simultaneamente).
 
----
+
 
 ## 2. Tabelas Verdade Paraconsistentes
 
 As tabelas verdade em lógicas paraconsistentes são ampliadas para acomodar esses valores intermediários. Por exemplo, considere a seguinte tabela verdade para a negação (¬) em uma lógica paraconsistente de quatro valores:
 
 | p | ¬p |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | I | I  |
@@ -32,7 +32,7 @@ As tabelas verdade em lógicas paraconsistentes são ampliadas para acomodar ess
 
 Observe que, para os valores intermediários, a negação não altera o valor: a negação de uma inconsistência continua sendo inconsistente, e a negação de um valor indeterminado permanece indeterminado.
 
----
+
 
 ## 3. Interpretação dos Valores Intermediários
 
@@ -46,14 +46,14 @@ Observe que, para os valores intermediários, a negação não altera o valor: a
 - **Significado:** Não há informação suficiente para decidir se a proposição é verdadeira ou falsa.
 - **Interpretação:** Representa ausência de dados ou conhecimento. Em operações lógicas, pode ser propagado ou tratado como um valor neutro.
 
----
+
 
 ## 4. Exemplo Prático
 
 Considere as operações de conjunção (∧) e disjunção (∨) em uma lógica paraconsistente de quatro valores:
 
 | p | q | p ∧ q | p ∨ q |
-|---|---|-------|-------|
+|||-|-|
 | V | V |   V   |   V   |
 | V | F |   F   |   V   |
 | V | I |   I   |   V   |
@@ -69,7 +69,7 @@ Considere as operações de conjunção (∧) e disjunção (∨) em uma lógica
 - Quando um dos valores é inconsistente (I), o resultado tende a ser inconsistente, exceto quando combinado com falso (F) na conjunção, onde o resultado é F.
 - Quando um dos valores é indeterminado (U), o resultado é U, exceto quando combinado com verdadeiro (V) na disjunção, onde o resultado é V.
 
----
+
 
 ## 5. Importância da Interpretação Correta
 
@@ -79,14 +79,14 @@ A correta interpretação dos valores intermediários é fundamental para:
 - **Desenvolver sistemas de decisão mais robustos**, especialmente em áreas como inteligência artificial, bancos de dados e automação.
 - **Permitir a análise refinada de situações complexas**, onde a lógica clássica falha ao exigir consistência absoluta.
 
----
+
 
 ## 6. Exercício Proposto
 
 **Dada a seguinte tabela verdade para a implicação (→) em uma lógica paraconsistente de quatro valores, interprete o resultado das seguintes proposições:**
 
 | p | q | p → q |
-|---|---|-------|
+|||-|
 | V | V |   V   |
 | V | F |   F   |
 | V | I |   I   |
@@ -103,13 +103,13 @@ A correta interpretação dos valores intermediários é fundamental para:
 1. Se p = I e q = F, qual o valor de p → q? O que isso significa?
 2. Se p = U e q = V, qual o valor de p → q? Como interpretar esse resultado?
 
----
+
 
 ## 7. Conclusão
 
 A interpretação de valores intermediários em tabelas verdade paraconsistentes é essencial para o uso efetivo dessa lógica em aplicações reais. Compreender o significado de cada valor e como eles interagem nas operações lógicas permite construir sistemas mais flexíveis e tolerantes a inconsistências, refletindo melhor a complexidade do mundo real.
 
----
+
 
 **Sugestão de leitura:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli  

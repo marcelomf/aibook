@@ -37,4 +37,4 @@ Apesar dos benefícios, a avaliação dos resultados também identificou desafio
 A avaliação dos resultados e impactos práticos demonstra que a lógica paraconsistente oferece uma abordagem inovadora e eficaz para a tomada de decisão sob contradição. Ao permitir o tratamento controlado de inconsistências, ela amplia as possibilidades de análise e decisão em ambientes complexos e dinâmicos. No entanto, sua adoção requer atenção à modelagem, treinamento de usuários e integração com processos já estabelecidos.
 
 Em síntese, a lógica paraconsistente não apenas resolve o problema da explosão lógica diante de contradições, mas também agrega valor prático ao processo decisório, tornando-o mais robusto, transparente e confiável em contextos reais.
-```
+

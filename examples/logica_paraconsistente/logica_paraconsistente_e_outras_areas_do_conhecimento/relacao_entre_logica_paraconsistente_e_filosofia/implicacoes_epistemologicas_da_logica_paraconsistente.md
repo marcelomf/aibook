@@ -47,7 +47,7 @@ Apesar de suas vantagens, a adoção da lógica paraconsistente na epistemologia
 
 Essas questões continuam sendo objeto de pesquisa filosófica e lógica, demonstrando que a lógica paraconsistente não apenas resolve problemas antigos, mas também inaugura novos desafios epistemológicos.
 
----
+___
 
 ## Referências para Aprofundamento
 
@@ -55,6 +55,6 @@ Essas questões continuam sendo objeto de pesquisa filosófica e lógica, demons
 - **da Costa, N. C. A.** (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - **Beziau, J.-Y.** (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+___
 
 A lógica paraconsistente, ao desafiar pressupostos clássicos sobre contradição e conhecimento, amplia as fronteiras da epistemologia e oferece ferramentas conceituais e formais para lidar com a complexidade do mundo real.

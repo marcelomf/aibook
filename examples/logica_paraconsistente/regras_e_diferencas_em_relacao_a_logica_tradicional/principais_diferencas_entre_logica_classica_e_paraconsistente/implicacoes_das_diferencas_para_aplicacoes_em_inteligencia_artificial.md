@@ -44,7 +44,7 @@ Apesar das vantagens, a adoção da lógica paraconsistente em IA traz desafios:
 - **Sistemas especialistas:** Diagnóstico médico, jurídico e industrial, onde a contradição é tratada como parte do processo de inferência.
 - **IA explicável:** Ferramentas que justificam decisões mesmo diante de dados contraditórios.
 
----
+
 
 ## Conclusão
 
@@ -54,4 +54,4 @@ As diferenças fundamentais entre lógica clássica e paraconsistente têm impac
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
-```
+

@@ -40,7 +40,7 @@ Apesar de suas vantagens, a aplicação da lógica paraconsistente à ética e �
 
 A lógica paraconsistente representa um avanço significativo para a ética e a lógica deontológica, ao oferecer ferramentas formais para lidar com a inevitável presença de contradições em sistemas normativos. Seu uso permite análises mais realistas e flexíveis, tanto em contextos filosóficos quanto práticos, contribuindo para o desenvolvimento de sistemas éticos e jurídicos mais adaptados à complexidade do mundo contemporâneo.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.

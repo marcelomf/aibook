@@ -50,7 +50,7 @@ A falta de explicabilidade e transparência pode comprometer a confiança em sis
 
 A lógica paraconsistente oferece ferramentas poderosas para lidar com contradições em IA, mas impõe desafios significativos à explicabilidade e transparência. Superar esses desafios é fundamental para garantir a confiança, a responsabilidade e a adoção ética dessas tecnologias. O desenvolvimento de métodos e ferramentas que tornem o raciocínio paraconsistente mais acessível e compreensível é uma área de pesquisa ativa e essencial para o futuro da IA responsável.
 
----
+
 
 **Sugestão de exercício:**  
 Analise um sistema de recomendação baseado em lógica paraconsistente e proponha uma estratégia para explicar ao usuário final como o sistema lida com informações contraditórias. Considere aspectos de visualização, linguagem e rastreamento de evidências.

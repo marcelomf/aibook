@@ -54,8 +54,8 @@ A Lógica Paraconsistente, especialmente a Lógica Paraconsistente Anotada (LPA)
 
 A integração de múltiplas fontes de dados em sistemas de transporte inteligente ilustra de forma clara a utilidade prática da Lógica Paraconsistente. Ao permitir o tratamento controlado de contradições, essa abordagem contribui para sistemas mais confiáveis, transparentes e adaptáveis, essenciais em ambientes urbanos cada vez mais complexos e dinâmicos.
 
----
+
 
 **Sugestão de atividade:**  
 Divida o grupo em equipes e proponha que cada uma elabore um mini-projeto de integração de dados para um STI, detalhando como aplicariam a Lógica Paraconsistente para tratar contradições em diferentes cenários (ex: acidentes, eventos públicos, falhas de sensores).
-```
+

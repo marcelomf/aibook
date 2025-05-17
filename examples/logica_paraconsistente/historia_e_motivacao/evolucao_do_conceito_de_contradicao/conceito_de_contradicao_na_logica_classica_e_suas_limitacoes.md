@@ -52,9 +52,9 @@ A realidade frequentemente apresenta ambiguidades, incertezas e contradições. 
 
 O tratamento da contradição na lógica clássica, embora fundamental para o desenvolvimento da matemática e da ciência, revela-se limitado em contextos onde inconsistências são inevitáveis. Essas limitações motivaram o surgimento de sistemas lógicos alternativos, como a **lógica paraconsistente**, que busca lidar com contradições de forma controlada, sem trivializar o raciocínio. Compreender essas limitações é o primeiro passo para explorar as potencialidades e aplicações das lógicas não clássicas.
 
----
+___
 **Referências:**
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

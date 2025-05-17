@@ -4,7 +4,7 @@ A lógica paraconsistente se destaca por sua capacidade de lidar com contradiç�
 
 Neste tópico, você encontrará explicações e exercícios práticos para identificar contradições em tabelas verdade paraconsistentes, desenvolvendo sua habilidade de análise e interpretação nesse contexto não clássico.
 
----
+
 
 ## 1. Fundamentos: Tabelas Verdade Paraconsistentes
 
@@ -17,7 +17,7 @@ Na lógica clássica, cada proposição só pode assumir dois valores: **Verdade
 
 Esses valores podem variar conforme o sistema paraconsistente adotado, mas a ideia central é permitir a identificação e o tratamento explícito de contradições.
 
----
+
 
 ## 2. Como Identificar Contradições
 
@@ -26,7 +26,7 @@ Uma **contradição** ocorre quando uma proposição é avaliada como verdadeira
 ### Exemplo de Tabela Verdade Paraconsistente
 
 | P | ¬P | Contradição? |
-|---|----|--------------|
+||-|--|
 | V | F  | Não          |
 | F | V  | Não          |
 | B | B  | Sim          |
@@ -34,7 +34,7 @@ Uma **contradição** ocorre quando uma proposição é avaliada como verdadeira
 
 No exemplo acima, a linha em que P = B e ¬P = B indica uma contradição, pois P é simultaneamente verdadeiro e falso.
 
----
+
 
 ## 3. Exercícios Práticos
 
@@ -43,7 +43,7 @@ No exemplo acima, a linha em que P = B e ¬P = B indica uma contradição, pois 
 Considere a seguinte tabela verdade para a proposição Q:
 
 | Q  | ¬Q | Contradição? |
-|----|----|--------------|
+|-|-|--|
 | V  | F  |              |
 | F  | V  |              |
 | B  | B  |              |
@@ -60,14 +60,14 @@ Considere a seguinte tabela verdade para a proposição Q:
 - Q = N, ¬Q = N → Não há contradição, pois não há informação suficiente.
 </details>
 
----
+
 
 ### Exercício 2
 
 Dada a tabela para as proposições A e B:
 
 | A  | B  | A ∧ B | Contradição em A ∧ B? |
-|----|----|-------|-----------------------|
+|-|-|-|--|
 | V  | V  | V     |                       |
 | V  | F  | F     |                       |
 | B  | V  | B     |                       |
@@ -82,14 +82,14 @@ Dada a tabela para as proposições A e B:
 O valor B em A ∧ B indica contradição. Assim, ocorre contradição nas linhas 3 e 5.
 </details>
 
----
+
 
 ### Exercício 3
 
 Analise a tabela abaixo para a proposição C:
 
 | C  | ¬C | C ∨ ¬C | Contradição em C ∨ ¬C? |
-|----|----|--------|------------------------|
+|-|-|--||
 | V  | F  | V      |                        |
 | F  | V  | V      |                        |
 | B  | B  | B      |                        |
@@ -103,7 +103,7 @@ Analise a tabela abaixo para a proposição C:
 A contradição ocorre na linha 3, onde C ∨ ¬C = B, indicando que a disjunção é simultaneamente verdadeira e falsa.
 </details>
 
----
+
 
 ## 4. Dicas para Interpretação
 
@@ -111,24 +111,24 @@ A contradição ocorre na linha 3, onde C ∨ ¬C = B, indicando que a disjunç�
 - **Analise as operações**: Em conjunções e disjunções, a presença de B em qualquer operando pode propagar a contradição.
 - **Atenção à negação**: Em sistemas paraconsistentes, a negação de B pode continuar sendo B.
 
----
+
 
 ## 5. Conclusão
 
 A identificação de contradições em tabelas verdade paraconsistentes é uma habilidade essencial para quem deseja aplicar essa lógica em contextos reais, como bancos de dados inconsistentes ou sistemas de inteligência artificial. Praticar a leitura e interpretação dessas tabelas é fundamental para compreender como a lógica paraconsistente lida com informações conflitantes de maneira controlada e produtiva.
 
----
+
 
 **Sugestão de exercício extra:**  
 Crie uma tabela verdade paraconsistente para as proposições D e E, considerando os valores V, F, B e N, e identifique todas as linhas em que ocorre contradição em D ∧ E.
 
----
+
 
 **Leitura recomendada:**  
 - "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso" (eBook)
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 
----
+
 
 **Pratique!** Aprofunde-se nos exercícios e desenvolva sua intuição para o raciocínio não clássico.

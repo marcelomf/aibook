@@ -3,7 +3,7 @@
 
 A escolha entre diferentes sistemas de lógica paraconsistente, como a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**, depende fortemente do contexto de aplicação e das necessidades específicas do problema a ser resolvido. A seguir, apresentamos uma análise das vantagens e desvantagens de cada sistema em diferentes cenários práticos.
 
----
+
 
 ## Lógica Paraconsistente Anotada (LPA)
 
@@ -31,7 +31,7 @@ A LPA, desenvolvida principalmente por Newton da Costa e colaboradores, utiliza 
 - **Dificuldade de Integração:**  
   Em alguns contextos, integrar a LPA a sistemas legados ou a outras abordagens lógicas pode ser desafiador devido à sua estrutura diferenciada.
 
----
+
 
 ## Lógica de Priest (LP)
 
@@ -59,22 +59,21 @@ A LP, proposta por Graham Priest, é uma lógica paraconsistente minimalista, qu
 - **Menor Adequação para Tomada de Decisão:**  
   Em sistemas de apoio à decisão, a ausência de gradação de evidências pode limitar a utilidade da LP, tornando-a menos adequada para aplicações complexas.
 
----
+
 
 ## Comparação em Contextos Específicos
 
 | Contexto                        | LPA: Vantagens/Desvantagens                  | LP: Vantagens/Desvantagens                   |
-|----------------------------------|----------------------------------------------|----------------------------------------------|
+|-|-|-|
 | **Bancos de Dados Inconsistentes** | Permite análise refinada de inconsistências, mas pode ser mais complexa de implementar. | Simples de aplicar, mas não diferencia níveis de inconsistência. |
 | **Inteligência Artificial**      | Lida bem com incerteza e múltiplas fontes, porém com maior custo computacional. | Mais eficiente, mas menos expressiva para incertezas. |
 | **Resolução de Conflitos**       | Oferece ferramentas para ponderar evidências conflitantes. | Resolve conflitos de forma binária, sem gradação. |
 | **Ensino e Pesquisa**            | Exige maior curva de aprendizado.            | Mais fácil de ensinar e integrar a currículos tradicionais. |
 
----
+
 
 ## Considerações Finais
 
 A escolha entre LPA e LP deve considerar o equilíbrio entre **expressividade** e **simplicidade**. A LPA é recomendada para aplicações que exigem análise detalhada de contradições e incertezas, enquanto a LP é mais indicada para cenários onde a eficiência e a simplicidade são prioritárias. Em muitos casos, a combinação de abordagens pode ser explorada para aproveitar o melhor de cada sistema.
 
----
-```
+

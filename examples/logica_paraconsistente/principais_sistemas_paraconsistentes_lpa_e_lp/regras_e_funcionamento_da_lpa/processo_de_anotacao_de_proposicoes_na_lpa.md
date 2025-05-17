@@ -73,7 +73,7 @@ A anotação será \( P_{(0,8, 0,3)} \), indicando que, embora haja forte suport
 
 O processo de anotação de proposições na LPA é uma ferramenta poderosa para modelar e raciocinar em contextos onde a informação é incerta, incompleta ou contraditória. Ao permitir a representação explícita dos graus de evidência, a LPA oferece uma abordagem mais realista e eficaz para muitos problemas do mundo real, superando as limitações da lógica clássica.
 
----
+
 
 **Referências:**
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. In Handbook of Logic in Artificial Intelligence and Logic Programming.

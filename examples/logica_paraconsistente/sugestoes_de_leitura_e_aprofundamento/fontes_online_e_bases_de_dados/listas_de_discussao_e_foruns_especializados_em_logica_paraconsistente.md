@@ -5,7 +5,7 @@ A participação em listas de discussão e fóruns especializados é uma excelen
 
 A seguir, destacamos algumas das principais listas de discussão e fóruns online dedicados à lógica paraconsistente e áreas correlatas:
 
----
+
 
 ### 1. **Paraconsistent List (Google Groups)**
 
@@ -13,7 +13,7 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
 - **Link:** [Paraconsistent List](https://groups.google.com/g/paraconsistent)
 - **Como participar:** É necessário ter uma conta Google. Basta solicitar participação e aguardar aprovação dos moderadores.
 
----
+
 
 ### 2. **Fórum de Lógica no Stack Exchange**
 
@@ -21,7 +21,7 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
 - **Link:** [Logic - Philosophy Stack Exchange](https://philosophy.stackexchange.com/questions/tagged/logic)
 - **Dica:** Use as tags `paraconsistent-logic` ou `non-classical-logic` para filtrar perguntas específicas.
 
----
+
 
 ### 3. **Reddit – r/logic**
 
@@ -29,7 +29,7 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
 - **Link:** [r/logic](https://www.reddit.com/r/logic/)
 - **Observação:** Embora o foco seja amplo, tópicos sobre lógica paraconsistente são bem-vindos e costumam gerar debates interessantes.
 
----
+
 
 ### 4. **Mailing List da Sociedade Brasileira de Lógica (SBL)**
 
@@ -37,7 +37,7 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
 - **Link:** [Site da SBL](https://www.sbl.org.br/)
 - **Como participar:** Consulte o site para informações sobre inscrição na lista de e-mails.
 
----
+
 
 ### 5. **ResearchGate e Academia.edu**
 
@@ -47,14 +47,14 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
   - [Academia.edu](https://www.academia.edu/)
 - **Dica:** Procure por grupos ou tópicos relacionados a "Paraconsistent Logic" e siga pesquisadores ativos na área.
 
----
+
 
 ### 6. **Grupos e Comunidades no Telegram e WhatsApp**
 
 - **Descrição:** Existem grupos informais de discussão sobre lógica e matemática no Telegram e WhatsApp, alguns dos quais abordam lógica paraconsistente. A entrada geralmente é feita por convite, divulgado em eventos ou por indicação de membros.
 - **Como encontrar:** Participe de eventos, minicursos ou congressos da área e solicite informações sobre grupos ativos.
 
----
+
 
 ## Dicas para Participação Produtiva
 
@@ -63,10 +63,10 @@ A seguir, destacamos algumas das principais listas de discussão e fóruns onlin
 - **Compartilhe conhecimento:** Sempre que possível, contribua respondendo dúvidas e compartilhando materiais úteis.
 - **Mantenha-se atualizado:** Acompanhe as discussões para ficar por dentro das novidades, eventos e oportunidades na área.
 
----
+
 
 ## Considerações Finais
 
 A interação em listas de discussão e fóruns especializados é fundamental para quem deseja se aprofundar em lógica paraconsistente. Além de ampliar o networking, esses espaços proporcionam acesso a debates atuais, materiais inéditos e oportunidades de colaboração em projetos e pesquisas. Explore as opções apresentadas, participe ativamente e contribua para o desenvolvimento da comunidade!
 
-```
+

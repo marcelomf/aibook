@@ -48,11 +48,10 @@ Durante o desenvolvimento de sistemas complexos, especificações e requisitos p
 
 **Exemplo prático:** Em projetos de software crítico, como sistemas embarcados em aeronaves, a lógica paraconsistente pode ser usada para identificar e gerenciar requisitos conflitantes durante as fases iniciais do projeto, evitando atrasos e retrabalho.
 
----
+___
 
 ## **Conclusão**
 
 As principais características da lógica paraconsistente — especialmente sua tolerância controlada à contradição — tornam-na uma ferramenta poderosa em contextos onde a inconsistência é inevitável. Suas aplicações práticas abrangem desde bancos de dados e inteligência artificial até sistemas de decisão, processamento de linguagem e engenharia de software, demonstrando sua relevância crescente em um mundo cada vez mais complexo e interconectado.
 
----
-```
+

@@ -40,4 +40,4 @@ Alguns eventos de destaque para quem deseja se aprofundar em lógica paraconsist
 A participação em eventos acadêmicos é essencial para quem deseja se manter atualizado, construir uma carreira sólida e contribuir para o desenvolvimento da lógica paraconsistente. O networking e a colaboração que surgem nesses ambientes são, muitas vezes, o ponto de partida para avanços científicos e profissionais duradouros.
 
 > **Dica:** Fique atento aos editais de eventos, chamadas de trabalhos e oportunidades de bolsas para participação, especialmente para estudantes e jovens pesquisadores.
-```
+

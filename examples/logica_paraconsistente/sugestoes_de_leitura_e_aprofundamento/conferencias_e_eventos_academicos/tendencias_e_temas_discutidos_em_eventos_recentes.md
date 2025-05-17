@@ -42,7 +42,7 @@ A interdisciplinaridade tem sido uma marca dos eventos recentes, com aplicaçõe
 
 O desenvolvimento de **softwares e ferramentas computacionais** para simulação e aplicação de lógicas paraconsistentes tem sido incentivado. Demonstrações de protótipos e ambientes de teste são cada vez mais comuns, facilitando a adoção prática dessas lógicas em projetos de pesquisa e desenvolvimento.
 
----
+
 
 ## **Conclusão**
 
@@ -50,5 +50,4 @@ Os eventos acadêmicos recentes mostram que a lógica paraconsistente está em p
 
 **Sugestão:** Para acompanhar as tendências mais atuais, recomenda-se a participação em conferências especializadas, a leitura dos anais desses eventos e o acompanhamento de grupos de pesquisa ativos na área.
 
----
-```
+

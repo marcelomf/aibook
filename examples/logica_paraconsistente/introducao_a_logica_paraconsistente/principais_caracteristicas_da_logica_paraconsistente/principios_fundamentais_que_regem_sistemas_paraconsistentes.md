@@ -35,9 +35,9 @@ Alguns sistemas paraconsistentes, como a **Lógica Paraconsistente Anotada (LPA)
 
 Muitos sistemas paraconsistentes são **conservativos em relação à lógica clássica**: quando não há contradições, eles se comportam exatamente como a lógica tradicional. Isso garante que os benefícios da lógica clássica sejam preservados em situações consistentes, enquanto as vantagens da paraconsistência se manifestam apenas quando necessário.
 
----
+___
 
 ## Conclusão
 
 Os princípios fundamentais que regem os sistemas paraconsistentes — rejeição do princípio da explosão, tolerância à contradição, preservação da não-trivialidade, modificação das regras de inferência, distinção entre contradição e inconsistência, estruturação de graus de certeza e compatibilidade com a lógica clássica — tornam possível o raciocínio lógico em ambientes complexos e incertos. Esses princípios são a base para aplicações práticas em áreas como bancos de dados, inteligência artificial e resolução de conflitos, demonstrando a relevância e a atualidade da lógica paraconsistente no mundo contemporâneo.
-```
+

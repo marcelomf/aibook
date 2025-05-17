@@ -5,7 +5,7 @@ A tomada de decisão em ambientes reais frequentemente envolve lidar com informa
 
 Neste tópico, apresentamos estudos de caso que ilustram como a lógica paraconsistente pode ser empregada para otimizar decisões em ambientes com dados conflitantes, destacando aplicações em diferentes domínios.
 
----
+___
 
 ### 1. Diagnóstico Médico Assistido por Computador
 
@@ -18,7 +18,7 @@ Utilizando a Lógica Paraconsistente Anotada (LPA), o sistema pode atribuir grau
 **Resultados:**  
 Estudos mostram que sistemas baseados em lógica paraconsistente apresentam maior resiliência a dados contraditórios, reduzindo a incidência de diagnósticos errôneos e aumentando a confiança dos profissionais de saúde nas recomendações automatizadas.
 
----
+___
 
 ### 2. Gerenciamento de Bancos de Dados Inconsistentes
 
@@ -31,7 +31,7 @@ Ao invés de rejeitar ou sobrescrever dados conflitantes, sistemas paraconsisten
 **Resultados:**  
 A adoção de lógica paraconsistente em bancos de dados resulta em menor perda de informação, maior transparência nos processos de decisão e redução de erros operacionais causados por inconsistências não tratadas.
 
----
+___
 
 ### 3. Inteligência Artificial em Sistemas de Recomendação
 
@@ -44,7 +44,7 @@ Modelos paraconsistentes permitem que o sistema reconheça e quantifique o confl
 **Resultados:**  
 Estudos de caso demonstram que sistemas de recomendação paraconsistentes aumentam a satisfação dos usuários, pois oferecem sugestões mais alinhadas com suas preferências e alertam sobre itens com opiniões polarizadas.
 
----
+___
 
 ### 4. Resolução de Conflitos em Sistemas Multiagente
 
@@ -57,7 +57,7 @@ A lógica paraconsistente permite que cada agente mantenha múltiplas hipóteses
 **Resultados:**  
 Sistemas multiagente baseados em lógica paraconsistente apresentam maior robustez e capacidade de adaptação, conseguindo atingir objetivos comuns mesmo em cenários altamente dinâmicos e incertos.
 
----
+___
 
 ## Considerações Finais
 
@@ -67,4 +67,4 @@ Os estudos de caso apresentados demonstram que a lógica paraconsistente é uma 
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli & João Marcos)  
 - "Paraconsistent Reasoning in Information Systems" (Arieli & Avron)  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Priest, Routley & Norman)
-```
+

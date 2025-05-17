@@ -2,7 +2,7 @@
 
 A compreensão das diferenças entre a lógica clássica e a lógica paraconsistente é fundamental para quem deseja aplicar esses sistemas em situações reais, especialmente quando se lida com informações contraditórias. Nesta seção, propomos exercícios práticos que ilustram como cada lógica trata problemas envolvendo inconsistências, destacando as vantagens e limitações de cada abordagem.
 
----
+
 
 ## 1. Introdução
 
@@ -10,7 +10,7 @@ A **lógica clássica** é baseada no princípio da não contradição: uma prop
 
 Já a **lógica paraconsistente** permite que contradições sejam tratadas de forma controlada, sem que o sistema colapse. Isso é especialmente útil em contextos como bancos de dados inconsistentes, sistemas de inteligência artificial e resolução de conflitos de informações.
 
----
+
 
 ## 2. Exercício 1: Diagnóstico Médico com Informações Contraditórias
 
@@ -34,7 +34,7 @@ Na lógica paraconsistente, é possível registrar que há uma contradição sem
 - **Consequência:**  
   O sistema pode sinalizar a presença de informações conflitantes e solicitar uma verificação adicional, ou ainda tomar decisões baseadas em graus de certeza, sem descartar todo o conhecimento acumulado.
 
----
+
 
 ## 3. Exercício 2: Banco de Dados Inconsistente
 
@@ -54,7 +54,7 @@ Considere um banco de dados com os seguintes registros sobre um produto:
 - **Solução:**  
   O sistema pode indicar que há uma inconsistência, mas ainda assim fornecer informações úteis, como a frequência de cada registro, ou sugerir uma ação (por exemplo, verificar fisicamente o estoque).
 
----
+
 
 ## 4. Exercício 3: Tomada de Decisão em Inteligência Artificial
 
@@ -77,7 +77,7 @@ Um agente inteligente recebe as seguintes informações sobre um ambiente:
   - Solicitar dados adicionais.
   - Tomar uma decisão provisória baseada em outras evidências.
 
----
+
 
 ## 5. Exercício 4: Resolução de Conflitos em Informações
 
@@ -100,7 +100,7 @@ Duas fontes de dados afirmam:
   - Apresentar ambas as informações ao usuário.
   - Sugerir a verificação de uma terceira fonte.
 
----
+
 
 ## 6. Atividades Propostas
 
@@ -108,19 +108,19 @@ Duas fontes de dados afirmam:
 2. **Implemente, em pseudocódigo, um sistema simples que detecte contradições e utilize lógica paraconsistente para sugerir ações.**
 3. **Pesquise aplicações reais da lógica paraconsistente em bancos de dados e IA. Apresente um breve relatório.**
 
----
+
 
 ## 7. Conclusão
 
 Os exercícios acima demonstram que, enquanto a lógica clássica é adequada para sistemas onde a consistência é garantida, a lógica paraconsistente oferece ferramentas valiosas para lidar com contradições de forma produtiva. A escolha do sistema lógico deve considerar o contexto e a natureza dos dados envolvidos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" (Newton da Costa)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)
 
----
+
 
 **Exercite-se!**  
 Tente criar seus próprios exemplos e resolvê-los utilizando ambos os sistemas lógicos. Isso ajudará a consolidar o entendimento das diferenças práticas entre lógica clássica e paraconsistente.

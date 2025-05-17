@@ -28,4 +28,4 @@ Apesar de sua importância, a lógica clássica apresenta limitações, especial
 ## Conclusão
 
 A lógica clássica desempenhou — e ainda desempenha — um papel crucial na história do conhecimento humano. Sua influência se estende da filosofia à ciência, da matemática à computação, sendo responsável por avanços fundamentais em diversas áreas. Compreender sua importância histórica é essencial para valorizar tanto suas contribuições quanto as motivações para o desenvolvimento de novas abordagens lógicas, como a lógica paraconsistente.
-```
+

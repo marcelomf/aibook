@@ -38,6 +38,6 @@ As tendências mais recentes incluem o uso de lógicas paraconsistentes em machi
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic, 15(4), 497–510.
 - World Congress on Paraconsistency. [https://www.paraconsistency.org/](https://www.paraconsistency.org/)
 
----
+___
 
 A expansão internacional das pesquisas em lógica paraconsistente demonstra sua importância e aplicabilidade em um mundo cada vez mais complexo e repleto de informações contraditórias, consolidando-a como uma ferramenta essencial para o raciocínio e a tomada de decisão em múltiplos contextos.

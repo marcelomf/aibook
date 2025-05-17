@@ -3,7 +3,7 @@
 
 A escolha entre lógica clássica e lógica paraconsistente para modelar, analisar ou resolver problemas depende de diversos fatores, incluindo a natureza dos dados, os objetivos do sistema e as restrições práticas do contexto de aplicação. Neste tópico, analisamos o custo-benefício de cada abordagem, destacando vantagens, limitações e cenários de uso recomendados.
 
----
+
 
 ## 1. **Lógica Clássica: Custo-Benefício**
 
@@ -17,7 +17,7 @@ A escolha entre lógica clássica e lógica paraconsistente para modelar, analis
 - **Necessidade de Pré-processamento:** Muitas vezes, é necessário limpar ou reconciliar dados antes do processamento, aumentando o custo e a complexidade do desenvolvimento.
 - **Pouca Flexibilidade:** Não é adequada para domínios onde a inconsistência é inerente ou inevitável, como integração de múltiplas fontes de dados ou sistemas de tomada de decisão sob incerteza.
 
----
+
 
 ## 2. **Lógica Paraconsistente: Custo-Benefício**
 
@@ -33,19 +33,19 @@ A escolha entre lógica clássica e lógica paraconsistente para modelar, analis
 - **Ferramentas e Suporte Limitados:** Embora em crescimento, o ecossistema de ferramentas e bibliotecas para lógica paraconsistente ainda é menor do que o da lógica clássica.
 - **Dificuldade de Interpretação:** Os resultados podem ser menos intuitivos para usuários acostumados com a lógica tradicional, exigindo maior cuidado na apresentação e análise.
 
----
+
 
 ## 3. **Cenários de Aplicação e Escolha da Abordagem**
 
 | Critério                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|----------------------------------|----------------------------------|----------------------------------|
+|-|-|-|
 | Dados sempre consistentes        | Alta eficiência e simplicidade   | Pode ser desnecessária           |
 | Dados potencialmente inconsistentes | Pode falhar ou exigir pré-processamento | Opera normalmente, preservando informações |
 | Necessidade de explicabilidade   | Resultados previsíveis           | Pode exigir explicações adicionais |
 | Recursos computacionais limitados| Mais indicada                    | Pode ser custosa                 |
 | Domínio crítico (ex: jurídico, IA) | Limitada em cenários contraditórios | Altamente recomendada            |
 
----
+
 
 ## 4. **Considerações Finais**
 
@@ -53,10 +53,10 @@ A lógica clássica permanece a escolha preferencial em contextos onde a consist
 
 A decisão entre as abordagens deve considerar não apenas os custos diretos de implementação e manutenção, mas também os benefícios de robustez, flexibilidade e preservação de conhecimento. Em muitos casos, uma abordagem híbrida — utilizando lógica clássica como base e lógica paraconsistente para módulos específicos — pode oferecer o melhor equilíbrio entre custo e benefício.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 
-```
+

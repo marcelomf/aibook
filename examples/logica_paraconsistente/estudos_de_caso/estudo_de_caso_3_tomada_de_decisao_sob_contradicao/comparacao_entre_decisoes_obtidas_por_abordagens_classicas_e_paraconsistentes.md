@@ -7,7 +7,7 @@ A tomada de decisão em ambientes reais frequentemente envolve lidar com informa
 
 Neste estudo de caso, comparamos as decisões obtidas por abordagens clássicas e paraconsistentes em um cenário prático de tomada de decisão sob contradição.
 
----
+___
 
 ## Cenário Prático
 
@@ -18,7 +18,7 @@ Imagine um sistema de apoio à decisão para diagnóstico médico, onde dois esp
 - **Afirmação 1:** "O paciente tem a doença X." (Especialista A)
 - **Afirmação 2:** "O paciente não tem a doença X." (Especialista B)
 
----
+___
 
 ## Abordagem Clássica
 
@@ -35,7 +35,7 @@ Segundo o princípio da explosão, a partir de {X, ¬X} pode-se deduzir qualquer
 
 **Consequência:** O sistema clássico não consegue tomar uma decisão útil enquanto a contradição persistir, ou toma uma decisão arbitrária ao descartar parte da informação.
 
----
+___
 
 ## Abordagem Paraconsistente
 
@@ -53,23 +53,22 @@ O sistema avalia a consistência e a evidência global, podendo concluir, por ex
 
 **Consequência:** O sistema paraconsistente fornece uma resposta útil mesmo diante da contradição, explicitando o grau de incerteza e permitindo decisões mais informadas e flexíveis.
 
----
+___
 
 ## Tabela Comparativa
 
 | Aspecto                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|---------------------------------|----------------------------------|----------------------------------|
+|_________________________________|_________________________________-|_________________________________-|
 | **Tratamento de Contradições**  | Não tolera; leva à explosão      | Tolera; controla a inconsistência|
 | **Decisão sob Contradição**     | Paralisa ou ignora informações   | Toma decisão ponderada           |
 | **Transparência**               | Não explicita incertezas         | Explicita graus de crença/descrença|
 | **Flexibilidade**               | Baixa                            | Alta                             |
 | **Aplicabilidade**              | Ambientes consistentes           | Ambientes com possíveis inconsistências|
 
----
+___
 
 ## Considerações Finais
 
 A comparação evidencia que, em cenários de tomada de decisão sob contradição, a lógica paraconsistente oferece vantagens significativas sobre a abordagem clássica. Ela permite que sistemas computacionais e humanos operem de maneira mais realista e eficiente em ambientes onde a inconsistência é inevitável, fornecendo respostas úteis, transparentes e adaptáveis. Por isso, a lógica paraconsistente tem se destacado em aplicações como diagnóstico médico, sistemas especialistas, bancos de dados e inteligência artificial, onde a robustez diante de informações conflitantes é essencial.
 
----
-```
+

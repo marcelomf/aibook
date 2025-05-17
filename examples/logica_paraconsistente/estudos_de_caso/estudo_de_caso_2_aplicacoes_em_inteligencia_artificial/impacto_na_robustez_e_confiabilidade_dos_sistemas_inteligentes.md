@@ -41,8 +41,8 @@ Considere um sistema de IA projetado para auxiliar no diagnóstico de doenças. 
 
 A adoção da lógica paraconsistente em sistemas de inteligência artificial representa um avanço significativo na busca por robustez e confiabilidade. Ao permitir que sistemas inteligentes lidem de forma controlada com contradições e incertezas, a lógica paraconsistente amplia o espectro de aplicações da IA, tornando-a mais adequada para ambientes complexos e dinâmicos. Isso não apenas aumenta a confiança dos usuários nos sistemas, mas também contribui para decisões mais seguras e fundamentadas em contextos críticos.
 
----
+___
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

@@ -3,7 +3,7 @@
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, tem se mostrado uma ferramenta poderosa para enfrentar desafios em ambientes complexos e dinâmicos. Com o avanço das tecnologias emergentes, como a Internet das Coisas (IoT) e o blockchain, surgem novas oportunidades e necessidades para a aplicação de sistemas lógicos capazes de lidar com inconsistências e incertezas. A seguir, apresentamos estudos de caso que ilustram como a lógica paraconsistente pode ser integrada a essas tecnologias, promovendo soluções inovadoras e robustas.
 
----
+
 
 ## 1. Lógica Paraconsistente em Ambientes de IoT
 
@@ -27,7 +27,7 @@ A integração de uma Lógica Paraconsistente Anotada (LPA) permite que o sistem
 
 Em um projeto piloto de smart cities, a lógica paraconsistente foi utilizada para integrar dados de sensores de poluição atmosférica. O sistema conseguiu manter a operação mesmo diante de falhas pontuais, fornecendo informações confiáveis para a tomada de decisão das autoridades municipais.
 
----
+
 
 ## 2. Lógica Paraconsistente e Blockchain
 
@@ -51,7 +51,7 @@ A lógica paraconsistente pode ser empregada para:
 
 Em um consórcio de empresas do setor alimentício, a lógica paraconsistente foi integrada a uma plataforma blockchain para rastreamento de produtos. O sistema conseguiu identificar rapidamente lotes com informações conflitantes, acionando auditorias automáticas e evitando recalls desnecessários.
 
----
+
 
 ## 3. Perspectivas Futuras
 
@@ -61,7 +61,7 @@ A integração da lógica paraconsistente com tecnologias emergentes está apena
 - **Cibersegurança**: Detecção de anomalias e ataques pode se beneficiar do tratamento de informações contraditórias em tempo real.
 - **Sistemas autônomos**: Veículos e robôs podem operar de forma mais segura ao lidar com múltiplas fontes de informação potencialmente conflitantes.
 
----
+
 
 ## Referências para Aprofundamento
 
@@ -70,7 +70,7 @@ A integração da lógica paraconsistente com tecnologias emergentes está apena
 - **Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.** Springer.
 - **Santos, S. B., & Subrahmanyam, G. V. (2021). Paraconsistent Logic in IoT Data Fusion.** Journal of Intelligent & Fuzzy Systems, 40(2), 1-12.
 
----
+
 
 A aplicação da lógica paraconsistente em tecnologias emergentes representa um campo fértil para pesquisa e inovação, oferecendo soluções resilientes e adaptáveis para os desafios do mundo digital contemporâneo.
-```
+

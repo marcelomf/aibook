@@ -43,7 +43,7 @@ Voltado especialmente ao público brasileiro e lusófono, este livro apresenta u
 - **Ano:** 2001
 - **ISBN:** 978-8526805662
 
----
+
 
 ### **Dicas para o Leitor**
 
@@ -55,4 +55,4 @@ Voltado especialmente ao público brasileiro e lusófono, este livro apresenta u
 
 Estes livros clássicos formam a base essencial para qualquer estudante ou pesquisador interessado em lógica paraconsistente. Eles oferecem desde os fundamentos teóricos até discussões avançadas e aplicações práticas, proporcionando uma formação sólida e abrangente no tema.
 
-```
+

@@ -5,7 +5,7 @@ A **explosão lógica** (ou *princípio da explosão*, do latim *ex contradictio
 
 Neste tópico, apresentamos exemplos matemáticos que ilustram a explosão lógica, mostrando como, a partir de uma contradição, qualquer afirmação pode ser deduzida.
 
----
+
 
 ## 1. Explosão Lógica: Definição Formal
 
@@ -17,7 +17,7 @@ $$(\varphi \land \neg\varphi) \vdash \psi$$
 
 Ou seja, se assumimos que $\varphi$ e $\neg\varphi$ são ambas verdadeiras, podemos deduzir qualquer $\psi$.
 
----
+
 
 ## 2. Exemplo Matemático Simples
 
@@ -29,7 +29,7 @@ Considere as proposições:
 
 Se, por algum motivo, aceitamos simultaneamente que "2 é par" e "2 não é par" (uma contradição), então, pela explosão lógica, podemos deduzir que "7 é primo" — mesmo que essa afirmação não tenha relação alguma com as anteriores.
 
----
+
 
 ## 3. Demonstração Formal da Explosão
 
@@ -59,7 +59,7 @@ Seja $\psi$: "0 = 1"
 - Mas temos $x \neq 1$, então $(x = 1)$ é falso, logo, $(0 = 1)$ deve ser verdadeiro.
 - Portanto, deduzimos $0 = 1$, uma afirmação absurda.
 
----
+
 
 ## 4. Explosão em Sistemas Matemáticos
 
@@ -73,13 +73,13 @@ Em sistemas formais, como a aritmética de Peano, a presença de uma contradiç�
     - Logo, qualquer propriedade que vale para $0$ vale para $1$, e assim por diante.
     - Portanto, qualquer afirmação $P$ pode ser deduzida, tornando o sistema inútil para distinguir o verdadeiro do falso.
 
----
+
 
 ## 5. Consequências e Motivações para a Lógica Paraconsistente
 
 A explosão lógica mostra que a lógica clássica não é adequada para lidar com sistemas onde contradições podem surgir, como em bancos de dados inconsistentes ou em situações de incerteza na inteligência artificial. Por isso, a **lógica paraconsistente** foi desenvolvida para permitir o raciocínio mesmo na presença de contradições, evitando a trivialidade.
 
----
+
 
 ## Referências
 
@@ -87,5 +87,5 @@ A explosão lógica mostra que a lógica clássica não é adequada para lidar c
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
-```
+
+

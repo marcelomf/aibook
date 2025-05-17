@@ -41,10 +41,10 @@ A adoção da LP tem implicações profundas:
 
 A Lógica de Priest (LP) representa uma das mais importantes inovações na lógica e na filosofia contemporâneas. Ao desafiar os limites da lógica clássica, a LP oferece novas perspectivas para a compreensão da verdade, do raciocínio e da própria natureza da lógica. Sua relação com a filosofia da lógica e a teoria da verdade é profunda, estimulando debates sobre os fundamentos do pensamento racional e abrindo caminho para abordagens mais flexíveis e realistas diante das contradições do mundo real.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Graham Priest, *In Contradiction: A Study of the Transconsistent* (Oxford University Press)
 - Jc Beall & Graham Priest, "Logic: The Laws of Truth" (Stanford Encyclopedia of Philosophy)
 - Newton da Costa, *Lógicas Paraconsistentes: Introdução e Aplicações*
-```
+

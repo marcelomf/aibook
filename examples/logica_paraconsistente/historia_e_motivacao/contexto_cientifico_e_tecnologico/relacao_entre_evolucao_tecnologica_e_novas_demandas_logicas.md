@@ -44,4 +44,4 @@ A Lógica Paraconsistente surge como resposta a essas demandas. Diferente da ló
 ## Conclusão
 
 A evolução tecnológica não apenas ampliou o volume e a complexidade das informações, mas também evidenciou as limitações da lógica clássica em ambientes reais. Novas demandas, como a necessidade de lidar com contradições e incertezas, impulsionaram o desenvolvimento de sistemas lógicos alternativos, entre eles a Lógica Paraconsistente. Essa abordagem representa um avanço fundamental para a ciência da computação, inteligência artificial e outras áreas que dependem do processamento confiável de grandes volumes de dados, tornando-se cada vez mais relevante no cenário científico e tecnológico contemporâneo.
-```
+

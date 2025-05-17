@@ -42,4 +42,4 @@ A escolha entre lógica clássica e lógica paraconsistente depende do contexto 
 A lógica paraconsistente representa um avanço importante para o tratamento de contradições e incertezas, oferecendo robustez e flexibilidade superiores à lógica clássica. No entanto, essas vantagens vêm acompanhadas de um aumento na complexidade computacional, exigindo um equilíbrio cuidadoso entre os benefícios desejados e os custos de implementação.
 
 A análise desses trade-offs é fundamental para o sucesso de projetos que envolvem raciocínio não clássico, devendo considerar tanto as necessidades do domínio de aplicação quanto as limitações práticas dos sistemas computacionais disponíveis.
-```
+

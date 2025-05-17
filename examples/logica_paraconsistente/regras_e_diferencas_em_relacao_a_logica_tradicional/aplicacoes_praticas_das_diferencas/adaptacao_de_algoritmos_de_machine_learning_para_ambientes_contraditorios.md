@@ -70,9 +70,9 @@ Em ambientes dinâmicos, onde novas informações podem contradizer dados anteri
 
 A adaptação de algoritmos de machine learning para ambientes contraditórios, utilizando princípios da lógica paraconsistente, representa um avanço significativo para aplicações em cenários reais. Ao permitir que modelos aprendam e operem mesmo diante de inconsistências, amplia-se o espectro de problemas que podem ser tratados de forma eficaz, tornando os sistemas de inteligência artificial mais flexíveis, confiáveis e alinhados com a complexidade do mundo real.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli, João Marcos)
 - "Paraconsistent Machine Learning" (artigos recentes em journals de IA e lógica não clássica)
-```
+

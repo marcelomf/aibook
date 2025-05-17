@@ -3,7 +3,7 @@
 
 A escolha entre lógica clássica e lógica paraconsistente tem um impacto significativo no desenvolvimento e desempenho de aplicações computacionais, especialmente em contextos onde a informação pode ser incompleta, incerta ou contraditória. A seguir, discutimos como cada abordagem influencia diferentes áreas da computação, destacando vantagens, limitações e exemplos práticos.
 
----
+
 
 ## Lógica Clássica: Rigor e Limitações
 
@@ -25,7 +25,7 @@ A lógica clássica, baseada nos princípios do terceiro excluído e da não con
 - **Fragilidade diante de inconsistências:** Em sistemas clássicos, a presença de uma contradição pode levar à trivialização do sistema (princípio da explosão), tornando qualquer afirmação dedutível e, portanto, inutilizando o sistema.
 - **Dificuldade em lidar com dados reais:** Dados do mundo real frequentemente contêm erros, omissões ou informações conflitantes, o que pode inviabilizar o uso estrito da lógica clássica.
 
----
+
 
 ## Lógica Paraconsistente: Flexibilidade e Robustez
 
@@ -49,7 +49,7 @@ A lógica paraconsistente foi desenvolvida justamente para superar as limitaçõ
 - **Falta de padronização:** Ainda há menos ferramentas e frameworks amplamente adotados em comparação com a lógica clássica.
 - **Curva de aprendizado:** Desenvolvedores e analistas precisam se familiarizar com novos conceitos e técnicas.
 
----
+
 
 ## Considerações Finais
 
@@ -60,5 +60,4 @@ A adoção da lógica clássica ou paraconsistente em aplicações computacionai
 
 A tendência atual, especialmente com o crescimento de sistemas inteligentes e integração de grandes volumes de dados heterogêneos, é o aumento do interesse e da adoção de abordagens paraconsistentes, tornando-as cada vez mais relevantes para o futuro da computação.
 
----
-```
+

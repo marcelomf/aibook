@@ -44,9 +44,9 @@ A capacidade de lidar com contradições sem trivialização é essencial em div
 
 A lógica paraconsistente representa um avanço significativo ao permitir que sistemas lógicos **continuem operando de forma útil e controlada mesmo na presença de contradições**. Ao rejeitar o princípio da explosão, ela oferece uma abordagem mais realista e robusta para o tratamento de informações no mundo real, onde inconsistências são frequentemente inevitáveis.
 
----
+___
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*, 15(4), 497-510.
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287-393). Springer.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

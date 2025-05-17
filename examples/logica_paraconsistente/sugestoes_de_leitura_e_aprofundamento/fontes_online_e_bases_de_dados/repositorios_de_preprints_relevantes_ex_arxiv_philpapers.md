@@ -50,7 +50,7 @@ O Open Science Framework (OSF) Preprints é uma plataforma multidisciplinar que 
   - Facilidade de busca e depósito de trabalhos.
   - Integração com projetos colaborativos.
 
----
+
 
 ### Dicas para Utilizar Repositórios de Pré-prints
 
@@ -58,10 +58,10 @@ O Open Science Framework (OSF) Preprints é uma plataforma multidisciplinar que 
 - **Acompanhe autores e grupos de pesquisa:** Muitos pesquisadores de destaque em lógica paraconsistente publicam regularmente nesses repositórios. Seguir seus perfis pode ser uma boa estratégia para se manter atualizado.
 - **Participe de discussões:** Alguns repositórios, como o PhilPapers, permitem comentários e discussões sobre os trabalhos, enriquecendo o debate acadêmico.
 
----
+
 
 ### Conclusão
 
 Os repositórios de pré-prints são ferramentas essenciais para quem deseja se manter atualizado e aprofundar seus conhecimentos em lógica paraconsistente. Utilizá-los de forma estratégica amplia o acesso a pesquisas recentes, tendências e debates, contribuindo para uma formação sólida e atualizada na área.
 
-```
+

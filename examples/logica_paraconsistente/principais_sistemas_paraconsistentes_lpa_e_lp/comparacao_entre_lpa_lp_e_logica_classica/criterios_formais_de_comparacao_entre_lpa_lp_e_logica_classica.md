@@ -3,7 +3,7 @@
 
 A comparação entre diferentes sistemas lógicos exige critérios formais que permitam analisar suas propriedades, capacidades e limitações. Neste tópico, abordaremos os principais critérios formais para comparar a **Lógica Paraconsistente Anotada (LPA)**, a **Lógica de Priest (LP)** e a **lógica clássica**, destacando suas diferenças fundamentais e implicações práticas.
 
----
+
 
 ## 1. **Consistência e Explosão**
 
@@ -17,7 +17,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 - **Resistência à Explosão:** Tanto a LPA quanto a LP são projetadas para evitar a explosão. Ou seja, mesmo diante de contradições, não é possível deduzir qualquer proposição arbitrária.
 - **Consistência Controlada:** Permitem trabalhar com informações contraditórias de forma controlada, sem comprometer todo o sistema lógico.
 
----
+
 
 ## 2. **Princípio da Não-Contradição**
 
@@ -29,7 +29,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 
 - **Flexível:** Permitem que `A` e `¬A` sejam ambos verdadeiros em certos contextos, sem que isso leve à trivialidade do sistema.
 
----
+
 
 ## 3. **Princípio do Terceiro Excluído**
 
@@ -45,7 +45,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 
 - **Permite Indefinição:** Em alguns sistemas paraconsistentes, pode haver situações em que nem `A` nem `¬A` são plenamente verdadeiros.
 
----
+
 
 ## 4. **Semântica e Estrutura Formal**
 
@@ -64,7 +64,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 - **Trivalente ou Multivalente:** Admite três valores (verdadeiro, falso, ambos) ou mais, dependendo da variante.
 - **Semântica de Priest:** Permite que uma proposição seja simultaneamente verdadeira e falsa.
 
----
+
 
 ## 5. **Capacidade de Inferência**
 
@@ -76,7 +76,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 
 - **Dedução Não-Monotônica:** A introdução de novas informações (inclusive contraditórias) pode alterar as conclusões possíveis, tornando o raciocínio mais flexível e adaptável a contextos dinâmicos.
 
----
+
 
 ## 6. **Aplicabilidade Prática**
 
@@ -88,12 +88,12 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 
 - **Adequadas para sistemas com inconsistências:** Úteis em bancos de dados inconsistentes, inteligência artificial, sistemas de tomada de decisão e situações onde a informação pode ser contraditória ou incerta.
 
----
+
 
 ## 7. **Formalização e Propriedades Metamatemáticas**
 
 | Critério                | Lógica Clássica | LPA                        | LP                        |
-|-------------------------|-----------------|----------------------------|---------------------------|
+|-|--|-||
 | Explosão                | Sim             | Não                        | Não                       |
 | Não-Contradição         | Sim             | Não (admite contradições)  | Não (admite contradições) |
 | Terceiro Excluído       | Sim             | Não necessariamente        | Não necessariamente       |
@@ -101,7 +101,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 | Monotonicidade          | Sim             | Não                        | Não                       |
 | Aplicação               | Sistemas consistentes | Sistemas inconsistentes | Sistemas inconsistentes   |
 
----
+
 
 ## 8. **Resumo das Diferenças Fundamentais**
 
@@ -109,7 +109,7 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 - **LPA:** Permite graus de verdade e falsidade, trabalha com anotações, ideal para tratar incertezas e inconsistências de forma quantitativa.
 - **LP:** Permite que proposições sejam simultaneamente verdadeiras e falsas, útil para modelar paradoxos e situações de conflito lógico.
 
----
+
 
 ## 9. **Referências para Estudo**
 
@@ -117,9 +117,9 @@ A comparação entre diferentes sistemas lógicos exige critérios formais que p
 - **Priest, G. (2002).** Paraconsistent Logic. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6).
 - **da Costa, N. C. A. (1974).** On the Theory of Inconsistent Formal Systems. Notre Dame Journal of Formal Logic.
 
----
+
 
 ## 10. **Conclusão**
 
 A escolha entre lógica clássica, LPA e LP depende do contexto e das necessidades do sistema a ser modelado. Os critérios formais apresentados permitem uma análise rigorosa das capacidades e limitações de cada sistema, orientando sua aplicação em problemas reais que envolvem inconsistências, incertezas e contradições.
-```
+

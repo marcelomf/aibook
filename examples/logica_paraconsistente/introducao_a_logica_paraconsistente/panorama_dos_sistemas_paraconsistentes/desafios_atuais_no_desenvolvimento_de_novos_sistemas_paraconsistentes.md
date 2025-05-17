@@ -43,9 +43,9 @@ Apesar dos avanços teóricos, ainda são necessários mais estudos empíricos q
 
 Por fim, a complexidade conceitual da lógica paraconsistente representa um desafio para sua disseminação. É necessário desenvolver materiais didáticos, cursos e ferramentas de apoio que facilitem o aprendizado e a adoção por novos públicos.
 
----
+___
 
 ## **Considerações Finais**
 
 O desenvolvimento de novos sistemas paraconsistentes é um campo dinâmico, repleto de desafios teóricos e práticos. Superar essas barreiras exige colaboração interdisciplinar, avanços em formalização, implementação eficiente e validação empírica. O futuro da lógica paraconsistente depende da capacidade de responder a esses desafios, ampliando seu impacto em áreas como ciência da computação, inteligência artificial, filosofia e além.
-```
+

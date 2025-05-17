@@ -2,7 +2,7 @@
 
 A crescente complexidade dos sistemas de informação e a necessidade de lidar com dados inconsistentes ou contraditórios têm impulsionado o desenvolvimento e a adoção de abordagens baseadas em lógica paraconsistente. Para viabilizar a aplicação prática desses conceitos, diversas ferramentas e frameworks foram criados, permitindo que desenvolvedores, pesquisadores e profissionais implementem soluções robustas em bancos de dados, sistemas de decisão e aplicações de inteligência artificial. Este tópico apresenta uma visão geral das principais ferramentas e frameworks disponíveis, suas características e exemplos de uso.
 
----
+___
 
 ## 1. **Lógica Paraconsistente Anotada (LPA) e Ferramentas Associadas**
 
@@ -20,7 +20,7 @@ A Lógica Paraconsistente Anotada (LPA), especialmente a LPA-𝑒𝑡𝑎, é um
 - **Funcionalidades:** Oferece módulos para definição de regras, manipulação de graus de crença e descrença, e visualização de resultados.
 - **Destaque:** Suporte a integração com bancos de dados relacionais e sistemas de automação industrial.
 
----
+___
 
 ## 2. **Frameworks para Lógica Paraconsistente em Inteligência Artificial**
 
@@ -37,7 +37,7 @@ A lógica paraconsistente tem sido incorporada em frameworks de IA para lidar co
 - **Descrição:** Frameworks de sistemas multiagentes, como o **JADE** (Java Agent DEvelopment Framework), podem ser estendidos com módulos de raciocínio paraconsistente.
 - **Funcionalidades:** Permite que agentes tomem decisões mesmo diante de informações conflitantes, aumentando a robustez do sistema.
 
----
+___
 
 ## 3. **Extensões para Bancos de Dados**
 
@@ -54,7 +54,7 @@ A manipulação de dados inconsistentes é um dos principais desafios em bancos 
 - **Descrição:** Ferramentas como o **Protégé** podem ser estendidas com plugins para raciocínio paraconsistente em ontologias OWL.
 - **Aplicações:** Web Semântica, integração de dados heterogêneos e sistemas de recomendação.
 
----
+___
 
 ## 4. **Bibliotecas e Pacotes para Linguagens de Programação**
 
@@ -69,7 +69,7 @@ Diversas bibliotecas facilitam a implementação de lógica paraconsistente em l
 
 - **`ParaconsistentLogic4J`**: Biblioteca para integração de lógica paraconsistente em aplicações Java, com suporte a sistemas especialistas e bancos de dados.
 
----
+___
 
 ## 5. **Considerações Práticas e Tendências**
 
@@ -77,13 +77,13 @@ Diversas bibliotecas facilitam a implementação de lógica paraconsistente em l
 - **Interoperabilidade:** A tendência é o desenvolvimento de APIs e módulos que permitam a integração de raciocínio paraconsistente em sistemas legados e plataformas de nuvem.
 - **Comunidade e Suporte:** Embora muitas ferramentas ainda estejam em fase experimental ou acadêmica, há um crescimento no interesse e na colaboração internacional, especialmente em áreas como saúde, finanças e automação industrial.
 
----
+___
 
 ## 6. **Exemplo de Uso: Diagnóstico em Sistemas Industriais**
 
 Um caso prático é o uso de LPA-Tools para diagnóstico de falhas em sistemas industriais. Sensores podem fornecer leituras contraditórias devido a falhas ou ruídos. Utilizando um sistema baseado em LPA, é possível identificar a origem do problema sem descartar informações relevantes, aumentando a confiabilidade do diagnóstico.
 
----
+___
 
 ## 7. **Referências e Recursos**
 
@@ -93,7 +93,7 @@ Um caso prático é o uso de LPA-Tools para diagnóstico de falhas em sistemas i
 - **JADE Framework:** [https://jade.tilab.com/](https://jade.tilab.com/)  
 - **pyparaconsistent (Python):** [https://pypi.org/project/pyparaconsistent/](https://pypi.org/project/pyparaconsistent/)
 
----
+___
 
 ## **Conclusão**
 

@@ -68,9 +68,9 @@ Não podemos deduzir arbitrariamente qualquer `C`, pois a regra de inferência �
 
 A validação de deduções em sistemas paraconsistentes é guiada por critérios que visam preservar a utilidade do raciocínio lógico mesmo diante de contradições. Esses critérios variam conforme o sistema adotado, mas compartilham o objetivo de restringir inferências a conclusões justificadas, evitando a trivialização do sistema. O estudo e a aplicação desses critérios são fundamentais para o uso seguro e eficaz da lógica paraconsistente em áreas como bancos de dados, inteligência artificial e resolução de conflitos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

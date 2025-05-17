@@ -68,8 +68,8 @@ A aplicação da lógica paraconsistente em sistemas jurídicos contribui para d
 
 A lógica paraconsistente oferece ferramentas valiosas para a reconciliação de informações divergentes em sistemas jurídicos, permitindo que decisões sejam tomadas mesmo diante de contradições inevitáveis. Sua adoção pode representar um avanço significativo na busca por justiça em um mundo cada vez mais complexo e repleto de informações conflitantes.
 
----
+
 
 **Sugestão de Atividade:**  
 Divida o grupo em equipes e proponha que cada uma analise um caso fictício com múltiplas fontes de informação contraditórias, utilizando a lógica paraconsistente para fundamentar uma decisão. Em seguida, promova um debate sobre os critérios adotados e os resultados obtidos.
-```
+

@@ -4,7 +4,7 @@ A inferência lógica é o processo pelo qual se obtêm conclusões a partir de 
 
 Neste tópico, apresentamos as etapas do processo de inferência em lógica paraconsistente, destacando suas particularidades e ilustrando com exemplos práticos.
 
----
+
 
 ## 1. Identificação das Premissas
 
@@ -16,7 +16,7 @@ O primeiro passo é a identificação das premissas, que podem incluir informaç
 
 Na lógica clássica, essas premissas levariam à explosão. Na lógica paraconsistente, ambas podem ser consideradas no processo inferencial.
 
----
+
 
 ## 2. Anotação ou Representação das Proposições
 
@@ -27,7 +27,7 @@ Em sistemas como a **Lógica Paraconsistente Anotada (LPA)**, cada proposição 
 - \( A = (0, 1) \): Totalmente desfavorável.
 - \( A = (1, 1) \): Evidências máximas a favor e contra (contradição).
 
----
+
 
 ## 3. Aplicação das Regras de Inferência Paraconsistentes
 
@@ -43,7 +43,7 @@ Se \( A = (0.8, 0.7) \):
 
 A inferência pode ser feita considerando esses graus, e não apenas a presença de contradição.
 
----
+
 
 ## 4. Avaliação da Consistência
 
@@ -53,7 +53,7 @@ Antes de concluir, avalia-se o nível de consistência das informações. Se o g
 - Se \( G_{ct} \) é próximo de 1, há alta contradição.
 - Se \( G_{ct} \) é próximo de 0, a informação é consistente.
 
----
+
 
 ## 5. Derivação da Conclusão
 
@@ -73,13 +73,13 @@ Cálculo:
 **Interpretação:**  
 Como o grau de contradição é 0, a informação é consistente, e a conclusão é que o sintoma está "provavelmente presente", mas com baixa certeza.
 
----
+
 
 ## 6. Atualização do Conhecimento
 
 A lógica paraconsistente permite a atualização dinâmica das informações. Novas evidências podem ser incorporadas, ajustando os graus de certeza e contradição, e refinando as conclusões.
 
----
+
 
 ## Resumo das Etapas
 
@@ -90,13 +90,13 @@ A lógica paraconsistente permite a atualização dinâmica das informações. N
 5. **Derivação da conclusão** (com graus de certeza e contradição)
 6. **Atualização do conhecimento** (incorporação de novas evidências)
 
----
+
 
 ## Considerações Finais
 
 O processo de inferência em lógica paraconsistente é fundamental para aplicações em ambientes onde a informação pode ser incerta, incompleta ou contraditória, como bancos de dados, sistemas especialistas e inteligência artificial. Ao permitir o raciocínio controlado diante de contradições, a lógica paraconsistente amplia as possibilidades de modelagem e tomada de decisão em cenários complexos.
 
----
+
 
 **Leitura recomendada:**  
 - Da Costa, N. C. A. "Lógica Paraconsistente: Essencial para a Filosofia e a Computação."

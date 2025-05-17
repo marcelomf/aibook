@@ -38,10 +38,9 @@ Robôs e veículos autônomos dependem de múltiplos sensores e fontes de inform
 **Exemplo prático:**  
 Um carro autônomo pode receber sinais contraditórios de seus sensores de proximidade e câmeras. Utilizando lógica paraconsistente, o sistema pode identificar a contradição, avaliar a confiabilidade de cada sensor e tomar decisões prudentes, como reduzir a velocidade ou parar.
 
----
+___
 
 ## Considerações Finais
 
 Esses exemplos ilustram como a necessidade de lidar com informações contraditórias em ambientes tecnológicos complexos motivou o desenvolvimento e a aplicação da lógica paraconsistente. Ao permitir o raciocínio controlado diante de inconsistências, essa abordagem amplia significativamente a robustez e a utilidade de sistemas computacionais, tornando-se cada vez mais relevante em um mundo orientado por dados e automação.
 
-```

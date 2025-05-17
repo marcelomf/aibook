@@ -37,8 +37,8 @@ Apesar dos avanços, a aplicação da lógica paraconsistente em segurança da i
 
 A lógica paraconsistente representa uma abordagem promissora para a segurança da informação e detecção de anomalias, permitindo que sistemas computacionais operem de forma mais resiliente diante de inconsistências e incertezas. Ao integrar esses conceitos, profissionais e pesquisadores podem desenvolver soluções mais eficazes para proteger dados e infraestruturas críticas em um mundo cada vez mais digital e interconectado.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*.
-```
+

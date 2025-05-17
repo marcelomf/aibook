@@ -63,9 +63,9 @@ Em cidades como São Paulo, Londres ou Tóquio, sistemas de transporte inteligen
 
 A Lógica Paraconsistente oferece uma poderosa ferramenta para a integração de múltiplas fontes de dados em sistemas de transporte inteligente, permitindo lidar com contradições de forma controlada e eficiente. Essa abordagem contribui para decisões mais seguras, informadas e adaptativas, essenciais em ambientes urbanos dinâmicos e complexos.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and Knowledge Bases."  
 - Batens, D. (2000). "A Universal Logic Approach to Paraconsistency."  
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

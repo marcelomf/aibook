@@ -39,10 +39,10 @@ O impacto da lógica paraconsistente nas discussões ontológicas é profundo e 
 
 A lógica paraconsistente, portanto, representa uma importante inovação conceitual e metodológica para a ontologia, desafiando pressupostos tradicionais e abrindo novos caminhos para a compreensão do ser e da existência.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógica Paraconsistente: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Jean-Yves Béziau (org.), "Paraconsistent Logic: Consistency, Contradiction and Negation"
-```
+

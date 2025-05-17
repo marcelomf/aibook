@@ -72,7 +72,7 @@ A lógica paraconsistente permite justificar a decisão, apresentando os graus d
 Imagine um sistema de apoio à decisão médica que recebe informações de diferentes exames e opiniões de especialistas. As informações são contraditórias quanto à presença de uma doença.
 
 | Fonte           | μ (favorável) | λ (desfavorável) |
-|-----------------|---------------|------------------|
+|_______________--|_______________|__________________|
 | Exame Laboratorial | 0,7           | 0,2              |
 | Exame de Imagem    | 0,3           | 0,6              |
 | Opinião Especialista 1 | 0,8       | 0,1              |
@@ -91,11 +91,11 @@ O sistema calcula os graus de certeza e contradição para cada fonte e, em segu
 
 A modelagem do processo decisório utilizando lógica paraconsistente representa um avanço significativo para sistemas que operam em ambientes complexos e incertos. Ao permitir a análise e o tratamento explícito de contradições, a lógica paraconsistente contribui para decisões mais fundamentadas, transparentes e adaptáveis, aproximando o raciocínio computacional das nuances do raciocínio humano.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A. "Lógica Paraconsistente: Essencial para a Filosofia e a Computação."  
 - Batens, D. "Inconsistency-Adaptive Logics."  
 - Abe, J. M., & Nakamatsu, K. "Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency."
 
-```
+

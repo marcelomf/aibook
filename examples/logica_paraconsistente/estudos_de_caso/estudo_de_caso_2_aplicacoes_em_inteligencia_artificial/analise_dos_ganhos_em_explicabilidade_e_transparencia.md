@@ -7,7 +7,7 @@ A inteligência artificial (IA) tem avançado rapidamente, sendo aplicada em ár
 
 A **Lógica Paraconsistente** surge como uma ferramenta poderosa para abordar esses desafios, especialmente em cenários onde as informações são contraditórias, incompletas ou incertas — situações comuns em ambientes reais. A seguir, analisamos como a adoção de lógicas paraconsistentes pode trazer ganhos concretos em explicabilidade e transparência em sistemas de IA.
 
----
+___
 
 #### 1. **Gestão de Contradições de Forma Controlada**
 
@@ -19,7 +19,7 @@ Sistemas de IA frequentemente lidam com dados provenientes de múltiplas fontes,
 
 **Exemplo prático:** Em um sistema de diagnóstico médico auxiliado por IA, diferentes exames ou opiniões de especialistas podem gerar conclusões conflitantes. Um sistema paraconsistente pode apresentar ao médico as diferentes hipóteses, justificando cada uma com base nas evidências disponíveis, ao invés de simplesmente descartar ou ignorar informações conflitantes.
 
----
+___
 
 #### 2. **Rastreamento de Inferências e Justificativas**
 
@@ -31,7 +31,7 @@ A lógica paraconsistente, especialmente em suas versões anotadas (como a LPA),
 
 **Exemplo prático:** Em sistemas de recomendação, a lógica paraconsistente pode explicar ao usuário por que determinado produto foi sugerido, mesmo que haja avaliações contraditórias de outros usuários, apresentando o grau de confiança em cada recomendação.
 
----
+___
 
 #### 3. **Transparência no Tratamento de Incertezas**
 
@@ -43,7 +43,7 @@ A lógica paraconsistente não apenas lida com contradições, mas também com i
 
 **Exemplo prático:** Em sistemas de tomada de decisão em tempo real, como veículos autônomos, a lógica paraconsistente pode indicar quais decisões foram tomadas com base em dados incertos (por exemplo, sensores com leituras conflitantes), aumentando a confiança dos operadores humanos no sistema.
 
----
+___
 
 #### 4. **Facilidade de Integração com Ferramentas de Explicação**
 
@@ -53,7 +53,7 @@ A estrutura formal das lógicas paraconsistentes facilita a integração com té
 - **Visualização gráfica** das relações entre informações conflitantes.
 - **Simulação de cenários** para análise de impacto de diferentes hipóteses.
 
----
+___
 
 ### **Considerações Finais**
 
@@ -61,5 +61,4 @@ A adoção da lógica paraconsistente em sistemas de inteligência artificial re
 
 Além disso, a capacidade de apresentar justificativas claras e detalhadas para cada decisão contribui para a aceitação e compreensão dos sistemas de IA por parte de usuários finais, especialistas e órgãos reguladores. Assim, a lógica paraconsistente se consolida como uma abordagem fundamental para o desenvolvimento de IA responsável e transparente.
 
----
-```
+

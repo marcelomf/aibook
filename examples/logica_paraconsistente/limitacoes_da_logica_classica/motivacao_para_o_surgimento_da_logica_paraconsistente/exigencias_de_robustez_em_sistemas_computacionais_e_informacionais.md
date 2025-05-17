@@ -40,8 +40,8 @@ Por exemplo, em sistemas de inteligência artificial, a lógica paraconsistente 
 
 As exigências de robustez em sistemas computacionais e informacionais refletem a complexidade e a imprevisibilidade dos ambientes digitais modernos. A adoção de abordagens como a lógica paraconsistente representa um avanço significativo na construção de sistemas capazes de lidar com inconsistências de maneira segura e eficiente, garantindo confiabilidade e continuidade operacional mesmo diante de desafios inevitáveis.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2000). *A survey of inconsistency-adaptive logics*. In *Frontiers of Paraconsistent Logic*.
-```
+

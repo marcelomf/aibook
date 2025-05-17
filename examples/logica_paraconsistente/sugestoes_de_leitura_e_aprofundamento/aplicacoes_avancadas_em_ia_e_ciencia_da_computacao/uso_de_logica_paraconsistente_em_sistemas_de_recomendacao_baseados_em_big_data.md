@@ -83,7 +83,7 @@ Nos últimos anos, pesquisas têm explorado o uso de lógicas paraconsistentes e
 - **Batista, L. V., & Silva, M. J. (2018). Paraconsistent Recommendation Systems: A Survey. Journal of Intelligent Information Systems, 51(2), 345-367.**
 - **Priest, G. (2008). An Introduction to Non-Classical Logic: From If to Is. Cambridge University Press.**
 
----
+
 
 A lógica paraconsistente representa uma fronteira inovadora para sistemas de recomendação em ambientes de big data, oferecendo ferramentas teóricas e práticas para lidar com a complexidade e a contradição inerentes a grandes volumes de dados. Seu uso crescente promete sistemas mais robustos, transparentes e adaptados à realidade dos dados contemporâneos.
-```
+

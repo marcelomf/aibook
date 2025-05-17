@@ -3,7 +3,7 @@
 
 A lógica paraconsistente é um campo dinâmico da lógica não clássica, caracterizado pela capacidade de lidar com contradições sem que o sistema lógico se torne trivial. Ao longo das últimas décadas, diversos sistemas paraconsistentes foram desenvolvidos, cada um com suas particularidades, motivações e áreas de aplicação. A seguir, apresentamos alguns dos principais sistemas paraconsistentes, destacando suas características, funcionamento e exemplos de uso.
 
----
+___
 
 ## 1. Lógica Paraconsistente Anotada (LPA)
 
@@ -23,7 +23,7 @@ A **Lógica Paraconsistente Anotada** (LPA), desenvolvida principalmente por New
 
 Em sistemas de tomada de decisão, como diagnósticos médicos, a LPA pode ser usada para representar informações conflitantes vindas de diferentes exames ou especialistas, permitindo que o sistema continue operando mesmo diante de inconsistências.
 
----
+___
 
 ## 2. Lógica de Priest (LP)
 
@@ -39,7 +39,7 @@ A **Lógica de Priest** (LP), proposta por Graham Priest, é um sistema paracons
 
 A LP é útil em contextos filosóficos e matemáticos, como na análise de paradoxos (por exemplo, o paradoxo do mentiroso), onde a presença de contradições não deve levar à trivialidade do sistema.
 
----
+___
 
 ## 3. Lógica Paraconsistente de Belnap (FOUR)
 
@@ -59,7 +59,7 @@ A **Lógica de Quatro Valores de Belnap** (FOUR), desenvolvida por Nuel Belnap, 
 
 Em bancos de dados distribuídos, onde diferentes fontes podem fornecer informações conflitantes sobre o mesmo registro, a lógica de Belnap permite representar e manipular essas situações sem perda de consistência global.
 
----
+___
 
 ## 4. Lógica Paraconsistente Relevante
 
@@ -71,7 +71,7 @@ A **Lógica Relevante** é uma família de lógicas paraconsistentes que busca g
 - **Evita explosão**: Assim como outros sistemas paraconsistentes, rejeita o princípio da explosão.
 - **Aplicações filosóficas e computacionais**: Útil em contextos onde a relevância das informações é crucial, como em sistemas de raciocínio automático.
 
----
+___
 
 ## 5. Outras Lógicas Paraconsistentes
 
@@ -80,16 +80,16 @@ Além dos sistemas acima, existem outros desenvolvimentos importantes, como:
 - **Lógica Paraconsistente de Substrutura**: Modifica as regras estruturais da lógica clássica para evitar a explosão.
 - **Lógicas Paraconsistentes Modais**: Incorporam operadores modais (necessidade, possibilidade) em contextos paraconsistentes.
 
----
+___
 
 ## Conclusão
 
 Os sistemas paraconsistentes oferecem ferramentas poderosas para lidar com contradições de maneira controlada e produtiva. Cada sistema possui características próprias, adequando-se a diferentes tipos de problemas e aplicações, desde bancos de dados e inteligência artificial até filosofia e matemática. O estudo desses sistemas é fundamental para o avanço do raciocínio não clássico e para o desenvolvimento de tecnologias capazes de operar em ambientes complexos e incertos.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction"
 - Nuel Belnap, "A Useful Four-Valued Logic"
-```
+

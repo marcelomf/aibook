@@ -39,10 +39,10 @@ Em ambientes distribuídos, como sistemas multiagentes ou bancos de dados replic
 
 A confiabilidade de sistemas baseados em lógica clássica é fortemente impactada pela incapacidade de lidar com contradições de forma controlada. Em um mundo cada vez mais dinâmico, distribuído e sujeito a incertezas, essa limitação se torna um obstáculo significativo para a robustez e a utilidade de sistemas computacionais e de informação. Por isso, abordagens alternativas, como a **lógica paraconsistente**, têm ganhado destaque, oferecendo mecanismos para tratar contradições sem comprometer a integridade e a confiabilidade dos sistemas.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso" (eBook)
 - Priest, G. "In Contradiction: A Study of the Transconsistent"
 - Carnielli, W. A., & Coniglio, M. E. "Paraconsistent Logic: Consistency, Contradiction and Negation"
-```
+

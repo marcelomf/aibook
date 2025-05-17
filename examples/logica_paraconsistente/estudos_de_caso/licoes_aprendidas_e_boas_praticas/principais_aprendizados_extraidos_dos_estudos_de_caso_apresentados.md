@@ -27,7 +27,7 @@ Embora a Lógica Paraconsistente traga benefícios claros, os estudos de caso ta
 
 Por fim, destaca-se a importância da capacitação das equipes envolvidas e da promoção de uma cultura organizacional aberta ao uso de lógicas não clássicas. Os casos analisados indicam que a adoção bem-sucedida da Lógica Paraconsistente depende não apenas de aspectos técnicos, mas também do entendimento e aceitação por parte dos profissionais e gestores.
 
----
+___
 
 ## **Boas Práticas Recomendadas**
 
@@ -37,9 +37,9 @@ Por fim, destaca-se a importância da capacitação das equipes envolvidas e da 
 - **Monitoramento contínuo**: Avalie periodicamente o desempenho do sistema e ajuste os parâmetros conforme necessário.
 - **Capacitação da equipe**: Invista em treinamento e disseminação do conhecimento sobre lógica paraconsistente entre os profissionais envolvidos.
 
----
+___
 
 ## **Conclusão**
 
 Os estudos de caso reforçam que a Lógica Paraconsistente é uma ferramenta poderosa para lidar com contradições e incertezas em sistemas complexos. A adoção das lições aprendidas e das boas práticas aqui destacadas pode maximizar os benefícios dessa abordagem, promovendo soluções mais robustas, transparentes e confiáveis em diversas áreas do conhecimento.
-```
+

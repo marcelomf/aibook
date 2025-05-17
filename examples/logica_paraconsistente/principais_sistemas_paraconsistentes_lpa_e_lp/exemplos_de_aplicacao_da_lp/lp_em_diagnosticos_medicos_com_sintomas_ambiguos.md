@@ -51,5 +51,4 @@ A LP oferece uma abordagem inovadora e eficaz para o tratamento de sintomas amb√
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *A General Characterization of Paraconsistent Logics and their Relation to Inconsistency Tolerant Reasoning in Medicine*. *Journal of Applied Logic*.
 
----
-```
+

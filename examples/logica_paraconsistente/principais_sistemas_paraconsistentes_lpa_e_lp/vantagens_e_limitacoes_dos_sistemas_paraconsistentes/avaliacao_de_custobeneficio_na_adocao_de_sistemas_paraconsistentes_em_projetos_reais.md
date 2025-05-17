@@ -58,8 +58,8 @@ Ao avaliar o custo-benefício da adoção de sistemas paraconsistentes, recomend
 
 A lógica paraconsistente oferece soluções inovadoras para problemas de inconsistência e contradição em projetos reais, proporcionando maior robustez e flexibilidade. No entanto, sua adoção deve ser cuidadosamente avaliada, considerando os custos de implementação, a complexidade adicional e a necessidade de capacitação das equipes. Em cenários onde a inconsistência é frequente e crítica, os benefícios tendem a superar os custos, tornando os sistemas paraconsistentes uma escolha estratégica para organizações que buscam excelência em processamento e análise de informações complexas.
 
----
+
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

@@ -7,7 +7,7 @@ O diagnóstico em sistemas complexos — como redes elétricas, sistemas industr
 
 A seguir, descrevemos os principais tipos de inconsistências que podem surgir no diagnóstico de sistemas complexos:
 
----
+___
 
 ### 1. **Inconsistências de Dados**
 
@@ -19,7 +19,7 @@ São contradições que surgem diretamente dos dados coletados pelos sensores, i
 
 Essas inconsistências podem ser causadas por falhas nos sensores, ruído nos sinais, calibração inadequada ou erros humanos.
 
----
+___
 
 ### 2. **Inconsistências de Modelos**
 
@@ -30,7 +30,7 @@ Ocorrem quando há divergências entre o comportamento observado do sistema e o 
 
 Essas inconsistências podem indicar limitações nos modelos, necessidade de atualização dos parâmetros ou fenômenos ainda não compreendidos.
 
----
+___
 
 ### 3. **Inconsistências de Regras ou Conhecimento**
 
@@ -41,7 +41,7 @@ Surgem quando diferentes regras, heurísticas ou bases de conhecimento aplicadas
 
 Essas inconsistências são comuns em sistemas baseados em conhecimento, como sistemas especialistas ou diagnósticos assistidos por IA.
 
----
+___
 
 ### 4. **Inconsistências Temporais**
 
@@ -50,7 +50,7 @@ Referem-se a contradições que surgem devido à defasagem temporal entre a cole
 - **Dados desatualizados:** Um diagnóstico é feito com base em informações que já não refletem o estado atual do sistema.
 - **Eventos simultâneos:** Ocorrências rápidas de eventos podem gerar registros sobrepostos ou fora de ordem, dificultando a reconstrução precisa da sequência de falhas.
 
----
+___
 
 ### 5. **Inconsistências de Fontes Múltiplas**
 
@@ -59,7 +59,7 @@ Em sistemas complexos, informações podem ser coletadas de diferentes subsistem
 - **Relatórios contraditórios:** Equipes diferentes reportam diagnósticos opostos para o mesmo problema.
 - **Integração de sistemas heterogêneos:** Sistemas legados e novos podem adotar padrões diferentes, dificultando a consolidação das informações.
 
----
+___
 
 ## Importância do Tratamento das Inconsistências
 
@@ -72,9 +72,9 @@ Ao identificar e classificar as inconsistências, é possível:
 - Melhorar a integração entre diferentes fontes de dados.
 - Reduzir o impacto de erros e incertezas no processo decisório.
 
----
+___
 
 ## Conclusão
 
 O diagnóstico em sistemas complexos é inevitavelmente afetado por diferentes tipos de inconsistências. Reconhecer, classificar e tratar essas inconsistências é fundamental para garantir diagnósticos confiáveis e eficientes. A abordagem paraconsistente se destaca como uma solução poderosa para lidar com essas situações, promovendo maior resiliência e adaptabilidade nos processos de manutenção, monitoramento e tomada de decisão em ambientes complexos.
-```
+

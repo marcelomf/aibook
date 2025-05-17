@@ -39,11 +39,11 @@ Apesar dos avanços, a integração plena da lógica paraconsistente em sistemas
 
 No futuro, espera-se que a evolução da IA continue a impulsionar o desenvolvimento de novas variantes e aplicações da lógica paraconsistente, promovendo sistemas mais resilientes, adaptativos e confiáveis. A colaboração interdisciplinar entre lógica, ciência da computação, filosofia e áreas aplicadas será fundamental para superar os desafios e explorar todo o potencial das aplicações paraconsistentes na era da inteligência artificial.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Paraconsistency and Artificial Intelligence*. In: *Handbook of the History of Logic*.
 
-```
+

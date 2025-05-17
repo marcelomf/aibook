@@ -4,7 +4,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos e
 
 Neste tópico, vamos apresentar exemplos práticos de como formular proposições na LPA, destacando suas particularidades e vantagens em relação à lógica clássica.
 
----
+
 
 ## 1. Estrutura das Proposições na LPA
 
@@ -17,7 +17,7 @@ Na LPA, cada proposição é acompanhada de **anotações** que representam o gr
 
 Esses valores podem ser interpretados como níveis de confiança ou suporte para a veracidade e falsidade da proposição, respectivamente.
 
----
+
 
 ## 2. Exemplo Prático de Formulação
 
@@ -41,7 +41,7 @@ P(0,7, 0,2)
 - Há forte evidência a favor de que o paciente tem a doença X (70%).
 - Há uma evidência menor, mas não nula, contra essa hipótese (20%).
 
----
+
 
 ## 3. Análise Paraconsistente
 
@@ -55,7 +55,7 @@ Na LPA, é possível trabalhar com ambos os graus simultaneamente, permitindo:
 ### Exemplos de Situações
 
 | Proposição         | μ   | λ   | Interpretação                        |
-|--------------------|-----|-----|--------------------------------------|
+|--|--|--|--|
 | P(1, 0)            | 1   | 0   | Totalmente verdadeiro                |
 | P(0, 1)            | 0   | 1   | Totalmente falso                     |
 | P(0, 0)            | 0   | 0   | Sem informação (indefinido)          |
@@ -63,7 +63,7 @@ Na LPA, é possível trabalhar com ambos os graus simultaneamente, permitindo:
 | P(0,7, 0,2)        | 0,7 | 0,2 | Forte evidência a favor, pouca contra|
 | P(0,5, 0,5)        | 0,5 | 0,5 | Incerteza/contradição moderada       |
 
----
+
 
 ## 4. Operações com Proposições Anotadas
 
@@ -78,7 +78,7 @@ A LPA permite realizar operações lógicas (como conjunção, disjunção e neg
 
 Essas operações permitem manipular informações contraditórias de forma controlada e fundamentada.
 
----
+
 
 ## 5. Vantagens da Formulação na LPA
 
@@ -86,13 +86,13 @@ Essas operações permitem manipular informações contraditórias de forma cont
 - **Expressividade:** Possibilita modelar situações reais onde a informação é incerta, incompleta ou contraditória.
 - **Aplicabilidade:** Muito útil em áreas como bancos de dados, inteligência artificial, sistemas especialistas e resolução de conflitos.
 
----
+
 
 ## 6. Conclusão
 
 A formulação de proposições na LPA, utilizando anotações para os graus de evidência favorável e contrário, oferece uma poderosa ferramenta para lidar com situações em que a lógica clássica falha. Por meio de exemplos práticos, fica claro como a LPA pode ser aplicada para representar e manipular informações contraditórias de maneira rigorosa e útil em diversos contextos.
 
----
+
 
 **Sugestão de exercício:**  
 Formule três proposições anotadas na LPA para um sistema de recomendação de filmes, considerando diferentes níveis de avaliações positivas e negativas dos usuários. Analise o significado de cada anotação.

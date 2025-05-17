@@ -64,7 +64,7 @@ Apesar dos avanços, a implementação de lógica paraconsistente em sistemas au
 
 No entanto, a tendência é que, com o aumento da demanda por sistemas autônomos mais confiáveis e seguros, a lógica paraconsistente se torne cada vez mais relevante e integrada às arquiteturas de inteligência artificial.
 
----
+___
 
 **Referências:**
 
@@ -72,4 +72,4 @@ No entanto, a tendência é que, com o aumento da demanda por sistemas autônomo
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
-```
+

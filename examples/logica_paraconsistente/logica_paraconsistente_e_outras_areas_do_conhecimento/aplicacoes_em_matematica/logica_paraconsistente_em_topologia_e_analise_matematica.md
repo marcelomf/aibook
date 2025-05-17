@@ -80,7 +80,7 @@ A continuidade de \( f \) em qualquer ponto é contraditória sob certos critér
 
 A lógica paraconsistente oferece uma abordagem inovadora para lidar com contradições e ambiguidades em topologia e análise matemática. Ao permitir o estudo controlado de inconsistências, abre novas possibilidades para a pesquisa matemática, especialmente em áreas onde paradoxos e funções patológicas são inevitáveis. Embora ainda em desenvolvimento, a integração da lógica paraconsistente à matemática promete enriquecer tanto a teoria quanto as aplicações práticas dessas disciplinas.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.

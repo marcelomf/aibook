@@ -3,7 +3,7 @@
 
 A compreensão das diferenças entre a lógica clássica e a lógica paraconsistente se torna mais clara quando analisamos exemplos práticos de dedução em cada sistema. A seguir, apresentamos situações típicas e como cada lógica lida com a presença de contradições.
 
----
+
 
 ## 1. Dedução em Lógica Clássica
 
@@ -26,7 +26,7 @@ Se, em um sistema clássico, temos **P** e **¬P** como verdadeiras, podemos ded
 
 **Resultado:** Qualquer proposição Q pode ser deduzida a partir de uma contradição.
 
----
+
 
 ## 2. Dedução em Lógica Paraconsistente
 
@@ -51,17 +51,17 @@ Em uma lógica paraconsistente, como a **Lógica Paraconsistente Anotada (LPA)**
 
 **Resultado:** O sistema reconhece a contradição, mas não permite que qualquer proposição seja deduzida a partir dela. Apenas as proposições diretamente relacionadas à contradição podem ser afetadas.
 
----
+
 
 ## 3. Comparação Prática
 
 | Situação                        | Lógica Clássica         | Lógica Paraconsistente      |
-|---------------------------------|-------------------------|-----------------------------|
+||-|--|
 | P e ¬P são verdadeiros          | Qualquer Q é dedutível  | Q não é dedutível           |
 | Banco de dados inconsistente    | Sistema se torna trivial| Contradição é isolada       |
 | Tomada de decisão com conflito  | Decisão impossível      | Decisão possível com cautela|
 
----
+
 
 ## 4. Exemplo Aplicado: Banco de Dados
 
@@ -80,15 +80,15 @@ Um banco de dados armazena informações de clientes. Por erro, há registros co
 
 - O sistema pode isolar a contradição e continuar operando, por exemplo, sinalizando a inconsistência apenas para o Cliente A, sem comprometer os demais dados.
 
----
+
 
 ## 5. Conclusão
 
 A principal diferença na dedução entre lógica clássica e paraconsistente está na **maneira como cada sistema lida com contradições**. Enquanto a lógica clássica colapsa diante de inconsistências, a lógica paraconsistente permite que o raciocínio continue de forma controlada, tornando-se especialmente útil em contextos onde informações contraditórias são inevitáveis, como bancos de dados, inteligência artificial e sistemas de tomada de decisão.
 
----
+
 
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

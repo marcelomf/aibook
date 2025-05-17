@@ -37,7 +37,7 @@ Atualmente, a lógica paraconsistente continua sendo uma ferramenta valiosa em I
 - Beziau, J.-Y. (2012). Paraconsistent logic from a modal viewpoint. *Journal of Applied Logic*, 10(1), 1-9.
 - Batens, D. (2000). Inconsistency-adaptive logics. In *Frontiers of Paraconsistent Logic* (pp. 445-472). Research Studies Press.
 
----
+___
 
 A adoção pioneira da lógica paraconsistente em inteligência artificial não apenas solucionou problemas práticos, mas também impulsionou o desenvolvimento teórico da área, consolidando-a como um dos pilares do raciocínio não clássico em sistemas computacionais.
-```
+

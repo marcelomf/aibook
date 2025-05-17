@@ -44,7 +44,7 @@ A participação em comunidades online e fóruns de discussão é fundamental pa
 - **YouTube e Podcasts**  
   Canais no YouTube e podcasts acadêmicos frequentemente abordam temas de lógica paraconsistente, com entrevistas, aulas e debates. Exemplos incluem o canal do CLE-Unicamp e playlists sobre lógica não clássica.
 
----
+
 
 ### **Dicas para Participação Ativa**
 
@@ -52,10 +52,10 @@ A participação em comunidades online e fóruns de discussão é fundamental pa
 - **Respeite as regras das comunidades:** Cada fórum possui suas normas de conduta; leia atentamente antes de participar.
 - **Mantenha-se atualizado:** Siga perfis, páginas e hashtags relevantes para receber novidades e oportunidades de aprendizado.
 
----
+
 
 ### **Conclusão**
 
 A lógica paraconsistente é um campo dinâmico e em constante evolução. Participar de comunidades online e fóruns de discussão é uma das melhores formas de se manter atualizado, construir redes de contato e aprofundar o conhecimento. Seja você iniciante ou pesquisador experiente, essas plataformas oferecem recursos valiosos para o desenvolvimento acadêmico e profissional.
 
-```
+

@@ -58,10 +58,10 @@ Em sistemas de apoio à decisão, a lógica paraconsistente pode ser empregada p
 
 A integração da lógica paraconsistente com métodos tradicionais de análise de decisão representa um avanço significativo para a tomada de decisão em ambientes complexos e incertos. Ao permitir o tratamento controlado de contradições, essa abordagem amplia o espectro de situações em que os sistemas de apoio à decisão podem operar de forma eficaz, tornando-se uma ferramenta indispensável para profissionais e pesquisadores que lidam com dados imperfeitos no mundo real.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, M. I. C., & da Costa, N. C. A. (2015). *Lógica Paraconsistente*.  
 - Batens, D. (2007). *Adaptive Logics and Dynamic Proofs*.  
 - Abe, J. M., & Nakamatsu, K. (2016). *Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency*.
-```
+

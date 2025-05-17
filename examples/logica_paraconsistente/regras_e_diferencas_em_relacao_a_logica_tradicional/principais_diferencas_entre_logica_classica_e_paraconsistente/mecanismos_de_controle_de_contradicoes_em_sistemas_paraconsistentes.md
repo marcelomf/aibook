@@ -5,7 +5,7 @@ A lógica paraconsistente surge como resposta às limitações da lógica cláss
 
 Neste tópico, exploramos os principais mecanismos de controle de contradições em sistemas paraconsistentes, destacando suas abordagens, fundamentos e aplicações práticas.
 
----
+
 
 ## 1. Princípio da Não-Explosão
 
@@ -15,7 +15,7 @@ O ponto central dos sistemas paraconsistentes é a rejeição do **princípio da
 
 Em sistemas paraconsistentes, esse princípio é substituído por regras que **limitam o alcance das contradições**, impedindo que elas contaminem todo o sistema lógico.
 
----
+
 
 ## 2. Isolamento Local de Contradições
 
@@ -23,7 +23,7 @@ Uma das estratégias mais comuns é o **isolamento local** das contradições. I
 
 - **Exemplo prático:** Em um banco de dados, se duas entradas contraditórias sobre o mesmo registro são detectadas, a contradição é tratada apenas naquele contexto, sem invalidar todas as consultas ao banco.
 
----
+
 
 ## 3. Lógicas Paraconsistentes Anotadas (LPA)
 
@@ -40,7 +40,7 @@ Essas anotações permitem que o sistema:
 - **Classifique** o grau de confiabilidade de cada informação.
 - **Implemente regras de inferência** que consideram essas anotações, evitando a propagação indiscriminada de contradições.
 
----
+
 
 ## 4. Sistemas de Inferência Restritiva
 
@@ -48,7 +48,7 @@ Sistemas paraconsistentes frequentemente adotam **regras de inferência restriti
 
 - **Exemplo:** Em vez de permitir que de {A, ¬A} se deduza qualquer B, a inferência é bloqueada ou redirecionada para um tratamento especial.
 
----
+
 
 ## 5. Filtragem e Priorização de Informações
 
@@ -58,7 +58,7 @@ Outro mecanismo importante é a **filtragem** e **priorização** de informaçõ
 - **Selecionar** a informação mais confiável para inferências.
 - **Manter o registro das contradições** para análise posterior, sem descartá-las automaticamente.
 
----
+
 
 ## 6. Aplicações Práticas
 
@@ -68,7 +68,7 @@ Esses mecanismos são fundamentais em diversas áreas, como:
 - **Inteligência artificial:** Sistemas de tomada de decisão podem operar com informações contraditórias, sem colapsar.
 - **Resolução de conflitos:** Em sistemas multiagente ou integração de dados, as contradições são tratadas de forma controlada.
 
----
+
 
 ## 7. Vantagens e Limitações
 
@@ -84,11 +84,10 @@ Esses mecanismos são fundamentais em diversas áreas, como:
 - **Necessidade de critérios claros para priorização e anotação**
 - **Possível aumento do custo computacional**
 
----
+
 
 ## Conclusão
 
 Os mecanismos de controle de contradições em sistemas paraconsistentes representam um avanço significativo em relação à lógica clássica, permitindo que sistemas computacionais, bancos de dados e agentes inteligentes operem de maneira confiável mesmo em ambientes repletos de informações conflitantes. Ao isolar, anotar e filtrar contradições, a lógica paraconsistente oferece ferramentas essenciais para o raciocínio não trivial em contextos reais, onde a inconsistência é muitas vezes inevitável.
 
----
-```
+

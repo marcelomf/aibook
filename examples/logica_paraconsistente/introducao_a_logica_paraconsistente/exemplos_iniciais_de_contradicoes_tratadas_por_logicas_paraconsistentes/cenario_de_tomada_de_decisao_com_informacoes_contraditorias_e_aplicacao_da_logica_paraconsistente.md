@@ -5,7 +5,7 @@ A tomada de decisão é um processo central em diversas áreas do conhecimento, 
 
 A **Lógica Paraconsistente** surge como uma alternativa robusta para tratar cenários em que a contradição é inevitável, mas não deve comprometer todo o processo de raciocínio. A seguir, apresentamos um exemplo prático de tomada de decisão com informações contraditórias e como a lógica paraconsistente pode ser aplicada para obter conclusões úteis e seguras.
 
----
+___
 
 ## Exemplo Prático: Diagnóstico Médico com Informações Contraditórias
 
@@ -18,7 +18,7 @@ Imagine um sistema de apoio à decisão médica que recebe informações de múl
 
 Neste caso, há uma **contradição** clara entre as fontes de informação. Se utilizarmos a lógica clássica, a presença de uma contradição (por exemplo, "O paciente tem infecção" e "O paciente não tem infecção") pode levar o sistema a conclusões absurdas, como afirmar que o paciente tem qualquer outra doença, devido ao princípio da explosão.
 
----
+___
 
 ## Aplicação da Lógica Paraconsistente
 
@@ -43,7 +43,7 @@ A lógica paraconsistente permite que o sistema reconheça e **controle a contra
    - "Há forte evidência tanto a favor quanto contra a presença de infecção. Recomenda-se realizar exames adicionais ou buscar uma terceira opinião."
    - Ou, se a evidência favorável for significativamente maior, pode sugerir: "A hipótese de infecção é mais provável, mas há incerteza devido a informações contraditórias."
 
----
+___
 
 ## Vantagens da Lógica Paraconsistente na Tomada de Decisão
 
@@ -52,11 +52,10 @@ A lógica paraconsistente permite que o sistema reconheça e **controle a contra
 - **Flexibilidade:** Permite incorporar novas informações sem invalidar conclusões anteriores.
 - **Aplicabilidade:** Pode ser utilizada em sistemas especialistas, bancos de dados, inteligência artificial, entre outros.
 
----
+___
 
 ## Considerações Finais
 
 A lógica paraconsistente oferece uma abordagem inovadora e eficaz para cenários de tomada de decisão com informações contraditórias. Ao invés de ignorar ou eliminar contradições, ela as reconhece e as trata de forma controlada, fornecendo subsídios mais realistas e seguros para decisões em ambientes complexos e incertos. Essa capacidade é especialmente valiosa em áreas críticas, como saúde, segurança, finanças e sistemas autônomos, onde a robustez diante de inconsistências pode ser decisiva.
 
----
-```
+

@@ -47,9 +47,9 @@ A lógica paraconsistente pode ser empregada em sistemas de manutenção prediti
 - Aplicações em robótica colaborativa e sistemas autônomos de produção.  
 - Uso em sistemas de gestão de cadeias de suprimentos para reconciliação de dados logísticos.
 
----
+___
 
 ## Considerações Finais
 
 A adoção da lógica paraconsistente em setores críticos está em ascensão, impulsionada pela necessidade de lidar com volumes crescentes de dados, muitas vezes contraditórios ou incertos. Embora desafios técnicos e culturais ainda existam — como a integração com sistemas legados e a capacitação de profissionais —, as perspectivas são promissoras. Espera-se que, nos próximos anos, a lógica paraconsistente se torne um componente fundamental de sistemas inteligentes, promovendo maior robustez, transparência e eficiência em áreas essenciais para a sociedade.
-```
+

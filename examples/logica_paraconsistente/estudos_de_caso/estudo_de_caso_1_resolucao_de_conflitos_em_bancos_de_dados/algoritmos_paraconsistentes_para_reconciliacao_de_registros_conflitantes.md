@@ -48,7 +48,7 @@ Os algoritmos paraconsistentes para reconciliação de registros geralmente segu
 Considere um banco de dados de clientes integrado a partir de duas fontes:
 
 | ID | Nome         | Endereço Fonte A         | Endereço Fonte B         |
-|----|--------------|-------------------------|-------------------------|
+|___-|____________--|________________________-|________________________-|
 | 01 | Maria Silva  | Rua das Flores, 100     | Rua das Flores, 120     |
 
 O algoritmo paraconsistente identifica o conflito no campo "Endereço". Utilizando LPA, atribui:
@@ -83,9 +83,9 @@ Algumas ferramentas e frameworks já implementam abordagens paraconsistentes par
 
 Os algoritmos paraconsistentes representam uma evolução significativa na gestão de dados inconsistentes, oferecendo uma abordagem lógica, transparente e eficaz para a reconciliação de registros conflitantes. Sua adoção pode aumentar a confiabilidade e a utilidade dos bancos de dados em ambientes complexos e dinâmicos, tornando-se uma ferramenta essencial para profissionais de dados, desenvolvedores e pesquisadores.
 
----
+___
 
 **Sugestão de Leitura:**
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa, Walter Carnielli
 - "Paraconsistent Data Reconciliation: Theory and Practice" – Artigos recentes em journals de ciência da computação e bancos de dados.
-```
+

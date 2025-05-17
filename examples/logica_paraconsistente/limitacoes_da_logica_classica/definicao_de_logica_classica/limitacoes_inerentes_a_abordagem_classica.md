@@ -47,4 +47,4 @@ Essas limitações motivaram o desenvolvimento de sistemas lógicos alternativos
 ## Conclusão
 
 A lógica clássica é uma ferramenta poderosa e fundamental para a ciência e a tecnologia, mas suas limitações diante de contradições, incertezas e informações incompletas tornam-na insuficiente para muitos desafios contemporâneos. O reconhecimento dessas limitações é o ponto de partida para o estudo de lógicas não clássicas, como a lógica paraconsistente, que buscam oferecer soluções mais flexíveis e realistas para problemas do mundo real.
-```
+

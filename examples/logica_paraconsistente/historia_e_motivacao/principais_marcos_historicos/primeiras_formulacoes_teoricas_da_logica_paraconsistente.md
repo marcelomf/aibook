@@ -43,7 +43,7 @@ As primeiras formulações teóricas da lógica paraconsistente desafiaram o dog
 
 Essas ideias continuam a influenciar áreas como bancos de dados, inteligência artificial, ciência da computação, filosofia e matemática, mostrando que a lógica pode ser adaptada para refletir melhor a complexidade do mundo real.
 
----
+___
 
 **Referências:**
 

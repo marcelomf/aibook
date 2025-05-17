@@ -65,10 +65,10 @@ Essas hibridizações ampliam o leque de aplicações e tornam as lógicas não 
 
 A lógica paraconsistente ocupa um lugar central no universo das lógicas não clássicas, oferecendo soluções inovadoras para o tratamento de contradições. Sua relação com outros sistemas, como a lógica intuicionista, modal, fuzzy e relevante, mostra que a lógica não clássica é um campo dinâmico e interconectado, onde diferentes abordagens podem ser combinadas para enfrentar os desafios do raciocínio em contextos complexos, incertos e contraditórios.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction"
 - Dov Gabbay, "Handbook of Philosophical Logic"
-```
+

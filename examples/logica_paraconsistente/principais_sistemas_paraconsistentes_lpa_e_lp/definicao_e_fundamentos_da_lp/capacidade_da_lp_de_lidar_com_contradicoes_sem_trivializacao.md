@@ -42,8 +42,8 @@ A capacidade da LP de lidar com contradições sem trivialização é fundamenta
 
 A LP representa um avanço significativo no tratamento lógico de contradições, oferecendo uma alternativa robusta à lógica clássica em contextos onde a inconsistência é inevitável. Ao evitar a trivialização, a LP permite que sistemas lógicos continuem úteis e confiáveis, mesmo diante de informações conflitantes, tornando-se uma ferramenta essencial para aplicações modernas em ciência da computação, filosofia, matemática e outras áreas.
 
----
+
 **Referências:**
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287–393). Springer.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

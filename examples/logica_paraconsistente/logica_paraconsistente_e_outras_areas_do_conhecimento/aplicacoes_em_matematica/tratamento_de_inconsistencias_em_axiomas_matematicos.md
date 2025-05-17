@@ -54,8 +54,8 @@ O tratamento de inconsistências em axiomas matemáticos por meio da lógica par
 
 Para quem deseja se aprofundar, recomenda-se o estudo de sistemas como a **Lógica Paraconsistente Anotada (LPA)** e a análise de casos históricos de inconsistências matemáticas, bem como a leitura de trabalhos recentes sobre aplicações paraconsistentes em teoria dos conjuntos e matemática computacional.
 
----
+___
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

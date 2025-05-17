@@ -3,7 +3,7 @@
 
 A tomada de decisão baseada em informações contraditórias é um desafio recorrente em diversas áreas, como bancos de dados, sistemas especialistas e inteligência artificial. A forma como diferentes sistemas lógicos tratam essas contradições pode impactar diretamente a robustez e a utilidade das decisões tomadas. Neste tópico, exploraremos como a **lógica clássica**, a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)** lidam com um mesmo problema de decisão diante de dados contraditórios.
 
----
+
 
 ## Exemplo de Problema
 
@@ -14,7 +14,7 @@ Imagine um sistema de recomendação de crédito bancário que recebe as seguint
 
 O objetivo é decidir se o cliente deve receber uma nova linha de crédito.
 
----
+
 
 ## 1. Resolução em Lógica Clássica
 
@@ -34,7 +34,7 @@ A presença simultânea de \( P \) e \( \neg P \) torna o sistema **inconsistent
 
 **Impossível tomar uma decisão confiável.** O sistema colapsa e não pode distinguir entre aceitar ou negar o crédito, pois qualquer decisão é logicamente justificável.
 
----
+
 
 ## 2. Resolução em Lógica Paraconsistente Anotada (LPA)
 
@@ -65,7 +65,7 @@ A LPA indica que há **máxima contradição** e **nenhuma certeza** sobre a ina
 
 **Vantagem:** O sistema não colapsa; a contradição é explicitamente reconhecida e tratada de forma controlada.
 
----
+
 
 ## 3. Resolução em Lógica de Priest (LP)
 
@@ -93,12 +93,12 @@ O sistema pode ser projetado para:
 
 **Vantagem:** A contradição é isolada e não compromete o restante do sistema lógico.
 
----
+
 
 ## Comparação e Considerações Finais
 
 | Sistema Lógico | Tratamento da Contradição | Decisão Possível? | Robustez |
-|----------------|--------------------------|-------------------|----------|
+|-|--|-|-|
 | Lógica Clássica | Explosão (trivialidade) | Não               | Baixa    |
 | LPA            | Contradição controlada   | Sim (com ressalvas)| Alta     |
 | LP             | Contradição isolada      | Sim (com ressalvas)| Alta     |
@@ -109,5 +109,4 @@ O sistema pode ser projetado para:
 **Conclusão:**  
 A lógica paraconsistente, seja na forma da LPA ou da LP, oferece ferramentas essenciais para a tomada de decisão em ambientes reais, onde informações contraditórias são comuns. Ao invés de ignorar ou colapsar diante da inconsistência, esses sistemas reconhecem, quantificam e tratam as contradições, promovendo decisões mais robustas e confiáveis.
 
----
-```
+

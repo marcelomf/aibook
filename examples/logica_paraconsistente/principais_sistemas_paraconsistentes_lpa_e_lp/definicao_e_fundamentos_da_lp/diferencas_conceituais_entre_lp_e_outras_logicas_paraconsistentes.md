@@ -3,7 +3,7 @@
 
 A **Lógica Paraconsistente** (LP) é um ramo da lógica não clássica que permite a manipulação de contradições sem que o sistema lógico se torne trivial, ou seja, sem que qualquer proposição possa ser deduzida a partir de uma contradição (fenômeno conhecido como explosão lógica). Dentro do universo das lógicas paraconsistentes, existem diferentes sistemas, cada um com suas características, motivações e formalismos. Este texto explora as diferenças conceituais entre a **Lógica de Priest (LP)** e outras lógicas paraconsistentes, como a **Lógica Paraconsistente Anotada (LPA)**, destacando suas abordagens, fundamentos e aplicações.
 
----
+
 
 ## 1. Lógica de Priest (LP): Fundamentos e Características
 
@@ -16,7 +16,7 @@ A **Lógica de Priest (LP)**, também conhecida como **Lógica Paraconsistente d
 - **Semântica de Três Valores**: LP geralmente utiliza uma semântica trivalente, com os valores: verdadeiro, falso e ambos (verdadeiro e falso simultaneamente).
 - **Motivação Filosófica**: LP é fortemente influenciada por discussões filosóficas sobre dialeteísmo, a ideia de que algumas contradições podem ser verdadeiras.
 
----
+
 
 ## 2. Outras Lógicas Paraconsistentes: Exemplo da LPA
 
@@ -29,7 +29,7 @@ A **Lógica Paraconsistente Anotada (LPA)**, desenvolvida principalmente por New
 - **Foco em Aplicações Práticas**: LPA é amplamente utilizada em sistemas de tomada de decisão, inteligência artificial e tratamento de informações inconsistentes em bancos de dados.
 - **Gestão de Inconsistências**: Em vez de simplesmente admitir contradições, a LPA busca quantificar e gerenciar o grau de inconsistência presente nas informações.
 
----
+
 
 ## 3. Diferenças Conceituais Fundamentais
 
@@ -53,19 +53,19 @@ A **Lógica Paraconsistente Anotada (LPA)**, desenvolvida principalmente por New
 - **LP**: Modifica as regras de inferência da lógica clássica para evitar a explosão lógica.
 - **LPA**: Introduz um formalismo adicional de anotações, permitindo um raciocínio mais granular sobre o estado das informações.
 
----
+
 
 ## 4. Resumo Comparativo
 
 | Aspecto                  | LP (Lógica de Priest)         | LPA (Lógica Paraconsistente Anotada) |
-|--------------------------|------------------------------|--------------------------------------|
+|--||--|
 | **Contradições**         | Aceita explicitamente        | Quantifica e gerencia               |
 | **Semântica**            | Três valores (V, F, ambos)   | Pares de graus de evidência         |
 | **Motivação**            | Filosófica                   | Pragmática/aplicada                 |
 | **Aplicações**           | Paradoxos, filosofia         | IA, bancos de dados, decisão        |
 | **Formalismo**           | Modifica inferência          | Anotações e graus de certeza        |
 
----
+
 
 ## 5. Considerações Finais
 
@@ -73,5 +73,4 @@ A Lógica de Priest (LP) e outras lógicas paraconsistentes, como a LPA, compart
 
 Essas diferenças tornam cada sistema mais adequado para determinados contextos, e o conhecimento dessas distinções é fundamental para a escolha da lógica paraconsistente mais apropriada para cada problema.
 
----
-```
+

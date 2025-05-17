@@ -14,7 +14,7 @@ Imagine um paciente que apresenta os seguintes sintomas e resultados de exames:
 
 Essas informações são contraditórias: enquanto alguns dados sugerem infecção, outros a negam.
 
----
+
 
 ## Tratamento pela Lógica Clássica
 
@@ -40,7 +40,7 @@ A **lógica clássica** segue o princípio da não contradição: uma proposiç�
 - **Risco de erro:** Pode descartar um exame válido ou um sintoma importante.
 - **Incapacidade de lidar com incerteza:** Não há mecanismo para trabalhar com a contradição de forma controlada.
 
----
+
 
 ## Tratamento pela Lógica Paraconsistente
 
@@ -82,18 +82,18 @@ O sistema pode então classificar a situação como **inconsistente, mas não tr
 - **Decisão mais informada:** O médico pode agir com base no grau de incerteza, adotando condutas mais cautelosas.
 - **Flexibilidade:** Permite revisões à medida que novas informações surgem.
 
----
+
 
 ## Comparação entre as Lógicas
 
 | Aspecto                  | Lógica Clássica                  | Lógica Paraconsistente           |
-|--------------------------|----------------------------------|----------------------------------|
+|--|-|-|
 | Contradições             | Não são permitidas                | Podem ser tratadas               |
 | Decisão diante de conflito | Força a descartar informações    | Permite manter ambas             |
 | Risco de trivialidade    | Alto (explosão)                   | Baixo (controle da contradição)  |
 | Utilidade prática        | Limitada em cenários incertos     | Alta em contextos reais          |
 
----
+
 
 ## Considerações Finais
 
@@ -103,5 +103,4 @@ O uso da lógica paraconsistente em diagnósticos médicos com sintomas contradi
 - D'Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Introdução à Lógica Paraconsistente*.
 - Batens, D. (2000). *A survey of inconsistency-adaptive logics*.
 
----
-```
+

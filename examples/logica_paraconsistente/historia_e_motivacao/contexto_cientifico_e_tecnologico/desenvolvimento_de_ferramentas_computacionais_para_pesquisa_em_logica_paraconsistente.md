@@ -52,11 +52,11 @@ Apesar dos avanços, o desenvolvimento de ferramentas computacionais para lógic
 
 O futuro aponta para o aumento da adoção dessas ferramentas em aplicações críticas, como sistemas de segurança, análise de big data e inteligência artificial explicável, consolidando a lógica paraconsistente como um componente essencial da computação moderna.
 
----
+___
 
 **Referências:**
 
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics and Knowledge Bases*. Artificial Intelligence, 61(1), 1-21.
 - Silva Filho, J. I. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Unesp.
-```
+

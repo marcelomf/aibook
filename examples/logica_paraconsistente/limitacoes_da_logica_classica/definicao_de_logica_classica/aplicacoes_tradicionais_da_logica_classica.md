@@ -35,9 +35,9 @@ No campo do direito, a lógica clássica é empregada na análise de argumentos 
 
 Engenheiros utilizam lógica clássica no projeto de sistemas de controle, automação e eletrônica digital. A modelagem de sistemas baseados em condições lógicas (por exemplo, sensores e atuadores) depende de princípios clássicos para garantir o funcionamento correto dos dispositivos.
 
----
+
 
 ## Considerações Finais
 
 A lógica clássica, com sua clareza e rigor, estabeleceu-se como a base do raciocínio formal em múltiplas disciplinas. Sua capacidade de lidar com afirmações verdadeiras ou falsas de maneira precisa tornou-a indispensável para o desenvolvimento científico e tecnológico. No entanto, como será discutido nos próximos capítulos, suas limitações diante de informações contraditórias motivaram o surgimento de sistemas lógicos alternativos, como a lógica paraconsistente.
-```
+

@@ -38,7 +38,7 @@ Por fim, há o risco de generalizar os resultados obtidos em exercícios especí
 **Questão crítica:**  
 *Como promover, nos exercícios, a reflexão sobre a adequação de cada sistema paraconsistente para diferentes tipos de problemas?*
 
----
+
 
 ## **Conclusão**
 
@@ -46,4 +46,4 @@ A análise crítica das limitações dos exercícios resolvidos sobre LPA e LP �
 
 **Sugestão:**  
 Ao estudar ou propor exercícios, busque sempre ir além da resolução formal, promovendo discussões e reflexões sobre as limitações, desafios e possibilidades de aplicação das lógicas paraconsistentes.
-```
+

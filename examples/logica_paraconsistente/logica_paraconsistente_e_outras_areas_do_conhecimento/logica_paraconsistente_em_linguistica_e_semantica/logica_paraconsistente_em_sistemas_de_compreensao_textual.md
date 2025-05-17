@@ -66,7 +66,7 @@ Apesar dos avanços, a integração da lógica paraconsistente em sistemas de co
 
 A lógica paraconsistente representa um avanço significativo para sistemas de compreensão textual, permitindo lidar de forma controlada com contradições e incertezas presentes em textos reais. Sua aplicação contribui para sistemas mais robustos, transparentes e confiáveis, especialmente em domínios onde a informação é complexa e potencialmente conflituosa, como jornalismo, direito, medicina e análise de redes sociais. O desenvolvimento contínuo de modelos e ferramentas paraconsistentes promete ampliar ainda mais o alcance e a eficácia da compreensão textual automática.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.  

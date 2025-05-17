@@ -43,9 +43,9 @@ As colaborações internacionais continuam sendo essenciais para:
 
 O avanço da lógica paraconsistente é inseparável do espírito colaborativo e internacional que caracteriza sua história. A troca de ideias entre diferentes culturas acadêmicas não apenas enriqueceu o campo, mas também permitiu que a lógica paraconsistente se tornasse uma ferramenta poderosa e versátil para enfrentar os desafios do mundo contemporâneo, onde a informação contraditória é cada vez mais comum.
 
----
+___
 **Sugestão de leitura complementar:**
 - Priest, G., Routley, R., & Norman, J. (Eds.). (1989). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Philosophia Verlag.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

@@ -45,7 +45,7 @@ Sistemas de IA enfrentam dilemas éticos e decisões em contextos ambíguos. A l
 - **Modelagem de dilemas éticos**: Representar e analisar situações em que princípios éticos entram em conflito, auxiliando na explicação e justificativa das decisões tomadas por sistemas autônomos.
 - **Transparência em sistemas de IA**: Explicar decisões baseadas em informações contraditórias, aumentando a confiança dos usuários.
 
----
+___
 
 ## **Conclusão**
 
@@ -53,4 +53,4 @@ A extensão dos estudos de caso para novos contextos evidencia a versatilidade e
 
 **Sugestão de exercício:**  
 Escolha um dos contextos apresentados acima e elabore um mini-estudo de caso, descrevendo um problema real ou hipotético em que a lógica paraconsistente poderia ser aplicada. Detalhe como o raciocínio paraconsistente auxiliaria na resolução do problema e quais benefícios traria em relação a abordagens tradicionais.
-```
+

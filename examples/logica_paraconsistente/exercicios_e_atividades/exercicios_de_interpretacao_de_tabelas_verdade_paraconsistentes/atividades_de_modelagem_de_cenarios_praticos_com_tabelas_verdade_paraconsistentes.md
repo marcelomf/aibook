@@ -3,7 +3,7 @@
 
 A lógica paraconsistente se destaca por sua capacidade de lidar com contradições de maneira controlada, sem que o sistema lógico se torne trivial. Uma das ferramentas fundamentais para o estudo e aplicação dessa lógica são as **tabelas verdade paraconsistentes**, que permitem analisar o comportamento de proposições em contextos onde informações contraditórias podem coexistir. Neste tópico, propomos atividades práticas de modelagem de cenários utilizando essas tabelas, visando desenvolver a compreensão e a aplicação dos conceitos paraconsistentes em situações reais.
 
----
+
 
 ## 1. Introdução às Tabelas Verdade Paraconsistentes
 
@@ -16,7 +16,7 @@ Diferentemente da lógica clássica, onde cada proposição só pode ser **verda
 
 Esses valores permitem representar situações em que uma informação pode ser simultaneamente verdadeira e falsa, ou ainda, quando não há informação suficiente para determinar seu valor.
 
----
+
 
 ## 2. Cenário Prático: Banco de Dados Inconsistente
 
@@ -38,7 +38,7 @@ Imagine um sistema de banco de dados de uma empresa, onde diferentes fontes de i
 3. **Monte a tabela verdade para o operador de negação (\(\neg\)):**
 
 | \( p \) | \(\neg p\) |
-|---------|------------|
+|||
 | V       | F          |
 | F       | V          |
 | T       | T          |
@@ -47,7 +47,7 @@ Imagine um sistema de banco de dados de uma empresa, onde diferentes fontes de i
 4. **Pergunta:** O que acontece se aplicarmos a negação à proposição contraditória?  
    **Resposta:** A negação de uma contradição permanece uma contradição, pois a informação conflitante persiste.
 
----
+
 
 ## 3. Cenário Prático: Diagnóstico Médico com Informações Conflitantes
 
@@ -70,7 +70,7 @@ Considere um sistema de apoio à decisão médica que recebe laudos de diferente
 3. **Considere a conjunção (\(\wedge\)) entre as opiniões dos especialistas 1 e 2:**
 
 | \( q_1 \) | \( q_2 \) | \( q_1 \wedge q_2 \) |
-|-----------|-----------|----------------------|
+|--|--|-|
 | V         | F         | T                    |
 
 4. **Pergunta:** Qual o valor da conjunção entre opiniões contraditórias?  
@@ -79,13 +79,13 @@ Considere um sistema de apoio à decisão médica que recebe laudos de diferente
 5. **Considere a conjunção entre as opiniões dos especialistas 1 e 3:**
 
 | \( q_1 \) | \( q_3 \) | \( q_1 \wedge q_3 \) |
-|-----------|-----------|----------------------|
+|--|--|-|
 | V         | N         | N                    |
 
 6. **Pergunta:** O que ocorre quando uma das opiniões é indeterminada?  
    **Resposta:** O resultado é indeterminado (N), pois não há informação suficiente para afirmar ou negar.
 
----
+
 
 ## 4. Cenário Prático: Sistema de Tomada de Decisão em Inteligência Artificial
 
@@ -103,7 +103,7 @@ Um sistema de IA recebe informações de sensores sobre o estado de uma porta:
 2. **Monte a tabela verdade para a disjunção:**
 
 | \( r_1 \) | \( r_2 \) | \( r_1 \vee r_2 \) |
-|-----------|-----------|--------------------|
+|--|--|--|
 | V         | F         | T                  |
 | V         | N         | V                  |
 | F         | N         | N                  |
@@ -112,7 +112,7 @@ Um sistema de IA recebe informações de sensores sobre o estado de uma porta:
 3. **Pergunta:** O que ocorre quando há contradição e indeterminação?  
    **Resposta:** A disjunção de uma contradição com uma indeterminação permanece uma contradição, pois a dúvida persiste.
 
----
+
 
 ## 5. Proposta de Atividade de Modelagem
 
@@ -123,17 +123,16 @@ Escolha um cenário do seu cotidiano (por exemplo, informações divergentes sob
 2. Modele as informações em uma tabela verdade paraconsistente, utilizando pelo menos dois operadores lógicos (conjunção, disjunção, negação).
 3. Analise os resultados e discuta como a lógica paraconsistente pode ajudar a tomar decisões mesmo diante de informações conflitantes.
 
----
+
 
 ## 6. Conclusão
 
 As atividades de modelagem com tabelas verdade paraconsistentes são essenciais para compreender como essa lógica pode ser aplicada em cenários reais, onde a contradição e a incerteza são inevitáveis. Ao praticar a construção e interpretação dessas tabelas, estudantes e profissionais desenvolvem habilidades para lidar com informações complexas e tomar decisões mais robustas em ambientes incertos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
----
-```
+

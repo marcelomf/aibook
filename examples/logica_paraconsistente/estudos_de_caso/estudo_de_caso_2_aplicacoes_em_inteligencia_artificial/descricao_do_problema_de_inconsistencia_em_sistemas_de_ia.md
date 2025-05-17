@@ -43,4 +43,4 @@ A lógica paraconsistente surge como uma alternativa poderosa para enfrentar o p
 - **Automatização da resolução de conflitos:** Reduz a necessidade de intervenção humana e aumenta a escalabilidade dos sistemas.
 
 No próximo tópico, serão apresentados exemplos práticos e estudos de caso que ilustram como a lógica paraconsistente pode ser aplicada para resolver problemas de inconsistência em sistemas de inteligência artificial.
-```
+

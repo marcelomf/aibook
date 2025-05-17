@@ -62,10 +62,10 @@ Em projetos de integração de prontuários eletrônicos no Brasil, a Lógica Pa
 
 A aplicação da Lógica Paraconsistente na reconciliação de dados contraditórios em sistemas de saúde pública demonstra como é possível lidar de forma racional e controlada com a complexidade e a imperfeição dos dados do mundo real. Essa abordagem contribui para decisões mais seguras, eficientes e transparentes, beneficiando tanto os profissionais de saúde quanto os pacientes.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."  
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."  
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

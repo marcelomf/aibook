@@ -2,7 +2,7 @@
 
 O **princípio da explosão** (ou *ex contradictione sequitur quodlibet*) é um conceito central na lógica clássica, e sua análise é fundamental para compreender as diferenças entre a lógica clássica e os sistemas paraconsistentes, como a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**. Este tópico explora como cada um desses sistemas lida com contradições e o impacto do princípio da explosão em suas estruturas.
 
----
+
 
 ## O que é o Princípio da Explosão?
 
@@ -14,7 +14,7 @@ $$
 
 Isso significa que, se um sistema lógico aceita uma contradição, ele se torna trivial, pois qualquer afirmação pode ser considerada verdadeira — um resultado indesejável em muitos contextos práticos.
 
----
+
 
 ## Lógica Clássica e o Princípio da Explosão
 
@@ -28,7 +28,7 @@ Na **lógica clássica**, o princípio da explosão é válido e inevitável. Is
 
 Assim, a presença de uma única contradição compromete todo o sistema, tornando-o inutilizável para raciocínio em situações onde inconsistências são inevitáveis, como em bancos de dados reais ou sistemas de informação complexos.
 
----
+
 
 ## Lógica Paraconsistente Anotada (LPA) e o Princípio da Explosão
 
@@ -42,7 +42,7 @@ A **Lógica Paraconsistente Anotada (LPA)** foi desenvolvida justamente para evi
 **Exemplo:**  
 Se temos $A$ com evidência favorável e $\neg A$ com evidência contrária, a LPA permite raciocinar sobre a situação sem colapsar o sistema, mantendo a distinção entre o que é contraditório e o que é apenas incerto.
 
----
+
 
 ## Lógica de Priest (LP) e o Princípio da Explosão
 
@@ -55,17 +55,17 @@ A **Lógica de Priest (LP)**, também conhecida como lógica paraconsistente pro
 **Exemplo:**  
 Se $A$ e $\neg A$ são ambos verdadeiros em um determinado contexto, isso não implica que qualquer proposição $B$ seja verdadeira. O raciocínio permanece restrito e controlado.
 
----
+
 
 ## Comparação Resumida
 
 | Sistema Lógico         | Princípio da Explosão | Consequências Práticas                          |
-|------------------------|----------------------|-------------------------------------------------|
+||-|-|
 | Lógica Clássica        | Válido               | Contradições tornam o sistema trivial           |
 | LPA                    | Inválido             | Contradições são tratadas sem trivialização     |
 | LP                     | Inválido             | Contradições coexistem sem comprometer o sistema|
 
----
+
 
 ## Considerações Finais
 

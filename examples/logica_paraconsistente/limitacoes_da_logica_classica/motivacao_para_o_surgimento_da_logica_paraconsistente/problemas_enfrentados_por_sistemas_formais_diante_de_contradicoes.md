@@ -43,7 +43,7 @@ As limitações da lógica clássica diante de contradições podem ser resumida
 
 A necessidade de lidar com contradições de forma controlada motivou o desenvolvimento de **lógicas paraconsistentes**. Essas lógicas rejeitam o princípio da explosão, permitindo que sistemas formais continuem operando de maneira útil mesmo na presença de contradições. Assim, é possível raciocinar sobre informações conflitantes sem comprometer toda a estrutura lógica do sistema.
 
----
+
 
 **Referências:**
 
@@ -51,4 +51,4 @@ A necessidade de lidar com contradições de forma controlada motivou o desenvol
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
 
-```
+

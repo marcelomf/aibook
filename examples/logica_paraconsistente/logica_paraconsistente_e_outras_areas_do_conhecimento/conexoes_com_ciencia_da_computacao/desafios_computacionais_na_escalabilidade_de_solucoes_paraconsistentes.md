@@ -51,7 +51,7 @@ Diversas estratégias têm sido propostas para mitigar esses desafios:
 
 A escalabilidade de soluções paraconsistentes é um campo dinâmico, com avanços contínuos em algoritmos, arquiteturas e aplicações. O desenvolvimento de ferramentas e bibliotecas otimizadas, bem como a integração com tecnologias emergentes como computação quântica e inteligência artificial explicável, promete ampliar ainda mais o alcance e a eficiência dessas soluções.
 
----
+___
 
 **Referências:**
 
@@ -59,4 +59,4 @@ A escalabilidade de soluções paraconsistentes é um campo dinâmico, com avan�
 - da Costa, N. C. A., & Subrahmanian, V. S. (2019). "Paraconsistent Logics in Computer Science." *Handbook of the Philosophy of Science*.
 - Batens, D. (2021). "Paraconsistency and Computation." *Journal of Applied Logic*, 18, 1-15.
 
-```
+

@@ -26,7 +26,7 @@ A semântica da LP é baseada em uma extensão da lógica clássica, onde as ope
 ### 1. Valores de Verdade
 
 | Proposição | Valor |
-|------------|-------|
+||-|
 | V          | Verdadeiro |
 | F          | Falso      |
 | B          | Verdadeiro e Falso |
@@ -34,7 +34,7 @@ A semântica da LP é baseada em uma extensão da lógica clássica, onde as ope
 ### 2. Tabela Verdade da Negação
 
 | A | ¬A |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | B | B  |
@@ -44,7 +44,7 @@ Observe que a negação de B é B: se uma proposição é simultaneamente verdad
 ### 3. Tabela Verdade da Conjunção (A ∧ B)
 
 | A | B | A ∧ B |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | F     |
 | V | B | B     |
@@ -58,7 +58,7 @@ Observe que a negação de B é B: se uma proposição é simultaneamente verdad
 ### 4. Tabela Verdade da Disjunção (A ∨ B)
 
 | A | B | A ∨ B |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | V     |
 | V | B | V     |
@@ -95,8 +95,8 @@ A Lógica de Priest é amplamente utilizada em áreas como:
 
 A Lógica de Priest (LP) representa um avanço significativo no tratamento formal de contradições, oferecendo uma alternativa robusta à lógica clássica para contextos onde a inconsistência é inevitável. Seu modelo de três valores permite que sistemas lógicos operem de maneira controlada e útil, mesmo diante de conflitos, tornando-se uma ferramenta essencial para pesquisadores e profissionais que lidam com raciocínio não clássico.
 
----
+
 **Referências:**
 - Priest, G. (1979). The Logic of Paradox. Journal of Philosophical Logic, 8(1), 219–241.
 - Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation. Springer.
-```
+

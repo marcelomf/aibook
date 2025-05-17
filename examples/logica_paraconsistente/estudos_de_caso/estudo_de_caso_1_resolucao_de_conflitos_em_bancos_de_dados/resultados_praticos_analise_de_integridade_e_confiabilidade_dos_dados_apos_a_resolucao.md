@@ -49,8 +49,8 @@ Embora a lógica paraconsistente ofereça avanços significativos, é importante
 
 A análise dos resultados práticos demonstra que a adoção da lógica paraconsistente em bancos de dados contribui para a manutenção da integridade e da confiabilidade dos dados, mesmo em ambientes sujeitos a informações contraditórias. Ao permitir a continuidade das operações e fornecer mecanismos claros para identificação e tratamento de conflitos, essa abordagem representa um avanço importante para sistemas que demandam alta disponibilidade e precisão, como bancos de dados corporativos, sistemas de saúde e aplicações críticas em ciência da computação.
 
----
+___
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa e Walter Carnielli  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

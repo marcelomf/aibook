@@ -54,7 +54,7 @@ As lógicas paraconsistentes, como a **Lógica Paraconsistente Anotada (LPA)** e
 ## 4. Resumo das Diferenças
 
 | Sistema Lógico         | Tolerância à Contradição | Princípio da Explosão | Regras de Inferência Modificadas |
-|------------------------|:-----------------------:|:---------------------:|:-------------------------------:|
+||:--:|::|:-:|
 | Clássica               | Não                     | Sim                  | Não                            |
 | Paraconsistente        | Sim                     | Não                  | Sim                            |
 | Intuicionista          | Não                     | Não                  | Sim (mais restritivas)         |
@@ -73,10 +73,10 @@ As diferenças nas regras formais das lógicas paraconsistentes tornam-nas espec
 
 Enquanto outros sistemas não clássicos focam em aspectos como incerteza, vagueza ou relevância, as lógicas paraconsistentes são únicas na sua abordagem formal para lidar com contradições sem comprometer a utilidade do sistema lógico.
 
----
+
 
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

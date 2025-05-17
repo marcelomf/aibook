@@ -71,8 +71,8 @@ No entanto, a crescente complexidade dos sistemas de informação e a necessidad
 
 O impacto da lógica paraconsistente em projetos reais é significativo, proporcionando maior robustez, flexibilidade e transparência em sistemas que lidam com informações contraditórias. Sua aplicação em bancos de dados, IA e tomada de decisão demonstra que, longe de ser apenas uma curiosidade teórica, a lógica paraconsistente é uma ferramenta essencial para enfrentar os desafios do mundo real, onde a contradição é muitas vezes inevitável.
 
----
+___
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Lógicas Paraconsistentes: Teoria e Aplicações*.  
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

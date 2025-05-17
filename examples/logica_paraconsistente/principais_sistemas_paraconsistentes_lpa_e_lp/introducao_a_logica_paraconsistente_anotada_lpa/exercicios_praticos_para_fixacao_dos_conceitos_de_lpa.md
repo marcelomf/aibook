@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente Anotada (LPA) é um dos sistemas mais estudados dentro da lógica paraconsistente, sendo amplamente utilizada em aplicações que exigem o tratamento de informações contraditórias ou incertas. Para consolidar o entendimento dos conceitos fundamentais da LPA, apresentamos a seguir uma série de exercícios práticos, acompanhados de orientações e exemplos. Estes exercícios são indicados tanto para estudantes iniciantes quanto para profissionais que desejam revisar ou aprofundar seus conhecimentos.
 
----
+
 
 ## Exercício 1: Identificação de Anotações
 
@@ -20,7 +20,7 @@ Represente cada informação utilizando a notação da LPA, indicando os pares (
 - "O sensor está ativo": (μ, λ) = (0,8, 0,1)
 - "O sensor está inativo": (μ, λ) = (0,2, 0,7)
 
----
+
 
 ## Exercício 2: Análise de Consistência
 
@@ -39,7 +39,7 @@ a) Como μ + λ > 1, há sobreposição entre crença e descrença, indicando **
 b) Grau de certeza: 0,6 - 0,6 = 0  
    Grau de contradição: min(0,6, 0,6) = 0,6
 
----
+
 
 ## Exercício 3: Interpretação de Resultados
 
@@ -52,7 +52,7 @@ Como interpretar esse resultado segundo a LPA? O que ele indica sobre a confiabi
 **Resolução:**  
 O par (0,9, 0,0) indica **alta crença** (quase certeza) e **nenhuma descrença**. Portanto, a informação é **altamente confiável** e consistente.
 
----
+
 
 ## Exercício 4: Detecção de Contradições
 
@@ -69,7 +69,7 @@ Existe contradição entre as fontes? Como a LPA pode ajudar a tratar essa situa
 Sim, há contradição, pois uma fonte indica alta crença e baixa descrença, enquanto a outra indica baixa crença e alta descrença.  
 A LPA permite **representar e processar** essas informações contraditórias sem invalidar o sistema, possibilitando análises mais refinadas, como calcular o grau de certeza global ou identificar a fonte mais confiável.
 
----
+
 
 ## Exercício 5: Aplicação em Tomada de Decisão
 
@@ -97,7 +97,7 @@ Com base nas anotações, qual proposição apresenta maior grau de certeza? Qua
 - "Fumaça detectada" tem o maior grau de certeza (0,7).
 - "Sensor de movimento ativado" tem o maior grau de contradição (0,4).
 
----
+
 
 ## Exercício 6: Propondo Novos Cenários
 
@@ -107,7 +107,7 @@ Crie um exemplo prático de aplicação da LPA em um contexto de sua escolha (po
 **Resolução Sugerida:**  
 *(Resposta aberta, incentive o aluno a criar e justificar seu exemplo.)*
 
----
+
 
 ## Dicas para Resolução dos Exercícios
 
@@ -117,7 +117,7 @@ Crie um exemplo prático de aplicação da LPA em um contexto de sua escolha (po
 - O grau de contradição (min(μ, λ)) indica o quanto há de sobreposição entre crença e descrença.
 - A LPA não elimina as contradições, mas permite tratá-las de forma controlada e informativa.
 
----
+
 
 ## Referências para Estudo Adicional
 
@@ -125,7 +125,7 @@ Crie um exemplo prático de aplicação da LPA em um contexto de sua escolha (po
 - **da Costa, N. C. A.** Lógicas Paraconsistentes: Introdução e Aplicações. Editora Unicamp, 2012.
 - **Priest, G.** An Introduction to Non-Classical Logic. Cambridge University Press, 2008.
 
----
+
 
 Esses exercícios visam proporcionar uma compreensão prática dos conceitos fundamentais da LPA, preparando o leitor para aplicações reais e para o aprofundamento em estudos avançados de lógica paraconsistente.
-```
+

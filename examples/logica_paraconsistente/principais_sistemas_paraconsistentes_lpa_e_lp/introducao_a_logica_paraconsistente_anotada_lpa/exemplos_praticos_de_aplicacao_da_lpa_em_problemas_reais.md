@@ -3,7 +3,7 @@
 
 A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos e aplicados dentro do campo da lógica paraconsistente. Sua principal característica é a capacidade de lidar com informações contraditórias de maneira controlada, sem que o sistema lógico se torne trivial. Isso a torna especialmente útil em cenários do mundo real, onde dados inconsistentes ou conflitantes são comuns. A seguir, apresentamos exemplos práticos de aplicação da LPA em diferentes áreas.
 
----
+
 
 ## 1. **Bancos de Dados Inconsistentes**
 
@@ -18,7 +18,7 @@ A LPA permite representar e processar informações contraditórias sem descarta
 - **Decisões mais informadas:** O sistema pode indicar o grau de confiabilidade de cada informação.
 - **Automação de resolução de conflitos:** Algoritmos baseados em LPA podem sugerir ações corretivas ou solicitar validação humana apenas quando necessário.
 
----
+
 
 ## 2. **Inteligência Artificial e Sistemas Especialistas**
 
@@ -33,7 +33,7 @@ A LPA é utilizada para modelar o raciocínio desses sistemas diante de informa�
 - **Explicabilidade:** O sistema pode justificar suas decisões com base nos graus de crença e descrença.
 - **Aprimoramento contínuo:** Novas informações podem ser incorporadas sem a necessidade de recomeçar o processo de análise.
 
----
+
 
 ## 3. **Sistemas de Tomada de Decisão em Ambientes Incertos**
 
@@ -48,7 +48,7 @@ A LPA pode ser empregada para modelar cenários de decisão, atribuindo pesos (g
 - **Gestão de riscos:** Decisões podem ser acompanhadas de indicadores de confiabilidade.
 - **Transparência:** O processo de decisão pode ser auditado e revisado posteriormente.
 
----
+
 
 ## 4. **Resolução de Conflitos em Informações**
 
@@ -63,7 +63,7 @@ A LPA pode ser usada para gerenciar e exibir informações contraditórias, perm
 - **Fomento ao debate construtivo:** Contradições são explicitadas e podem ser discutidas.
 - **Melhoria da qualidade da informação:** O sistema pode sugerir pontos que precisam de verificação adicional.
 
----
+
 
 ## 5. **Controle de Processos Industriais**
 
@@ -78,11 +78,10 @@ A LPA pode ser utilizada para integrar as leituras de múltiplos sensores, atrib
 - **Manutenção preditiva:** Identificação de sensores defeituosos a partir do padrão de contradições.
 - **Otimização de processos:** Decisões de controle mais precisas e adaptativas.
 
----
+
 
 ## **Conclusão**
 
 A Lógica Paraconsistente Anotada (LPA) se destaca como uma poderosa ferramenta para lidar com a complexidade e a imperfeição dos dados do mundo real. Sua capacidade de tratar contradições de forma estruturada e informativa amplia as possibilidades de aplicação em diversas áreas, promovendo sistemas mais robustos, transparentes e eficientes.
 
----
-```
+

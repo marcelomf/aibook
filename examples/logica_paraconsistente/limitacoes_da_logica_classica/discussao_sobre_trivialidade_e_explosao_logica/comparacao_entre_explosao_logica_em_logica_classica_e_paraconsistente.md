@@ -3,7 +3,7 @@
 
 A **explosão lógica** é um conceito central para entender as limitações da lógica clássica e a motivação para o desenvolvimento das lógicas paraconsistentes. Neste tópico, vamos comparar como a explosão lógica se manifesta na lógica clássica e como ela é tratada nas lógicas paraconsistentes, destacando as diferenças fundamentais entre esses sistemas.
 
----
+
 
 ## Explosão Lógica na Lógica Clássica
 
@@ -30,7 +30,7 @@ Se ambas são assumidas como verdadeiras em um sistema clássico, então, por me
 - **Trivialidade:** O sistema se torna trivial, pois qualquer afirmação pode ser considerada verdadeira.
 - **Inadequação para sistemas inconsistentes:** Em situações reais, como bancos de dados com informações contraditórias, a lógica clássica não consegue lidar de forma útil com inconsistências.
 
----
+
 
 ## Explosão Lógica na Lógica Paraconsistente
 
@@ -52,22 +52,21 @@ Existem diversos sistemas de lógica paraconsistente, como:
 - **Lógica Paraconsistente Anotada (LPA):** Utiliza anotações para indicar o grau de certeza ou contradição de uma proposição.
 - **Lógica de Priest (LP):** Permite que proposições sejam simultaneamente verdadeiras e falsas, mas restringe as inferências possíveis.
 
----
+
 
 ## Tabela Comparativa
 
 | Aspecto                        | Lógica Clássica         | Lógica Paraconsistente      |
-|--------------------------------|-------------------------|-----------------------------|
+|--|-|--|
 | Contradição ($A$ e $\neg A$)   | Leva à explosão         | Não leva à explosão         |
 | Dedução de qualquer $B$        | Permitida               | Não permitida               |
 | Utilidade em sistemas reais    | Limitada                | Alta                        |
 | Aplicações                     | Teoria matemática       | IA, bancos de dados, etc.   |
 
----
+
 
 ## Conclusão
 
 A principal diferença entre a lógica clássica e a lógica paraconsistente em relação à explosão lógica está na **capacidade de lidar com contradições**. Enquanto a lógica clássica se torna trivial diante de uma contradição, a lógica paraconsistente permite que sistemas continuem operando de maneira útil, mesmo na presença de informações contraditórias. Essa característica torna as lógicas paraconsistentes especialmente valiosas em aplicações práticas, onde a inconsistência é uma realidade inevitável.
 
----
-```
+

@@ -2,7 +2,7 @@
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, oferece novas perspectivas para questões fundamentais da epistemologia e da teoria do conhecimento, especialmente no que diz respeito à racionalidade das crenças e aos processos de revisão de crenças diante de informações conflitantes. Este tópico explora como modelos paraconsistentes podem ser aplicados à representação, avaliação e atualização de crenças racionais, destacando suas vantagens e desafios em relação aos modelos clássicos.
 
----
+___
 
 ## 1. O Problema das Crenças Contraditórias
 
@@ -10,7 +10,7 @@ Na epistemologia tradicional, espera-se que um agente racional mantenha um conju
 
 Esse fenômeno é problemático para a modelagem da racionalidade, pois agentes reais raramente descartam todo o seu sistema de crenças ao encontrar uma inconsistência. Em vez disso, tendem a conviver temporariamente com contradições, buscando resolvê-las de maneira gradual e seletiva.
 
----
+___
 
 ## 2. Lógica Paraconsistente e Modelos de Crença
 
@@ -26,7 +26,7 @@ A **Lógica Paraconsistente Anotada (LPA)**, por exemplo, permite atribuir graus
 
 A racionalidade, nesse contexto, é reinterpretada: um agente racional é aquele que reconhece e monitora as contradições em seu sistema de crenças, avaliando a confiabilidade das fontes, a relevância das informações e os impactos das inconsistências. Isso se aproxima de modelos cognitivos realistas, nos quais a revisão de crenças é um processo dinâmico e adaptativo.
 
----
+___
 
 ## 3. Revisão de Crenças em Lógicas Paraconsistentes
 
@@ -53,7 +53,7 @@ Diversos algoritmos de revisão de crenças paraconsistentes foram propostos, es
 
 A LPA, por exemplo, utiliza operadores de atualização que consideram os graus de evidência a favor e contra cada proposição, permitindo revisões graduais e não explosivas.
 
----
+___
 
 ## 4. Implicações Epistemológicas
 
@@ -63,7 +63,7 @@ A adoção de modelos paraconsistentes de crença racional tem profundas implica
 - **Realismo Cognitivo:** Aproxima a epistemologia formal do funcionamento real da cognição humana, que frequentemente lida com ambiguidades e contradições.
 - **Novos Critérios de Racionalidade:** Propõe que a racionalidade não é apenas a busca pela consistência, mas a habilidade de gerenciar e resolver contradições de modo informado e criterioso.
 
----
+___
 
 ## 5. Desafios e Perspectivas Futuras
 
@@ -75,7 +75,7 @@ Apesar das vantagens, os modelos paraconsistentes de crença enfrentam desafios,
 
 A pesquisa continua avançando, especialmente em aplicações de inteligência artificial, ciência de dados e filosofia da ciência, onde a gestão de informações contraditórias é cada vez mais relevante.
 
----
+___
 
 ## 6. Referências para Leitura Adicional
 
@@ -84,7 +84,7 @@ A pesquisa continua avançando, especialmente em aplicações de inteligência a
 - **Priest, G. (2006).** *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - **Subrahmanian, V. S. (1994).** *Paraconsistent Logic Programming*. In *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 
----
+___
 
 ## 7. Conclusão
 

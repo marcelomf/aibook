@@ -31,7 +31,7 @@ O ecossistema de ferramentas para lógicas paraconsistentes ainda é restrito. F
 
 A aceitação de contradições controladas levanta questões filosóficas profundas sobre a natureza da verdade, da consistência e do raciocínio. Ainda há debates sobre até que ponto é desejável ou justificável aceitar contradições em sistemas formais, e quais são as implicações epistemológicas dessa escolha para a ciência, a matemática e a filosofia.
 
----
+___
 
 ## **Considerações Finais**
 
@@ -40,4 +40,4 @@ Apesar dos desafios e limitações, as lógicas paraconsistentes continuam sendo
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

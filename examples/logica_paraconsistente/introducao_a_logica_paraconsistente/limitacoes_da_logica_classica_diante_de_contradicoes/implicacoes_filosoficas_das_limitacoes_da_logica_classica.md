@@ -42,6 +42,6 @@ O reconhecimento das limitações da lógica clássica abriu espaço para novas 
 
 Essas discussões continuam a influenciar áreas como a filosofia da linguagem, a metafísica e a teoria da argumentação, promovendo uma compreensão mais rica e matizada dos limites e possibilidades da lógica.
 
----
+___
 
 **Em resumo**, as limitações da lógica clássica diante de contradições têm profundas implicações filosóficas, desafiando concepções tradicionais de verdade, consistência e racionalidade. O surgimento da lógica paraconsistente representa uma resposta inovadora a esses desafios, permitindo lidar de forma controlada com a inconsistência e ampliando as fronteiras do raciocínio lógico e filosófico.

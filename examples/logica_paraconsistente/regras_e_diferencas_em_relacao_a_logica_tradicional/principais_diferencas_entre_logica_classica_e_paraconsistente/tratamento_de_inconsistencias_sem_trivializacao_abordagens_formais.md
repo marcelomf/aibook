@@ -56,10 +56,10 @@ Considere um banco de dados médico onde, por erro de digitação, um paciente �
 
 O tratamento de inconsistências sem trivialização é um dos grandes avanços proporcionados pelas lógicas paraconsistentes. Por meio de abordagens formais como a LPA, a lógica de Priest e sistemas de filtragem, é possível construir sistemas de raciocínio robustos, capazes de lidar com a complexidade e imperfeição inerentes ao conhecimento real.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli et al., "On the Philosophy and Mathematics of Paraconsistency"
-```
+

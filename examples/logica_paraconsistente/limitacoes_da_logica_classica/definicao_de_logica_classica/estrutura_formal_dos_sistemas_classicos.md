@@ -27,7 +27,7 @@ A semântica da lógica clássica é baseada no princípio do bivalorismo: toda 
 
 #### Tabela-verdade dos conectivos principais:
 | φ | ψ | ¬φ | φ ∧ ψ | φ ∨ ψ | φ → ψ | φ ↔ ψ |
-|---|---|----|-------|-------|-------|-------|
+|||-|-|-|-|-|
 | V | V |  F |   V   |   V   |   V   |   V   |
 | V | F |  F |   F   |   V   |   F   |   F   |
 | F | V |  V |   F   |   V   |   V   |   F   |
@@ -67,11 +67,11 @@ A lógica clássica possui propriedades importantes, como:
 
 Apesar de sua robustez, a estrutura formal da lógica clássica apresenta limitações, especialmente ao lidar com informações contraditórias. Segundo o princípio da explosão (ex contradictione sequitur quodlibet), a presença de uma contradição permite que qualquer proposição seja deduzida, tornando o sistema trivial. Essa limitação motiva o estudo de sistemas alternativos, como as lógicas paraconsistentes.
 
----
+
 
 **Referências:**
 - Mendelson, E. (2015). *Introduction to Mathematical Logic*. CRC Press.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
-```
+

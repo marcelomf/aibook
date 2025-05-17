@@ -2,7 +2,7 @@
 
 A história da Lógica Paraconsistente é marcada não apenas pelo desenvolvimento teórico, mas também por aplicações práticas que evidenciaram sua utilidade em contextos onde a lógica clássica se mostrava insuficiente. Neste tópico, exploramos alguns estudos de caso históricos que ilustram as primeiras aplicações da lógica paraconsistente, destacando como ela permitiu avanços em áreas como matemática, ciência da computação e inteligência artificial.
 
----
+___
 
 ## 1. **Matemática: Paradoxos e Sistemas Consistentes**
 
@@ -11,7 +11,7 @@ Um dos primeiros contextos em que a lógica paraconsistente foi considerada envo
 **Estudo de Caso:**  
 Na década de 1960, o matemático brasileiro Newton da Costa desenvolveu sistemas formais de lógica paraconsistente justamente para permitir o estudo de sistemas matemáticos que contivessem contradições localizadas, sem comprometer toda a estrutura. Isso permitiu, por exemplo, a análise de conjuntos inconsistentes sem que todo o edifício matemático ruísse, abrindo caminho para novas abordagens em fundamentos da matemática.
 
----
+___
 
 ## 2. **Bancos de Dados: Gerenciamento de Informação Inconsistente**
 
@@ -20,7 +20,7 @@ Com o crescimento dos sistemas de informação nas décadas de 1970 e 1980, torn
 **Estudo de Caso:**  
 Pesquisadores começaram a aplicar lógicas paraconsistentes para permitir consultas e operações em bancos de dados mesmo na presença de inconsistências. Um exemplo marcante foi o uso da Lógica Paraconsistente Anotada (LPA) para modelar bancos de dados que armazenavam informações de diferentes departamentos de uma empresa, onde registros conflitantes podiam coexistir. A LPA permitiu que decisões fossem tomadas com base em graus de certeza e contradição, sem descartar automaticamente dados valiosos.
 
----
+___
 
 ## 3. **Inteligência Artificial: Sistemas Especialistas e Tomada de Decisão**
 
@@ -29,7 +29,7 @@ Na área de inteligência artificial, especialmente em sistemas especialistas, a
 **Estudo de Caso:**  
 Na década de 1980, projetos de sistemas especialistas para diagnóstico médico começaram a empregar lógicas paraconsistentes para lidar com sintomas e diagnósticos contraditórios. Por exemplo, um sistema poderia receber informações conflitantes de diferentes médicos ou exames, mas, ao invés de travar ou fornecer respostas inválidas, utilizava a lógica paraconsistente para ponderar as evidências e sugerir hipóteses diagnósticas mais robustas.
 
----
+___
 
 ## 4. **Filosofia e Teoria do Conhecimento**
 
@@ -38,7 +38,7 @@ A lógica paraconsistente também encontrou aplicações iniciais em debates fil
 **Estudo de Caso:**  
 Filósofos como Graham Priest utilizaram sistemas paraconsistentes para analisar textos filosóficos e argumentos que envolviam paradoxos ou proposições autocontraditórias, como nos estudos sobre dialeteísmo (a ideia de que algumas contradições podem ser verdadeiras). Isso permitiu uma abordagem mais flexível e realista de problemas clássicos da filosofia da linguagem e da lógica.
 
----
+___
 
 ## 5. **Ciência da Computação: Lógica de Programação e Verificação de Software**
 
@@ -47,7 +47,7 @@ Em ciência da computação, a necessidade de lidar com inconsistências em prog
 **Estudo de Caso:**  
 Projetos de verificação de software começaram a empregar lógicas paraconsistentes para analisar programas que, devido à complexidade ou à integração de múltiplos módulos, apresentavam especificações contraditórias. Isso permitiu identificar e isolar inconsistências sem invalidar todo o processo de verificação, contribuindo para o desenvolvimento de sistemas mais robustos.
 
----
+___
 
 ## **Conclusão**
 

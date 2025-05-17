@@ -59,5 +59,4 @@ Os princípios da não contradição e do terceiro excluído são pilares da ló
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 
----
-```
+

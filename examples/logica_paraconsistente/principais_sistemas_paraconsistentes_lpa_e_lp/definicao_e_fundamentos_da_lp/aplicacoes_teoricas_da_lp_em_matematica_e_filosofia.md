@@ -49,5 +49,4 @@ A Lógica de Priest (LP) representa uma abordagem inovadora para lidar com contr
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Mortensen, C. (1995). *Inconsistent Mathematics*. Kluwer Academic Publishers.
 
----
-```
+

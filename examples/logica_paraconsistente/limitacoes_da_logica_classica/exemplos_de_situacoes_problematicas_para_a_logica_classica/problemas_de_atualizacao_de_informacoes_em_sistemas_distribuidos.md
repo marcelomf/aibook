@@ -55,9 +55,9 @@ Para lidar com essas situações, surgem abordagens como:
 
 Os problemas de atualização de informações em sistemas distribuídos ilustram claramente as limitações da lógica clássica diante de contradições e inconsistências temporárias. Nessas situações, abordagens baseadas em lógicas não clássicas, como a lógica paraconsistente, oferecem ferramentas mais adequadas para modelar, raciocinar e resolver conflitos, permitindo que sistemas distribuídos sejam mais robustos, flexíveis e tolerantes a falhas.
 
----
+
 **Sugestão de leitura complementar:**  
 - "Designing Data-Intensive Applications" de Martin Kleppmann  
 - "Lógica Paraconsistente: Teoria e Aplicações" de Newton da Costa  
 - Artigos sobre CRDTs (Conflict-free Replicated Data Types) e consistência eventual
-```
+

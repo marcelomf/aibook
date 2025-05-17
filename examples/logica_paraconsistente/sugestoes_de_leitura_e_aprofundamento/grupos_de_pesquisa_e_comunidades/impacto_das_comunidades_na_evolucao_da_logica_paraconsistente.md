@@ -34,10 +34,10 @@ Além do avanço científico, as comunidades têm papel relevante na discussão 
 
 O impacto das comunidades na evolução da lógica paraconsistente é inegável. Elas não apenas impulsionam o desenvolvimento teórico e prático, mas também promovem a formação de novos pesquisadores, a interdisciplinaridade e a reflexão ética. Participar dessas comunidades é fundamental para quem deseja contribuir de forma significativa para o avanço do campo e para a aplicação responsável da lógica paraconsistente em diferentes contextos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - [Centro de Lógica, Epistemologia e História da Ciência (CLE/Unicamp)](https://www.cle.unicamp.br/)
 - [Journal of Applied Non-Classical Logics](https://www.tandfonline.com/loi/tncl20)
 - [Studia Logica](https://www.springer.com/journal/11225)
-```
+

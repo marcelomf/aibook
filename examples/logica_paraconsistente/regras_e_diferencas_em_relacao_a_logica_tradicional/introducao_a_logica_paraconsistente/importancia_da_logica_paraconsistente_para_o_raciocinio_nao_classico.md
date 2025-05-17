@@ -30,4 +30,4 @@ A importância da lógica paraconsistente se evidencia em diversas áreas:
 ## Conclusão
 
 A lógica paraconsistente representa um avanço significativo no campo do raciocínio não clássico, ampliando as fronteiras da lógica formal e tornando-a mais aderente à complexidade do mundo real. Sua capacidade de lidar com contradições de forma controlada não apenas resolve limitações históricas da lógica clássica, mas também abre caminho para inovações em ciência da computação, inteligência artificial, filosofia e outras áreas do conhecimento. Por isso, compreender e aplicar a lógica paraconsistente é fundamental para quem deseja explorar os desafios e as oportunidades do raciocínio não clássico.
-```
+

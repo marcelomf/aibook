@@ -3,20 +3,20 @@
 
 A presença de informações duplicadas ou contraditórias em bancos de dados é um desafio recorrente em sistemas de informação, especialmente em contextos onde múltiplas fontes alimentam o mesmo repositório de dados. A forma como essas inconsistências são tratadas depende diretamente do sistema lógico adotado. Neste tópico, analisaremos como um banco de dados com informações duplicadas ou contraditórias é interpretado sob a ótica da lógica clássica e da lógica paraconsistente, destacando as diferenças práticas e conceituais entre essas abordagens.
 
----
+
 
 ## 1. Cenário: Banco de Dados com Contradições
 
 Considere um banco de dados de clientes de uma empresa, onde, devido à integração de diferentes sistemas, surgem registros contraditórios:
 
 | ID_Cliente | Nome         | Status_Ativo |
-|------------|--------------|--------------|
+||--|--|
 | 001        | Ana Pereira  | Sim          |
 | 001        | Ana Pereira  | Não          |
 
 Neste exemplo, o mesmo cliente (ID_Cliente 001) aparece com dois status diferentes: "Sim" (ativo) e "Não" (inativo).
 
----
+
 
 ## 2. Tratamento na Lógica Clássica
 
@@ -33,7 +33,7 @@ SELECT Status_Ativo FROM Clientes WHERE ID_Cliente = '001';
 ```
 O resultado é ambíguo: "Sim" e "Não" ao mesmo tempo, o que não é permitido pela lógica clássica.
 
----
+
 
 ## 3. Tratamento na Lógica Paraconsistente
 
@@ -55,27 +55,27 @@ O sistema reconhece a contradição, mas não permite que qualquer conclusão se
 
 Na lógica de Priest, uma proposição pode ser verdadeira, falsa, ambas ou nenhuma. Assim, o status do cliente pode ser considerado simultaneamente "ativo" e "inativo", sem que isso leve à explosão lógica.
 
----
+
 
 ## 4. Comparação Prática
 
 | Aspecto                  | Lógica Clássica                | Lógica Paraconsistente         |
-|--------------------------|--------------------------------|-------------------------------|
+|--|--|-|
 | Contradições             | Não toleradas (explosão)       | Toleradas e controladas       |
 | Consulta a dados         | Resultados ambíguos ou erro    | Resultados sinalizados como contraditórios |
 | Decisão automática       | Requer resolução externa       | Pode ser automatizada com base em graus de evidência |
 | Robustez frente a erros  | Baixa                          | Alta                          |
 
----
+
 
 ## 5. Conclusão
 
 A análise de bancos de dados com informações duplicadas ou contraditórias evidencia as limitações da lógica clássica e os benefícios da lógica paraconsistente. Enquanto a lógica clássica exige a eliminação prévia de contradições para garantir a consistência do sistema, a lógica paraconsistente permite que tais inconsistências sejam tratadas de forma explícita, controlada e informativa. Isso torna a lógica paraconsistente especialmente útil em aplicações modernas, como integração de dados, inteligência artificial e sistemas de apoio à decisão, onde a presença de informações conflitantes é inevitável.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
-```
+

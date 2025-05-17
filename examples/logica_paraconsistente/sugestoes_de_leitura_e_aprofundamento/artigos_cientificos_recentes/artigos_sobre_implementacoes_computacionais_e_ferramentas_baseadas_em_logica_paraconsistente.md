@@ -33,7 +33,7 @@ Além dos frameworks citados, há bibliotecas em linguagens como Python e Java q
 
 - **Referência:** Gomes, P. R., & Almeida, J. P. A. (2022). A Survey of Paraconsistent Logic Programming Tools. *Journal of Logic and Computation*, 32(6), 1123-1145.
 
----
+
 
 ### Conclusão
 
@@ -45,4 +45,4 @@ O avanço das implementações computacionais baseadas em lógica paraconsistent
 - **Repositório:** [LPA-Tools no GitHub](https://github.com/lpa-tools) – Exemplos e documentação de ferramentas baseadas em Lógica Paraconsistente Anotada.
 
 Para aprofundar-se no tema, recomenda-se a leitura dos artigos citados e a exploração das ferramentas disponíveis, que podem ser aplicadas em projetos acadêmicos e profissionais que demandem o tratamento eficiente de informações contraditórias.
-```
+

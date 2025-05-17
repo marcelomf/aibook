@@ -3,7 +3,7 @@
 
 A pesquisa em lógica paraconsistente é um campo dinâmico e interdisciplinar, com contribuições significativas de matemáticos, filósofos, cientistas da computação e engenheiros. Ao longo das últimas décadas, diversos grupos de pesquisa se consolidaram como referências internacionais, promovendo avanços teóricos e aplicações práticas dessa lógica não clássica. A seguir, destacam-se alguns dos principais grupos de pesquisa em lógica paraconsistente no Brasil e no mundo, bem como suas áreas de atuação e contribuições.
 
----
+
 
 ## Grupos de Pesquisa no Brasil
 
@@ -33,7 +33,7 @@ O Brasil é reconhecido internacionalmente como um dos polos mais ativos em lóg
 - **Atuação:** Lógicas não clássicas, computação, automação de raciocínio.
 - **Site:** [DCA-UFRN](https://www.dca.ufrn.br/)
 
----
+
 
 ## Grupos de Pesquisa Internacionais
 
@@ -59,7 +59,7 @@ Além do Brasil, diversos centros de excelência ao redor do mundo contribuem pa
 - **Atuação:** Fundamentos de lógicas não clássicas, aplicações computacionais.
 - **Site:** [CFCUL - University of Lisbon](https://cfcul.campus.ciencias.ulisboa.pt/)
 
----
+
 
 ## Comunidades e Redes Internacionais
 
@@ -69,7 +69,7 @@ Além dos grupos institucionais, existem comunidades e redes que promovem a cola
 - **Association for Symbolic Logic (ASL):** Internacional, reúne pesquisadores de todas as áreas da lógica, incluindo lógica paraconsistente.
 - **Conferências e Workshops:** Eventos como o *World Congress on Paraconsistency* e o *Latin American Symposium on Mathematical Logic* são importantes pontos de encontro para pesquisadores da área.
 
----
+
 
 ## Como Participar e Acompanhar
 
@@ -80,7 +80,7 @@ Para estudantes e pesquisadores interessados em se aprofundar, recomenda-se:
 - Engajar-se em comunidades online, fóruns e listas de discussão sobre lógica não clássica.
 - Consultar periódicos como *Journal of Applied Logic*, *Studia Logica* e *Logic Journal of the IGPL*.
 
----
+
 
 A lógica paraconsistente segue em expansão, com novas aplicações e desafios teóricos surgindo continuamente. Participar dessas comunidades e acompanhar os principais grupos de pesquisa é fundamental para quem deseja se manter atualizado e contribuir para o avanço da área.
-```
+

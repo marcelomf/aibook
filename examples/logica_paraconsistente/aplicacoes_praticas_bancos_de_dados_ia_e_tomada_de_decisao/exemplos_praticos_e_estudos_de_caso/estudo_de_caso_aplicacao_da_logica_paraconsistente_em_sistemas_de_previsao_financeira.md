@@ -42,7 +42,7 @@ Esses valores são combinados para calcular o **grau de certeza** e o **grau de 
 #### Exemplo de Análise
 
 | Fonte                | μ (favorável) | λ (contrária) |
-|----------------------|:-------------:|:-------------:|
+|_____________________-|:____________-:|:____________-:|
 | Indicadores técnicos |     0,8       |     0,2       |
 | Notícias             |     0,3       |     0,7       |
 | Analistas            |     0,6       |     0,4       |
@@ -70,5 +70,4 @@ A aplicação da lógica paraconsistente em sistemas de previsão financeira rep
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and their Applications: An Introduction."  
 - Abe, J. M., & Nakamatsu, K. (2016). "Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency."
 
----
-```
+

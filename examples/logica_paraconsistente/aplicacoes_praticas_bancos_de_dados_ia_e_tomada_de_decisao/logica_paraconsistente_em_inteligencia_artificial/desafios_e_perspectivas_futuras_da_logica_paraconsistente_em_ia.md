@@ -43,8 +43,8 @@ A comunicação entre humanos e máquinas frequentemente envolve ambiguidades e 
 
 A lógica paraconsistente representa uma fronteira importante para o avanço da inteligência artificial, especialmente em um mundo cada vez mais complexo e repleto de informações contraditórias. Superar os desafios atuais exigirá esforços conjuntos de pesquisadores, engenheiros e profissionais de diversas áreas. As perspectivas futuras apontam para sistemas de IA mais resilientes, explicáveis e capazes de operar em ambientes reais, onde a contradição não é exceção, mas parte inerente da realidade.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

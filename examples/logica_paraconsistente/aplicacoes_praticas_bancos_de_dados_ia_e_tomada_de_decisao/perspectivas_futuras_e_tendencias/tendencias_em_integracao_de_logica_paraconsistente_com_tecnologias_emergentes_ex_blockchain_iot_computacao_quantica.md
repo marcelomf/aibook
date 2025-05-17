@@ -40,10 +40,10 @@ Apesar do potencial, a integração da lógica paraconsistente com essas tecnolo
 
 No entanto, o interesse crescente da comunidade científica e industrial indica que veremos avanços significativos nos próximos anos. A lógica paraconsistente tende a se consolidar como uma ferramenta essencial para garantir robustez, flexibilidade e confiabilidade em sistemas complexos e dinâmicos, especialmente à medida que as tecnologias emergentes se tornam parte integrante do nosso cotidiano.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*.
 - Artigos recentes em periódicos como *Journal of Applied Logic* e *Information Sciences* sobre aplicações de lógica paraconsistente em blockchain, IoT e computação quântica.
-```
+

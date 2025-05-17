@@ -48,10 +48,10 @@ Em experimentos comparativos, bancos de dados paraconsistentes apresentaram dese
 
 A avaliação de desempenho de bancos de dados paraconsistentes em ambientes de big data mostra que, embora haja desafios técnicos, os benefícios em termos de tolerância a inconsistências, flexibilidade e qualidade da informação são significativos. O avanço das pesquisas e o desenvolvimento de novas ferramentas prometem tornar essas soluções cada vez mais viáveis e eficientes para aplicações críticas em ciência de dados, inteligência artificial e sistemas de informação complexos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - Subrahmanian, V. S. (1994). *Paraconsistent Databases*. Theoretical Computer Science, 133(2), 365-395.
 
-```
+

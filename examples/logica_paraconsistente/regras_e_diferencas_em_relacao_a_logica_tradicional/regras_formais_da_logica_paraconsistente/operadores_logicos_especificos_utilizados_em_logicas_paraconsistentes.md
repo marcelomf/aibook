@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente, ao buscar lidar de forma controlada com contradições, introduz operadores lógicos que vão além dos tradicionais da lógica clássica. Esses operadores são fundamentais para expressar, manipular e analisar informações contraditórias sem que o sistema lógico se torne trivial. Neste tópico, apresentamos os principais operadores lógicos específicos das lógicas paraconsistentes, suas definições e exemplos de uso.
 
----
+
 
 ## 1. Operadores Básicos e Suas Modificações
 
@@ -16,7 +16,7 @@ Na lógica clássica, os operadores fundamentais são:
 
 Nas lógicas paraconsistentes, esses operadores podem ser redefinidos ou complementados para permitir a coexistência de contradições sem colapso do sistema. A seguir, destacamos as principais modificações e extensões.
 
----
+
 
 ## 2. Operadores Paraconsistentes Específicos
 
@@ -50,19 +50,19 @@ Em algumas lógicas, como a Lógica de Priest (LP), existe um operador que contr
 
 - **Exemplo:** O operador de explosão controlada só permite a dedução de qualquer proposição a partir de uma contradição se certas condições forem satisfeitas, diferentemente da lógica clássica, onde `P ∧ ¬P ⊢ Q` para qualquer Q.
 
----
+
 
 ## 3. Tabela de Operadores em Lógicas Paraconsistentes
 
 | Operador         | Símbolo | Função/Descrição                                                                 |
-|------------------|---------|----------------------------------------------------------------------------------|
+|||-|
 | Negação          | ¬ₚ, ~   | Permite que P e ¬ₚP sejam ambos verdadeiros                                      |
 | Consistência     | ◦       | Indica que uma proposição é consistente                                          |
 | Inconsistência   | •       | Indica que uma proposição é inconsistente                                        |
 | Anotação         | (μ, λ)  | Representa graus de evidência favorável e desfavorável (LPA)                     |
 | Explosão Controlada | -    | Restringe a dedução de qualquer proposição a partir de contradições              |
 
----
+
 
 ## 4. Exemplos Práticos
 
@@ -79,7 +79,7 @@ Na lógica clássica, isso levaria à trivialidade. Na lógica paraconsistente, 
 
 Em um sistema de decisão, pode-se usar os operadores de consistência e inconsistência para filtrar informações contraditórias e tomar decisões baseadas no grau de certeza calculado a partir das anotações.
 
----
+
 
 ## 5. Considerações Finais
 
@@ -87,5 +87,4 @@ Os operadores lógicos específicos das lógicas paraconsistentes são essenciai
 
 Para aprofundar-se no tema, recomenda-se estudar os sistemas formais de lógicas paraconsistentes, como a Lógica Paraconsistente Anotada (LPA) e a Lógica de Priest (LP), e explorar suas aplicações em casos reais.
 
----
-```
+

@@ -38,9 +38,9 @@ Apesar dos avanços, o desenvolvimento de softwares paraconsistentes ainda enfre
 
 A tendência é que, com o aumento da complexidade dos sistemas e da quantidade de dados, a lógica paraconsistente se torne cada vez mais relevante, ampliando seu papel em aplicações práticas e consolidando-se como uma ferramenta essencial para o desenvolvimento de softwares robustos e inteligentes.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli & João Marcos)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Newton da Costa & Walter Carnielli)
-```
+

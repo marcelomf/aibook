@@ -64,7 +64,7 @@ Em sistemas compostos por múltiplos agentes, cada um pode ter uma visão parcia
 
 A modelagem de agentes inteligentes tolerantes a inconsistências, baseada em lógica paraconsistente, representa um avanço significativo para a IA moderna. Ela permite que sistemas inteligentes operem de forma mais próxima ao raciocínio humano, lidando com incertezas e contradições de maneira controlada e produtiva. Com o amadurecimento das técnicas paraconsistentes, espera-se que agentes cada vez mais autônomos e confiáveis sejam desenvolvidos para enfrentar os desafios do mundo real.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.  

@@ -60,7 +60,7 @@ No entanto, a combinação de lógica paraconsistente com técnicas modernas de 
 - **da Costa, N.C.A., & Subrahmanian, V.S. (1993). Paraconsistent Logics: Consistency, Contradiction and Negation.**
 - **Santos, S.B., & Abe, J.M. (2014). Lógica Paraconsistente Anotada: Teoria e Aplicações.**
 
----
+___
 
 O uso de lógica paraconsistente em IA explicável é uma área em rápida evolução, com potencial para transformar a forma como sistemas inteligentes lidam com a complexidade e a incerteza do mundo real.
-```
+

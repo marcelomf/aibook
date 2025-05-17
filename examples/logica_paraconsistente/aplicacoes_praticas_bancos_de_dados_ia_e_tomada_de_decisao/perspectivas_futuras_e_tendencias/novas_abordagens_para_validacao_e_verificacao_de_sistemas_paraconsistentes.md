@@ -55,8 +55,8 @@ Simulações computacionais são empregadas para analisar o comportamento de sis
 
 A validação e verificação de sistemas paraconsistentes é um campo dinâmico e em rápida evolução, impulsionado pela necessidade de soluções confiáveis em ambientes onde a inconsistência é inevitável. As novas abordagens, baseadas em model checking, testes automatizados, validação formal e simulação, representam avanços significativos para garantir a robustez e a utilidade desses sistemas. À medida que as aplicações se expandem, espera-se que essas técnicas se tornem cada vez mais sofisticadas, integrando-se a outras áreas como IA, ciência de dados e engenharia de software.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
-```
+

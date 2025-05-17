@@ -2,7 +2,7 @@
 
 A integração da lógica paraconsistente em fluxos de trabalho computacionais é uma abordagem cada vez mais relevante para lidar com inconsistências e contradições em sistemas reais, especialmente em áreas como bancos de dados, inteligência artificial, sistemas de recomendação e automação de processos. Os exercícios a seguir têm como objetivo proporcionar ao leitor uma compreensão prática de como a lógica paraconsistente pode ser aplicada para melhorar a robustez e a confiabilidade de fluxos computacionais diante de informações conflitantes.
 
----
+
 
 ## Exercício 1: Detecção e Tratamento de Inconsistências em Bancos de Dados
 
@@ -16,7 +16,7 @@ Considere um sistema de cadastro de clientes em que diferentes fontes de dados p
    - Se a informação deve ser marcada como inconsistente, aguardando validação manual.
 3. Explique como o uso da lógica paraconsistente evita a propagação de erros e a trivialização do sistema.
 
----
+
 
 ## Exercício 2: Resolução de Conflitos em Sistemas Multiagentes
 
@@ -29,7 +29,7 @@ Em um sistema multiagente, diferentes agentes podem chegar a conclusões contrad
 3. Simule, com exemplos, como o sistema pode tomar decisões mesmo diante de contradições, sem descartar informações potencialmente úteis.
 4. Discuta as vantagens dessa abordagem em relação à lógica clássica.
 
----
+
 
 ## Exercício 3: Fluxo de Trabalho em Processos de Decisão Automatizada
 
@@ -44,7 +44,7 @@ Um sistema automatizado de aprovação de crédito recebe informações de difer
    - Tomar decisões automatizadas (aprovar, rejeitar ou encaminhar para análise manual).
 3. Proponha métricas para avaliar a eficácia do sistema paraconsistente em comparação com um sistema baseado apenas em lógica clássica.
 
----
+
 
 ## Exercício 4: Implementação de um Módulo Paraconsistente em Linguagem de Programação
 
@@ -60,19 +60,19 @@ Você está desenvolvendo um módulo para integrar lógica paraconsistente em um
    - Gerar recomendações mesmo na presença de contradições, utilizando regras paraconsistentes.
 4. Teste o módulo com um conjunto de dados fictício contendo informações conflitantes.
 
----
+
 
 ## Reflexão Final
 
 A realização desses exercícios permite compreender, na prática, como a lógica paraconsistente pode ser integrada a fluxos de trabalho computacionais para lidar com inconsistências de maneira controlada e produtiva. Ao invés de ignorar ou eliminar informações contraditórias, a lógica paraconsistente oferece mecanismos formais para tratá-las, aumentando a resiliência e a inteligência dos sistemas computacionais.
 
----
+
 
 **Sugestão de aprofundamento:**  
 - Explore bibliotecas e frameworks que implementam lógica paraconsistente, como o [LPA-Library](https://github.com/Paraconsistent-Logic/LPA-Library) (Python).
 - Estude casos reais de aplicação em bancos de dados, sistemas de decisão e inteligência artificial.
 - Experimente adaptar os exercícios para contextos específicos de sua área de atuação.
 
----
+
 
 > **Dica:** Ao implementar soluções paraconsistentes, documente claramente as regras e critérios adotados para o tratamento de contradições, facilitando a manutenção e a evolução dos sistemas.

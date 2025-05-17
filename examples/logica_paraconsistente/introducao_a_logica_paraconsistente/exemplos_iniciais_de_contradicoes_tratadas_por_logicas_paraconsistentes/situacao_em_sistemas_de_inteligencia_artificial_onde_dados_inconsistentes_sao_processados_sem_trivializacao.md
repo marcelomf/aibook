@@ -7,7 +7,7 @@ A inteligência artificial (IA) lida frequentemente com grandes volumes de dados
 
 A lógica paraconsistente surge como uma solução para esse problema, permitindo que sistemas de IA processem informações contraditórias de forma controlada, sem comprometer toda a base de conhecimento. A seguir, apresentamos exemplos práticos de como a lógica paraconsistente pode ser aplicada em situações reais de IA.
 
----
+___
 
 ### Exemplo 1: Diagnóstico Médico Automatizado
 
@@ -24,7 +24,7 @@ Na lógica clássica, a presença dessas informações contraditórias poderia l
 - **Atribuir graus de credibilidade:** Utilizar anotações ou pesos para cada fonte de informação.
 - **Tomar decisões informadas:** Sugerir exames adicionais, apresentar hipóteses alternativas ou recomendar acompanhamento, sem descartar todo o conhecimento acumulado.
 
----
+___
 
 ### Exemplo 2: Fusão de Dados em Robótica Autônoma
 
@@ -40,7 +40,7 @@ Essas informações contraditórias podem surgir devido a falhas temporárias, i
 - **Evitar decisões precipitadas:** Não assumir que qualquer informação é absolutamente verdadeira ou falsa.
 - **Atualizar o estado do conhecimento:** Ajustar as hipóteses à medida que novos dados chegam, sem descartar todo o histórico por causa de uma contradição pontual.
 
----
+___
 
 ### Exemplo 3: Análise de Sentimentos em Redes Sociais
 
@@ -56,9 +56,9 @@ A lógica paraconsistente permite que o sistema:
 - **Ofereça análises mais nuançadas:** Apresentando, por exemplo, que há opiniões positivas e negativas coexistindo.
 - **Evite conclusões extremas:** Como afirmar que o produto é simultaneamente ótimo e péssimo para todos, o que seria trivialização.
 
----
+___
 
 ## Conclusão
 
 A lógica paraconsistente oferece uma abordagem robusta para o tratamento de contradições em sistemas de inteligência artificial. Ao permitir que inconsistências sejam processadas sem trivializar todo o sistema, ela viabiliza aplicações mais realistas e confiáveis em ambientes complexos e dinâmicos. Dessa forma, a IA pode lidar com a incerteza e a ambiguidade inerentes ao mundo real, mantendo sua utilidade e precisão mesmo diante de dados conflitantes.
-```
+

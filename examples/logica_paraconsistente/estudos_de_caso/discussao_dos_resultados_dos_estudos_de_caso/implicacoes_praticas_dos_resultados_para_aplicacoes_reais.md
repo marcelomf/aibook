@@ -33,11 +33,11 @@ Além das aplicações tecnológicas, os resultados dos estudos de caso reforça
 **Implicação:**  
 A lógica paraconsistente oferece uma estrutura teórica sólida para o avanço de pesquisas em filosofia da lógica, teoria dos conjuntos e fundamentos da matemática, promovendo novas perspectivas sobre a natureza da verdade e da prova.
 
----
+___
 
 ### **Considerações Finais**
 
 Os estudos de caso analisados demonstram que a Lógica Paraconsistente não é apenas uma curiosidade teórica, mas uma ferramenta prática e poderosa para enfrentar desafios reais em múltiplos domínios. Sua capacidade de lidar com contradições de maneira controlada amplia as fronteiras do raciocínio automatizado, da gestão de dados e da resolução de conflitos, tornando-se cada vez mais relevante em um mundo caracterizado pela complexidade e pela incerteza.
 
 A adoção de abordagens paraconsistentes pode, portanto, representar um diferencial competitivo e inovador para organizações e pesquisadores que buscam soluções eficazes para problemas onde a contradição é inevitável e a exclusão de informações não é uma opção viável.
-```
+

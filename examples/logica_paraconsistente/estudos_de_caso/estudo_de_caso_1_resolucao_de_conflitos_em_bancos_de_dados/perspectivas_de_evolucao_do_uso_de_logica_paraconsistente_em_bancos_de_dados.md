@@ -55,8 +55,8 @@ Com o amadurecimento da área, espera-se o surgimento de:
 
 A lógica paraconsistente representa uma evolução natural para o tratamento de dados em ambientes cada vez mais complexos e dinâmicos. Sua adoção em bancos de dados tende a crescer, impulsionada pela necessidade de lidar com inconsistências de maneira produtiva e confiável. O desenvolvimento de novas técnicas, ferramentas e padrões será fundamental para consolidar seu uso e ampliar seu impacto em aplicações críticas, desde a ciência de dados até sistemas de apoio à decisão em tempo real.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Subrahmanian, V. S. (1994). *Paraconsistent Databases*. In *Handbook of Logic in Artificial Intelligence and Logic Programming* (Vol. 4).
-```
+

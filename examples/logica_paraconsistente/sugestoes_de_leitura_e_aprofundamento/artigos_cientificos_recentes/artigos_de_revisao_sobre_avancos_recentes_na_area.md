@@ -58,4 +58,4 @@ Utilize termos de busca como "paraconsistent logic review", "survey paraconsiste
 A leitura de artigos de revisão é essencial para quem deseja se manter atualizado sobre os avanços em lógica paraconsistente. Esses trabalhos não apenas apresentam o estado da arte, mas também apontam lacunas e oportunidades para novas pesquisas, sendo recursos valiosos para estudantes, pesquisadores e profissionais da área.
 
 > **Dica:** Sempre verifique a data de publicação dos artigos de revisão e, se possível, complemente a leitura com artigos originais citados nessas revisões para obter uma compreensão mais aprofundada dos tópicos de interesse.
-```
+

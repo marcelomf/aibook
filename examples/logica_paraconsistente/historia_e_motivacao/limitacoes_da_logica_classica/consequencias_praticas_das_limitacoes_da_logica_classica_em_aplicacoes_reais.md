@@ -38,7 +38,7 @@ Na filosofia e na modelagem do conhecimento, a lógica clássica não consegue r
 **Consequência prática:**  
 Modelos baseados em lógica clássica podem ser excessivamente simplistas, ignorando nuances importantes do raciocínio humano e das situações reais.
 
----
+___
 
 ## **Resumo das Consequências**
 
@@ -47,11 +47,10 @@ Modelos baseados em lógica clássica podem ser excessivamente simplistas, ignor
 - **Perda de informações:** Dados contraditórios são frequentemente descartados, mesmo que contenham valor.
 - **Limitação da aplicabilidade:** Sistemas baseados em lógica clássica são menos robustos em ambientes dinâmicos e incertos.
 
----
+___
 
 ## **Caminhos Alternativos**
 
 Diante dessas limitações, surgem abordagens como a **Lógica Paraconsistente**, que permite lidar com contradições de forma controlada, sem trivializar o sistema. Isso amplia significativamente as possibilidades de aplicação em contextos reais, tornando os sistemas mais flexíveis, robustos e próximos do raciocínio humano.
 
----
-```
+

@@ -66,9 +66,9 @@ Embora a lógica paraconsistente aumente a confiabilidade do diagnóstico em mui
 
 A lógica paraconsistente representa um avanço significativo na confiabilidade do diagnóstico em sistemas complexos. Ao permitir o tratamento controlado de contradições e a integração de múltiplas fontes de informação, essa abordagem oferece diagnósticos mais robustos, transparentes e adaptáveis a ambientes incertos. Sua aplicação já é realidade em diversas áreas e tende a se expandir à medida que sistemas inteligentes se tornam cada vez mais presentes em nosso cotidiano.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*.  
 - Batens, D. (2007). *A survey of inconsistency-adaptive logics*.  
 - Abe, J. M., & Nakamatsu, K. (2016). *Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency*.
-```
+

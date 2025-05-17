@@ -58,7 +58,7 @@ Esses valores ajudam a classificar o estado da informação:
 ### 2.4. Tabela de Estados
 
 | $\mu$ | $\lambda$ | Interpretação         |
-|-------|-----------|----------------------|
+|-|--|-|
 | 1     | 0         | Verdade plena        |
 | 0     | 1         | Falsidade plena      |
 | 1     | 1         | Contradição máxima   |
@@ -84,7 +84,7 @@ A anotação para a proposição "O paciente tem a doença" seria $(0,8, 0,6)$. 
 
 A **Lógica Paraconsistente Anotada** oferece uma estrutura formal robusta para lidar com informações contraditórias e incertas, sendo uma ferramenta poderosa em contextos onde a lógica clássica falha. Sua abordagem baseada em anotações permite um tratamento mais refinado e flexível das evidências, tornando-a especialmente útil em aplicações práticas de inteligência artificial, bancos de dados e sistemas de apoio à decisão.
 
----
+
 
 **Referências:**
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. Notre Dame Journal of Formal Logic, 34(4), 497-510.

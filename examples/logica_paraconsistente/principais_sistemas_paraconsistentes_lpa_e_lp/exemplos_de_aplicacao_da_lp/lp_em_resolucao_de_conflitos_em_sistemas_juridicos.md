@@ -53,4 +53,4 @@ Apesar das vantagens, a aplicação da LP no direito ainda enfrenta desafios, co
 ### Conclusão
 
 A Lógica Paraconsistente de Priest oferece uma abordagem inovadora e eficaz para a resolução de conflitos em sistemas jurídicos, permitindo que contradições sejam tratadas de forma controlada e racional. Sua aplicação contribui para a transparência, robustez e eficiência do processo jurídico, tornando-se uma ferramenta promissora para o futuro do direito em um mundo cada vez mais complexo e dinâmico.
-```
+

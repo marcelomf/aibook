@@ -37,4 +37,4 @@ Algumas estratégias práticas incluem:
 ### Conclusão
 
 Informações inconsistentes em bancos de dados empresariais são um desafio recorrente e inevitável em ambientes complexos. A lógica clássica, por sua rigidez diante de contradições, mostra-se limitada para lidar com esses cenários. Por isso, abordagens baseadas em lógica paraconsistente e técnicas de gestão de inconsistências são essenciais para garantir a confiabilidade, a continuidade operacional e a tomada de decisões informadas nas organizações modernas.
-```
+

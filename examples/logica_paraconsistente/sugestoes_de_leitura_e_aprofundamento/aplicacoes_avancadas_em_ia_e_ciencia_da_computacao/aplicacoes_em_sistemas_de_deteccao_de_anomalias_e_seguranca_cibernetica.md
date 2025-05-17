@@ -46,5 +46,4 @@ A segurança cibernética envolve a proteção de sistemas, redes e dados contra
 
 A lógica paraconsistente representa um avanço significativo para sistemas de detecção de anomalias e segurança cibernética, oferecendo mecanismos robustos para lidar com a complexidade e as contradições inerentes aos ambientes digitais atuais. Sua adoção pode aumentar a resiliência, a precisão e a confiabilidade de sistemas críticos, tornando-se uma área promissora para pesquisa e desenvolvimento em ciência da computação e inteligência artificial.
 
----
-```
+

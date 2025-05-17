@@ -33,7 +33,7 @@ Diante dessas limitações, abordagens alternativas têm sido exploradas. A **L�
 
 Além disso, técnicas de **fusão de dados**, **resolução de conflitos baseada em regras de prioridade** e o uso de **metadados de confiabilidade** são estratégias complementares para mitigar os impactos das limitações da lógica clássica.
 
----
+
 
 **Em resumo**, a integração de múltiplas fontes de dados em sistemas corporativos é um processo repleto de desafios, muitos dos quais decorrem das limitações da lógica clássica em lidar com inconsistências e contradições. A adoção de abordagens não clássicas, como a lógica paraconsistente, representa um avanço importante para tornar os sistemas corporativos mais resilientes, flexíveis e confiáveis diante da complexidade dos dados do mundo real.
-```
+

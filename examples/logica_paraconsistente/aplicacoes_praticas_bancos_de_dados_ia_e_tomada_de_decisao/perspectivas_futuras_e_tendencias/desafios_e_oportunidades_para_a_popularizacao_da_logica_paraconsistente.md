@@ -44,4 +44,4 @@ O avanço no desenvolvimento de ferramentas, bibliotecas e padrões abertos para
 ### Considerações Finais
 
 A popularização da lógica paraconsistente depende tanto da superação de desafios técnicos e educacionais quanto do aproveitamento das oportunidades oferecidas pelo cenário atual de dados complexos e contraditórios. Com o avanço da pesquisa, o desenvolvimento de ferramentas e a ampliação do interesse interdisciplinar, a lógica paraconsistente tem potencial para se tornar um componente fundamental em sistemas inteligentes, bancos de dados e processos de tomada de decisão do futuro.
-```
+

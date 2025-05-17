@@ -65,5 +65,4 @@ O uso da lógica paraconsistente em sistemas de monitoramento ambiental represen
 - Batens, D. (2000). "A General Characterization of Adaptive Logics."  
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
 
----
-```
+

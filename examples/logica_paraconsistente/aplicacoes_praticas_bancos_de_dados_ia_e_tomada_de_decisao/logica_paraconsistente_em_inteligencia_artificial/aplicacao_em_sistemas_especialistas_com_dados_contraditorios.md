@@ -69,5 +69,4 @@ A aplicação da lógica paraconsistente em sistemas especialistas representa um
 - Batens, D. (2000). *A Universal Logic Approach to Paraconsistency*.
 - Silva Filho, J. I. (2011). *Lógica Paraconsistente Anotada: Teoria e Aplicações*.
 
----
-```
+

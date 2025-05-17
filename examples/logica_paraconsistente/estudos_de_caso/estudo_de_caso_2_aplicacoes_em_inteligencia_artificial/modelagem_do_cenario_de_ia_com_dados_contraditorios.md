@@ -66,8 +66,8 @@ Suponha que o sistema de IA precise decidir se administra ou não o medicamento 
 
 A modelagem paraconsistente de cenários de IA com dados contraditórios representa um avanço significativo em relação aos sistemas tradicionais. Ela permite que a IA seja utilizada em ambientes complexos e dinâmicos, como hospitais, sistemas financeiros, monitoramento ambiental e muitos outros, onde a contradição é inerente à natureza dos dados. Ao adotar a lógica paraconsistente, desenvolvedores e pesquisadores podem criar sistemas mais confiáveis, transparentes e adaptáveis, promovendo decisões mais seguras e fundamentadas.
 
----
+___
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa, Walter Carnielli  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

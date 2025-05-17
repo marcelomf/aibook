@@ -27,7 +27,7 @@ Esta coletânea reúne artigos de diversos autores que discutem aspectos filosó
 
 Batens desenvolveu o conceito de lógicas adaptativas, que podem ser vistas como uma extensão das ideias paraconsistentes. Em suas obras, ele explora como sistemas lógicos podem se adaptar dinamicamente à presença de inconsistências, oferecendo ferramentas para raciocínio não trivial em contextos reais.
 
----
+
 
 ### Outras Referências Importantes
 
@@ -37,9 +37,9 @@ Além das obras acima, vale mencionar autores e textos que, embora não sejam ex
 - **W.V.O. Quine – "Philosophy of Logic" (1970):** Quine discute as bases da lógica e a possibilidade de revisões nos princípios lógicos tradicionais.
 - **Susan Haack – "Philosophy of Logics" (1978):** Haack apresenta uma análise crítica das lógicas não clássicas, incluindo as paraconsistentes.
 
----
+
 
 ### Conclusão
 
 O desenvolvimento da lógica paraconsistente é fruto de um diálogo interdisciplinar entre matemática, filosofia e ciência da computação. As obras citadas acima representam marcos fundamentais para quem deseja compreender a evolução histórica, os fundamentos teóricos e as aplicações práticas desse fascinante ramo da lógica. Recomenda-se a leitura dessas referências para um aprofundamento sólido e crítico no tema.
-```
+

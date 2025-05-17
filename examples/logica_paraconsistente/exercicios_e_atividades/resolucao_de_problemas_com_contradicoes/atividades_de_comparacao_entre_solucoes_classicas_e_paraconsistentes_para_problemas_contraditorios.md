@@ -4,7 +4,7 @@ A resolução de problemas contraditórios é um dos principais desafios em áre
 
 Neste tópico, propomos atividades práticas para comparar, na resolução de problemas contraditórios, as abordagens clássica e paraconsistente. O objetivo é evidenciar as diferenças fundamentais entre os dois paradigmas e demonstrar as vantagens da lógica paraconsistente em cenários reais.
 
----
+
 
 ## 1. Problema Proposto
 
@@ -15,7 +15,7 @@ Considere o seguinte cenário em um sistema de informações de pacientes em um 
 
 Essas informações contraditórias foram inseridas por diferentes fontes no banco de dados. O sistema precisa decidir se pode prescrever penicilina para João.
 
----
+
 
 ## 2. Solução pela Lógica Clássica
 
@@ -30,7 +30,7 @@ Na lógica clássica, a presença de uma contradição (A e ¬A) leva ao chamado
 **Limitação:**  
 O sistema não consegue distinguir qual informação deve prevalecer, nem operar de forma segura diante da contradição.
 
----
+
 
 ## 3. Solução pela Lógica Paraconsistente
 
@@ -48,7 +48,7 @@ A lógica paraconsistente, por outro lado, foi desenvolvida justamente para lida
 **Vantagem:**  
 A lógica paraconsistente permite que o sistema continue operando de forma útil, mesmo diante de informações conflitantes, evitando decisões potencialmente perigosas ou erradas.
 
----
+
 
 ## 4. Atividade Prática
 
@@ -75,7 +75,7 @@ A lógica paraconsistente permite que o sistema continue operando de forma útil
 3. **Compare os resultados das consultas diante de inconsistências.**
 4. **Discuta as implicações práticas de cada abordagem.**
 
----
+
 
 ## 5. Discussão e Reflexão
 
@@ -83,19 +83,19 @@ A lógica paraconsistente permite que o sistema continue operando de forma útil
 - **Como a lógica paraconsistente pode aumentar a segurança e a confiabilidade de sistemas que lidam com informações contraditórias?**
 - **Em que situações a lógica clássica ainda é preferível?**
 
----
+
 
 ## 6. Conclusão
 
 A comparação entre soluções clássicas e paraconsistentes para problemas contraditórios evidencia a importância da lógica paraconsistente em contextos onde a inconsistência é inevitável. Ao permitir o tratamento controlado de contradições, a lógica paraconsistente oferece maior robustez, segurança e utilidade prática para sistemas de informação, inteligência artificial e outras áreas críticas.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
----
+
 
 **Exercício adicional:**  
 Pesquise um caso real em sua área de interesse onde informações contraditórias causaram problemas. Analise como a lógica paraconsistente poderia ter sido aplicada para mitigar ou resolver a situação.

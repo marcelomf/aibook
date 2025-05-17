@@ -2,7 +2,7 @@
 
 A análise de situações que envolvem informações contraditórias é um desafio recorrente em diversas áreas do conhecimento, como bancos de dados, inteligência artificial, direito, medicina e sistemas de tomada de decisão. Tradicionalmente, a lógica clássica tem sido a base para o tratamento dessas informações. No entanto, a lógica paraconsistente surge como uma alternativa poderosa, especialmente quando a inconsistência não pode ser simplesmente eliminada ou ignorada. Neste tópico, vamos comparar as abordagens tradicionais (baseadas na lógica clássica) e as abordagens paraconsistentes na análise de casos práticos com inconsistências.
 
----
+
 
 ## 1. Abordagem Tradicional (Lógica Clássica)
 
@@ -18,7 +18,7 @@ A lógica clássica é regida pelo **princípio da não contradição**: uma pro
 
 Em um sistema de diagnóstico médico, se um paciente apresenta sintomas que sugerem simultaneamente duas doenças mutuamente exclusivas, a abordagem clássica pode exigir a escolha de apenas uma hipótese, ignorando a outra, ou até mesmo rejeitar o caso como inválido.
 
----
+
 
 ## 2. Abordagem Paraconsistente
 
@@ -34,19 +34,19 @@ A lógica paraconsistente, por outro lado, foi desenvolvida justamente para lida
 
 No mesmo sistema de diagnóstico médico, a lógica paraconsistente permite registrar que há evidências para ambas as doenças, sinalizando a necessidade de exames adicionais ou de uma análise mais aprofundada, sem descartar nenhuma hipótese prematuramente.
 
----
+
 
 ## 3. Comparação em Casos Práticos
 
 | Aspecto                         | Lógica Clássica (Tradicional)         | Lógica Paraconsistente                |
-|----------------------------------|---------------------------------------|---------------------------------------|
+|-|||
 | **Tolerância à Contradição**     | Não tolera; exige eliminação          | Tolera e trata contradições           |
 | **Raciocínio diante de conflito**| Pode se tornar trivial (explosão)     | Permite raciocínio controlado         |
 | **Gestão de informações**        | Pode descartar dados conflitantes     | Preserva e analisa todos os dados     |
 | **Complexidade de implementação**| Simples em casos consistentes         | Pode exigir sistemas mais sofisticados|
 | **Aplicações típicas**           | Sistemas bem definidos e estáveis     | Ambientes dinâmicos e incertos        |
 
----
+
 
 ## 4. Vantagens e Limitações
 
@@ -61,7 +61,7 @@ No mesmo sistema de diagnóstico médico, a lógica paraconsistente permite regi
 - **Complexidade:** Pode exigir maior poder computacional e conhecimento especializado.
 - **Interpretação dos resultados:** Requer cuidado na análise dos graus de contradição e certeza.
 
----
+
 
 ## 5. Considerações Finais
 
@@ -70,14 +70,14 @@ A escolha entre abordagens tradicionais e paraconsistentes depende do contexto e
 **Exercício sugerido:**  
 Analise um caso prático de sua área de interesse onde informações contraditórias possam surgir. Descreva como a abordagem tradicional trataria o caso e, em seguida, proponha uma solução baseada em lógica paraconsistente, destacando as diferenças nos resultados e nas decisões possíveis.
 
----
+
 
 **Leitura complementar:**  
 - Newton da Costa, "Lógica Paraconsistente: Essencial"
 - Graham Priest, "In Contradiction"
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
 
----
+
 
 > **Resumo:**  
 > A lógica paraconsistente não substitui a lógica clássica, mas a complementa, oferecendo ferramentas para lidar com a complexidade e a incerteza do mundo real. Sua adoção pode ser decisiva para o sucesso de sistemas que precisam operar de forma confiável mesmo diante de inconsistências inevitáveis.

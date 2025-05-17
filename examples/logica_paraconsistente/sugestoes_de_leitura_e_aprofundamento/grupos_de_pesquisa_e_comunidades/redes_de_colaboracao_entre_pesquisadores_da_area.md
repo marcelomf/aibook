@@ -49,4 +49,4 @@ As redes de colaboração são essenciais para o avanço da Lógica Paraconsiste
 
 > **Dica:** Para quem deseja se aprofundar, recomenda-se buscar grupos de pesquisa em universidades, participar de eventos internacionais e interagir em fóruns online dedicados à lógica e suas aplicações.
 
-```
+

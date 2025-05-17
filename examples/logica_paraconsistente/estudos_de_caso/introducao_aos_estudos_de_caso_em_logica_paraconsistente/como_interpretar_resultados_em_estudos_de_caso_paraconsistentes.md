@@ -70,9 +70,9 @@ Interpretar resultados em estudos de caso paraconsistentes é um processo que va
 
 > **Dica:** Sempre documente o raciocínio por trás das interpretações e decisões, facilitando a revisão e a compreensão por outros profissionais.
 
----
+___
 
 **Leitura Recomendada:**  
 - Da Costa, N. C. A. "Lógica Paraconsistente: Essencial para a Filosofia e a Computação."  
 - Carnielli, W. A., & Coniglio, M. E. "Paraconsistent Logic: Consistency, Contradiction and Negation."
-```
+

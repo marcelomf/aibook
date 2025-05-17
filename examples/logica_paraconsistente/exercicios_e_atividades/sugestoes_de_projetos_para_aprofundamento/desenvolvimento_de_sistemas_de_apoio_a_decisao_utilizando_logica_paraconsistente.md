@@ -69,7 +69,7 @@ Esses valores podem ser utilizados para calcular o grau de certeza, incerteza e 
 
 **Desenvolva um protótipo de sistema de apoio à decisão para triagem médica utilizando lógica paraconsistente.** O sistema deve receber sintomas, resultados de exames e opiniões de especialistas, processar as informações (mesmo que contraditórias) e sugerir possíveis diagnósticos, indicando o grau de certeza e as principais fontes de contradição.
 
----
+
 
 **Referências para aprofundamento:**
 
@@ -78,7 +78,7 @@ Esses valores podem ser utilizados para calcular o grau de certeza, incerteza e 
 - Silva Filho, J. I. (2011). Lógica Paraconsistente Anotada: Teoria e Aplicações.
 - Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.
 
----
+
 
 O desenvolvimento de sistemas de apoio à decisão baseados em lógica paraconsistente representa um avanço significativo na capacidade de lidar com a complexidade e a incerteza do mundo real, tornando-se uma área promissora para pesquisa e inovação.
-```
+

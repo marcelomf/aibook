@@ -47,9 +47,9 @@ Essas novas abordagens lógicas têm impacto direto em diversas áreas do conhec
 
 A evolução do conceito de contradição e o surgimento de novas abordagens lógicas, como a lógica paraconsistente, mostram que a lógica é uma disciplina viva, em constante diálogo com os desafios práticos e teóricos da humanidade. Ao reconhecer e incorporar a contradição de forma controlada, essas lógicas ampliam as fronteiras do raciocínio formal e abrem novas possibilidades para a resolução de problemas complexos.
 
----
+___
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction"
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

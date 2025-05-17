@@ -3,7 +3,7 @@
 
 A lógica paraconsistente oferece um arcabouço teórico robusto para o tratamento de informações contraditórias, sendo especialmente útil em contextos onde a inconsistência é inevitável ou recorrente. O desenvolvimento de softwares baseados em lógica paraconsistente pode trazer soluções inovadoras para diversos desafios em ciência da computação, inteligência artificial, bancos de dados e sistemas de apoio à decisão. A seguir, apresentamos sugestões de projetos e diretrizes para quem deseja aprofundar-se no desenvolvimento de aplicações práticas utilizando lógica paraconsistente.
 
----
+
 
 ## 1. **Sistema de Gerenciamento de Bancos de Dados Inconsistentes**
 
@@ -21,7 +21,7 @@ Desenvolva um sistema de gerenciamento de bancos de dados capaz de identificar, 
 - Integração de dados de múltiplas fontes.
 - Ambientes de Big Data.
 
----
+
 
 ## 2. **Agente de Inteligência Artificial para Resolução de Conflitos**
 
@@ -38,7 +38,7 @@ Implemente um agente inteligente capaz de tomar decisões ou fornecer recomenda�
 - Sistemas de recomendação.
 - Diagnóstico médico assistido por computador.
 
----
+
 
 ## 3. **Ferramenta de Análise e Visualização de Contradições**
 
@@ -56,7 +56,7 @@ Desenvolva uma ferramenta que permita visualizar, analisar e explorar contradiç
 - Auditoria de informações em sistemas críticos.
 - Apoio à tomada de decisão em ambientes colaborativos.
 
----
+
 
 ## 4. **Módulo Paraconsistente para Sistemas de Lógica Fuzzy**
 
@@ -73,7 +73,7 @@ Integre um módulo de lógica paraconsistente a sistemas baseados em lógica fuz
 - Sistemas de previsão e análise de risco.
 - Automação inteligente.
 
----
+
 
 ## 5. **Plataforma Educacional Interativa sobre Lógica Paraconsistente**
 
@@ -91,7 +91,7 @@ Desenvolva uma plataforma online que permita aos usuários aprender, experimenta
 - Capacitação de profissionais em áreas técnicas.
 - Divulgação científica.
 
----
+
 
 ## **Dicas para o Desenvolvimento**
 
@@ -100,7 +100,7 @@ Desenvolva uma plataforma online que permita aos usuários aprender, experimenta
 - **Documentação e Testes:** Documente claramente as regras de inferência e os casos de uso. Teste o sistema com dados reais e cenários de inconsistência.
 - **Interdisciplinaridade:** Considere parcerias com especialistas em lógica, ciência da computação, matemática e áreas de aplicação.
 
----
+
 
 ## **Referências e Recursos**
 
@@ -116,7 +116,7 @@ Desenvolva uma plataforma online que permita aos usuários aprender, experimenta
   - [Paraconsistent Logic Programming in Prolog](https://github.com/logic-paraconsistent/prolog)
   - [Ferramentas de Lógica Paraconsistente em Python](https://pypi.org/search/?q=paraconsistent)
 
----
+
 
 O desenvolvimento de softwares baseados em lógica paraconsistente é um campo promissor e multidisciplinar, capaz de oferecer soluções inovadoras para problemas complexos do mundo real. Ao explorar essas sugestões de projetos, você estará contribuindo para o avanço do raciocínio não clássico e para a construção de sistemas mais flexíveis e resilientes diante da inconsistência.
-```
+

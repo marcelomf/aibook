@@ -2,7 +2,7 @@
 
 A aplicação de lógicas paraconsistentes em ambientes de **big data** é um campo promissor, especialmente devido à natureza frequentemente contraditória, incompleta e incerta dos dados em larga escala. Avaliar o desempenho de sistemas baseados em lógica paraconsistente nesses contextos é fundamental para validar sua eficácia e identificar oportunidades de aprimoramento. A seguir, são apresentadas propostas de experimentos que podem ser realizados para esse fim, incluindo objetivos, metodologias e métricas de avaliação.
 
----
+
 
 ## 1. **Objetivo dos Experimentos**
 
@@ -10,7 +10,7 @@ A aplicação de lógicas paraconsistentes em ambientes de **big data** é um ca
 - **Comparar o desempenho desses sistemas com abordagens tradicionais (lógica clássica, lógica fuzzy, etc.) em tarefas de análise e tomada de decisão.**
 - **Medir o impacto do uso de lógica paraconsistente na qualidade dos resultados, tempo de processamento e escalabilidade.**
 
----
+
 
 ## 2. **Proposta de Experimentos**
 
@@ -32,7 +32,7 @@ Utilizar um banco de dados sintético ou real, propositalmente contaminado com i
 - Tempo de resposta.
 - Consumo de recursos computacionais.
 
----
+
 
 ### 2.2. **Tomada de Decisão em Ambientes com Dados Contraditórios**
 
@@ -49,7 +49,7 @@ Simular um sistema de apoio à decisão (por exemplo, recomendação de crédito
 - Capacidade de explicação das decisões.
 - Resiliência a dados contraditórios.
 
----
+
 
 ### 2.3. **Análise de Fluxos de Dados em Tempo Real (Stream Processing)**
 
@@ -67,7 +67,7 @@ Avaliar o desempenho de sistemas paraconsistentes em ambientes de processamento 
 - Throughput (eventos processados por segundo).
 - Capacidade de identificar e tratar contradições em tempo real.
 
----
+
 
 ### 2.4. **Estudo de Caso: Integração de Dados de Múltiplas Fontes**
 
@@ -84,7 +84,7 @@ Realizar a integração de dados provenientes de diferentes fontes (por exemplo,
 - Tempo de integração.
 - Facilidade de manutenção e escalabilidade.
 
----
+
 
 ## 3. **Considerações Finais**
 
@@ -92,7 +92,7 @@ A realização desses experimentos permitirá não apenas validar a aplicabilida
 
 Além disso, a publicação dos resultados em repositórios abertos e a disponibilização de datasets e códigos-fonte podem contribuir para o avanço da pesquisa e para a adoção prática de sistemas paraconsistentes em ambientes de big data.
 
----
+
 
 ## 4. **Sugestões de Ferramentas e Tecnologias**
 
@@ -102,7 +102,7 @@ Além disso, a publicação dos resultados em repositórios abertos e a disponib
 - **Bibliotecas de Lógica Paraconsistente:** Implementações próprias ou bibliotecas acadêmicas (ex: LPA-Tools)
 - **Ambientes de Teste:** Google Colab, AWS, Azure
 
----
+
 
 ## 5. **Leituras Complementares**
 
@@ -110,6 +110,6 @@ Além disso, a publicação dos resultados em repositórios abertos e a disponib
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*.
 - Priest, G. (2002). *Paraconsistent Logic*.
 
----
+
 
 Essas propostas podem servir como ponto de partida para projetos de pesquisa, trabalhos de conclusão de curso ou iniciativas de inovação em empresas que lidam com grandes volumes de dados e necessitam de soluções robustas para inconsistências e contradições.

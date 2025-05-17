@@ -3,7 +3,7 @@
 
 A **lógica tradicional**, também conhecida como lógica clássica, é o sistema lógico mais amplamente utilizado desde a Antiguidade, especialmente após a formalização feita por Aristóteles e, posteriormente, por matemáticos e filósofos modernos. Ela se baseia em princípios fundamentais como o da **não contradição**, o **terceiro excluído** e o **princípio da identidade**. Neste tópico, vamos apresentar exemplos de proposições e deduções típicas da lógica tradicional, destacando como funcionam suas regras básicas de inferência.
 
----
+
 
 ## 1. Proposições na Lógica Tradicional
 
@@ -15,7 +15,7 @@ Uma **proposição** é uma sentença declarativa que pode ser classificada como
 
 Cada proposição tem um valor de verdade bem definido.
 
----
+
 
 ## 2. Conectivos Lógicos
 
@@ -32,7 +32,7 @@ Na lógica tradicional, proposições podem ser combinadas usando **conectivos l
 - **Bicondicional (↔):** "Se e somente se."  
   Exemplo: P ↔ R ("A água ferve a 100°C ao nível do mar se, e somente se, 2 + 2 = 4.")
 
----
+
 
 ## 3. Exemplos de Deduções
 
@@ -77,28 +77,28 @@ P ∨ Q
 ∴ Q
 ```
 
----
+
 
 ## 4. Tabela-Verdade
 
 A lógica tradicional utiliza tabelas-verdade para determinar o valor de proposições compostas. Exemplo para a implicação (P → Q):
 
 | P | Q | P → Q |
-|---|---|-------|
+|||-|
 | V | V |   V   |
 | V | F |   F   |
 | F | V |   V   |
 | F | F |   V   |
 
----
+
 
 ## 5. Limitações
 
 Na lógica tradicional, se uma contradição é aceita (por exemplo, P e ¬P são ambos verdadeiros), qualquer proposição pode ser deduzida como verdadeira (princípio da explosão). Por isso, ela não lida bem com inconsistências, o que motiva o estudo de lógicas alternativas, como a lógica paraconsistente.
 
----
+
 
 ## Conclusão
 
 A lógica tradicional fornece um arcabouço sólido para o raciocínio dedutivo, sendo fundamental para a matemática, ciência e filosofia. Seus exemplos de proposições e deduções ilustram como o raciocínio formal é estruturado, servindo de base para o entendimento de sistemas lógicos mais avançados, como a lógica paraconsistente.
-```
+

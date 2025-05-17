@@ -3,7 +3,7 @@
 
 A tomada de decisão sob incerteza é um dos grandes desafios em diversas áreas do conhecimento, especialmente quando as informações disponíveis são contraditórias, incompletas ou ambíguas. A lógica paraconsistente surge como uma poderosa ferramenta para lidar com essas situações, permitindo que sistemas e agentes tomem decisões racionais mesmo diante de inconsistências. A seguir, apresentamos estudos de caso que ilustram a aplicação prática da lógica paraconsistente em processos de tomada de decisão sob incerteza.
 
----
+
 
 ## 1. Diagnóstico Médico Assistido por Computador
 
@@ -21,7 +21,7 @@ Utilizando a **Lógica Paraconsistente Anotada (LPA)**, sistemas de apoio à dec
 
 A LPA permite atribuir graus de crença e descrença a cada informação, possibilitando que o sistema apresente ao médico um diagnóstico ponderado, indicando o nível de certeza e incerteza associado a cada hipótese. Assim, o profissional pode tomar decisões mais informadas, considerando explicitamente as contradições presentes nos dados.
 
----
+
 
 ## 2. Gerenciamento de Bancos de Dados Inconsistentes
 
@@ -39,7 +39,7 @@ A lógica paraconsistente permite que consultas e análises sejam realizadas mes
 
 Essa abordagem reduz o tempo de resposta e aumenta a robustez dos sistemas de informação, tornando-os mais tolerantes a falhas e inconsistências inevitáveis em ambientes reais.
 
----
+
 
 ## 3. Sistemas de Inteligência Artificial para Tomada de Decisão em Ambientes Dinâmicos
 
@@ -57,7 +57,7 @@ Ao empregar lógica paraconsistente, esses agentes podem:
 
 Por exemplo, um robô de resgate pode receber sinais conflitantes sobre a localização de vítimas em um prédio. Utilizando lógica paraconsistente, ele pode planejar rotas que maximizem a chance de sucesso, levando em conta tanto as informações confirmadas quanto as contraditórias, e adaptando sua estratégia conforme novas evidências surgem.
 
----
+
 
 ## 4. Resolução de Conflitos em Sistemas de Apoio à Decisão Empresarial
 
@@ -75,7 +75,7 @@ Sistemas de apoio à decisão baseados em lógica paraconsistente podem:
 
 Essa abordagem favorece decisões mais equilibradas e transparentes, reduzindo o risco de escolhas precipitadas ou baseadas em informações parciais.
 
----
+
 
 ## Considerações Finais
 
@@ -84,11 +84,11 @@ Os estudos de caso apresentados demonstram que a lógica paraconsistente oferece
 **Sugestão de Projeto:**  
 Desenvolva um protótipo de sistema de apoio à decisão (por exemplo, para diagnóstico médico ou análise de crédito) que utilize lógica paraconsistente para lidar com informações contraditórias. Avalie o desempenho do sistema em cenários simulados com diferentes níveis de inconsistência e compare os resultados com abordagens tradicionais.
 
----
+
 
 **Leituras recomendadas:**
 - **"Lógica Paraconsistente: Teoria e Aplicações"** – Walter Carnielli & João Marcos
 - **"Paraconsistent Logic: Consistency, Contradiction and Negation"** – Koji Tanaka et al.
 - **"Paraconsistent Reasoning in Information and Database Systems"** – Jan Maluszynski et al.
 
-```
+

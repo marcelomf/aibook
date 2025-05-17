@@ -7,7 +7,7 @@ Sistemas de monitoramento ambiental são essenciais para a coleta, análise e in
 
 A lógica clássica, tradicionalmente utilizada em sistemas computacionais, não lida bem com contradições: a presença de dados conflitantes pode levar a conclusões inválidas ou à necessidade de descartar informações potencialmente úteis. A lógica paraconsistente, por outro lado, permite tratar contradições de forma controlada, extraindo conhecimento útil mesmo diante de inconsistências. Este estudo de caso explora como a lógica paraconsistente pode ser aplicada para aprimorar a confiabilidade e a utilidade dos sistemas de monitoramento ambiental.
 
----
+
 
 ## Contexto do Problema
 
@@ -21,7 +21,7 @@ Em determinados momentos, alguns sensores podem apresentar leituras contraditór
 
 Na lógica clássica, a presença dessas contradições pode levar à rejeição de todos os dados conflitantes ou à adoção de uma média simples, o que pode mascarar situações críticas ou gerar alarmes falsos.
 
----
+
 
 ## Aplicação da Lógica Paraconsistente
 
@@ -58,7 +58,7 @@ O sistema, então, reconhece a existência de uma contradição (μ ≈ λ) e po
 - **Transparência:** As decisões são baseadas em graus de evidência, permitindo justificar alertas ou recomendações.
 - **Aproveitamento máximo dos dados:** Informações contraditórias não são descartadas automaticamente, mas analisadas de forma criteriosa.
 
----
+
 
 ## Discussão
 
@@ -72,11 +72,10 @@ A aplicação da lógica paraconsistente em sistemas de monitoramento ambiental 
 4. **Quais desafios técnicos e computacionais podem surgir na implementação de sistemas paraconsistentes em larga escala?**
 5. **Como comunicar ao público e aos gestores as decisões tomadas com base em raciocínio paraconsistente, especialmente quando há incerteza ou contradição nos dados?**
 
----
+
 
 ## Conclusão
 
 A lógica paraconsistente oferece uma poderosa ferramenta para lidar com a complexidade e a incerteza dos sistemas de monitoramento ambiental. Ao permitir o tratamento controlado de contradições, contribui para a construção de sistemas mais robustos, transparentes e confiáveis, essenciais para a gestão ambiental e a tomada de decisões informadas.
 
----
-```
+

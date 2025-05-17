@@ -32,4 +32,4 @@ A adoção da Lógica Paraconsistente na metodologia científica representa um a
 ## Considerações Finais
 
 A Lógica Paraconsistente não substitui a lógica clássica, mas a complementa, oferecendo ferramentas para lidar com situações em que a consistência absoluta não é possível ou desejável. Seu impacto na metodologia científica e na construção de modelos científicos é cada vez mais reconhecido, especialmente em um mundo onde a complexidade e a quantidade de informações desafiam os métodos tradicionais de análise e validação. Ao permitir o tratamento controlado de contradições, a lógica paraconsistente contribui para uma ciência mais flexível, adaptativa e próxima da realidade dos fenômenos estudados.
-```
+

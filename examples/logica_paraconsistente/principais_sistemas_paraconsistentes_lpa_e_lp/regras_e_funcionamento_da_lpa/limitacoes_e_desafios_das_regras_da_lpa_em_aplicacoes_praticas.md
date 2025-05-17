@@ -51,7 +51,7 @@ A verificação formal dos resultados produzidos por sistemas baseados em LPA po
 - **Desafio:** Garantir que as conclusões obtidas sejam corretas e justificáveis, mesmo diante de inconsistências.
 - **Limitação:** A dificuldade de validação pode limitar o uso da LPA em aplicações críticas, como sistemas de segurança ou saúde.
 
----
+
 
 ## **Considerações Finais**
 

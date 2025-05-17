@@ -2,7 +2,7 @@
 
 A integração da lógica paraconsistente em linguagens de programação representa um avanço significativo para o desenvolvimento de sistemas capazes de lidar com informações contraditórias de maneira controlada e produtiva. Este tópico é especialmente relevante em áreas como inteligência artificial, bancos de dados, sistemas especialistas e aplicações que exigem tolerância a inconsistências. A seguir, exploramos os principais conceitos, desafios e exemplos práticos dessa integração.
 
----
+___
 
 ## 1. **Motivação para a Integração**
 
@@ -10,7 +10,7 @@ A lógica clássica, base da maioria das linguagens de programação tradicionai
 
 A lógica paraconsistente oferece uma alternativa robusta, permitindo que programas continuem operando mesmo diante de contradições, sem comprometer a integridade do sistema como um todo.
 
----
+___
 
 ## 2. **Abordagens para Integração**
 
@@ -33,7 +33,7 @@ Outra abordagem é o desenvolvimento de linguagens de programação dedicadas, p
 
 A Lógica Paraconsistente Anotada (LPA) inspira a criação de sistemas de tipos ou anotações em linguagens de programação, permitindo que variáveis, funções ou estruturas de dados carreguem informações sobre o grau de certeza, falsidade ou inconsistência associado a cada valor.
 
----
+___
 
 ## 3. **Exemplos Práticos**
 
@@ -49,7 +49,7 @@ Sistemas especialistas baseados em lógica paraconsistente podem tomar decisões
 
 Em ambientes multiagentes, onde diferentes agentes podem fornecer informações contraditórias, a lógica paraconsistente permite que o sistema global continue funcionando, avaliando e ponderando as diferentes fontes de informação.
 
----
+___
 
 ## 4. **Desafios e Perspectivas**
 
@@ -65,7 +65,7 @@ Ainda não há um padrão amplamente aceito para a integração da lógica parac
 
 O desenvolvimento de ferramentas, como depuradores e analisadores de código, adaptados à lógica paraconsistente, é fundamental para facilitar o uso prático dessas abordagens.
 
----
+___
 
 ## 5. **Exemplo Ilustrativo: Paraconsistent Prolog**
 
@@ -84,19 +84,19 @@ esta_umido(Dia) :- -nao_chove(Dia).
 
 Neste exemplo, mesmo com a presença de fatos contraditórios (`chove(hoje)` e `-nao_chove(hoje)`), o sistema pode inferir `esta_umido(hoje)` sem tornar todo o sistema trivial.
 
----
+___
 
 ## 6. **Conclusão**
 
 A integração da lógica paraconsistente em linguagens de programação é uma fronteira promissora para o desenvolvimento de sistemas mais robustos, flexíveis e tolerantes a inconsistências. Embora ainda existam desafios técnicos e conceituais, os avanços recentes apontam para um futuro em que a manipulação de contradições será uma característica nativa e essencial em muitas aplicações computacionais.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*.
 - Subrahmanian, V. S. (1994). Paraconsistent logic programming. *Theoretical Computer Science*.
 
----
+___
 
 **Exercício:**  
 Pesquise uma biblioteca ou framework que implemente lógica paraconsistente em sua linguagem de programação favorita. Experimente criar um pequeno exemplo que lide com informações contraditórias e analise o comportamento do sistema.

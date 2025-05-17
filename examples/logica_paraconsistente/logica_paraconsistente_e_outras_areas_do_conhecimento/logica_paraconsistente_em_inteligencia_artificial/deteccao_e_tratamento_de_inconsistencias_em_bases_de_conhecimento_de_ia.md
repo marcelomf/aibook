@@ -71,9 +71,9 @@ Ao analisar textos de diferentes fontes, sistemas de IA podem encontrar afirmaç
 
 A detecção e o tratamento de inconsistências em bases de conhecimento são desafios centrais para a inteligência artificial moderna. A lógica paraconsistente oferece um arcabouço teórico e prático para enfrentar esses desafios, permitindo que sistemas inteligentes operem de forma confiável e transparente mesmo em ambientes complexos e contraditórios. Com o avanço das aplicações de IA, o uso de lógicas não clássicas como a paraconsistente tende a se tornar cada vez mais relevante e necessário.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

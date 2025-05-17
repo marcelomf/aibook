@@ -24,4 +24,4 @@ Além disso, a lógica paraconsistente contribui para debates filosóficos sobre
 ### Conclusão
 
 Em resumo, a lógica paraconsistente tem repercussões profundas nas discussões sobre verdade, validade e racionalidade. Ao desafiar os limites da lógica clássica, ela oferece novas perspectivas para lidar com a complexidade do mundo real, influenciando tanto a filosofia quanto a ciência. Seu impacto se reflete na maneira como entendemos a verdade em contextos contraditórios, redefinimos a validade dos argumentos e ampliamos o conceito de racionalidade para além das fronteiras da consistência absoluta.
-```
+

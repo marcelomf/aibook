@@ -75,7 +75,7 @@ Uma arquitetura de IA baseada em lógica paraconsistente geralmente inclui:
 
 Com o crescimento da IA explicável, da integração de dados heterogêneos e da necessidade de sistemas autônomos mais robustos, as arquiteturas baseadas em lógica paraconsistente tendem a ganhar espaço. Pesquisas atuais exploram a combinação de lógica paraconsistente com aprendizado de máquina, redes neurais e sistemas probabilísticos, ampliando ainda mais o potencial dessas abordagens.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -83,5 +83,4 @@ Com o crescimento da IA explicável, da integração de dados heterogêneos e da
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Cambridge University Press.
 - Abe, J. M., & Nakamatsu, K. (Eds.). (2016). *New Frontiers in Artificial Intelligence: JSAI-isAI 2015 Workshops*. Springer.
 
----
-```
+

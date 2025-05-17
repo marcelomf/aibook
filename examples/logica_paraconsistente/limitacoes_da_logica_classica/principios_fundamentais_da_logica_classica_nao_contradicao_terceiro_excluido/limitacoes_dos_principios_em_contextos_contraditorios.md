@@ -3,7 +3,7 @@
 
 A lógica clássica, base do raciocínio formal desde Aristóteles, fundamenta-se em princípios como o da **não contradição** e o do **terceiro excluído**. Esses princípios são essenciais para a construção de sistemas dedutivos robustos e para a garantia de consistência em argumentos matemáticos, filosóficos e científicos. No entanto, quando aplicados a contextos onde informações contraditórias estão presentes, esses princípios revelam limitações significativas. Este tópico explora essas limitações, destacando a necessidade de abordagens alternativas, como a lógica paraconsistente.
 
----
+
 
 ## Princípios Fundamentais da Lógica Clássica
 
@@ -14,7 +14,7 @@ Antes de discutir suas limitações, é importante relembrar os dois princípios
 
 Esses princípios garantem que o raciocínio clássico seja **bivalente** (apenas dois valores de verdade: verdadeiro ou falso) e **explosivo** (qualquer contradição leva à trivialidade do sistema).
 
----
+
 
 ## Limitações em Contextos Contraditórios
 
@@ -30,7 +30,7 @@ Se um banco de dados contém as informações "João está presente" e "João n�
 **Consequência:**  
 Em sistemas reais, como bancos de dados, sistemas de informação ou inteligência artificial, contradições podem surgir devido a erros, atualizações concorrentes ou informações incompletas. Se a lógica clássica for aplicada rigidamente, todo o sistema se torna inútil diante de uma única contradição.
 
----
+
 
 ### 2. **Dificuldade em Lidar com Inconsistências Práticas**
 
@@ -42,7 +42,7 @@ Na vida real, informações contraditórias são comuns:
 
 A lógica clássica exige que todas as inconsistências sejam eliminadas antes do raciocínio, o que nem sempre é possível ou desejável. Isso limita sua aplicabilidade em ambientes dinâmicos e complexos.
 
----
+
 
 ### 3. **Rigidez do Terceiro Excluído**
 
@@ -51,7 +51,7 @@ O princípio do terceiro excluído não permite estados intermediários ou indef
 **Exemplo:**  
 Se não há informação suficiente para afirmar "O paciente tem febre" nem "O paciente não tem febre", a lógica clássica não oferece uma forma natural de representar essa situação.
 
----
+
 
 ### 4. **Impossibilidade de Raciocínio Tolerante à Contradição**
 
@@ -60,17 +60,16 @@ A lógica clássica não distingue entre contradições locais (restritas a um s
 **Exemplo:**  
 Em um sistema de tomada de decisão, pode ser aceitável ignorar ou isolar contradições em partes específicas dos dados, sem comprometer o restante do sistema. A lógica clássica não permite essa flexibilidade.
 
----
+
 
 ## Caminhos Alternativos
 
 Devido a essas limitações, surgiram sistemas lógicos alternativos, como a **lógica paraconsistente**, que permitem lidar com contradições de forma controlada, sem que o sistema se torne trivial. Esses sistemas relaxam ou modificam os princípios clássicos, possibilitando raciocínio útil mesmo na presença de inconsistências.
 
----
+
 
 ## Conclusão
 
 Os princípios da lógica clássica são poderosos, mas apresentam limitações importantes em contextos contraditórios. Em um mundo repleto de informações imperfeitas, inconsistentes e ambíguas, é fundamental considerar abordagens lógicas mais flexíveis, como a lógica paraconsistente, para garantir a robustez e utilidade dos sistemas de raciocínio.
 
----
-```
+

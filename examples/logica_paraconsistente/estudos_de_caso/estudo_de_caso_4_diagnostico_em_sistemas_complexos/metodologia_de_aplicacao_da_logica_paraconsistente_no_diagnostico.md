@@ -7,7 +7,7 @@ O diagnóstico de sistemas complexos — como redes elétricas, plantas industri
 
 A seguir, apresentamos uma metodologia estruturada para a aplicação da lógica paraconsistente no diagnóstico de sistemas complexos.
 
----
+___
 
 ## 1. **Coleta e Representação das Informações**
 
@@ -18,7 +18,7 @@ O primeiro passo consiste na coleta de dados provenientes de sensores, relatóri
 - Sensor B: "Temperatura normal" (Certeza média)  
 - Relatório de operador: "Possível falha no sensor A" (Dúvida)
 
----
+___
 
 ## 2. **Modelagem do Sistema Diagnóstico**
 
@@ -28,7 +28,7 @@ O sistema a ser diagnosticado é modelado em termos de suas variáveis, estados 
 - Regra 1: Se temperatura acima do normal, então risco de superaquecimento.  
 - Regra 2: Se sensores discordam, avaliar confiabilidade dos sensores.
 
----
+___
 
 ## 3. **Aplicação das Regras Paraconsistentes**
 
@@ -40,7 +40,7 @@ As informações coletadas são processadas segundo as regras do sistema paracon
   - Evidência contrária: Sensor B (média certeza)  
   - Grau de contradição: Médio
 
----
+___
 
 ## 4. **Análise dos Resultados e Tomada de Decisão**
 
@@ -52,13 +52,13 @@ Com base nos graus de certeza, dúvida e contradição obtidos, o sistema de dia
 
 A decisão final pode ser tomada automaticamente pelo sistema ou apresentada a um especialista, que poderá considerar as nuances do raciocínio paraconsistente para uma avaliação mais informada.
 
----
+___
 
 ## 5. **Retroalimentação e Aprimoramento**
 
 O processo diagnóstico pode ser retroalimentado com novos dados ou revisões das regras, permitindo o aprimoramento contínuo do sistema. A lógica paraconsistente facilita a identificação de pontos críticos de contradição, orientando a coleta de dados adicionais ou a revisão de sensores e procedimentos.
 
----
+___
 
 ## **Vantagens da Metodologia Paraconsistente**
 
@@ -67,7 +67,7 @@ O processo diagnóstico pode ser retroalimentado com novos dados ou revisões da
 - **Flexibilidade:** Permite a integração de múltiplas fontes de informação, inclusive aquelas de confiabilidade variável.
 - **Aprimoramento contínuo:** Facilita a identificação de falhas em sensores, regras ou processos, promovendo a melhoria do sistema diagnóstico.
 
----
+___
 
 ## **Exemplo Prático: Diagnóstico em uma Planta Industrial**
 
@@ -78,11 +78,10 @@ Aplicando a metodologia paraconsistente:
 - O sistema processa as regras diagnósticas, identificando a hipótese de "vazamento iminente" como suportada, mas com contradição moderada.
 - O resultado é apresentado ao engenheiro responsável, que pode decidir por uma inspeção preventiva, mesmo diante da incerteza, minimizando riscos.
 
----
+___
 
 ## **Conclusão**
 
 A aplicação da lógica paraconsistente no diagnóstico de sistemas complexos representa um avanço significativo em relação aos métodos tradicionais, especialmente em ambientes onde a contradição e a incerteza são inerentes. Ao permitir a análise controlada de informações conflitantes, essa abordagem contribui para diagnósticos mais robustos, transparentes e confiáveis, promovendo a segurança e a eficiência operacional.
 
----
-```
+

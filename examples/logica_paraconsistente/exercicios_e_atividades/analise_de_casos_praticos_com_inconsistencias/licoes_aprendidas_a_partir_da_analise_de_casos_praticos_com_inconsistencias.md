@@ -2,7 +2,7 @@
 
 A análise de casos práticos envolvendo inconsistências é fundamental para compreender o real potencial e as limitações da Lógica Paraconsistente. Ao aplicar os conceitos teóricos em situações concretas, é possível extrair lições valiosas que orientam tanto o desenvolvimento de sistemas quanto a tomada de decisões em ambientes complexos e incertos. A seguir, destacam-se as principais lições aprendidas a partir da análise desses casos.
 
----
+
 
 ## 1. **A Importância de Reconhecer e Tratar Contradições**
 
@@ -11,7 +11,7 @@ Em muitos contextos, especialmente em bancos de dados, sistemas de informação 
 **Lição:**  
 Reconhecer a existência de contradições e adotar ferramentas adequadas para seu tratamento é essencial para garantir a robustez e a utilidade dos sistemas de informação.
 
----
+
 
 ## 2. **Flexibilidade na Tomada de Decisão**
 
@@ -20,7 +20,7 @@ A aplicação da lógica paraconsistente em sistemas de apoio à decisão mostro
 **Lição:**  
 A flexibilidade proporcionada pela lógica paraconsistente amplia as possibilidades de análise e decisão, especialmente em ambientes dinâmicos e incertos.
 
----
+
 
 ## 3. **Valorização do Contexto e da Anotação**
 
@@ -29,7 +29,7 @@ Casos práticos demonstram que o contexto em que a informação está inserida e
 **Lição:**  
 A anotação e o contexto são elementos-chave para o tratamento eficaz de inconsistências, permitindo análises mais refinadas e decisões mais informadas.
 
----
+
 
 ## 4. **Prevenção de Perdas de Informação**
 
@@ -38,7 +38,7 @@ Em abordagens tradicionais, a presença de inconsistências frequentemente leva 
 **Lição:**  
 A lógica paraconsistente contribui para a preservação da informação, mesmo quando ela é contraditória, o que pode ser crucial em aplicações críticas.
 
----
+
 
 ## 5. **Desafios na Implementação e Interpretação**
 
@@ -47,7 +47,7 @@ Apesar das vantagens, a análise de casos práticos também revela desafios, com
 **Lição:**  
 É fundamental investir em capacitação e no desenvolvimento de ferramentas que facilitem a implementação e o uso da lógica paraconsistente, bem como estabelecer critérios claros para o tratamento de inconsistências.
 
----
+
 
 ## 6. **Integração com Outras Abordagens**
 
@@ -56,7 +56,7 @@ Em muitos casos, a lógica paraconsistente é utilizada em conjunto com outras t
 **Lição:**  
 A lógica paraconsistente é ainda mais poderosa quando integrada a outras abordagens, ampliando o espectro de problemas que podem ser tratados de forma eficaz.
 
----
+
 
 ## 7. **Impacto na Qualidade dos Resultados**
 
@@ -65,7 +65,7 @@ Por fim, a análise de casos práticos evidencia que o uso da lógica paraconsis
 **Lição:**  
 A adoção da lógica paraconsistente pode ser um diferencial competitivo, agregando valor aos sistemas e processos que dependem de informações complexas e, por vezes, contraditórias.
 
----
+
 
 ## **Conclusão**
 

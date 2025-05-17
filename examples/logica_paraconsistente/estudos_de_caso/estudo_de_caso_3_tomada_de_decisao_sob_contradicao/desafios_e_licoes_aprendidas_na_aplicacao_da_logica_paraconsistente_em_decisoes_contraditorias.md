@@ -5,7 +5,7 @@
 
 A tomada de decisão em ambientes onde informações contraditórias coexistem é um dos grandes desafios enfrentados por sistemas computacionais, organizações e até mesmo por indivíduos. A lógica clássica, que fundamenta a maior parte dos sistemas tradicionais de raciocínio, não oferece mecanismos adequados para lidar com contradições: uma vez que uma contradição é detectada, todo o sistema pode se tornar trivial, permitindo que qualquer conclusão seja derivada (o chamado princípio da explosão). A lógica paraconsistente surge como uma alternativa robusta para enfrentar esse cenário, permitindo que decisões sejam tomadas mesmo diante de inconsistências. No entanto, sua aplicação prática traz desafios e lições importantes, que discutiremos a seguir.
 
----
+___
 
 ## Principais Desafios
 
@@ -24,7 +24,7 @@ Os resultados produzidos por sistemas baseados em lógica paraconsistente podem 
 ### 5. **Integração com Sistemas Legados**
 Muitos ambientes de decisão já contam com sistemas baseados em lógica clássica. Integrar abordagens paraconsistentes a esses sistemas pode ser desafiador, exigindo adaptações tanto na infraestrutura quanto nos processos de tomada de decisão.
 
----
+___
 
 ## Lições Aprendidas
 
@@ -43,9 +43,9 @@ A adoção da lógica paraconsistente em processos de decisão requer um esforç
 ### 5. **Potencial para Inovação**
 Apesar dos desafios, a aplicação da lógica paraconsistente abre novas possibilidades para a inovação em áreas como inteligência artificial, análise de dados e sistemas de apoio à decisão. Ao permitir a convivência controlada com contradições, esses sistemas tornam-se mais robustos e adaptáveis a ambientes complexos e dinâmicos.
 
----
+___
 
 ## Considerações Finais
 
 A aplicação da lógica paraconsistente em decisões contraditórias representa um avanço significativo em relação às abordagens tradicionais, especialmente em contextos onde a inconsistência é inevitável. Os desafios enfrentados são superáveis com uma combinação de modelagem adequada, critérios claros de decisão, transparência e educação dos usuários. As lições aprendidas até o momento indicam que, com o amadurecimento das ferramentas e metodologias, a lógica paraconsistente tende a se consolidar como um recurso indispensável para a tomada de decisão em ambientes complexos e incertos.
-```
+

@@ -57,7 +57,7 @@ O OATD reúne teses e dissertações de acesso aberto de diversas instituições
 - **“Aplicações de Lógicas Paraconsistentes em Inteligência Artificial”** – Tese de doutorado, USP.
 - **“Paraconsistent Logics and their Applications”** – Tese de doutorado, University of Melbourne (em inglês).
 
----
+
 
 Explorar teses e dissertações é uma excelente forma de se atualizar sobre os avanços e tendências em lógica paraconsistente, além de encontrar aplicações práticas e discussões teóricas aprofundadas. Utilize as fontes e estratégias acima para enriquecer sua pesquisa e expandir seu conhecimento na área.
-```
+

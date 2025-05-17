@@ -3,7 +3,7 @@
 
 A robustez é uma característica fundamental em sistemas autônomos, especialmente quando estes operam em ambientes dinâmicos e sujeitos a informações contraditórias ou incertas. A Lógica Paraconsistente oferece ferramentas teóricas e práticas para que tais sistemas possam lidar com inconsistências sem comprometer sua funcionalidade. Nesta seção, propomos exercícios e atividades que visam avaliar e aprimorar a robustez de sistemas autônomos utilizando lógica paraconsistente.
 
----
+
 
 ## 1. **Análise de Cenários Contraditórios**
 
@@ -19,7 +19,7 @@ a) Modele a situação utilizando uma Lógica Paraconsistente Anotada (LPA), atr
 b) Proponha uma estratégia de decisão para o robô, justificando como a lógica paraconsistente evita decisões triviais ou perigosas.  
 c) Discuta como a abordagem paraconsistente pode ser ajustada para diferentes níveis de tolerância a inconsistências.
 
----
+
 
 ## 2. **Simulação de Falhas em Sistemas Multiagentes**
 
@@ -32,7 +32,7 @@ b) Utilize um sistema paraconsistente para processar essas informações e gerar
 c) Avalie a robustez do sistema ao variar a porcentagem de agentes com leituras conflitantes.  
 d) Proponha métricas para quantificar a robustez do sistema diante de inconsistências.
 
----
+
 
 ## 3. **Avaliação de Robustez em Diagnóstico Médico Automatizado**
 
@@ -45,7 +45,7 @@ b) Aplique a lógica paraconsistente para integrar as informações e gerar uma 
 c) Analise como o sistema responde a diferentes graus de contradição e como isso afeta a robustez do diagnóstico.  
 d) Sugira melhorias no sistema para aumentar sua confiabilidade diante de informações conflitantes.
 
----
+
 
 ## 4. **Estudo de Caso: Veículo Autônomo em Ambiente Urbano**
 
@@ -58,7 +58,7 @@ b) Proponha um algoritmo de decisão que maximize a segurança e a eficiência d
 c) Simule diferentes cenários de inconsistência e avalie a robustez do sistema em cada caso.  
 d) Discuta os limites da abordagem paraconsistente e possíveis integrações com outras técnicas de IA.
 
----
+
 
 ## 5. **Reflexão e Discussão**
 
@@ -67,7 +67,7 @@ d) Discuta os limites da abordagem paraconsistente e possíveis integrações co
 - Em que situações a lógica paraconsistente pode não ser suficiente para garantir a robustez desejada?
 - Como a integração de lógica paraconsistente com métodos probabilísticos pode aprimorar a tomada de decisão em sistemas autônomos?
 
----
+
 
 ## **Sugestões de Leitura Complementar**
 
@@ -75,7 +75,7 @@ d) Discuta os limites da abordagem paraconsistente e possíveis integrações co
 - **da Costa, N. C. A. (1974).** "On the Theory of Inconsistent Formal Systems." *Notre Dame Journal of Formal Logic*.
 - **Carnielli, W. A., Coniglio, M. E. (2016).** *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
+
 
 Esses exercícios visam não apenas consolidar o entendimento teórico da lógica paraconsistente, mas também desenvolver habilidades práticas para projetar, analisar e aprimorar sistemas autônomos robustos em ambientes reais e desafiadores.
-```
+

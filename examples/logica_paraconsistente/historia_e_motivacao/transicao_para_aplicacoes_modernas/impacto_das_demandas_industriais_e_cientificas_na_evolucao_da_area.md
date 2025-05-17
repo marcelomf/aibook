@@ -35,7 +35,7 @@ O interesse prático motivou avanços teóricos significativos, como o desenvolv
 
 Com a intensificação da digitalização e a explosão de dados, espera-se que a Lógica Paraconsistente desempenhe um papel ainda mais central em áreas como big data, internet das coisas (IoT) e sistemas autônomos. A capacidade de lidar com contradições de forma controlada será cada vez mais essencial para garantir a robustez, a confiabilidade e a inteligência dos sistemas modernos.
 
----
+___
 
 **Em resumo**, as demandas industriais e científicas foram e continuam sendo motores fundamentais para a evolução da Lógica Paraconsistente, transformando-a de um campo teórico em uma ferramenta indispensável para a solução de problemas complexos e reais.
-```
+

@@ -77,7 +77,7 @@ No entanto, com o avanço das pesquisas e o aumento da complexidade dos sistemas
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993).** Paraconsistent Logics: Consistency, Contradiction and Negation. *Notre Dame Journal of Formal Logic*.
 - **Santos, A. S., & Abe, J. M. (2010).** Lógica Paraconsistente Anotada: Teoria e Aplicações. *Editora Livraria da Física*.
 
----
+___
 
 Os algoritmos paraconsistentes representam uma abordagem inovadora e promissora para o apoio à decisão em cenários onde a contradição é inevitável, promovendo decisões mais informadas, transparentes e confiáveis.
-```
+

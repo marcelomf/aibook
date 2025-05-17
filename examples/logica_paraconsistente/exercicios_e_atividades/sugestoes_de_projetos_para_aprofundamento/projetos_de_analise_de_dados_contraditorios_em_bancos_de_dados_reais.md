@@ -74,7 +74,7 @@ Projetos de análise de dados contraditórios podem ter como objetivos:
 
 > **Desafio:** Escolha um dataset público (por exemplo, [Kaggle](https://www.kaggle.com/datasets)) e implemente um pipeline de identificação e análise de contradições, utilizando conceitos de lógica paraconsistente. Documente o processo, os resultados e proponha melhorias para a qualidade dos dados.
 
----
+
 
 A análise de dados contraditórios com o apoio da Lógica Paraconsistente representa uma fronteira inovadora na ciência de dados, promovendo soluções mais robustas e realistas para os desafios do mundo real.
-```
+

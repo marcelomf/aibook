@@ -60,7 +60,7 @@ Tendências atuais incluem o desenvolvimento de **lógicas híbridas** e **frame
 
 A aplicação conjunta de lógicas não clássicas representa uma fronteira promissora para o desenvolvimento de sistemas complexos, capazes de operar de forma eficiente e confiável em ambientes repletos de incertezas, contradições e mudanças. O estudo e a prática dessa integração são fundamentais para avanços em áreas como inteligência artificial, ciência de dados, automação e sistemas de apoio à decisão.
 
----
+
 
 **Sugestão de exercício:**  
 Pesquise um caso real de sistema complexo (por exemplo, um sistema de recomendação, um sistema de monitoramento ambiental ou um assistente virtual) e identifique quais lógicas não clássicas poderiam ser aplicadas em conjunto para melhorar seu desempenho diante de incertezas e contradições.

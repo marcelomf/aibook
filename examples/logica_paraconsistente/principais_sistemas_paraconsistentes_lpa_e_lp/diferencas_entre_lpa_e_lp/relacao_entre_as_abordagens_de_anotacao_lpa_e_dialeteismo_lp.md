@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente é um campo dinâmico que abriga diferentes sistemas e abordagens para lidar com contradições de maneira controlada. Entre os sistemas mais estudados e aplicados estão a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**, também conhecida como Lógica Paraconsistente de Priest. Cada uma dessas abordagens possui fundamentos filosóficos e operacionais distintos, mas ambas compartilham o objetivo de evitar a explosão lógica diante de contradições. Neste tópico, exploramos a relação entre as abordagens de anotação (LPA) e dialeteísmo (LP), destacando suas diferenças, semelhanças e complementaridades.
 
----
+
 
 ## Lógica Paraconsistente Anotada (LPA): Abordagem de Anotação
 
@@ -20,7 +20,7 @@ Essas anotações permitem que o sistema registre e manipule informações contr
 - **Aplicabilidade**: Muito utilizada em sistemas de tomada de decisão, bancos de dados inconsistentes e inteligência artificial.
 - **Controle de Contradições**: As regras de inferência são adaptadas para evitar a explosão lógica, mesmo diante de contradições explícitas.
 
----
+
 
 ## Lógica de Priest (LP): Abordagem Dialeteísta
 
@@ -34,7 +34,7 @@ Na LP, a negação clássica é reinterpretada, e as regras de inferência são 
 - **Fundamento Filosófico**: Oferece uma base para discutir paradoxos e situações em que contradições parecem inevitáveis (como o paradoxo do mentiroso).
 - **Aplicações em Filosofia e Teoria da Computação**: Útil para modelar sistemas onde contradições são inerentes e não podem ser simplesmente descartadas.
 
----
+
 
 ## Relação e Comparação entre LPA e LP
 
@@ -46,7 +46,7 @@ Na LP, a negação clássica é reinterpretada, e as regras de inferência são 
 ### Diferenças Fundamentais
 
 | Aspecto                | LPA (Anotação)                                   | LP (Dialeteísmo)                                 |
-|------------------------|--------------------------------------------------|--------------------------------------------------|
+||--|--|
 | **Representação**      | Graus de evidência (μ, λ)                        | Aceitação de proposições verdadeiras e falsas    |
 | **Foco**               | Quantificação da incerteza e inconsistência      | Aceitação filosófica de contradições verdadeiras |
 | **Aplicações**         | Engenharia, IA, bancos de dados, decisão         | Filosofia, teoria dos paradoxos, computação      |
@@ -57,16 +57,16 @@ Na LP, a negação clássica é reinterpretada, e as regras de inferência são 
 
 Apesar das diferenças, as duas abordagens podem ser vistas como **complementares** em certos contextos. Por exemplo, sistemas baseados em LPA podem ser usados para quantificar e gerenciar o grau de contradição, enquanto a LP pode fornecer uma base filosófica para aceitar a coexistência de contradições em determinados domínios.
 
----
+
 
 ## Conclusão
 
 A relação entre as abordagens de anotação (LPA) e dialeteísmo (LP) ilustra a riqueza e diversidade da lógica paraconsistente. Enquanto a LPA oferece ferramentas quantitativas para lidar com incerteza e inconsistência, a LP propõe uma reinterpretação filosófica da verdade diante de contradições. Ambas contribuem de maneira significativa para o avanço do raciocínio não clássico, ampliando as possibilidades de modelagem e resolução de problemas em áreas como ciência da computação, inteligência artificial, filosofia e matemática.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli & João Marcos, "On the Philosophy and Mathematics of Paraconsistency"
-```
+

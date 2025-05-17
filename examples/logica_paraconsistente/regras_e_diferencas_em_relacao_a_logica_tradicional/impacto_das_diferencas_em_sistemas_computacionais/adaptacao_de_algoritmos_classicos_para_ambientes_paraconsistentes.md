@@ -57,10 +57,10 @@ Algoritmos de classificação e clustering podem ser adaptados para reconhecer e
 
 A adaptação de algoritmos clássicos para ambientes paraconsistentes é uma etapa fundamental para o desenvolvimento de sistemas computacionais capazes de operar em cenários complexos e realistas, onde a inconsistência é inevitável. Embora envolva desafios técnicos e conceituais, os benefícios em termos de robustez, transparência e flexibilidade justificam o investimento em pesquisa e desenvolvimento nessa área.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
-```
+

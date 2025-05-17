@@ -31,11 +31,11 @@ Esses primeiros experimentos computacionais foram essenciais para consolidar a l
 
 Atualmente, a lógica paraconsistente é utilizada em aplicações que vão desde a integração de grandes bases de dados heterogêneas até sistemas de tomada de decisão autônoma, mostrando que os experimentos pioneiros foram fundamentais para a evolução dessa área.
 
----
+___
 
 **Referências:**
 
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. *Notre Dame Journal of Formal Logic*, 34(4), 573-579.
 - Carnielli, W. A., Coniglio, M. E., & Marcos, J. (2007). Logics of formal inconsistency. In *Handbook of Philosophical Logic* (pp. 1-93). Springer.
 - Abe, J. M., & Nakamatsu, K. (2016). *Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency*. Springer.
-```
+

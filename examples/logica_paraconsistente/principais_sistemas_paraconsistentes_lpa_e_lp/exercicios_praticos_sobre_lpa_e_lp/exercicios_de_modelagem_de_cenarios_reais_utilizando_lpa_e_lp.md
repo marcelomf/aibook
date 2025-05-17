@@ -3,7 +3,7 @@
 
 A aplicação da Lógica Paraconsistente Anotada (LPA) e da Lógica de Priest (LP) em cenários reais é fundamental para compreender como essas abordagens podem lidar com informações contraditórias de maneira controlada e produtiva. A seguir, apresentamos exercícios práticos que envolvem a modelagem de situações do cotidiano e de áreas técnicas, utilizando os principais conceitos dessas lógicas.
 
----
+
 
 ## 1. Introdução
 
@@ -11,7 +11,7 @@ A Lógica Paraconsistente permite que sistemas de raciocínio operem mesmo diant
 
 Os exercícios a seguir têm como objetivo estimular a modelagem de cenários reais, promovendo o entendimento prático das diferenças e potencialidades de cada sistema.
 
----
+
 
 ## 2. Exercícios Práticos
 
@@ -30,7 +30,7 @@ Um paciente realiza dois exames laboratoriais para detectar uma doença. O exame
 - Exame B: (Grau de certeza = 0.4, Grau de contradição = 0.6)
 - A LPA permite combinar essas informações, resultando em uma avaliação global que reflete a incerteza e a contradição presentes, orientando o médico a considerar exames adicionais ou monitoramento.
 
----
+
 
 ### Exercício 2: Banco de Dados Inconsistente (LP)
 
@@ -51,7 +51,7 @@ Em um banco de dados de clientes, há registros conflitantes sobre o endereço d
 - Ambos podem ser verdadeiros simultaneamente, sem que isso implique que qualquer proposição sobre o endereço seja verdadeira.
 - Isso permite que o sistema continue operando, sinalizando a inconsistência para posterior resolução, sem comprometer outras operações do banco de dados.
 
----
+
 
 ### Exercício 3: Sistema de Recomendação com Feedback Contraditório (LPA)
 
@@ -70,7 +70,7 @@ Um sistema de recomendação de filmes recebe avaliações contraditórias de um
 - Avaliação 2: (Certeza = 0.0, Contradição = 1.0)
 - O sistema pode calcular um grau intermediário de recomendação, sinalizando a contradição ao usuário ou solicitando esclarecimento.
 
----
+
 
 ### Exercício 4: Resolução de Conflitos em Informações de Sensores (LP)
 
@@ -88,13 +88,13 @@ Dois sensores de temperatura em uma fábrica fornecem leituras simultâneas:
 - Em LP, ambas as proposições podem ser consideradas verdadeiras.
 - O sistema pode operar em modo de alerta, coletando mais dados ou acionando protocolos de verificação, sem paralisar a produção.
 
----
+
 
 ## 3. Discussão
 
 Esses exercícios demonstram como a LPA e a LP podem ser aplicadas para modelar e tratar situações contraditórias em diferentes contextos. A LPA é especialmente útil quando se deseja quantificar graus de certeza e contradição, enquanto a LP é adequada para manter a operação de sistemas mesmo diante de inconsistências, sem recorrer à trivialidade.
 
----
+
 
 ## 4. Sugestões de Atividades Complementares
 
@@ -102,7 +102,7 @@ Esses exercícios demonstram como a LPA e a LP podem ser aplicadas para modelar 
 - Implemente pequenos protótipos computacionais que simulem a resolução de contradições com base nesses sistemas.
 - Compare os resultados obtidos com abordagens clássicas e discuta as diferenças.
 
----
+
 
 ## 5. Referências
 
@@ -110,7 +110,7 @@ Esses exercícios demonstram como a LPA e a LP podem ser aplicadas para modelar 
 - Priest, G. (2002). Paraconsistent Logic. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics.
 
----
+
 
 Esses exercícios são um ponto de partida para a compreensão prática da modelagem paraconsistente, incentivando o desenvolvimento de soluções inovadoras para problemas reais envolvendo informações contraditórias.
-```
+

@@ -39,19 +39,19 @@ A história da lógica paraconsistente é marcada pela atuação de diversos pes
 - **Meta-teoria e Generalização:** Béziau contribuiu para a compreensão meta-teórica das lógicas paraconsistentes, investigando suas propriedades e relações com outros sistemas lógicos não clássicos.
 - **Divulgação Internacional:** Atuou na promoção e internacionalização da pesquisa em lógica paraconsistente, organizando eventos e publicando trabalhos que conectam pesquisadores de diferentes países.
 
----
+___
 
 ## **Resumo das Contribuições**
 
 | Pioneiro            | Contribuição Principal                                      | Impacto                                   |
-|---------------------|------------------------------------------------------------|-------------------------------------------|
+|_____________________|____________________________________________________________|__________________________________________-|
 | Stanisław Jaśkowski | Lógica discursiva, controle de contextos                   | Fundamentos formais iniciais              |
 | Newton da Costa     | Sistemas C, formalização e aplicações                      | Consolidação e difusão do campo           |
 | Graham Priest       | Lógica da inconsistência, dialeteísmo                      | Aplicação filosófica e análise de paradoxos|
 | Nuel Belnap         | Lógica de quatro valores, FDE                              | Aplicações em computação e bancos de dados|
 | Jean-Yves Béziau    | Meta-teoria, divulgação internacional                      | Expansão e integração da área             |
 
----
+___
 
 A lógica paraconsistente, portanto, é resultado de um esforço coletivo e interdisciplinar, com cada pioneiro contribuindo de maneira única para sua fundamentação, formalização e aplicação em diferentes áreas do conhecimento.
-```
+

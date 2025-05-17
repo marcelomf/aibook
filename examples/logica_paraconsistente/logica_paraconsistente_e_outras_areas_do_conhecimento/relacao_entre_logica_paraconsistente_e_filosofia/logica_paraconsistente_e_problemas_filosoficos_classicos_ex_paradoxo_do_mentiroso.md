@@ -47,4 +47,4 @@ A lógica paraconsistente representa uma importante ponte entre a lógica formal
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 
-```
+

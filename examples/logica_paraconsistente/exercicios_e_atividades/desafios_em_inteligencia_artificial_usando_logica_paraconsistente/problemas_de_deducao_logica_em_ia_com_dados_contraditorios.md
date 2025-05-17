@@ -69,13 +69,13 @@ Utilizando lógica clássica, o que acontece?
 Como a lógica paraconsistente pode melhorar o resultado?  
 Implemente (ou descreva) uma solução que identifique a contradição e proponha uma ação adequada.
 
----
+
 
 ## Conclusão
 
 A dedução lógica em IA com dados contraditórios é um desafio real e recorrente. A lógica paraconsistente oferece ferramentas teóricas e práticas para que sistemas inteligentes possam operar de forma robusta, mesmo diante de inconsistências inevitáveis em ambientes complexos. Ao adotar abordagens paraconsistentes, a IA se torna mais confiável, transparente e útil em aplicações do mundo real.
 
----
+
 
 **Sugestão de leitura:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  

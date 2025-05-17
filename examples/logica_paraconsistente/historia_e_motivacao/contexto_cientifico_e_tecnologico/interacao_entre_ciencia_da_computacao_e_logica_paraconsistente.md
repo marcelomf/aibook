@@ -57,7 +57,7 @@ Apesar dos avanços, a integração da lógica paraconsistente na ciência da co
 
 No entanto, com o crescimento de sistemas autônomos, big data e inteligência artificial, a demanda por abordagens capazes de lidar com inconsistências só tende a aumentar, consolidando a lógica paraconsistente como uma ferramenta essencial para a ciência da computação contemporânea.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -65,6 +65,6 @@ No entanto, com o crescimento de sistemas autônomos, big data e inteligência a
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics in Knowledge Representation*. Artificial Intelligence, 61(2), 365-395.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 
----
+___
 
 A interação entre ciência da computação e lógica paraconsistente representa um dos campos mais promissores para o desenvolvimento de sistemas inteligentes, resilientes e adaptáveis, capazes de enfrentar os desafios do mundo real, onde a contradição é muitas vezes inevitável.

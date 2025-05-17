@@ -24,7 +24,7 @@ Em um banco de dados, se um registro indica que um produto está "em estoque" e 
 ## Comparação com a Lógica Clássica
 
 | Característica                | Lógica Clássica | LPA                        | LP                        |
-|-------------------------------|-----------------|----------------------------|---------------------------|
+|-|--|-||
 | Tolerância a contradições     | Não             | Sim                        | Sim                       |
 | Explosão lógica               | Sim             | Não                        | Não                       |
 | Representação de incerteza    | Limitada        | Sim (anotações)            | Parcial (valor "ambos")   |
@@ -49,8 +49,8 @@ A principal vantagem das lógicas paraconsistentes, especialmente LPA e LP, é a
 
 A adoção de lógicas paraconsistentes, como LPA e LP, representa um avanço significativo na modelagem de sistemas complexos, tornando-os mais **flexíveis, resilientes e realistas** diante da inevitável presença de contradições. Ao superar as limitações da lógica clássica, esses sistemas ampliam as possibilidades de aplicação da lógica formal em cenários práticos, contribuindo para o desenvolvimento de soluções inovadoras em ciência da computação, inteligência artificial, bancos de dados e outras áreas.
 
----
+
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
-```
+

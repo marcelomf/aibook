@@ -63,7 +63,7 @@ A lógica paraconsistente já é utilizada em áreas como:
 
 Com o avanço da computação distribuída e da inteligência artificial, espera-se que o uso de abordagens paraconsistentes se torne cada vez mais relevante para garantir a robustez e a confiabilidade de sistemas complexos.
 
----
+
 
 **Referências:**
 
@@ -71,11 +71,11 @@ Com o avanço da computação distribuída e da inteligência artificial, espera
 - Brito, A. S., & Silva, M. R. (2019). "Aplicações de Lógicas Paraconsistentes em Sistemas Distribuídos". *Revista Brasileira de Computação Aplicada*, 11(2), 45-60.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Capítulo "Lógica Paraconsistente Anotada" do eBook *Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso*.
 
----
+
 
 > O gerenciamento de inconsistências em sistemas distribuídos é um campo em rápida evolução, e a lógica paraconsistente representa uma poderosa ferramenta para enfrentar os desafios do mundo real, onde a contradição é muitas vezes inevitável.

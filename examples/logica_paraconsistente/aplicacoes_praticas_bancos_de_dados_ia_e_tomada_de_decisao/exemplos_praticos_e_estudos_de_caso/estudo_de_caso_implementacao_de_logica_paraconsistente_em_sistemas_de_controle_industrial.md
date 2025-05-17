@@ -9,7 +9,7 @@ A lógica clássica, tradicionalmente empregada nesses sistemas, não lida bem c
 
 Neste estudo de caso, exploramos a implementação de lógica paraconsistente em um sistema de controle industrial, destacando os benefícios, desafios e resultados obtidos.
 
----
+___
 
 ## Contexto do Problema
 
@@ -23,7 +23,7 @@ Considere uma planta química automatizada, onde o controle da temperatura de um
 
 Segundo a lógica clássica, a presença de leituras contraditórias pode levar o sistema a um estado de indecisão ou, pior, a tomar decisões baseadas em premissas inválidas.
 
----
+___
 
 ## Solução: Lógica Paraconsistente Anotada (LPA)
 
@@ -50,7 +50,7 @@ No caso apresentado:
 
 O sistema reconhece que há uma contradição, mas a evidência favorável é maior. Assim, pode manter o controle automático, mas registrar o evento e alertar o operador para inspeção.
 
----
+___
 
 ## Benefícios Observados
 
@@ -58,7 +58,7 @@ O sistema reconhece que há uma contradição, mas a evidência favorável é ma
 - **Tomada de decisão informada:** Ações são tomadas com base no grau de confiança das informações, reduzindo alarmes falsos e intervenções desnecessárias.
 - **Registro e rastreabilidade:** Contradições são registradas, facilitando a manutenção preditiva e a análise de falhas.
 
----
+___
 
 ## Desafios e Considerações
 
@@ -66,13 +66,13 @@ O sistema reconhece que há uma contradição, mas a evidência favorável é ma
 - **Integração com sistemas legados:** A adoção da lógica paraconsistente pode exigir adaptações em sistemas já existentes.
 - **Treinamento de operadores:** É importante que os operadores compreendam o novo modelo de decisão para interpretar corretamente os alertas e registros.
 
----
+___
 
 ## Conclusão
 
 A implementação da lógica paraconsistente em sistemas de controle industrial demonstrou ser uma solução eficaz para lidar com informações contraditórias, aumentando a robustez e a segurança operacional. Este estudo de caso evidencia como abordagens não clássicas de lógica podem ser aplicadas com sucesso em ambientes críticos, promovendo avanços na automação industrial e na confiabilidade dos processos.
 
----
+___
 
 ## Referências
 
@@ -80,4 +80,4 @@ A implementação da lógica paraconsistente em sistemas de controle industrial 
 - Batens, D. (2019). **Paraconsistent Logic: Consistency, Contradiction and Negation**. Springer.
 - Abe, J. M., & Nakamatsu, K. (2016). **Paraconsistent Intelligent-Based Systems: New Trends in the Applications of Paraconsistency**. Springer.
 
-```
+

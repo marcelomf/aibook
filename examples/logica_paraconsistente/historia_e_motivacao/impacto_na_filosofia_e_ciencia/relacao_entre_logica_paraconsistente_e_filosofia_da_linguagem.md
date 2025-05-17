@@ -39,9 +39,8 @@ Na tradição analítica, a lógica paraconsistente contribui para o desenvolvim
 
 A relação entre lógica paraconsistente e filosofia da linguagem é, portanto, profunda e multifacetada. Ao oferecer uma alternativa ao tratamento clássico das contradições, a lógica paraconsistente amplia as possibilidades de análise e compreensão da linguagem, tornando-se uma ferramenta valiosa tanto para filósofos quanto para linguistas, cientistas da computação e profissionais que lidam com informação complexa e contraditória.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógica Paraconsistente: Introdução e Aplicações"  
 - Graham Priest, "In Contradiction"  
 - Saul Kripke, "Outline of a Theory of Truth"
-```

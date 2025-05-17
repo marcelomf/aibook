@@ -4,7 +4,7 @@ A integridade e a consistência dos dados são requisitos fundamentais para o fu
 
 Neste tópico, abordaremos as principais técnicas de detecção automática de inconsistências em bancos de dados, destacando métodos clássicos, avanços recentes e exemplos práticos.
 
----
+___
 
 ## 1. Definição de Inconsistência em Bancos de Dados
 
@@ -15,7 +15,7 @@ Uma inconsistência ocorre quando os dados armazenados violam restrições de in
 - **Dados contraditórios:** informações conflitantes sobre o mesmo objeto (ex: um cliente com dois endereços diferentes marcados como principal).
 - **Violação de restrições de domínio:** valores fora do intervalo permitido para um campo.
 
----
+___
 
 ## 2. Técnicas Clássicas de Detecção
 
@@ -44,7 +44,7 @@ HAVING COUNT(*) > 1;
 
 Essas consultas podem ser automatizadas e agendadas para execução periódica, auxiliando na manutenção da integridade dos dados.
 
----
+___
 
 ## 3. Técnicas Avançadas
 
@@ -80,7 +80,7 @@ Modelos de aprendizado de máquina podem ser treinados para identificar registro
 
 Essas abordagens são especialmente úteis em bancos de dados grandes e heterogêneos, onde regras explícitas podem ser insuficientes.
 
----
+___
 
 ## 4. Exemplos Práticos
 
@@ -88,7 +88,7 @@ Essas abordagens são especialmente úteis em bancos de dados grandes e heterog�
 - **Sistemas de saúde:** Inconsistências em prontuários eletrônicos, como medicamentos prescritos incompatíveis, podem ser detectadas por regras clínicas automatizadas.
 - **Bancos de dados financeiros:** Transações duplicadas ou incompatíveis com o saldo disponível são identificadas por regras de integridade e algoritmos de detecção de fraude.
 
----
+___
 
 ## 5. Considerações Finais
 
@@ -96,7 +96,7 @@ A detecção automática de inconsistências em bancos de dados é um campo em c
 
 A lógica paraconsistente, em particular, destaca-se por permitir o tratamento controlado de inconsistências, possibilitando que sistemas continuem operando mesmo diante de conflitos, ao invés de simplesmente rejeitar ou ignorar dados problemáticos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Batini, C., Cappiello, C., Francalanci, C., & Maurino, A. (2009). Data Quality: Concepts, Methodologies and Techniques. Springer.  

@@ -58,4 +58,4 @@ A aplicação da lógica paraconsistente em sistemas de gestão ambiental repres
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógica Paraconsistente: Teoria e Aplicações*. Editora Unicamp.
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Cambridge University Press.
 - Silva, M. R., & Abe, J. M. (2012). Aplicações da Lógica Paraconsistente Anotada em Sistemas de Apoio à Decisão Ambiental. *Revista Brasileira de Computação Aplicada*, 4(2), 45-58.
-```
+

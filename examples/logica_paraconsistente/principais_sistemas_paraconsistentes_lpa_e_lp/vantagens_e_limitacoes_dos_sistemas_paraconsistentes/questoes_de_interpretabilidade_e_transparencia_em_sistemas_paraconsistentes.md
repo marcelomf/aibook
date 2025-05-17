@@ -41,9 +41,9 @@ A interpretabilidade e a transparência são requisitos fundamentais para a ado�
 
 O avanço nessas questões não apenas aumenta a confiança dos usuários, mas também amplia o potencial de aplicação da lógica paraconsistente em áreas críticas, promovendo um raciocínio não clássico mais robusto, ético e responsável.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
-```
+

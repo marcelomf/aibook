@@ -55,6 +55,6 @@ No entanto, com o crescimento da demanda por IA robusta, transparente e capaz de
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics in Knowledge Representation. Artificial Intelligence, 61(2), 235-355.**
 - **Santos, P. S., & Subrahmanian, V. S. (1997). Paraconsistent Logic Programming. Theoretical Computer Science, 192(1), 95-112.**
 
----
+
 
 A integração entre lógica paraconsistente e machine learning é um campo em expansão, com potencial para revolucionar a forma como sistemas inteligentes lidam com a complexidade e a imperfeição dos dados do mundo real.

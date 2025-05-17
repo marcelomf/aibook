@@ -50,11 +50,11 @@ Essas demandas motivaram o desenvolvimento de lógicas não clássicas, como a *
 
 A lógica clássica, embora fundamental para a matemática e a ciência, mostra-se insuficiente em ambientes de incerteza, inconsistência e informação incompleta, comuns em aplicações modernas. Suas limitações impulsionaram a pesquisa em lógicas alternativas, como a lógica paraconsistente, que serão exploradas nos próximos capítulos deste eBook.
 
----
+___
 
 **Referências:**
 
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (2012). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

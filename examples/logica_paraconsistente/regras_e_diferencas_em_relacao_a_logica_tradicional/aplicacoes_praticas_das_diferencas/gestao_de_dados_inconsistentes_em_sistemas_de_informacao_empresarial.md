@@ -60,6 +60,6 @@ A adoção de princípios da lógica paraconsistente na gestão de dados inconsi
 - [Lógica Paraconsistente Anotada: Teoria e Aplicações](https://www.scielo.br/j/cce/a/6w3k6k6k6k6k6k6k6k6k6k6k/?lang=pt)
 - [Paraconsistent Logic: Consistency, Contradiction and Negation](https://plato.stanford.edu/entries/logic-paraconsistent/)
 
----
+
 
 *Este texto faz parte do capítulo "Regras e Diferenças em Relação à Lógica Tradicional", tópico "Aplicações práticas das diferenças", do eBook "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso".*

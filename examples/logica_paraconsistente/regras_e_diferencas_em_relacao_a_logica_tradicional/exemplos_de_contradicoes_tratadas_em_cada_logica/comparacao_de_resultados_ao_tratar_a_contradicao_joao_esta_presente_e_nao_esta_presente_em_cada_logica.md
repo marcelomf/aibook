@@ -3,7 +3,7 @@
 
 A contradição clássica "João está presente e não está presente" é um exemplo paradigmático para ilustrar as diferenças fundamentais entre a lógica clássica e as lógicas paraconsistentes. Neste tópico, analisaremos como cada sistema lógico lida com essa contradição, destacando as consequências práticas e teóricas de suas abordagens.
 
----
+
 
 ## 1. Lógica Clássica
 
@@ -32,7 +32,7 @@ Na lógica clássica, a partir de uma contradição, **qualquer proposição pod
 
 **Consequência:** O sistema lógico colapsa diante de contradições.
 
----
+
 
 ## 2. Lógica Paraconsistente
 
@@ -63,25 +63,25 @@ A Lógica de Priest, ou Lógica Paraconsistente de Priest, permite que proposiç
 - O sistema reconhece a existência de uma "verdade glut" (truth glut), mas **não permite a dedução arbitrária de qualquer proposição**.
 - Outras proposições não relacionadas permanecem com seus valores de verdade originais.
 
----
+
 
 ## 3. Comparação dos Resultados
 
 | Lógica                | Diante de \( P \) e \( \neg P \) | Consequência para o sistema         | Exemplo prático                  |
-|-----------------------|:--------------------------------:|:-----------------------------------:|:---------------------------------:|
+|--|:--:|:--:|::|
 | **Clássica**          | Contradição = explosão            | Sistema se torna trivial            | Qualquer afirmação pode ser deduzida |
 | **Paraconsistente (LPA)** | Contradição = inconsistente       | Sistema continua operando, marca a contradição | Inconsistência é sinalizada, mas não afeta outras informações |
 | **Paraconsistente (LP)**  | Contradição = verdade glut         | Sistema reconhece ambos valores, sem explosão | Contradição é aceita localmente, sem afetar o restante do sistema |
 
----
+
 
 ## 4. Conclusão
 
 A contradição "João está presente e não está presente" ilustra de forma clara a principal diferença entre a lógica clássica e as lógicas paraconsistentes. Enquanto a lógica clássica não tolera contradições e colapsa diante delas, as lógicas paraconsistentes oferecem mecanismos para lidar com inconsistências de maneira controlada, preservando a utilidade do sistema lógico e permitindo a continuidade do raciocínio mesmo em ambientes com informações conflitantes.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction"
-```
+

@@ -31,7 +31,7 @@ O entendimento de linguagem natural envolve frequentemente ambiguidades e contra
 **Exemplo prático:**  
 Sistemas de perguntas e respostas, como assistentes virtuais, começaram a incorporar mecanismos paraconsistentes para lidar com respostas contraditórias extraídas de diferentes fontes na internet, oferecendo respostas mais robustas e justificadas.
 
----
+___
 
 Esses exemplos pioneiros demonstram como a lógica paraconsistente contribuiu para superar limitações da lógica clássica em IA, abrindo caminho para sistemas mais flexíveis, robustos e capazes de operar em ambientes reais, onde a contradição é muitas vezes inevitável. O desenvolvimento dessas aplicações impulsionou novas pesquisas e consolidou a lógica paraconsistente como uma ferramenta fundamental no arsenal da inteligência artificial moderna.
-```
+

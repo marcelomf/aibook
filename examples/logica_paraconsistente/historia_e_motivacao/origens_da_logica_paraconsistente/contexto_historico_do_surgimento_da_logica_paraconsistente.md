@@ -39,11 +39,11 @@ A partir das décadas de 1970 e 1980, a lógica paraconsistente ganhou reconheci
 
 Hoje, a lógica paraconsistente é reconhecida como uma das principais alternativas à lógica clássica, permitindo o avanço do raciocínio formal em contextos onde a inconsistência é inevitável.
 
----
+___
 
 **Referências:**
 
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*, 15(4), 497-510.
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), *Handbook of Philosophical Logic* (Vol. 6, pp. 287-393). Springer.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

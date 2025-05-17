@@ -31,11 +31,11 @@ Em sistemas distribuídos e multiagentes, agentes autônomos podem ter percepç�
 
 Ao explicitar e tratar contradições, os sistemas paraconsistentes aumentam a confiabilidade e a transparência das aplicações computacionais. Usuários e desenvolvedores podem identificar, rastrear e compreender a origem das inconsistências, facilitando a manutenção e a evolução dos sistemas.
 
----
+
 
 ## **Considerações Finais**
 
 As vantagens dos sistemas paraconsistentes, como a tolerância a inconsistências, a flexibilidade diante de dados contraditórios e a capacidade de operar em ambientes incertos, têm impacto direto e positivo em aplicações computacionais modernas. Essas características tornam a lógica paraconsistente uma escolha estratégica para o desenvolvimento de sistemas mais robustos, adaptativos e confiáveis, especialmente em contextos onde a complexidade e a incerteza são inerentes.
 
 À medida que a quantidade e a diversidade de dados aumentam, e que sistemas computacionais se tornam mais autônomos e distribuídos, a adoção de abordagens paraconsistentes tende a crescer, consolidando seu papel fundamental na computação do século XXI.
-```
+

@@ -88,9 +88,9 @@ O sistema pode indicar que há uma **alta evidência favorável**, mas também u
 
 A aplicação da Lógica Paraconsistente Anotada na gestão de big data representa um avanço significativo na capacidade de lidar com a complexidade e a imperfeição inerentes a grandes volumes de dados. Ao incorporar formalmente a contradição e a incerteza ao processo de análise, a LPA permite extrair valor mesmo de conjuntos de dados que, sob a ótica da lógica clássica, seriam considerados problemáticos ou inutilizáveis. Assim, a LPA se consolida como uma ferramenta essencial para profissionais e organizações que buscam excelência na gestão e análise de big data.
 
----
+
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."  
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."  
 - Santos, P. S., & Abe, J. M. (2010). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

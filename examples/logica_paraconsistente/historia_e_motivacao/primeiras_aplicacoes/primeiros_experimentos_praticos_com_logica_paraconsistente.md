@@ -39,7 +39,7 @@ Esses experimentos pavimentaram o caminho para o desenvolvimento de aplicações
 - Carnielli, W. A., & Marcos, J. (2002). A taxonomy of C-systems. In *Paraconsistency: The logical way to the inconsistent* (pp. 1-94). Springer.
 - Priest, G. (1979). The logic of paradox. *Journal of Philosophical Logic*, 8(1), 219-241.
 
----
+___
 
 Os primeiros experimentos práticos com lógica paraconsistente mostraram que, longe de ser apenas uma curiosidade teórica, essa abordagem oferece soluções concretas para problemas reais, especialmente em ambientes onde a contradição é inevitável.
-```
+

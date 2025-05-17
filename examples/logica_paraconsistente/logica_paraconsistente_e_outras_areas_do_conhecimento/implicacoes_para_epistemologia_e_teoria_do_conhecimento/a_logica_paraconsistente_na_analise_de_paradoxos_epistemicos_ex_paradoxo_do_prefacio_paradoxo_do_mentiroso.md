@@ -48,5 +48,4 @@ A lógica paraconsistente não resolve todos os paradoxos epistêmicos, mas ofer
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.  
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 
----
-```
+

@@ -43,7 +43,7 @@ Em resumo, a lógica paraconsistente é fruto de um diálogo intenso com diversa
 
 Essa influência filosófica é fundamental para entender não apenas a origem, mas também o potencial transformador da lógica paraconsistente em múltiplas áreas do conhecimento.
 
----
+___
 
 **Referências:**
 
@@ -52,4 +52,4 @@ Essa influência filosófica é fundamental para entender não apenas a origem, 
 - Hegel, G. W. F. (1812). *Ciência da Lógica*.
 - Russell, B. (1903). *The Principles of Mathematics*.
 - Wittgenstein, L. (1953). *Investigações Filosóficas*.
-```
+

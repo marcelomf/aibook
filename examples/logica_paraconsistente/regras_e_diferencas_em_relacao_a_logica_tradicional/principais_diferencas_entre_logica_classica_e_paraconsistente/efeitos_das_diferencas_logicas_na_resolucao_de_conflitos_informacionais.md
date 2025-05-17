@@ -57,5 +57,4 @@ As diferenças entre lógica clássica e paraconsistente têm efeitos diretos e 
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic.
 
----
-```
+

@@ -72,8 +72,8 @@ O futuro do desenvolvimento de ferramentas e plataformas para aplicações parac
 
 O desenvolvimento de ferramentas e plataformas para aplicações paraconsistentes é um campo dinâmico e em expansão, fundamental para a consolidação da lógica paraconsistente como tecnologia de base em sistemas modernos. A tendência é que, nos próximos anos, essas soluções se tornem cada vez mais acessíveis, robustas e integradas, permitindo que organizações e pesquisadores lidem de forma eficaz com a complexidade e a contradição inerentes ao mundo real.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *A Universal Logic Approach to Paraconsistency*. College Publications.
-```
+

@@ -45,12 +45,12 @@ A LPA pode ser **integrada com outras lógicas não clássicas**, como lógica f
 
 A LPA possui uma **base teórica bem estabelecida**, com vasta literatura e reconhecimento na comunidade científica internacional. Isso garante confiabilidade e facilita a validação de resultados em pesquisas e aplicações práticas.
 
----
+
 
 ## Resumo das Vantagens
 
 | Vantagem                                   | Descrição                                                                 |
-|---------------------------------------------|---------------------------------------------------------------------------|
+|||
 | Representação quantitativa                  | Permite expressar graus de certeza e contradição                          |
 | Flexibilidade                              | Adapta-se a diferentes contextos e níveis de granularidade                |
 | Aplicabilidade computacional                | Fácil implementação em sistemas de IA e bancos de dados                   |
@@ -58,9 +58,9 @@ A LPA possui uma **base teórica bem estabelecida**, com vasta literatura e reco
 | Integração com outras lógicas               | Possibilita sistemas híbridos e mais robustos                             |
 | Base teórica sólida                         | Amplo reconhecimento e validação científica                               |
 
----
+
 
 ## Conclusão
 
 A Lógica Paraconsistente Anotada (LPA) se destaca entre os sistemas paraconsistentes por sua capacidade de lidar com contradições de maneira quantitativa, flexível e aplicável a problemas reais. Suas vantagens tornam-na uma ferramenta poderosa para pesquisadores e profissionais que enfrentam desafios relacionados à inconsistência e incerteza em diversas áreas do conhecimento.
-```
+

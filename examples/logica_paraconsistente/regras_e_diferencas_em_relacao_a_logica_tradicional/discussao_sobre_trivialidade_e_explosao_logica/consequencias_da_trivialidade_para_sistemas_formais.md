@@ -50,8 +50,8 @@ A lógica paraconsistente foi desenvolvida justamente para evitar a trivialidade
 
 A trivialidade é um problema grave para sistemas formais, pois destrói a capacidade de raciocínio, prova e tomada de decisão. Por isso, a busca por lógicas não explosivas, como as lógicas paraconsistentes, é essencial para lidar com contradições de maneira robusta e confiável em contextos reais e teóricos.
 
----
+
 **Sugestão de leitura:**  
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

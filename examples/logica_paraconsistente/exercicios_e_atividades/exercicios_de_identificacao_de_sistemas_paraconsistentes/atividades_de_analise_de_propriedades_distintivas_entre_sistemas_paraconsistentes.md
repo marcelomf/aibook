@@ -5,7 +5,7 @@
 
 A lógica paraconsistente é um campo diversificado, com diferentes sistemas desenvolvidos para lidar com contradições de maneiras específicas. Cada sistema possui propriedades e regras próprias, que o diferenciam dos demais e da lógica clássica. Nesta seção, propomos atividades e exercícios para ajudar o leitor a identificar e analisar as propriedades distintivas entre alguns dos principais sistemas paraconsistentes.
 
----
+
 
 ### 1. **Reconhecendo Propriedades Fundamentais**
 
@@ -16,7 +16,7 @@ Antes de iniciar os exercícios, é importante relembrar algumas propriedades qu
 - **Anotação de Proposições**: Sistemas como a Lógica Paraconsistente Anotada (LPA) utilizam anotações para expressar graus de certeza, dúvida ou inconsistência.
 - **Semântica**: A forma como a verdade é atribuída às proposições pode variar, incluindo semânticas multi-valoradas ou baseadas em conjuntos.
 
----
+
 
 ### 2. **Exercício 1: Identificação de Sistemas**
 
@@ -33,7 +33,7 @@ c) **Este sistema enfatiza a relevância entre premissas e conclusões, evitando
 > b) Lógica de Priest (LP)  
 > c) Lógica Relevante
 
----
+
 
 ### 3. **Exercício 2: Análise de Propriedades**
 
@@ -44,14 +44,14 @@ Para cada sistema abaixo, indique se ele:
 - (iii) Rejeita o princípio da explosão.
 
 | Sistema                      | (i) Coexistência | (ii) Anotações | (iii) Rejeita Explosão |
-|------------------------------|:---------------:|:--------------:|:----------------------:|
+||::|:--:|:-:|
 | Lógica Paraconsistente Anotada (LPA) |      Sim        |      Sim      |         Sim           |
 | Lógica de Priest (LP)        |      Sim        |      Não       |         Sim           |
 | Lógica Relevante             |      Não*       |      Não       |         Sim           |
 
 > *A Lógica Relevante pode evitar a explosão sem necessariamente permitir a coexistência explícita de verdade e falsidade, dependendo da formulação.
 
----
+
 
 ### 4. **Exercício 3: Estudo de Caso**
 
@@ -65,7 +65,7 @@ Qual sistema paraconsistente seria mais adequado para modelar esse cenário? Jus
 > **Resposta sugerida:**  
 > A Lógica Paraconsistente Anotada (LPA) é mais adequada, pois permite anotar proposições com graus de certeza e inconsistência, possibilitando que o sistema registre e trate explicitamente a contradição sem paralisar as operações.
 
----
+
 
 ### 5. **Exercício 4: Discussão e Reflexão**
 
@@ -76,7 +76,7 @@ Qual sistema paraconsistente seria mais adequado para modelar esse cenário? Jus
 > **Sugestão de resposta:**  
 > A LP é mais teórica, útil para análise formal de paradoxos e fundamentos da lógica, enquanto a LPA é prática, adequada para sistemas computacionais que precisam lidar com incerteza e inconsistência. A LP não distingue graus de inconsistência, enquanto a LPA permite esse refinamento. Por outro lado, a LPA pode ser mais complexa de implementar e interpretar.
 
----
+
 
 ## Conclusão
 
@@ -85,5 +85,4 @@ A análise das propriedades distintivas entre sistemas paraconsistentes é funda
 > **Sugestão de aprofundamento:**  
 > Explore exemplos reais de aplicação de cada sistema e tente criar seus próprios cenários para análise, identificando qual lógica paraconsistente melhor se adapta a cada situação.
 
----
-```
+

@@ -41,8 +41,8 @@ Por exemplo, a **Lógica Paraconsistente Anotada (LPA)** pode ser utilizada para
 
 A presença de dados contraditórios é uma realidade inevitável em sistemas de recomendação modernos. As limitações da lógica clássica diante dessas situações podem levar a falhas graves, como recomendações incoerentes, perda de personalização e dificuldade na integração de múltiplas fontes. O uso de lógicas não clássicas, como a lógica paraconsistente, representa um avanço importante para tornar esses sistemas mais robustos, confiáveis e alinhados com a complexidade dos dados do mundo real.
 
----
+
 **Sugestão de leitura:**  
 - "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso" (eBook)
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

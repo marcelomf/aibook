@@ -55,9 +55,9 @@ Diversos modelos têm sido propostos para incorporar a lógica paraconsistente e
 
 O raciocínio paraconsistente representa uma evolução importante para o aprendizado de máquina, especialmente em aplicações que exigem tolerância a contradições e incertezas. Ao incorporar princípios da lógica paraconsistente, sistemas de IA tornam-se mais adaptáveis, confiáveis e alinhados com a complexidade do mundo real. Pesquisas nessa área continuam em expansão, com potencial para transformar a forma como máquinas aprendem, raciocinam e tomam decisões em ambientes cada vez mais desafiadores.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  
 - "Paraconsistent Machine Learning" – artigos recentes em periódicos de IA e lógica não clássica
-```
+

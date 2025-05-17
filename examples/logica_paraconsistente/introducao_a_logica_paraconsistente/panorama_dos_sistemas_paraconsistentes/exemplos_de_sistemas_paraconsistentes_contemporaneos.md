@@ -3,7 +3,7 @@
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, deu origem a diversos sistemas lógicos com características e aplicações específicas. Nos últimos anos, o desenvolvimento desses sistemas tem sido impulsionado tanto por avanços teóricos quanto pela demanda de aplicações práticas em áreas como ciência da computação, inteligência artificial e engenharia do conhecimento. A seguir, apresentamos alguns dos principais sistemas paraconsistentes contemporâneos, destacando suas características, motivações e exemplos de uso.
 
----
+___
 
 ## 1. Lógica Paraconsistente Anotada (LPA)
 
@@ -17,7 +17,7 @@ A **Lógica Paraconsistente Anotada** é uma das abordagens mais conhecidas e ut
 - **Exemplo de aplicação:**  
   Em sistemas de monitoramento industrial, sensores podem fornecer leituras contraditórias devido a falhas ou ruídos. A LPA permite que o sistema continue operando e tome decisões mesmo diante dessas inconsistências, atribuindo diferentes graus de confiança às informações recebidas.
 
----
+___
 
 ## 2. Lógica de Priest (LP)
 
@@ -31,7 +31,7 @@ A **Lógica de Priest** (também conhecida como *Logic of Paradox* ou LP), propo
 - **Exemplo de aplicação:**  
   Em bancos de dados, a LP pode ser usada para lidar com registros contraditórios sem comprometer a integridade de todo o sistema, permitindo consultas e inferências mesmo na presença de inconsistências.
 
----
+___
 
 ## 3. Lógica Paraconsistente Relevante
 
@@ -45,7 +45,7 @@ A **Lógica Relevante** é uma família de sistemas lógicos que busca garantir 
 - **Exemplo de aplicação:**  
   Em sistemas de inteligência artificial, a lógica relevante pode ser empregada para filtrar informações irrelevantes e focar apenas nas premissas que realmente contribuem para a conclusão desejada.
 
----
+___
 
 ## 4. Lógica Paraconsistente de Belnap (FOUR)
 
@@ -59,7 +59,7 @@ A **Lógica de Quatro Valores de Belnap** (FOUR) é um sistema que expande os va
 - **Exemplo de aplicação:**  
   Em sistemas de integração de dados, como na fusão de informações de diferentes bancos de dados corporativos, a lógica de Belnap permite identificar e tratar registros que são simultaneamente verdadeiros e falsos, ou que não possuem informação suficiente.
 
----
+___
 
 ## 5. Lógicas Paraconsistentes Modais
 
@@ -72,7 +72,7 @@ Nos últimos anos, tem havido um interesse crescente em combinar a paraconsistê
 - **Exemplo de aplicação:**  
   Em sistemas multiagentes, agentes podem ter crenças contraditórias sobre o estado do mundo. Lógicas paraconsistentes modais permitem modelar e gerenciar essas crenças de forma controlada.
 
----
+___
 
 ## 6. Lógicas Paraconsistentes Fuzzy
 
@@ -85,7 +85,7 @@ A integração entre lógica fuzzy e paraconsistência tem gerado sistemas híbr
 - **Exemplo de aplicação:**  
   Em sistemas de recomendação, onde avaliações de usuários podem ser contraditórias e imprecisas, lógicas paraconsistentes fuzzy permitem gerar recomendações robustas mesmo diante de dados conflitantes.
 
----
+___
 
 ## Considerações Finais
 
@@ -93,5 +93,4 @@ Os sistemas paraconsistentes contemporâneos representam uma resposta sofisticad
 
 Para aprofundar-se nesses sistemas, recomenda-se a leitura de obras especializadas e a exploração de estudos de caso que demonstrem sua aplicação em cenários reais.
 
----
-```
+

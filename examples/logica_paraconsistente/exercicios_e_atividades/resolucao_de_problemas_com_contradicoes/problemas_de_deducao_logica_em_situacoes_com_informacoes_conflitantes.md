@@ -81,7 +81,7 @@ Como um sistema baseado em lógica paraconsistente pode lidar com essa situaçã
 
 A dedução lógica em situações com informações conflitantes é um desafio real e recorrente em sistemas complexos. A lógica paraconsistente oferece ferramentas teóricas e práticas para lidar com essas situações de forma racional, segura e eficiente, evitando tanto a paralisia diante da contradição quanto a aceitação de conclusões infundadas. O domínio dessas técnicas é fundamental para profissionais e pesquisadores que atuam em áreas onde a informação imperfeita ou contraditória é uma constante.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  

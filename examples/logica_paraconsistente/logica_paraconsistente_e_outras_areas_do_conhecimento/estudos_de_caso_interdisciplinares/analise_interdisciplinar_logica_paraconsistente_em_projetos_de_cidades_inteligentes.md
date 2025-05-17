@@ -47,7 +47,7 @@ A aplicação da lógica paraconsistente em cidades inteligentes exige colabora�
 
 A lógica paraconsistente representa um avanço significativo para o desenvolvimento de cidades inteligentes, ao permitir que sistemas computacionais e gestores urbanos lidem de forma eficaz com a complexidade e as contradições do ambiente urbano. Sua aplicação interdisciplinar contribui para a construção de cidades mais inteligentes, resilientes e inclusivas, capazes de responder aos desafios do século XXI.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.  

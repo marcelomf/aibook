@@ -42,9 +42,9 @@ Apesar das limitações, diversas estratégias podem ser adotadas para melhorar 
 
 A lógica paraconsistente representa um avanço significativo para o tratamento de informações contraditórias, mas suas limitações técnicas e conceituais ainda impõem desafios à escalabilidade de sistemas em larga escala. A adoção bem-sucedida dessa abordagem depende do equilíbrio entre a necessidade de lidar com inconsistências e os requisitos de desempenho, integração e manutenção dos sistemas. O contínuo desenvolvimento de novas técnicas e ferramentas promete ampliar o potencial da lógica paraconsistente, tornando-a cada vez mais viável para aplicações de grande porte.
 
----
+
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics: Consistency, Contradiction and Negation*. Notre Dame Journal of Formal Logic.
 - Batens, D. (2019). *Paraconsistency and its Applications*. Journal of Applied Logic.
-```
+

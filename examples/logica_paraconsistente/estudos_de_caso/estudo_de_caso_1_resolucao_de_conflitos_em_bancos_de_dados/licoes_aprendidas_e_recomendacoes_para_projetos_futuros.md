@@ -46,4 +46,4 @@ A análise do **Estudo de Caso 1: Resolução de Conflitos em Bancos de Dados** 
 ### Considerações Finais
 
 A experiência com a lógica paraconsistente em bancos de dados evidencia seu potencial para transformar a forma como lidamos com informações contraditórias. Projetos futuros devem considerar não apenas os benefícios técnicos, mas também os desafios de adoção, capacitação e integração. Com planejamento adequado e foco na qualidade dos dados e processos, a lógica paraconsistente pode se tornar um diferencial estratégico em ambientes cada vez mais complexos e dinâmicos.
-```
+

@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente é um campo dinâmico e interdisciplinar, com aplicações crescentes em ciência da computação, inteligência artificial, filosofia, matemática e engenharia. Para estudantes, pesquisadores e profissionais que desejam aprofundar seus conhecimentos e contribuir para o avanço da área, sugerimos a seguir algumas propostas de projetos de pesquisa relevantes e atuais.
 
----
+
 
 ## 1. **Desenvolvimento de Algoritmos Paraconsistentes para Diagnóstico em Sistemas Inteligentes**
 
@@ -16,7 +16,7 @@ Investigue como algoritmos baseados em lógica paraconsistente podem ser aplicad
 - Implementação de protótipos e comparação com abordagens clássicas.
 - Avaliação de desempenho e robustez dos algoritmos.
 
----
+
 
 ## 2. **Integração de Lógica Paraconsistente em Sistemas de Bancos de Dados**
 
@@ -29,7 +29,7 @@ Explore métodos para incorporar mecanismos paraconsistentes em sistemas de gere
 - Implementação de um módulo de consulta paraconsistente.
 - Estudo de impacto na integridade e desempenho do sistema.
 
----
+
 
 ## 3. **Aplicação de Lógica Paraconsistente em Sistemas de Tomada de Decisão Multiagente**
 
@@ -42,7 +42,7 @@ Desenvolva modelos de tomada de decisão para sistemas multiagente (como robôs,
 - Implementação de um simulador multiagente com lógica paraconsistente.
 - Análise dos resultados e comparação com abordagens tradicionais.
 
----
+
 
 ## 4. **Estudo Comparativo entre Lógicas Paraconsistentes e Outras Lógicas Não Clássicas**
 
@@ -55,7 +55,7 @@ Realize um estudo teórico e prático comparando a lógica paraconsistente com o
 - Aplicação das lógicas a um mesmo conjunto de problemas.
 - Análise crítica dos resultados e elaboração de recomendações.
 
----
+
 
 ## 5. **Desenvolvimento de Ferramentas Educacionais para Ensino de Lógica Paraconsistente**
 
@@ -68,7 +68,7 @@ Crie softwares, jogos ou ambientes interativos que auxiliem no ensino e aprendiz
 - Implementação de protótipos (ex: simuladores, quizzes, jogos).
 - Avaliação da eficácia pedagógica com grupos de estudantes.
 
----
+
 
 ## 6. **Aplicação de Lógica Paraconsistente em Processamento de Linguagem Natural (PLN)**
 
@@ -81,7 +81,7 @@ Investigue como a lógica paraconsistente pode ser utilizada para tratar contrad
 - Implementação de protótipos para tarefas específicas de PLN.
 - Avaliação dos resultados frente a métodos tradicionais.
 
----
+
 
 ## 7. **Análise Filosófica e Epistemológica da Lógica Paraconsistente**
 
@@ -94,11 +94,10 @@ Desenvolva uma pesquisa teórica sobre as implicações filosóficas da adoção
 - Discussão sobre possíveis aplicações em epistemologia e teoria da ciência.
 - Elaboração de ensaios ou artigos para publicação.
 
----
+
 
 ## Considerações Finais
 
 Essas propostas de projetos abrangem desde aplicações práticas até investigações teóricas, refletindo a riqueza e a diversidade do campo da lógica paraconsistente. Ao escolher um tema, considere seus interesses, recursos disponíveis e possíveis colaborações interdisciplinares. A pesquisa em lógica paraconsistente está em constante evolução e oferece oportunidades para contribuições inovadoras e relevantes para a sociedade e para o avanço do conhecimento científico.
 
----
-```
+

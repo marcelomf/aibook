@@ -82,11 +82,11 @@ print(f"Grau de certeza: {certeza}, Grau de contradição: {contradicao}")
 
 A lógica paraconsistente está se consolidando como uma ferramenta fundamental para o desenvolvimento de sistemas de IA mais resilientes, transparentes e confiáveis, especialmente em contextos onde a inconsistência é inevitável.
 
----
+___
 
 **Sugestão de Leitura Complementar:**
 - Da Costa, N. C. A. "Lógica Paraconsistente: Essencial para a Inteligência Artificial?" (Artigo)
 - Batens, D. "Paraconsistent Logic and its Applications" (Livro)
 - Beziau, J.-Y. "Paraconsistent Logic: Consistency, Contradiction and Negation" (Livro)
 
-```
+

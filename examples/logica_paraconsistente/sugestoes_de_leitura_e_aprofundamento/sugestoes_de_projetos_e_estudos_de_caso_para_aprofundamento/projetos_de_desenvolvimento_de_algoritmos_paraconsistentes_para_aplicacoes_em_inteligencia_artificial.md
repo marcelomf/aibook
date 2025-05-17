@@ -100,6 +100,6 @@ Desenvolvimento de algoritmos de PLN capazes de interpretar textos que contenham
   - Batens, D. (2000). *A survey of inconsistency-adaptive logics*. In *Frontiers of Paraconsistent Logic*.
   - Abe, J. M., & Nakamatsu, K. (2016). *Paraconsistent Artificial Intelligence: Theoretical Foundations and Applications*. IGI Global.
 
----
+
 
 O desenvolvimento de algoritmos paraconsistentes para IA é um campo promissor, com potencial para revolucionar a forma como sistemas inteligentes lidam com a complexidade e a imperfeição do mundo real. Projetos nessa área não apenas ampliam as fronteiras do conhecimento lógico, mas também oferecem soluções práticas para desafios contemporâneos em ciência da computação, engenharia e além.

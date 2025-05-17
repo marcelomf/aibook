@@ -128,7 +128,7 @@ A implementação de operadores paraconsistentes em consultas SQL representa um 
 - **Carnielli, Walter A.; Coniglio, Marcelo E.** "Paraconsistent Logic: Consistency, Contradiction and Negation." Springer, 2016.
 - **Priest, Graham.** "In Contradiction: A Study of the Transconsistent." Oxford University Press, 2006.
 
----
+
 
 > **Exercício Proposto:**  
 > Implemente uma consulta SQL paraconsistente para um banco de dados de produtos, identificando itens com informações contraditórias de estoque (por exemplo, registros com quantidades positivas e negativas para o mesmo produto). Analise como a lógica paraconsistente pode ajudar a tomar decisões nesse contexto.

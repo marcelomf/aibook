@@ -75,10 +75,10 @@ Atualmente, existem bibliotecas e frameworks que facilitam a implementação de 
 
 A implementação de sistemas de decisão tolerantes a inconsistências, fundamentados na lógica paraconsistente, representa um avanço significativo para aplicações que lidam com dados contraditórios ou incertos. Ao permitir que decisões sejam tomadas de forma controlada e transparente, mesmo em cenários complexos, esses sistemas ampliam a confiabilidade e a utilidade das soluções baseadas em lógica, especialmente em áreas críticas como saúde, finanças, direito e inteligência artificial.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A. "Lógica Paraconsistente: Teoria e Aplicações"  
 - Batens, D. "Inconsistency-Adaptive Logics"  
 - Silva Filho, J. I. "Lógica Paraconsistente Anotada: Fundamentos e Aplicações"
-```
+

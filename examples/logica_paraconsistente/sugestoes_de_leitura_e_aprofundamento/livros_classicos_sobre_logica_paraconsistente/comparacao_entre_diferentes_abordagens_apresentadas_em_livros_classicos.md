@@ -43,21 +43,20 @@ Este manual reúne capítulos escritos por diversos especialistas, cobrindo desd
 - **Contribuição:** Compilação de diferentes sistemas, abordagens e aplicações, além de discussões sobre o impacto filosófico e científico da lógica paraconsistente.
 - **Diferencial:** Amplitude temática e diversidade de autores, proporcionando uma visão global do desenvolvimento e estado atual da área.
 
----
+
 
 ### **Resumo Comparativo**
 
 | Livro / Abordagem | Enfoque Principal | Contribuição | Diferencial |
-|-------------------|------------------|--------------|-------------|
+|-||--|-|
 | *In Contradiction* (Priest) | Filosófico | Defesa do dialeteísmo, análise de paradoxos | Aceitação de verdadeiras contradições |
 | *Paraconsistent Logic: Consistency, Contradiction and Negation* (da Costa & Carnielli) | Formal / Matemático | Sistemas axiomáticos, propriedades formais | Rigor matemático, sistemas brasileiros |
 | *Paraconsistent Logic: Theory and Applications* (Tanaka et al.) | Aplicado / Computacional | Aplicações em IA, bancos de dados | Ênfase em exemplos práticos e implementação |
 | *Handbook of Paraconsistency* (Béziau, Carnielli & Gabbay) | Histórico / Interdisciplinar | Visão panorâmica, múltiplas áreas | Diversidade de perspectivas e autores |
 
----
+
 
 ### **Considerações Finais**
 
 A comparação entre as diferentes abordagens apresentadas nos livros clássicos revela a riqueza e a complexidade do campo da lógica paraconsistente. Enquanto algumas obras enfatizam os fundamentos filosóficos e matemáticos, outras destacam aplicações práticas e conexões interdisciplinares. Para o leitor interessado em aprofundar seus estudos, recomenda-se explorar essas diferentes perspectivas, pois cada uma oferece insights valiosos e complementares sobre como lidar com contradições de maneira rigorosa e produtiva.
 
-```

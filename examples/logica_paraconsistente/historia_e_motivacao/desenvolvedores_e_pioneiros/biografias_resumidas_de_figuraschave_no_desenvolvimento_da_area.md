@@ -5,7 +5,7 @@
 
 A Lógica Paraconsistente é fruto do trabalho de diversos pensadores que, ao longo do século XX, buscaram alternativas à lógica clássica para lidar com contradições de maneira não trivial. A seguir, apresentamos biografias resumidas de algumas das figuras-chave no desenvolvimento desta área.
 
----
+___
 
 ### **Newton da Costa (1929-)**
 
@@ -17,7 +17,7 @@ Newton Carneiro Affonso da Costa é amplamente reconhecido como o principal fund
 - "Sistemas Formais Inconsistentes" (1963)
 - "Lógica Paraconsistente: Essencial" (com Décio Krause)
 
----
+___
 
 ### **Stanley Priest (1943-)**
 
@@ -29,7 +29,7 @@ Graham Priest é um dos mais influentes lógicos contemporâneos e um dos princi
 - "In Contradiction: A Study of the Transconsistent" (1987)
 - "An Introduction to Non-Classical Logic" (2001)
 
----
+___
 
 ### **Jean-Yves Béziau (1965-)**
 
@@ -41,7 +41,7 @@ Jean-Yves Béziau é um lógico e filósofo que contribuiu significativamente pa
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (editor, 2002)
 - Diversos artigos sobre lógica paraconsistente e não clássica
 
----
+___
 
 ### **Florencio Asenjo (1926-2013)**
 
@@ -49,7 +49,7 @@ Jean-Yves Béziau é um lógico e filósofo que contribuiu significativamente pa
 **Principais Contribuições:**  
 Florencio Asenjo foi um matemático e lógico que, independentemente de da Costa, desenvolveu sistemas lógicos capazes de lidar com contradições. Seu trabalho, publicado nos anos 1960, antecipou algumas ideias fundamentais da lógica paraconsistente, embora tenha recebido menos reconhecimento internacional. Asenjo também contribuiu para a lógica matemática e para a filosofia da lógica.
 
----
+___
 
 ### **Nuel Belnap (1930-)**
 
@@ -60,9 +60,9 @@ Nuel Belnap é conhecido por seu trabalho em lógicas de múltiplos valores e po
 **Obras de destaque:**  
 - "A Useful Four-Valued Logic" (1977, com J. Michael Dunn)
 
----
+___
 
 ## **Considerações Finais**
 
 O desenvolvimento da lógica paraconsistente é resultado do esforço coletivo de matemáticos, filósofos e cientistas da computação de diferentes países. As contribuições desses pioneiros permitiram que a lógica paraconsistente se tornasse uma área consolidada, com aplicações práticas e relevância teórica em diversos campos do conhecimento.
-```
+

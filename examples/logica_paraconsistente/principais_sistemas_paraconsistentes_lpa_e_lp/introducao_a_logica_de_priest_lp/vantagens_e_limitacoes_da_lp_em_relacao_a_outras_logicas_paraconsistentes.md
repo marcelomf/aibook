@@ -5,7 +5,7 @@ A **Lógica de Priest (LP)**, também conhecida como **Lógica Paraconsistente d
 
 Neste tópico, analisamos as principais **vantagens** e **limitações** da LP em comparação com outros sistemas de lógica paraconsistente, como a **Lógica Paraconsistente Anotada (LPA)**, a **Lógica da Tolerância à Contradição (da Costa)**, entre outras.
 
----
+
 
 ### Vantagens da Lógica de Priest (LP)
 
@@ -21,7 +21,7 @@ A LP é especialmente útil em contextos onde contradições podem ocorrer local
 #### 4. **Base para o Desenvolvimento de Outras Lógicas Paraconsistentes**
 A LP serviu de inspiração e base para o desenvolvimento de outros sistemas paraconsistentes, como lógicas trivalentes e quadri-valentes, além de influenciar pesquisas em lógica relevante e lógica dialeteísta.
 
----
+
 
 ### Limitações da Lógica de Priest (LP)
 
@@ -37,23 +37,23 @@ A LP, em sua forma original, não integra conceitos de incerteza probabilística
 #### 4. **Menor Adoção em Aplicações Industriais**
 Apesar de sua importância teórica, a LP é menos utilizada em aplicações industriais e comerciais quando comparada à LPA, especialmente no Brasil, onde a LPA foi amplamente adotada em sistemas de automação, controle e diagnóstico.
 
----
+
 
 ### Comparação Resumida
 
 | Característica                | LP (Lógica de Priest) | LPA (Lógica Paraconsistente Anotada) | Lógicas de da Costa |
-|-------------------------------|-----------------------|---------------------------------------|---------------------|
+|-|--|||
 | Simplicidade Formal           | Alta                  | Média                                 | Média               |
 | Grau de Expressividade        | Baixo                 | Alto                                  | Médio               |
 | Tratamento de Contradições    | Uniforme              | Anotado (graus)                       | Classificável       |
 | Integração com Incerteza      | Baixa                 | Alta                                  | Média               |
 | Aplicações Práticas           | Moderada              | Alta                                  | Moderada            |
 
----
+
 
 ### Considerações Finais
 
 A **Lógica de Priest (LP)** é uma ferramenta poderosa para o tratamento de contradições, especialmente em contextos teóricos e em situações onde a simplicidade e a proximidade com a lógica clássica são desejáveis. No entanto, para aplicações que exigem maior expressividade, controle refinado de inconsistências ou integração com incerteza quantitativa, outros sistemas paraconsistentes, como a LPA, podem ser mais vantajosos.
 
 A escolha do sistema lógico mais adequado depende, portanto, das necessidades específicas do problema a ser resolvido e das características do domínio de aplicação.
-```
+

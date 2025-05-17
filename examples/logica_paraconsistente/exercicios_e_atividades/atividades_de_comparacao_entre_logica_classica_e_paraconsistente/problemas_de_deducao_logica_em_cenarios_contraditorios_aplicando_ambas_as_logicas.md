@@ -2,7 +2,7 @@
 
 A dedução lógica é uma das ferramentas fundamentais para o raciocínio formal, tomada de decisão e resolução de problemas em diversas áreas do conhecimento. No entanto, quando nos deparamos com informações contraditórias, a abordagem tradicional da lógica clássica pode se mostrar inadequada. Neste tópico, vamos explorar como a lógica clássica e a lógica paraconsistente tratam problemas de dedução em cenários contraditórios, destacando suas diferenças, limitações e vantagens.
 
----
+
 
 ## 1. Lógica Clássica: O Princípio da Explosão
 
@@ -26,7 +26,7 @@ Se ambas forem assumidas como verdadeiras em um sistema clássico, podemos deduz
 
 **Conclusão:** O sistema clássico não tolera contradições; qualquer dedução se torna possível, tornando o sistema inútil para raciocínio prático em ambientes contraditórios.
 
----
+
 
 ## 2. Lógica Paraconsistente: Controle da Contradição
 
@@ -47,7 +47,7 @@ Na lógica paraconsistente, a presença simultânea de P e ¬P **não implica** 
 
 **Conclusão:** A lógica paraconsistente permite continuar raciocinando de forma útil, mesmo diante de informações contraditórias.
 
----
+
 
 ## 3. Aplicação Prática: Banco de Dados Inconsistentes
 
@@ -70,7 +70,7 @@ Um banco de dados de clientes apresenta as seguintes informações:
 - Consultas podem retornar: "Informação contraditória: crédito aprovado e negado."
 - Outras operações no banco de dados, não relacionadas ao crédito de João, continuam funcionando normalmente.
 
----
+
 
 ## 4. Exercício Proposto
 
@@ -86,13 +86,13 @@ Pergunta: "É seguro acionar o alarme de porta aberta?"
 - **Na lógica clássica:** O sistema não pode decidir de forma confiável, pois a contradição permite deduzir qualquer coisa, inclusive que a porta está aberta e fechada ao mesmo tempo.
 - **Na lógica paraconsistente:** O sistema pode sinalizar a presença de informações contraditórias e acionar um protocolo específico para resolução de conflitos, sem tomar decisões precipitadas baseadas em deduções inválidas.
 
----
+
 
 ## 5. Conclusão
 
 A comparação entre lógica clássica e lógica paraconsistente em cenários contraditórios evidencia a importância das lógicas não clássicas para aplicações práticas. Enquanto a lógica clássica é poderosa em ambientes consistentes, ela falha diante de contradições. Já a lógica paraconsistente oferece mecanismos para lidar com inconsistências de forma controlada, permitindo deduções úteis e seguras em sistemas complexos e sujeitos a falhas ou informações conflitantes.
 
----
+
 
 **Sugestão de Atividade:**  
 Crie um cenário contraditório em sua área de interesse (por exemplo, medicina, direito, engenharia) e analise como a dedução lógica se comporta sob a lógica clássica e sob a lógica paraconsistente. Discuta as implicações práticas de cada abordagem.

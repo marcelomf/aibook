@@ -29,7 +29,7 @@ A modelagem de dados para suportar inconsistências controladas baseia-se em alg
 Uma das abordagens mais utilizadas é a Lógica Paraconsistente Anotada (LPA), que associa a cada fato um par de valores (μ, λ), representando, respectivamente, o grau de evidência favorável e desfavorável àquele fato. Por exemplo:
 
 | Cliente | Ativo (μ) | Inativo (λ) |
-|---------|-----------|-------------|
+|_________|_________--|____________-|
 | João    | 0.8       | 0.2         |
 | Maria   | 0.5       | 0.5         |
 
@@ -41,7 +41,7 @@ Uma das abordagens mais utilizadas é a Lógica Paraconsistente Anotada (LPA), q
 Outra técnica é permitir múltiplos valores para um mesmo atributo, cada um associado a uma fonte ou contexto. Por exemplo:
 
 | Produto | Preço | Fonte      |
-|---------|-------|------------|
+|_________|______-|____________|
 | X       | 100   | Sistema A  |
 | X       | 120   | Sistema B  |
 
@@ -52,7 +52,7 @@ O sistema pode registrar ambos os valores e, ao consultar, informar a existênci
 A tabela pode incluir campos adicionais para indicar o estado lógico do registro:
 
 | Pedido | Status   | Estado Lógico   |
-|--------|----------|-----------------|
+|______--|_________-|_______________--|
 | 123    | Enviado  | Consistente     |
 | 124    | Pendente | Inconsistente   |
 
@@ -100,10 +100,10 @@ Essa consulta retorna apenas clientes com alta evidência de estarem ativos e ba
 
 A modelagem de dados para suportar inconsistências controladas, fundamentada na lógica paraconsistente, representa um avanço significativo para sistemas que precisam operar em ambientes complexos e dinâmicos. Ao permitir a representação explícita de conflitos e incertezas, esses modelos tornam os bancos de dados mais resilientes, transparentes e úteis para a tomada de decisão, especialmente em aplicações críticas e de grande escala.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  
 - "Paraconsistent Databases" – Walter Carnielli et al.  
 - "An Introduction to Paraconsistent Logics" – Koji Tanaka et al.
-```
+

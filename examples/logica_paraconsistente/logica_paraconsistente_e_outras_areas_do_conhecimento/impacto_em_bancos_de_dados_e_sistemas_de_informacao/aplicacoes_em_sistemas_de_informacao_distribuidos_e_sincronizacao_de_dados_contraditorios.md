@@ -61,8 +61,8 @@ Nesses cenários, a lógica paraconsistente permite:
 
 A aplicação da lógica paraconsistente em sistemas de informação distribuídos representa um avanço significativo na gestão de dados contraditórios. Ao permitir que sistemas continuem operando de maneira útil mesmo diante de inconsistências, a lógica paraconsistente contribui para a robustez, flexibilidade e confiabilidade de soluções modernas em bancos de dados, computação em nuvem, colaboração online e muitos outros domínios. O desenvolvimento de ferramentas e frameworks que incorporem princípios paraconsistentes é uma tendência promissora para o futuro dos sistemas de informação.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Paraconsistency and Data Integration*. In: *Handbook of Logical Thought in India*. Springer.
-```
+

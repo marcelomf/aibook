@@ -80,14 +80,14 @@ A aplicação da lógica paraconsistente em bancos de dados empresariais permite
 **Exercício Proposto:**  
 Escolha um banco de dados de sua área de atuação e identifique possíveis situações de contradição. Proponha um modelo de anotação paraconsistente para esses dados e descreva como as consultas e decisões poderiam ser aprimoradas com essa abordagem.
 
----
+
 
 **Sugestão de Leitura:**  
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*.
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*.
 - Batens, D. (2007). Adaptive Logics and Dynamic Proofs. *Logic and Logical Philosophy*.
 
----
+
 
 **Resumo:**  
 A lógica paraconsistente oferece soluções práticas e teóricas para o tratamento de dados contraditórios em bancos de dados empresariais, promovendo maior robustez, transparência e eficiência nos processos de tomada de decisão.

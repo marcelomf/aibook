@@ -27,7 +27,7 @@ A Lógica Paraconsistente permite que o sistema reconheça e trate contradiçõe
 Imagine uma eleição eletrônica com três urnas (U1, U2, U3) e um servidor central. Após o encerramento da votação, os registros são os seguintes:
 
 | Urna | Votos para Candidato A | Votos para Candidato B |
-|------|-----------------------|-----------------------|
+|______|_____________________--|_____________________--|
 | U1   | 120                   | 80                    |
 | U2   | 130                   | 70                    |
 | U3   | 125                   | 75                    |
@@ -63,4 +63,4 @@ Aqui, há uma inconsistência entre o registro local da U3 e o recebido pelo ser
 ## Considerações Finais
 
 O uso da Lógica Paraconsistente em sistemas de votação eletrônica representa um avanço significativo na robustez e confiabilidade desses sistemas. Ao permitir o tratamento controlado de inconsistências, garante-se que o processo eleitoral seja mais seguro, transparente e confiável, mesmo diante de falhas inevitáveis em sistemas complexos. Este exemplo ilustra como a lógica paraconsistente pode ser aplicada de forma prática para resolver problemas reais, reforçando sua importância em aplicações críticas da sociedade moderna.
-```
+

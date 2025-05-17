@@ -41,7 +41,7 @@ A LPA permite calcular dois indicadores importantes a partir dos graus de certez
 ## 4. Exemplos Práticos
 
 | Proposição | μ (Certeza) | λ (Falsidade) | Interpretação                  | \( G_{inc} \) | \( G_{cer} \) |
-|------------|-------------|---------------|-------------------------------|---------------|---------------|
+||-||-|||
 | P1         | 1.0         | 0.0           | Verdadeira                    | 0.0           | 1.0           |
 | P2         | 0.0         | 1.0           | Falsa                         | 0.0           | -1.0          |
 | P3         | 0.7         | 0.2           | Parcialmente verdadeira        | 0.2           | 0.5           |
@@ -67,11 +67,11 @@ A LPA permite calcular dois indicadores importantes a partir dos graus de certez
 
 A representação de graus de certeza, falsidade e inconsistência na LPA é um dos principais avanços da lógica paraconsistente, permitindo que sistemas computacionais e humanos possam raciocinar de forma mais robusta diante de informações contraditórias ou incertas. Essa abordagem tem se mostrado fundamental em aplicações práticas, como diagnóstico médico, sistemas especialistas, fusão de dados e resolução de conflitos em bancos de dados.
 
----
+
 
 **Referências:**
 
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics: Consistency, contradiction and negation. *Notre Dame Journal of Formal Logic*, 34(4), 573-584.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. In *Frontiers of paraconsistent logic* (pp. 49-73). Research Studies Press.
 - Silva Filho, J. I. (2005). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Unesp.
-```
+

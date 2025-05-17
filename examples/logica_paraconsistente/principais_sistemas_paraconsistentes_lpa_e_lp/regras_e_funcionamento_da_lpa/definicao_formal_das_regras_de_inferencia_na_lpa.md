@@ -5,7 +5,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais estudados de
 
 Neste tópico, apresentamos a definição formal das regras de inferência na LPA, com ênfase na LPA de dois valores anotados, conhecida como **LPA$_{2v}$**.
 
----
+
 
 ## 1. Estrutura Básica da LPA
 
@@ -16,7 +16,7 @@ Na LPA, cada proposição é associada a um **par ordenado de valores** (anotaç
 
 Uma proposição $P$ é então representada como $P_{(\mu, \lambda)}$.
 
----
+
 
 ## 2. Semântica das Anotações
 
@@ -28,7 +28,7 @@ As anotações permitem classificar o estado lógico de uma proposição:
 - **Indefinido**: $\mu = 0$ e $\lambda = 0$
 - **Parcialmente verdadeiro/falso**: $0 < \mu, \lambda < 1$
 
----
+
 
 ## 3. Regras de Inferência na LPA
 
@@ -68,7 +68,7 @@ $$
 
 Outras definições podem ser adotadas, dependendo da aplicação.
 
----
+
 
 ## 4. Inferência Paraconsistente
 
@@ -85,7 +85,7 @@ Então:
 
 - $P \wedge Q = (\min(0.8, 0.6), \max(0.2, 0.4)) = (0.6, 0.4)$
 
----
+
 
 ## 5. Regras Formais de Dedução
 
@@ -95,7 +95,7 @@ A dedução na LPA segue um **cálculo natural** adaptado, onde cada passo de in
 - **Modus Ponens Paraconsistente**: Se $P_{(\mu_1, \lambda_1)}$ e $(P \rightarrow Q)_{(\mu_2, \lambda_2)}$, então $Q_{(\min(\mu_1, \mu_2), \max(\lambda_1, \lambda_2))}$.
 - **Negações**: conforme a operação de negação.
 
----
+
 
 ## 6. Propriedades Importantes
 
@@ -103,17 +103,17 @@ A dedução na LPA segue um **cálculo natural** adaptado, onde cada passo de in
 - **Grau de certeza**: Pode-se definir o grau de certeza de $P$ como $G_c(P) = \mu - \lambda$.
 - **Grau de contradição**: $G_{ct}(P) = \min(\mu, \lambda)$.
 
----
+
 
 ## 7. Conclusão
 
 A LPA oferece um conjunto formal de regras de inferência que permite manipular proposições com diferentes graus de evidência, possibilitando o raciocínio mesmo diante de contradições. Suas regras são fundamentais para aplicações em sistemas de decisão, bancos de dados inconsistentes e inteligência artificial, onde a informação pode ser incerta ou conflituosa.
 
----
+
 
 **Referências:**
 
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics: Consistency, Contradiction and Negation. In *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. In *Frontiers of Paraconsistent Logic*.
 - Silva Filho, J. I. (1999). *Lógica Paraconsistente Anotada: fundamentos e aplicações*. Editora da Unesp.
-```
+

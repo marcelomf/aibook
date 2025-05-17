@@ -3,7 +3,7 @@
 
 A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos e aplicados dentro do campo da lógica paraconsistente. Seu principal objetivo é permitir o raciocínio em ambientes onde informações contraditórias podem surgir, sem que isso leve à trivialização do sistema lógico. Para isso, a LPA dispõe de mecanismos específicos para **detecção** e **tratamento de inconsistências**. Este tópico explora esses mecanismos, detalhando como a LPA identifica e lida com contradições de maneira controlada e produtiva.
 
----
+
 
 ## 1. Detecção de Inconsistências na LPA
 
@@ -27,7 +27,7 @@ Uma proposição é considerada **inconsistente** quando ambos os valores \(\mu\
 
 Em sistemas computacionais baseados em LPA, a detecção de inconsistências pode ser feita automaticamente por meio de regras que avaliam os pares \((\mu, \lambda)\) de cada proposição. Quando ambos os valores ultrapassam um determinado limiar (por exemplo, 0,7), o sistema sinaliza a presença de inconsistência.
 
----
+
 
 ## 2. Tratamento de Inconsistências na LPA
 
@@ -60,7 +60,7 @@ Em aplicações práticas, podem ser adotadas estratégias adicionais, como:
 - **Priorização de fontes**: Atribuir pesos diferentes às fontes de informação, favorecendo aquelas consideradas mais confiáveis.
 - **Adoção de políticas de decisão**: Definir regras para agir em situações de inconsistência, como optar pela suspensão da decisão ou pela escolha do valor mais conservador.
 
----
+
 
 ## 3. Exemplo Prático
 
@@ -76,7 +76,7 @@ Neste caso:
 
 O sistema detecta uma inconsistência significativa, pois há fortes evidências nos dois sentidos. O tratamento pode envolver a busca de mais informações, a análise da confiabilidade das fontes ou a suspensão temporária da decisão até que a contradição seja resolvida.
 
----
+
 
 ## 4. Vantagens dos Mecanismos da LPA
 
@@ -84,11 +84,10 @@ O sistema detecta uma inconsistência significativa, pois há fortes evidências
 - **Flexibilidade**: Adapta-se a diferentes contextos e níveis de incerteza.
 - **Transparência**: Torna explícito o grau de contradição, facilitando a análise e a tomada de decisão.
 
----
+
 
 ## 5. Considerações Finais
 
 Os mecanismos de detecção e tratamento de inconsistências na LPA são fundamentais para sua aplicação em áreas como bancos de dados, inteligência artificial e sistemas de apoio à decisão. Ao permitir a convivência controlada com contradições, a LPA amplia significativamente as possibilidades do raciocínio lógico em ambientes reais, onde a informação perfeita e livre de conflitos raramente está disponível.
 
----
-```
+

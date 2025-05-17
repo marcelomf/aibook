@@ -5,7 +5,7 @@ A tomada de decisão é um processo central em diversas áreas do conhecimento, 
 
 A **Lógica Paraconsistente** surge como uma abordagem inovadora para enfrentar esse desafio, permitindo que sistemas de apoio à decisão operem de maneira robusta mesmo diante de inconsistências nos dados. A seguir, exploramos como a lógica paraconsistente é aplicada na prática em SADs, destacando seus benefícios, exemplos de uso e perspectivas futuras.
 
----
+___
 
 ## 1. Desafios na Tomada de Decisão com Dados Contraditórios
 
@@ -17,7 +17,7 @@ Em ambientes reais, é comum que diferentes fontes de informação apresentem da
 
 Na lógica clássica, a presença de uma contradição pode levar à trivialização do sistema, ou seja, qualquer conclusão pode ser inferida a partir de uma contradição (princípio da explosão). Isso inviabiliza a tomada de decisão confiável.
 
----
+___
 
 ## 2. Como a Lógica Paraconsistente Atua em SADs
 
@@ -27,7 +27,7 @@ A lógica paraconsistente permite que sistemas de apoio à decisão:
 - **Atribuam graus de confiança:** Utilizando, por exemplo, a Lógica Paraconsistente Anotada (LPA), é possível associar a cada informação um grau de certeza e um grau de contradição, permitindo decisões mais nuançadas.
 - **Evitem decisões triviais:** O sistema não colapsa diante de inconsistências, mantendo a capacidade de raciocinar e sugerir alternativas viáveis.
 
----
+___
 
 ## 3. Exemplos de Aplicações Práticas
 
@@ -55,7 +55,7 @@ No contexto empresarial, relatórios de diferentes departamentos podem ser confl
 - Gerar recomendações estratégicas mesmo quando os dados não são totalmente consistentes.
 - Apoiar decisões de investimento, produção ou marketing com maior resiliência a falhas informacionais.
 
----
+___
 
 ## 4. Benefícios e Limitações
 
@@ -68,21 +68,21 @@ No contexto empresarial, relatórios de diferentes departamentos podem ser confl
 - **Complexidade:** Implementar sistemas paraconsistentes pode exigir maior esforço computacional e conhecimento especializado.
 - **Interpretação:** Os resultados podem ser menos intuitivos para usuários não familiarizados com lógica não clássica.
 
----
+___
 
 ## 5. Perspectivas Futuras
 
 Com o aumento do volume e da diversidade de dados disponíveis para a tomada de decisão, a tendência é que a lógica paraconsistente se torne cada vez mais relevante em SADs. Pesquisas atuais buscam integrar a lógica paraconsistente com técnicas de inteligência artificial, aprendizado de máquina e big data, ampliando ainda mais seu potencial de aplicação.
 
----
+___
 
 ## 6. Conclusão
 
 A lógica paraconsistente representa um avanço significativo para sistemas de apoio à decisão, especialmente em ambientes onde a inconsistência informacional é inevitável. Ao permitir o tratamento controlado de contradições, ela amplia a confiabilidade e a utilidade desses sistemas, contribuindo para decisões mais informadas e seguras em diversos campos do conhecimento.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógica Paraconsistente*.  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

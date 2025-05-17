@@ -77,8 +77,8 @@ Por outro lado, em ambientes onde a consistência dos dados é garantida, a lóg
 - **da Costa, N. C. A. (1974). "On the Theory of Inconsistent Formal Systems."**  
 - **Carnielli, W. A., & Coniglio, M. E. (2016). "Paraconsistent Logic: Consistency, Contradiction and Negation."**
 
----
+
 
 > **Exercício Final:**  
 > Escolha um dos cenários acima, implemente um protótipo simples (pode ser em pseudocódigo) e escreva um relatório comparando os resultados obtidos com lógica clássica e paraconsistente. Analise os pontos fortes e fracos de cada abordagem no contexto escolhido.
-```
+

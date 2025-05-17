@@ -3,7 +3,7 @@
 
 A capacidade de lidar com inconsistências é um dos aspectos centrais que diferenciam a lógica clássica das lógicas paraconsistentes, como a Lógica Paraconsistente Anotada (LPA) e a Lógica de Priest (LP). Neste tópico, exploramos como cada um desses sistemas lida com situações em que informações contraditórias estão presentes, destacando suas abordagens, limitações e aplicações práticas.
 
----
+
 
 ## Lógica Clássica: O Princípio da Explosão
 
@@ -20,7 +20,7 @@ A, ¬A ⊢ B
 **Exemplo:**
 Se um banco de dados armazena que "João está presente" (`P`) e "João não está presente" (`¬P`), a lógica clássica permite concluir que "A Lua é feita de queijo" ou qualquer outra proposição absurda.
 
----
+
 
 ## Lógica Paraconsistente Anotada (LPA)
 
@@ -39,7 +39,7 @@ Se para a proposição "João está presente" temos μ = 0,8 (evidência favorá
 - Sistemas especialistas
 - Diagnóstico médico com informações conflitantes
 
----
+
 
 ## Lógica de Priest (LP)
 
@@ -58,17 +58,17 @@ Se "João está presente" e "João não está presente" são ambos verdadeiros, 
 - Sistemas de raciocínio automático
 - Filosofia da lógica
 
----
+
 
 ## Comparação Resumida
 
 | Sistema           | Princípio da Explosão | Tratamento de Contradições | Aplicações Típicas                  |
-|-------------------|----------------------|---------------------------|-------------------------------------|
+|-|-||-|
 | Lógica Clássica   | Sim                  | Não tolera                | Matemática, computação tradicional  |
 | LPA               | Não                  | Tolera e quantifica       | IA, bancos de dados, diagnóstico    |
 | LP                | Não                  | Tolera (sem quantificar)  | Filosofia, raciocínio automático    |
 
----
+
 
 ## Considerações Finais
 
@@ -76,5 +76,4 @@ A capacidade de tratamento de inconsistências é o grande diferencial das lógi
 
 O entendimento dessas diferenças é essencial para a escolha do sistema lógico mais adequado a cada problema, especialmente em áreas como inteligência artificial, bancos de dados e sistemas de apoio à decisão.
 
----
-```
+

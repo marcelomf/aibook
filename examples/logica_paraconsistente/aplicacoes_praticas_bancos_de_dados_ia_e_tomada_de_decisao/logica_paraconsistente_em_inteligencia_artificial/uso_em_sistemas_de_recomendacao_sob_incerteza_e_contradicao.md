@@ -7,7 +7,7 @@ Os sistemas de recomendação são componentes essenciais em plataformas digitai
 
 A **lógica paraconsistente** surge como uma poderosa ferramenta para lidar com esses desafios, permitindo que sistemas de recomendação operem de maneira robusta mesmo diante de inconsistências, sem que isso comprometa a qualidade das sugestões oferecidas.
 
----
+___
 
 ### Desafios dos Sistemas de Recomendação
 
@@ -19,7 +19,7 @@ Os principais desafios enfrentados por sistemas de recomendação incluem:
 
 Na lógica clássica, a presença de uma contradição pode levar à trivialidade, ou seja, qualquer conclusão pode ser inferida a partir de uma premissa contraditória (princípio da explosão). Isso inviabiliza a tomada de decisão confiável em ambientes reais, onde a inconsistência é comum.
 
----
+___
 
 ### Como a Lógica Paraconsistente Ajuda
 
@@ -39,7 +39,7 @@ Com a lógica paraconsistente, o sistema pode:
 - Utilizar operadores paraconsistentes para calcular uma recomendação que reflita a existência do conflito, talvez sugerindo o filme apenas para usuários com perfis semelhantes aos que deram avaliações positivas, ou alertando sobre a polarização das opiniões.
 - Manter a integridade do sistema, sem descartar informações potencialmente valiosas.
 
----
+___
 
 ### Modelos Paraconsistentes em Sistemas de Recomendação
 
@@ -56,7 +56,7 @@ No contexto de sistemas de recomendação, cada avaliação, comentário ou dado
 - **Ajuste o peso das recomendações** conforme o grau de confiabilidade das informações.
 - **Ofereça recomendações personalizadas** mesmo em cenários de dados conflitantes.
 
----
+___
 
 ### Vantagens e Limitações
 
@@ -69,16 +69,16 @@ No contexto de sistemas de recomendação, cada avaliação, comentário ou dado
 - Maior complexidade computacional em relação a sistemas baseados em lógica clássica.
 - Necessidade de definir critérios claros para atribuição dos graus de certeza e contradição.
 
----
+___
 
 ### Conclusão
 
 A aplicação da lógica paraconsistente em sistemas de recomendação representa um avanço significativo na inteligência artificial, permitindo que esses sistemas sejam mais tolerantes a incertezas e contradições, características inerentes aos dados do mundo real. Ao incorporar mecanismos para lidar explicitamente com conflitos de informação, os sistemas de recomendação tornam-se mais confiáveis, flexíveis e alinhados às necessidades dos usuários.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics in Knowledge Representation."
 - Batens, D. (2000). "A survey of inconsistency-adaptive logics."
 - Santos, P. S., & Abe, J. M. (2010). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

@@ -71,5 +71,4 @@ A implementação da lógica paraconsistente em sistemas de controle industrial 
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Lógica Paraconsistente*.
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
----
-```
+

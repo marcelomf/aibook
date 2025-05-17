@@ -34,7 +34,7 @@ Apesar de seu potencial, a adoção da lógica paraconsistente na matemática en
 
 A lógica paraconsistente representa uma mudança de paradigma na filosofia da matemática, ao permitir a existência de sistemas matemáticos robustos mesmo diante de contradições. Ela amplia as possibilidades de investigação filosófica e matemática, promovendo uma abordagem mais flexível e realista diante dos desafios inerentes à fundamentação da matemática. Como campo em expansão, a lógica paraconsistente convida matemáticos, filósofos e cientistas da computação a repensarem os limites e as potencialidades do raciocínio formal.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógica Paraconsistente: Introdução e Aplicações"

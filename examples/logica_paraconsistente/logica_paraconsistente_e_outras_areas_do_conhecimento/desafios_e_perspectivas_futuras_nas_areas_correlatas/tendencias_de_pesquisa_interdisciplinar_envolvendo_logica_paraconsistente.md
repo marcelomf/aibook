@@ -52,7 +52,7 @@ Pesquisas matemáticas têm aprofundado o estudo das propriedades formais das l�
 - **Teoria dos modelos paraconsistentes:** Análise de modelos matemáticos que acomodam contradições.
 - **Lógicas híbridas:** Combinação de lógica paraconsistente com outras lógicas não clássicas, como lógica fuzzy e lógica modal.
 
----
+___
 
 ## **Perspectivas Futuras**
 
@@ -65,4 +65,4 @@ As perspectivas futuras apontam para:
 - **Expansão do ensino e divulgação da lógica paraconsistente** em currículos de graduação e pós-graduação, fomentando a formação de novos pesquisadores interdisciplinares.
 
 Em suma, a pesquisa interdisciplinar envolvendo lógica paraconsistente está em franca expansão, abrindo novas fronteiras para o tratamento de contradições e incertezas em múltiplos domínios do conhecimento.
-```
+

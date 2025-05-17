@@ -24,7 +24,7 @@ Ao projetar um esquema de banco de dados tolerante a inconsistências, é fundam
 **Exemplo de tabela paraconsistente:**
 
 | id | nome      | status      | evidência_verdadeiro | evidência_falso |
-|----|-----------|-------------|---------------------|-----------------|
+|-|--|-||--|
 | 1  | João      | Ativo       | 0.8                 | 0.1             |
 | 2  | Maria     | Inativo     | 0.6                 | 0.6             |
 | 3  | Pedro     | Ativo       | 0.4                 | 0.7             |
@@ -86,7 +86,7 @@ O sistema pode implementar políticas automáticas ou semiautomáticas para reso
 
 **Desenvolva um esquema de banco de dados para um sistema de cadastro de clientes que permita armazenar e consultar informações contraditórias sobre o status de cada cliente. Implemente mecanismos para anotar o grau de certeza de cada informação e elabore consultas que retornem apenas os registros com baixa contradição.**
 
----
+
 
 O desenvolvimento de esquemas de bancos de dados tolerantes a inconsistências, fundamentado na lógica paraconsistente, representa um avanço significativo para aplicações que exigem flexibilidade e resiliência diante de informações imperfeitas. Ao adotar essas técnicas, profissionais e pesquisadores podem construir sistemas mais adaptáveis e confiáveis em cenários do mundo real.
-```
+

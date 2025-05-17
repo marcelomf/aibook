@@ -3,7 +3,7 @@
 
 A construção de tabelas verdade é uma das principais ferramentas para análise e compreensão de sistemas lógicos. No contexto da **Lógica Paraconsistente**, as tabelas verdade desempenham um papel fundamental para visualizar como as proposições se comportam diante de contradições e inconsistências, diferentemente da lógica clássica. Com o avanço da computação, diversas ferramentas e softwares foram desenvolvidos para auxiliar estudantes, pesquisadores e profissionais na construção e análise de tabelas verdade paraconsistentes. A seguir, apresentamos algumas das principais opções disponíveis, suas características e dicas de uso.
 
----
+
 
 ## 1. **Paraconsistent Logic Analyzer (PLA)**
 
@@ -17,7 +17,7 @@ O **Paraconsistent Logic Analyzer** é uma ferramenta acadêmica desenvolvida pa
 
 - **Onde encontrar:** Disponível para download em [https://paraconsistentlogic.org/pla](https://paraconsistentlogic.org/pla) (projeto acadêmico, gratuito).
 
----
+
 
 ## 2. **Logicamente (WebApp)**
 
@@ -31,7 +31,7 @@ O **Logicamente** é uma plataforma online brasileira voltada ao ensino de lógi
 
 - **Onde encontrar:** [https://logicamente.com.br](https://logicamente.com.br)
 
----
+
 
 ## 3. **Prover9/Mace4 com Extensões Paraconsistentes**
 
@@ -44,7 +44,7 @@ O **Prover9** e o **Mace4** são ferramentas clássicas para automação de prov
 
 - **Onde encontrar:** [https://www.cs.unm.edu/~mccune/prover9/](https://www.cs.unm.edu/~mccune/prover9/)
 
----
+
 
 ## 4. **Lógica Paraconsistente Anotada (LPA) Toolbox (Matlab/Octave)**
 
@@ -57,7 +57,7 @@ Para quem utiliza Matlab ou Octave, há toolboxes desenvolvidos para manipulaç�
 
 - **Onde encontrar:** Disponível em repositórios acadêmicos e no [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/).
 
----
+
 
 ## 5. **Ferramentas de Código Aberto e Scripts Personalizados**
 
@@ -72,7 +72,7 @@ Além das ferramentas dedicadas, é possível construir tabelas verdade paracons
   - Possibilidade de integração com outras ferramentas e bancos de dados.
   - Comunidade ativa para suporte e desenvolvimento.
 
----
+
 
 ## **Dicas para Escolher a Ferramenta Adequada**
 
@@ -81,11 +81,10 @@ Além das ferramentas dedicadas, é possível construir tabelas verdade paracons
 - **Integração:** Considere se há necessidade de integração com outros sistemas ou exportação de resultados.
 - **Documentação e suporte:** Prefira ferramentas com boa documentação e comunidade ativa.
 
----
+
 
 ## **Conclusão**
 
 O estudo da lógica paraconsistente é enriquecido pelo uso de ferramentas que facilitam a construção e análise de tabelas verdade. Seja por meio de softwares dedicados, plataformas online ou scripts personalizados, essas ferramentas permitem explorar de forma prática os conceitos teóricos, analisar casos reais e desenvolver aplicações inovadoras em áreas como inteligência artificial, bancos de dados e sistemas de decisão. Recomenda-se experimentar diferentes opções e escolher aquela que melhor se adapta às suas necessidades e objetivos de estudo.
 
----
-```
+

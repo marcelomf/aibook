@@ -70,9 +70,9 @@ O uso de comparadores automáticos de sistemas lógicos é uma estratégia poder
 
 À medida que a pesquisa em lógica paraconsistente avança, espera-se que novas ferramentas e plataformas surjam, tornando ainda mais acessível a comparação e a aplicação desses sistemas lógicos inovadores.
 
----
+
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
-```
+

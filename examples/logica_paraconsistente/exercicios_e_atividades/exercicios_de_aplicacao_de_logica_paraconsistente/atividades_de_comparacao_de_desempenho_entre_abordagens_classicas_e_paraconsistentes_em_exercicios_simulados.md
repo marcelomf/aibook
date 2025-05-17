@@ -35,7 +35,7 @@ Um sistema de apoio à decisão médica recebe os seguintes dados sobre um pacie
 **Discussão esperada:**  
 Na lógica clássica, a contradição entre os exames A e B pode levar à impossibilidade de um diagnóstico confiável, ou até mesmo à trivialidade. Já a lógica paraconsistente permite representar e processar a contradição, possibilitando que o sistema indique a presença de conflito e sugira ações adicionais (como repetir exames ou buscar mais informações).
 
----
+
 
 ### Exercício 2: Banco de Dados Inconsistente
 
@@ -53,7 +53,7 @@ Em um banco de dados de clientes, encontramos os seguintes registros para o mesm
 **Discussão esperada:**  
 A lógica clássica pode considerar o banco de dados inválido ou exigir a correção imediata da inconsistência. A lógica paraconsistente permite registrar e trabalhar com a contradição, possibilitando, por exemplo, que o sistema informe a existência de múltiplos endereços e solicite confirmação ao usuário.
 
----
+
 
 ### Exercício 3: Sistema de Recomendação com Opiniões Divergentes
 
@@ -71,7 +71,7 @@ Um sistema de recomendação de filmes recebe avaliações conflitantes de dois 
 **Discussão esperada:**  
 A lógica clássica pode não conseguir fornecer uma recomendação clara, ou pode ignorar uma das opiniões. A lógica paraconsistente permite representar a divergência e informar ao usuário sobre a existência de opiniões conflitantes, promovendo uma decisão mais consciente.
 
----
+
 
 ## 4. Análise de Desempenho
 
@@ -91,7 +91,7 @@ Após a resolução dos exercícios, recomenda-se que os alunos avaliem:
 
 Essas atividades permitem que os estudantes experimentem, na prática, as diferenças entre lógica clássica e paraconsistente, desenvolvendo uma compreensão mais profunda sobre quando e por que utilizar cada abordagem. O exercício comparativo é essencial para formar profissionais capazes de escolher e aplicar o sistema lógico mais adequado às necessidades de cada problema, especialmente em contextos onde a contradição é inevitável.
 
----
+
 
 **Leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.

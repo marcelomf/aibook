@@ -57,5 +57,4 @@ A aplicação de lógicas paraconsistentes em sistemas multiagente representa um
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli, João Marcos)
 - "Paraconsistent Reasoning in Multi-Agent Systems" (artigos em periódicos de Inteligência Artificial)
 
----
-```
+

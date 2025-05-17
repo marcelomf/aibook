@@ -48,4 +48,4 @@ Os resultados sugerem que a lógica paraconsistente é uma ferramenta promissora
 ### 5. Conclusão
 
 A avaliação dos estudos de caso confirma que a adoção da Lógica Paraconsistente impacta positivamente a robustez dos sistemas analisados. Ao permitir o tratamento controlado de contradições, esses sistemas tornam-se mais confiáveis, resilientes e adaptáveis, características essenciais em um mundo cada vez mais orientado por dados e sujeito a incertezas. A continuidade das pesquisas e o desenvolvimento de novas aplicações prometem ampliar ainda mais o alcance e a eficácia dessa abordagem inovadora.
-```
+

@@ -29,7 +29,7 @@ Considere um sistema de apoio à decisão médica que recebe laudos de diferente
 **Discussão:**  
 Analise os resultados e discuta em que medida a lógica paraconsistente oferece vantagens em termos de robustez e utilidade da resposta.
 
----
+
 
 ### 2.2. Integração de Bancos de Dados
 
@@ -45,7 +45,7 @@ Imagine a fusão de dois bancos de dados de clientes, onde podem existir registr
 **Discussão:**  
 Avalie a utilidade prática de cada abordagem, especialmente em contextos onde a perda de informação pode ser prejudicial.
 
----
+
 
 ### 2.3. Sistema Especialista para Diagnóstico de Falhas
 
@@ -60,7 +60,7 @@ Um sistema especialista recebe sinais de sensores industriais, que podem apresen
 **Discussão:**  
 Discuta a importância da tolerância à inconsistência em sistemas críticos e como a lógica paraconsistente pode aumentar a confiabilidade.
 
----
+
 
 ## 3. Critérios de Avaliação dos Resultados
 
@@ -80,12 +80,11 @@ A realização dessas atividades permite perceber, na prática, que a lógica pa
 > **Exercício Proposto:**  
 > Escolha um dos cenários acima, implemente as duas abordagens (clássica e paraconsistente) em uma linguagem de sua preferência (por exemplo, Python), e elabore um relatório comparando os resultados obtidos, destacando vantagens, limitações e possíveis melhorias.
 
----
+
 
 **Leitura Recomendada:**  
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*.
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*.
 - Batens, D. (2007). Adaptive logics and dynamic proof theories for defeasible reasoning. *Studia Logica*.
 
----
-```
+

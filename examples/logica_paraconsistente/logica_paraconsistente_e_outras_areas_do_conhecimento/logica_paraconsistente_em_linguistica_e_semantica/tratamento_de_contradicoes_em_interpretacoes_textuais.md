@@ -49,7 +49,7 @@ A aplicação da lógica paraconsistente em linguística e semântica pode ser f
 
 O tratamento de contradições em interpretações textuais é um desafio inerente à análise da linguagem natural. A lógica paraconsistente oferece ferramentas teóricas e práticas para lidar com essas situações de forma mais realista e eficaz, tanto em estudos linguísticos quanto em aplicações computacionais. Ao permitir a coexistência controlada de informações contraditórias, ela amplia as possibilidades de análise e compreensão dos fenômenos linguísticos, aproximando-se da complexidade do uso real da linguagem.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A. (1974). "On the theory of inconsistent formal systems."  

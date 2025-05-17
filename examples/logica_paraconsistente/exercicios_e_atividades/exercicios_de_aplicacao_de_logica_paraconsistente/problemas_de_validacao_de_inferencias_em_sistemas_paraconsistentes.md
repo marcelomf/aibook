@@ -4,7 +4,7 @@ A validação de inferências é um dos temas centrais no estudo e aplicação d
 
 A **lógica paraconsistente** foi desenvolvida justamente para evitar esse problema, permitindo que sistemas possam lidar com informações contraditórias sem colapsar em trivialidade. No entanto, essa flexibilidade traz novos desafios para a **validação de inferências**. A seguir, discutimos os principais problemas e abordagens relacionados a esse tema em sistemas paraconsistentes.
 
----
+
 
 ## 1. O que é Validação de Inferências?
 
@@ -12,7 +12,7 @@ Validar uma inferência significa determinar se, dadas certas premissas, uma con
 
 Em lógicas paraconsistentes, a noção de validade precisa ser revista, pois o sistema admite a coexistência de contradições sem que tudo se torne verdadeiro.
 
----
+
 
 ## 2. Desafios Específicos em Lógicas Paraconsistentes
 
@@ -33,7 +33,7 @@ A validação de inferências pode depender do sistema paraconsistente adotado. 
 
 A presença de contradições pode gerar ambiguidades sobre o significado das proposições e das inferências. É necessário definir claramente o que significa uma proposição ser "válida" ou "derivável" em contextos contraditórios.
 
----
+
 
 ## 3. Métodos de Validação em Sistemas Paraconsistentes
 
@@ -53,7 +53,7 @@ Em aplicações computacionais, algoritmos específicos são desenvolvidos para 
 - Propagação de anotações de certeza e contradição
 - Verificação de consistência local antes de permitir inferências
 
----
+
 
 ## 4. Exemplos Práticos
 
@@ -70,7 +70,7 @@ Em lógica clássica, qualquer consulta poderia ser respondida como verdadeira. 
 
 Um sistema recebe informações contraditórias sobre sintomas de um paciente. A validação de inferências deve garantir que apenas conclusões justificadas pelas evidências, mesmo contraditórias, sejam aceitas, sem que o sistema conclua qualquer diagnóstico arbitrário.
 
----
+
 
 ## 5. Exercício Proposto
 
@@ -82,19 +82,19 @@ Um sistema recebe informações contraditórias sobre sintomas de um paciente. A
 
 **Pergunta:** É possível inferir $B$? Justifique com base nas regras de validação de inferências da LPA.
 
----
+
 
 ## 6. Considerações Finais
 
 A validação de inferências em sistemas paraconsistentes é um campo ativo de pesquisa, fundamental para garantir a confiabilidade de aplicações que lidam com informações contraditórias. O desenvolvimento de métodos formais, algoritmos e critérios claros de validação é essencial para o avanço dessas aplicações em áreas como bancos de dados, inteligência artificial e sistemas de apoio à decisão.
 
----
+
 
 **Sugestão de leitura:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 
----
+
 
 **Resumo:**  
 A validação de inferências em lógicas paraconsistentes exige o desenvolvimento de novos critérios e métodos, pois o objetivo é permitir o raciocínio útil mesmo diante de contradições, sem incorrer em trivialidade. O estudo cuidadoso das regras de inferência e das semânticas envolvidas é fundamental para o uso seguro e eficaz desses sistemas.

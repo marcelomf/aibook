@@ -9,7 +9,7 @@ A **lógica clássica** não lida bem com contradições: a presença de uma inc
 
 Neste estudo de caso, exploramos como a lógica paraconsistente pode ser aplicada para gerenciar inconsistências em bancos de dados distribuídos, apresentando um cenário prático, a modelagem do problema e os benefícios obtidos.
 
----
+___
 
 ## Cenário Prático
 
@@ -22,7 +22,7 @@ Imagine uma rede de hospitais que compartilham um banco de dados distribuído co
 
 Se um médico acessar o sistema para tomar uma decisão clínica urgente, como uma transfusão de sangue, a presença dessas informações contraditórias pode ser crítica.
 
----
+___
 
 ## Modelagem com Lógica Paraconsistente
 
@@ -62,7 +62,7 @@ Ao invés de rejeitar toda a informação ou escolher arbitrariamente um valor, 
 
 Após a resolução da inconsistência (por exemplo, com um novo exame laboratorial), o sistema pode atualizar os graus de evidência, restaurando a consistência do dado.
 
----
+___
 
 ## Benefícios da Abordagem Paraconsistente
 
@@ -71,7 +71,7 @@ Após a resolução da inconsistência (por exemplo, com um novo exame laborator
 - **Flexibilidade:** Permite a integração de múltiplas fontes de dados, mesmo que nem sempre estejam perfeitamente sincronizadas.
 - **Base para automação:** Sistemas de decisão automatizados podem utilizar os graus de evidência para priorizar ações ou solicitar validações adicionais.
 
----
+___
 
 ## Considerações Finais
 
@@ -81,5 +81,4 @@ A aplicação da lógica paraconsistente em bancos de dados distribuídos repres
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa, Walter Carnielli  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
 
----
-```
+

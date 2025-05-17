@@ -3,7 +3,7 @@
 
 A lógica clássica, desenvolvida a partir dos trabalhos de Aristóteles e consolidada ao longo dos séculos, é fundamentada em dois princípios essenciais: o **princípio da não contradição** e o **princípio do terceiro excluído**. Estes princípios são amplamente aplicados em diversas áreas do conhecimento, servindo como base para o raciocínio dedutivo, a construção de sistemas formais e a análise de argumentos. A seguir, apresentamos exemplos clássicos de aplicação desses princípios, destacando sua importância e limitações.
 
----
+
 
 ## 1. Princípio da Não Contradição
 
@@ -22,7 +22,7 @@ Considere um sistema de diagnóstico médico baseado em lógica clássica. Supon
 
 Em sistemas de controle industrial, sensores monitoram variáveis como temperatura ou pressão. Se um sensor indica que "A temperatura está acima do limite" (\( P \)), o sistema não pode, simultaneamente, considerar que "A temperatura não está acima do limite" (\( ¬P \)).
 
----
+
 
 ## 2. Princípio do Terceiro Excluído
 
@@ -43,7 +43,7 @@ Na matemática clássica, este princípio é frequentemente utilizado em provas 
 
 Em algoritmos de decisão binária, como em circuitos digitais, cada bit pode estar em apenas um de dois estados: 0 (falso) ou 1 (verdadeiro). Não há espaço para um terceiro estado intermediário. Assim, para qualquer condição avaliada, ela é verdadeira ou falsa, nunca ambos ou nenhum.
 
----
+
 
 ## 3. Aplicações em Linguagem Natural
 
@@ -55,11 +55,10 @@ No direito, o princípio da não contradição é fundamental para a consistênc
 
 Em linguagens de programação tradicionais, estruturas condicionais (if-else) dependem desses princípios. Uma condição é avaliada como verdadeira ou falsa, e o fluxo do programa segue apenas um dos caminhos possíveis.
 
----
+
 
 ## Considerações Finais
 
 Os princípios da lógica clássica são essenciais para a construção de sistemas formais, raciocínio matemático, ciência da computação, direito e muitas outras áreas. No entanto, como discutido em capítulos posteriores deste eBook, situações envolvendo informações contraditórias ou incompletas desafiam esses princípios, motivando o desenvolvimento de lógicas alternativas, como a lógica paraconsistente.
 
----
-```
+

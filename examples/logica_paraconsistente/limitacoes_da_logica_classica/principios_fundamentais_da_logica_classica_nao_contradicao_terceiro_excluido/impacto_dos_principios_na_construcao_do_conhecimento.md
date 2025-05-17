@@ -46,4 +46,4 @@ Em áreas como inteligência artificial, direito, filosofia e ciências sociais,
 ## Considerações Finais
 
 Os princípios da não contradição e do terceiro excluído são pilares da lógica clássica e, por extensão, da construção do conhecimento científico e filosófico ocidental. Eles asseguram a consistência e a decidibilidade dos sistemas de conhecimento, mas também impõem restrições que, em contextos de incerteza ou contradição, podem limitar a capacidade de representação e raciocínio. O reconhecimento dessas limitações é o ponto de partida para o desenvolvimento de novas abordagens lógicas, como a lógica paraconsistente, que busca ampliar as fronteiras do raciocínio formal diante da complexidade do mundo real.
-```
+

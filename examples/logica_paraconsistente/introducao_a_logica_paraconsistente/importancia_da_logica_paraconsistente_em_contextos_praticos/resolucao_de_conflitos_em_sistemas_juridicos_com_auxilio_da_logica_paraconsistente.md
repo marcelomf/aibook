@@ -56,5 +56,4 @@ A lógica paraconsistente oferece ferramentas poderosas para a resolução de co
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Suber, P. (1997). *The Paraconsistent Logic of Legal Reasoning*. Ratio Juris, 10(4), 354-376.
 
----
-```
+

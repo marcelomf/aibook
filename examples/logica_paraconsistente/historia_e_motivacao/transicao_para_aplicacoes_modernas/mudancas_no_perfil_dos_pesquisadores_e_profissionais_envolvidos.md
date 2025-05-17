@@ -26,4 +26,4 @@ Além disso, a colaboração entre diferentes áreas do conhecimento tem se most
 O perfil dos pesquisadores e profissionais envolvidos com lógica paraconsistente deve continuar evoluindo, acompanhando as demandas de um mundo cada vez mais digital, interconectado e sujeito a informações contraditórias. A tendência é que a lógica paraconsistente se consolide como uma competência transversal, presente em diversas áreas do conhecimento e da prática profissional, contribuindo para a construção de sistemas mais resilientes, flexíveis e inteligentes.
 
 Em resumo, a transição para aplicações modernas da lógica paraconsistente não apenas ampliou seu campo de atuação, mas também diversificou e enriqueceu o perfil dos profissionais e pesquisadores envolvidos, tornando o campo mais dinâmico, interdisciplinar e conectado com os desafios contemporâneos.
-```
+

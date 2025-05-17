@@ -50,9 +50,9 @@ Por fim, a aceitação de contradições controladas pode ser vista como uma ame
 
 Essas preocupações exigem uma reflexão filosófica profunda sobre os fundamentos da epistemologia.
 
----
+___
 
 ## Considerações Finais
 
 A lógica paraconsistente oferece ferramentas poderosas para lidar com situações reais de informação contraditória, mas também impõe desafios significativos à epistemologia tradicional. Repensar critérios de consistência, justificação, revisão de crenças e verdade é fundamental para acomodar os avanços proporcionados por esses sistemas lógicos. O diálogo entre lógica, filosofia e ciência da computação é essencial para o desenvolvimento de uma epistemologia capaz de lidar com a complexidade e a ambiguidade inerentes ao conhecimento humano contemporâneo.
-```
+

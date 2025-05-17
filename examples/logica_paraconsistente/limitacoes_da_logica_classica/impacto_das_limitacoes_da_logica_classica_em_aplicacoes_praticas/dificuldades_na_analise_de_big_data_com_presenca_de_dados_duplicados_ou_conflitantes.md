@@ -49,7 +49,7 @@ As limitações da lógica clássica diante de dados duplicados ou conflitantes 
 
 Diante dessas dificuldades, abordagens baseadas em **lógicas não clássicas**, como a **lógica paraconsistente**, têm sido exploradas para permitir a análise de dados mesmo na presença de contradições, sem comprometer a integridade do sistema analítico. Essas abordagens oferecem mecanismos para representar, processar e raciocinar sobre informações conflitantes de forma controlada, ampliando as possibilidades de extração de valor do big data.
 
----
+
 
 **Referências:**
 
@@ -57,4 +57,4 @@ Diante dessas dificuldades, abordagens baseadas em **lógicas não clássicas**,
 - Batini, C., & Scannapieco, M. (2016). *Data and Information Quality: Dimensions, Principles and Techniques*. Springer.
 - Bertossi, L. E. (2011). *Database Repairing and Consistent Query Answering*. Synthesis Lectures on Data Management.
 
-```
+

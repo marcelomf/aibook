@@ -2,7 +2,7 @@
 
 A escolha do sistema lógico subjacente tem um impacto profundo na modelagem, implementação e comportamento de sistemas computacionais. Tradicionalmente, a **lógica clássica** tem sido a base para a maioria das linguagens de programação, bancos de dados e sistemas de inteligência artificial. No entanto, com o aumento da complexidade dos sistemas e a necessidade de lidar com informações contraditórias ou incertas, a **lógica paraconsistente** surge como uma alternativa poderosa. Este texto explora como as diferenças fundamentais entre lógica clássica e paraconsistente afetam a modelagem de sistemas computacionais.
 
----
+
 
 ## 1. Lógica Clássica: Limitações na Presença de Contradições
 
@@ -12,7 +12,7 @@ A lógica clássica é regida pelo **princípio da não contradição** (uma pro
 - **Sistemas especialistas e IA**: Contradições nos dados de entrada podem levar a conclusões absurdas ou falhas no processamento.
 - **Verificação formal**: A presença de contradições pode comprometer a validade de provas e certificações de software.
 
----
+
 
 ## 2. Lógica Paraconsistente: Tolerância ao Conflito
 
@@ -33,7 +33,7 @@ A lógica paraconsistente, por outro lado, **permite a coexistência controlada 
 - **Integração de múltiplas bases de dados**: Ao fundir dados de diferentes fontes, é comum encontrar informações conflitantes. A lógica paraconsistente permite identificar, isolar e tratar esses conflitos sem comprometer todo o sistema.
 - **Sistemas multiagentes**: Agentes autônomos podem ter crenças ou percepções contraditórias; a lógica paraconsistente fornece mecanismos para negociação e consenso.
 
----
+
 
 ## 3. Implicações Práticas na Engenharia de Software
 
@@ -48,7 +48,7 @@ No entanto, também há desafios:
 - **Complexidade de implementação**: Algoritmos e estruturas de dados precisam ser adaptados para lidar com múltiplos valores de verdade ou graus de confiabilidade.
 - **Custo computacional**: O processamento pode ser mais oneroso, especialmente em grandes volumes de dados contraditórios.
 
----
+
 
 ## 4. Exemplos de Aplicação
 
@@ -56,13 +56,13 @@ No entanto, também há desafios:
 - **Sistemas de Diagnóstico Médico**: Permitem considerar sintomas e exames contraditórios sem descartar hipóteses prematuramente.
 - **Sistemas de Votação Eletrônica**: Podem lidar com votos ou opiniões conflitantes de diferentes fontes, atribuindo pesos ou graus de confiança.
 
----
+
 
 ## 5. Considerações Finais
 
 As diferenças entre lógica clássica e paraconsistente têm impacto direto na forma como sistemas computacionais são modelados, especialmente em contextos onde a inconsistência é inevitável. A lógica paraconsistente oferece ferramentas teóricas e práticas para construir sistemas mais robustos, flexíveis e realistas, capazes de operar em ambientes complexos e dinâmicos. Sua adoção, embora desafiadora, representa um avanço significativo na engenharia de sistemas inteligentes e na gestão de informações no mundo real.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Newton da Costa  

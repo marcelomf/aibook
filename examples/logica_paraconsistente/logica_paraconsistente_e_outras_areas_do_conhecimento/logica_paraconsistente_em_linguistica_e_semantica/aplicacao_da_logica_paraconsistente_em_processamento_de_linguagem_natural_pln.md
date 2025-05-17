@@ -61,9 +61,9 @@ No entanto, o potencial da lógica paraconsistente para tornar sistemas de PLN m
 
 A lógica paraconsistente oferece uma abordagem inovadora e eficaz para lidar com as contradições e ambiguidades inerentes à linguagem natural. Sua aplicação no processamento de linguagem natural permite construir sistemas mais resilientes, capazes de operar em ambientes informacionais complexos e incertos. À medida que o PLN avança, a integração de técnicas paraconsistentes tende a se tornar cada vez mais relevante, ampliando as fronteiras do raciocínio automático sobre a linguagem humana.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Paraconsistency and Natural Language*. In: *Handbook of Logical Thought in India*. Springer.
-```
+

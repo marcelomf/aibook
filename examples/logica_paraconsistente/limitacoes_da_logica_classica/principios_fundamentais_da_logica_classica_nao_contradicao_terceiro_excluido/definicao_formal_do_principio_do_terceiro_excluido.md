@@ -53,10 +53,10 @@ Apesar de sua centralidade na lógica clássica, o princípio do terceiro exclu�
 - **Significado:** Não existe uma terceira possibilidade entre uma proposição e sua negação.
 - **Relevância:** Fundamental para a lógica clássica, mas não necessariamente válido em lógicas não clássicas, como a paraconsistente.
 
----
+
 
 **Referências:**
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Mendelson, E. (2015). *Introduction to Mathematical Logic*. CRC Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

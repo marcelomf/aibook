@@ -34,6 +34,6 @@ O impacto das tecnologias de informação no estudo das lógicas não clássicas
 
 Além disso, a crescente adoção de sistemas baseados em inteligência artificial e big data reforça a importância de lógicas capazes de lidar com incertezas e contradições, consolidando o papel das lógicas não clássicas como ferramentas essenciais para a ciência e tecnologia do século XXI.
 
----
+___
 
 **Em resumo**, as tecnologias de informação não apenas motivaram o desenvolvimento e a aplicação das lógicas não clássicas, como também continuam a expandir seus horizontes, tornando-as indispensáveis para o tratamento de problemas complexos e contraditórios em um mundo cada vez mais digital e interconectado.

@@ -4,7 +4,7 @@ A lógica paraconsistente surge como uma resposta às limitações dos métodos 
 
 Neste tópico, propomos atividades que incentivam a adaptação de métodos tradicionais para o contexto paraconsistente, promovendo o desenvolvimento de habilidades para lidar com contradições de forma controlada e produtiva.
 
----
+
 
 ## 1. **Reformulação de Algoritmos de Inferência**
 
@@ -22,7 +22,7 @@ Neste tópico, propomos atividades que incentivam a adaptação de métodos trad
 - **Clássico:** Dado um conjunto de proposições, se encontrarmos `A` e `¬A`, qualquer proposição pode ser inferida.
 - **Paraconsistente:** Ao encontrar `A` e `¬A`, o sistema registra a contradição, mas restringe as inferências apenas ao que é suportado por informações não contraditórias ou por graus de certeza superiores.
 
----
+
 
 ## 2. **Adaptação de Modelos de Tomada de Decisão**
 
@@ -40,7 +40,7 @@ Neste tópico, propomos atividades que incentivam a adaptação de métodos trad
 - **Clássico:** Uma árvore de decisão pode se tornar inválida se dados contraditórios forem inseridos em seus nós.
 - **Paraconsistente:** Cada nó pode receber anotações de grau de certeza e contradição, permitindo que a decisão final reflita a presença de conflitos e a confiança nas informações.
 
----
+
 
 ## 3. **Revisão de Bancos de Dados Inconsistentes**
 
@@ -57,7 +57,7 @@ Neste tópico, propomos atividades que incentivam a adaptação de métodos trad
 - **Clássico:** Uma consulta pode falhar ou retornar resultados enganosos se houver registros contraditórios.
 - **Paraconsistente:** A consulta pode retornar não apenas os dados, mas também indicadores de contradição, permitindo ao usuário avaliar a confiabilidade das informações.
 
----
+
 
 ## 4. **Discussão e Reflexão**
 
@@ -69,7 +69,7 @@ Neste tópico, propomos atividades que incentivam a adaptação de métodos trad
   2. **Análise de Impacto:** Avalie os impactos práticos, computacionais e filosóficos das adaptações propostas.
   3. **Relato de Experiência:** Solicite aos participantes que relatem dificuldades encontradas e soluções criativas desenvolvidas durante as atividades.
 
----
+
 
 ## 5. **Sugestões de Exercícios**
 
@@ -77,13 +77,13 @@ Neste tópico, propomos atividades que incentivam a adaptação de métodos trad
 - Elabore um estudo de caso em que a lógica paraconsistente permite a continuidade do raciocínio em um cenário de informações conflitantes.
 - Compare os resultados de um algoritmo de classificação tradicional e sua versão paraconsistente em um conjunto de dados com ruído e contradições.
 
----
+
 
 ## **Conclusão**
 
 A adaptação de métodos tradicionais para o contexto paraconsistente é uma atividade fundamental para preparar sistemas e profissionais para os desafios do mundo real, onde a informação perfeita e livre de contradições é rara. Ao exercitar essas adaptações, desenvolvemos não apenas competências técnicas, mas também uma visão crítica e inovadora sobre o raciocínio lógico e suas aplicações práticas.
 
----
+
 
 **Leituras recomendadas:**
 - da Costa, N. C. A. (1974). "On the theory of inconsistent formal systems."

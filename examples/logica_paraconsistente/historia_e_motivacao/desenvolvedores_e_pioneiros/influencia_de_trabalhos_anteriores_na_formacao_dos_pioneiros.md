@@ -37,4 +37,4 @@ Filósofos como **Graham Priest** e **Newton da Costa** foram fortemente influen
 ## Conclusão
 
 A formação dos pioneiros da lógica paraconsistente foi profundamente influenciada por uma longa tradição de questionamentos filosóficos e matemáticos sobre a natureza das contradições. Os paradoxos, a crise dos fundamentos da matemática e o desenvolvimento de lógicas alternativas forneceram o terreno fértil para que pesquisadores como Newton da Costa e Graham Priest pudessem propor sistemas lógicos inovadores, capazes de lidar com a inconsistência de maneira controlada e produtiva. Assim, a lógica paraconsistente representa uma resposta sofisticada a desafios antigos, incorporando e superando limitações dos sistemas lógicos tradicionais.
-```
+

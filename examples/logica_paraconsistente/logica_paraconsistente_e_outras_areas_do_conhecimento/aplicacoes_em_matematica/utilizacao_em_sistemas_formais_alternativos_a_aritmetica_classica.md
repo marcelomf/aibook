@@ -48,7 +48,7 @@ A pesquisa em sistemas formais alternativos à aritmética clássica, baseados e
 
 Além disso, o estudo desses sistemas contribui para uma compreensão mais profunda dos fundamentos da matemática e da lógica, promovendo avanços tanto teóricos quanto práticos.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -56,4 +56,4 @@ Além disso, o estudo desses sistemas contribui para uma compreensão mais profu
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Mortensen, C. (1995). *Inconsistent Mathematics*. Kluwer Academic Publishers.
 
-```
+

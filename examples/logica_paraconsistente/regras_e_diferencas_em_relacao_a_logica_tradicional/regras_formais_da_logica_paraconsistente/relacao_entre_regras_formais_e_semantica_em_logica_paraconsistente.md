@@ -46,7 +46,7 @@ Se as regras formais permitissem inferências incompatíveis com a semântica (p
 
 A lógica paraconsistente representa uma evolução significativa em relação à lógica clássica, especialmente na forma como trata contradições. A relação entre regras formais e semântica é o alicerce que permite a esses sistemas lidar com inconsistências de maneira robusta e útil. Com regras formais ajustadas e uma semântica adequada, a lógica paraconsistente se torna uma poderosa ferramenta para aplicações em ciência da computação, inteligência artificial, filosofia e outras áreas que lidam com informações imperfeitas ou contraditórias.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"

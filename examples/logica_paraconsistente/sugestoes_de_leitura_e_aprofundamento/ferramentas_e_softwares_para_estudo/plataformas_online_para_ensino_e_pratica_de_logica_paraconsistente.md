@@ -45,7 +45,7 @@ Além das plataformas de ensino e simulação, comunidades online são excelente
 - **ResearchGate e Academia.edu**: Compartilhamento de artigos, pré-prints e discussões acadêmicas.
 - **Grupos no LinkedIn e Facebook**: Comunidades dedicadas à lógica paraconsistente e raciocínio não clássico.
 
----
+
 
 ### **Considerações Finais**
 
@@ -53,5 +53,4 @@ O acesso a plataformas online e ferramentas digitais tem facilitado significativ
 
 **Sugestão:** Explore diferentes plataformas, participe de fóruns e mantenha-se atualizado com as novidades publicadas por grupos de pesquisa e universidades de referência em lógica paraconsistente.
 
----
-```
+

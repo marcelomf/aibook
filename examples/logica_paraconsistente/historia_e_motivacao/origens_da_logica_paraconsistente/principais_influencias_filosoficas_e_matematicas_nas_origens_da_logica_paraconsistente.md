@@ -2,7 +2,7 @@
 
 A lógica paraconsistente surge como resposta a um dos problemas mais intrigantes da lógica clássica: o tratamento das contradições. Para compreender suas origens, é fundamental analisar as influências filosóficas e matemáticas que moldaram seu desenvolvimento. Este tópico explora as principais correntes de pensamento e descobertas que pavimentaram o caminho para a criação da lógica paraconsistente.
 
----
+___
 
 ## 1. O Princípio da Não Contradição e a Lógica Clássica
 
@@ -10,7 +10,7 @@ Desde Aristóteles, a lógica ocidental foi construída sobre o **princípio da 
 
 No entanto, filósofos e matemáticos começaram a questionar se esse rigor era sempre desejável, especialmente diante de situações reais em que informações contraditórias coexistem sem que todo o sistema colapse.
 
----
+___
 
 ## 2. Influências Filosóficas
 
@@ -28,7 +28,7 @@ No entanto, filósofos e matemáticos começaram a questionar se esse rigor era 
 
 - **Thomas Kuhn:** Em “A Estrutura das Revoluções Científicas”, Kuhn argumenta que períodos de ciência normal podem conviver com contradições até que um novo paradigma surja. Isso sugere que sistemas de conhecimento podem ser úteis mesmo quando não são totalmente consistentes.
 
----
+___
 
 ## 3. Influências Matemáticas
 
@@ -46,7 +46,7 @@ No entanto, filósofos e matemáticos começaram a questionar se esse rigor era 
 - **Stanisław Jaśkowski (1948):** O matemático polonês propôs sistemas lógicos nos quais contradições não levam à trivialidade, introduzindo a ideia de discussões lógicas e sistemas de múltiplos valores.
 - **Newton da Costa (década de 1950):** O matemático brasileiro formalizou as primeiras lógicas paraconsistentes, conhecidas como sistemas C, que permitem a existência de contradições controladas sem que todo o sistema se torne trivial.
 
----
+___
 
 ## 4. Síntese das Influências
 
@@ -58,7 +58,7 @@ A lógica paraconsistente é, portanto, fruto de uma confluência de ideias:
 
 Essas influências permitiram o surgimento de uma lógica que, ao invés de negar a existência de contradições, busca compreendê-las e utilizá-las de maneira produtiva, abrindo novas possibilidades para a ciência, a tecnologia e a filosofia.
 
----
+___
 
 **Referências:**
 

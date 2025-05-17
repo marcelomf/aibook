@@ -47,4 +47,4 @@ A lógica paraconsistente foi desenvolvida justamente para lidar com sistemas in
 - **Na lógica paraconsistente:** Contradições podem ser toleradas sem que o sistema se torne trivial.
 
 Compreender essa diferença é essencial para entender a motivação e a utilidade dos sistemas paraconsistentes, que buscam oferecer ferramentas para raciocinar de forma robusta mesmo diante de informações contraditórias.
-```
+

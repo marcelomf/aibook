@@ -5,7 +5,7 @@ A **lógica clássica** é o sistema lógico mais tradicional e amplamente utili
 
 Neste tópico, vamos demonstrar formalmente o princípio da explosão e discutir suas implicações para a lógica clássica.
 
----
+
 
 ## 1. O que é o Princípio da Explosão?
 
@@ -16,7 +16,7 @@ O princípio da explosão pode ser enunciado da seguinte forma:
 Em notação formal:
 $$(A \land \neg A) \vdash B$$
 
----
+
 
 ## 2. Demonstração Formal do Princípio da Explosão
 
@@ -42,7 +42,7 @@ Queremos provar: $B$ (para qualquer $B$)
 
 Portanto, **qualquer proposição $B$ pode ser deduzida a partir de uma contradição**.
 
----
+
 
 ## 3. Implicações do Princípio da Explosão
 
@@ -52,23 +52,23 @@ O princípio da explosão mostra que **a lógica clássica não tolera contradi�
 
 Imagine um banco de dados onde, por erro, consta que "João está presente" ($A$) e "João não está presente" ($\neg A$). Pela lógica clássica, poderíamos deduzir qualquer coisa a partir dessa contradição, inclusive afirmações absurdas como "A Lua é feita de queijo".
 
----
+
 
 ## 4. Limitações e Motivação para Lógicas Paraconsistentes
 
 A explosão lógica é uma das principais limitações da lógica clássica, especialmente em contextos onde informações contraditórias podem surgir, como em bancos de dados, sistemas de inteligência artificial e raciocínio humano. Para lidar com essas situações sem tornar o sistema trivial, foram desenvolvidas as **lógicas paraconsistentes**, que rejeitam o princípio da explosão e permitem o tratamento controlado de contradições.
 
----
+
 
 ## 5. Conclusão
 
 A demonstração do princípio da explosão evidencia a fragilidade da lógica clássica diante de contradições. Esse resultado motiva o estudo e a aplicação de sistemas lógicos alternativos, como as lógicas paraconsistentes, que buscam oferecer ferramentas mais robustas para o raciocínio em ambientes complexos e inconsistentes.
 
----
+
 
 **Referências:**
 
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
 - Beziau, J.-Y. (2012). *Paraconsistent logic: Consistency, contradiction and negation*. Springer.
-```
+

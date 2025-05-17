@@ -45,4 +45,4 @@ A análise de consistência em provas matemáticas complexas é um desafio cresc
 **Sugestão de Leitura:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
-```
+

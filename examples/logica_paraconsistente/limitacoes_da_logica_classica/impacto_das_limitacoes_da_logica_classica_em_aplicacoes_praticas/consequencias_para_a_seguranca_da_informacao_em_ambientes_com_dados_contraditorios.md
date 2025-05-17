@@ -40,9 +40,9 @@ Diante dessas consequências, torna-se evidente a necessidade de abordagens lóg
 
 A presença de dados contraditórios é uma realidade em ambientes complexos e dinâmicos. As limitações da lógica clássica, especialmente o princípio da explosão, representam um risco significativo para a segurança da informação. A adoção de lógicas não clássicas, como a lógica paraconsistente, pode mitigar esses riscos, proporcionando maior robustez, confiabilidade e resiliência aos sistemas de segurança em ambientes sujeitos a inconsistências.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" – Koji Tanaka et al.
-```
+

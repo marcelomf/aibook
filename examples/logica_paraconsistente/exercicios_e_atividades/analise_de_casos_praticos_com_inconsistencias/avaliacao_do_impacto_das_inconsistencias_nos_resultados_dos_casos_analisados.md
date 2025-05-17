@@ -58,7 +58,7 @@ Em um sistema de apoio ao diagnóstico, diferentes exames podem apresentar resul
 
 A avaliação do impacto das inconsistências é fundamental para garantir a confiabilidade e a utilidade dos sistemas que lidam com informações contraditórias. A Lógica Paraconsistente oferece ferramentas teóricas e práticas para identificar, quantificar e mitigar esses impactos, permitindo que decisões informadas sejam tomadas mesmo em ambientes complexos e incertos. Ao adotar abordagens paraconsistentes, organizações e profissionais podem transformar inconsistências de um obstáculo em uma oportunidade para análises mais robustas e decisões mais seguras.
 
----
+
 
 **Sugestão de Atividade:**  
 Analise um caso prático de sua área de interesse onde informações contraditórias possam surgir. Utilize conceitos da lógica paraconsistente para identificar o impacto dessas inconsistências e proponha estratégias para mitigá-las. Compartilhe suas conclusões com o grupo de estudo.

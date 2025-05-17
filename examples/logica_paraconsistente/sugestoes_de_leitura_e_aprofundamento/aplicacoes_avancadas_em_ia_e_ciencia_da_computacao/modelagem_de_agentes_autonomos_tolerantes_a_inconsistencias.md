@@ -65,5 +65,4 @@ Uma arquitetura típica de agente autônomo tolerante a inconsistências pode in
 
 A modelagem de agentes autônomos tolerantes a inconsistências, fundamentada na Lógica Paraconsistente, representa um avanço significativo para a IA e a ciência da computação. Ela permite que sistemas inteligentes operem de forma confiável em ambientes complexos e incertos, aproximando-os cada vez mais da robustez e adaptabilidade necessárias para aplicações do mundo real.
 
----
-```
+

@@ -15,7 +15,7 @@ Os sistemas paraconsistentes surgiram para lidar com situações em que a presen
 
 Cada um desses sistemas possui uma abordagem distinta para o tratamento de contradições e inconsistências. Os exercícios a seguir apresentam descrições formais e pedem que você identifique o sistema correspondente.
 
----
+
 
 ## Exercício 1
 
@@ -34,7 +34,7 @@ Qual sistema paraconsistente está sendo descrito?
 O sistema descrito é a **Lógica de Belnap (FOUR)**, também conhecida como lógica de quatro valores.
 </details>
 
----
+
 
 ## Exercício 2
 
@@ -52,7 +52,7 @@ Qual sistema paraconsistente está sendo descrito?
 O sistema descrito é a **Lógica Paraconsistente Anotada (LPA)**.
 </details>
 
----
+
 
 ## Exercício 3
 
@@ -70,7 +70,7 @@ Qual sistema paraconsistente está sendo descrito?
 O sistema descrito é a **Lógica de Priest (LP)**, também chamada de lógica paraconsistente proposicional.
 </details>
 
----
+
 
 ## Exercício 4
 
@@ -88,7 +88,7 @@ Qual sistema paraconsistente está sendo descrito?
 O sistema descrito pertence à família das **Lógicas da Consistência (LFIs - Logics of Formal Inconsistency)**.
 </details>
 
----
+
 
 ## Exercício 5
 
@@ -106,7 +106,7 @@ Qual sistema paraconsistente está sendo descrito?
 O sistema descrito é a **Lógica da Tolerância à Contradição (LTC)**.
 </details>
 
----
+
 
 ## Dicas para Reconhecimento
 
@@ -116,13 +116,13 @@ O sistema descrito é a **Lógica da Tolerância à Contradição (LTC)**.
 - **Princípios rejeitados:** LP rejeita o princípio da explosão.
 - **Tolerância local/global:** LTC diferencia contradições locais e globais.
 
----
+
 
 ## Conclusão
 
 Reconhecer sistemas paraconsistentes a partir de suas descrições formais é essencial para a correta aplicação dessas lógicas em problemas reais. Praticar com exercícios como os apresentados aqui ajuda a consolidar o entendimento das diferenças e aplicações de cada sistema. Para aprofundar, recomenda-se estudar as definições formais e exemplos práticos de cada lógica.
 
----
+
 
 **Sugestão de leitura complementar:**
 
@@ -130,5 +130,4 @@ Reconhecer sistemas paraconsistentes a partir de suas descrições formais é es
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics: Consistency, Contradiction and Negation*. 
 
----
-```
+

@@ -67,4 +67,4 @@ A adaptação das regras formais da lógica paraconsistente já é uma realidade
 A adaptação das regras formais da lógica paraconsistente para aplicações computacionais é um campo dinâmico e em constante evolução. O sucesso dessas adaptações depende tanto do rigor teórico quanto da criatividade na implementação, permitindo que sistemas computacionais se tornem mais robustos, flexíveis e capazes de lidar com a complexidade do mundo real.
 
 Para aprofundamento, recomenda-se a leitura de estudos de caso e a análise de implementações práticas, que ilustram os desafios e soluções encontradas na integração da lógica paraconsistente em sistemas computacionais modernos.
-```
+

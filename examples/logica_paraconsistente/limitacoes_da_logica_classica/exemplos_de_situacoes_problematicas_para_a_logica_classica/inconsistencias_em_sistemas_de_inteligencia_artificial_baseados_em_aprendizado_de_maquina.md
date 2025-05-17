@@ -52,5 +52,4 @@ Inconsistências são inerentes a sistemas de IA baseados em aprendizado de máq
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.  
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*.
 
----
-```
+

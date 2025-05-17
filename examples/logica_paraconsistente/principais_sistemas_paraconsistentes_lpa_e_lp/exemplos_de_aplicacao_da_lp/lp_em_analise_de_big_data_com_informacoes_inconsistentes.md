@@ -50,8 +50,8 @@ Os principais desafios incluem o aumento da complexidade computacional e a neces
 
 A Lógica Paraconsistente de Priest (LP) oferece uma abordagem robusta e flexível para análise de big data em ambientes onde a inconsistência é inevitável. Ao permitir o processamento controlado de contradições, a LP amplia as possibilidades de extração de conhecimento e suporte à decisão, tornando-se uma ferramenta essencial para aplicações modernas em ciência de dados, inteligência artificial e além.
 
----
+
 **Sugestão de leitura complementar:**  
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), Handbook of Philosophical Logic (Vol. 6, pp. 287–393). Springer.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

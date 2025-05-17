@@ -52,7 +52,7 @@ Com o crescimento da complexidade dos sistemas computacionais e o aumento do vol
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics: Consistency, Contradiction and Negation.**
 - **Priest, G. (2002). Paraconsistent Logic. In Handbook of Philosophical Logic.**
 
----
+
 
 O desenvolvimento de linguagens de programação com suporte nativo à paraconsistência representa uma fronteira promissora na ciência da computação, com potencial para transformar a forma como sistemas computacionais lidam com a complexidade e a incerteza do mundo real.
-```
+

@@ -29,9 +29,9 @@ Em ambientes corporativos, jurídicos ou governamentais, decisões precisam ser 
 
 Além das áreas já citadas, o crescimento de aplicações em Internet das Coisas (IoT), computação em nuvem, blockchain e big data também trouxe novos desafios relacionados à inconsistência de dados. A necessidade de processar grandes volumes de informações, muitas vezes em tempo real e provenientes de dispositivos heterogêneos, reforça a importância de abordagens que tolerem e gerenciem contradições.
 
----
+
 
 ## Considerações Finais
 
 O crescimento das áreas que lidam com dados inconsistentes é um reflexo direto da complexidade dos sistemas modernos e da interconexão global de informações. A lógica paraconsistente surge como uma resposta teórica e prática a esses desafios, permitindo que sistemas computacionais, bancos de dados e aplicações de IA operem de maneira confiável mesmo diante de contradições inevitáveis. O domínio dessas técnicas é cada vez mais essencial para profissionais e pesquisadores que atuam na fronteira da ciência da computação, inteligência artificial e gestão da informação.
-```
+

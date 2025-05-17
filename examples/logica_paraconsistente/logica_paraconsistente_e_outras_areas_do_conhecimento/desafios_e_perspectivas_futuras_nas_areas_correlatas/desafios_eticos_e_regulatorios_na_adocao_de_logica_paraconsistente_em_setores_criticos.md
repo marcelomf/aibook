@@ -29,7 +29,7 @@ A lógica paraconsistente permite que sistemas operem mesmo diante de inconsist�
 
 Além disso, a **educação e capacitação de profissionais** sobre os fundamentos e limitações da lógica paraconsistente serão essenciais para mitigar riscos e maximizar benefícios, promovendo uma adoção consciente e informada.
 
----
+___
 
 **Em resumo**, a adoção da lógica paraconsistente em setores críticos oferece oportunidades inovadoras, mas exige uma abordagem cautelosa e colaborativa para enfrentar desafios éticos e regulatórios. O equilíbrio entre inovação, segurança e responsabilidade será determinante para o sucesso e a aceitação dessas tecnologias na sociedade.
-```
+

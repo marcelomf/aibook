@@ -2,7 +2,7 @@
 
 A integração da lógica paraconsistente em fluxos de trabalho é uma abordagem inovadora para lidar com situações em que informações contraditórias surgem e precisam ser tratadas de forma controlada, sem comprometer a integridade do sistema ou do processo decisório. Nesta seção, apresentamos exercícios práticos que simulam cenários reais, incentivando o leitor a aplicar os conceitos da lógica paraconsistente na resolução de contradições em diferentes contextos.
 
----
+
 
 ## 1. Introdução
 
@@ -10,7 +10,7 @@ Em ambientes complexos, como bancos de dados, sistemas de inteligência artifici
 
 Os exercícios a seguir têm como objetivo desenvolver a habilidade de identificar, modelar e resolver contradições utilizando princípios e ferramentas da lógica paraconsistente, especialmente em fluxos de trabalho automatizados ou colaborativos.
 
----
+
 
 ## 2. Exercício 1: Diagnóstico em Banco de Dados Inconsistente
 
@@ -28,7 +28,7 @@ Um sistema de cadastro de clientes apresenta as seguintes informações para o m
 **Dica:**  
 Considere que, na LPA, é possível representar simultaneamente informações favoráveis e desfavoráveis, atribuindo graus de certeza e incerteza.
 
----
+
 
 ## 3. Exercício 2: Resolução de Conflitos em Sistemas Multiagente
 
@@ -46,7 +46,7 @@ Dois agentes de um sistema de recomendação apresentam opiniões opostas sobre 
 **Dica:**  
 Utilize operadores paraconsistentes para combinar as opiniões e gerar uma recomendação ponderada.
 
----
+
 
 ## 4. Exercício 3: Tomada de Decisão em Ambiente de Dados Contraditórios
 
@@ -61,7 +61,7 @@ Em um sistema de monitoramento ambiental, sensores diferentes fornecem leituras 
 2. Proponha um fluxo de trabalho para que o sistema emita alertas, considerando a contradição e evitando alarmes falsos.
 3. Indique como o sistema pode priorizar ações (por exemplo, solicitar manutenção de sensores, coletar dados adicionais, etc.).
 
----
+
 
 ## 5. Exercício 4: Integração em Processos de Negócio
 
@@ -76,7 +76,7 @@ Em um processo de aprovação de crédito, diferentes departamentos fornecem ava
 2. Elabore um fluxo de trabalho que permita a continuidade do processo, mesmo diante da contradição, até que uma decisão final seja possível.
 3. Descreva como o sistema pode registrar e justificar a decisão tomada, com base na lógica paraconsistente.
 
----
+
 
 ## 6. Dicas para Resolução dos Exercícios
 
@@ -85,7 +85,7 @@ Em um processo de aprovação de crédito, diferentes departamentos fornecem ava
 - **Projete fluxos de trabalho robustos:** Permita que o sistema continue operando, sinalizando contradições e solicitando ações corretivas quando necessário.
 - **Documente decisões:** Registre como as contradições foram tratadas e quais critérios foram utilizados para a tomada de decisão.
 
----
+
 
 ## 7. Conclusão
 
@@ -93,13 +93,13 @@ A integração da lógica paraconsistente em fluxos de trabalho é fundamental p
 
 Para aprofundar seus conhecimentos, recomenda-se a leitura de estudos de caso reais e a implementação prática de fluxos de trabalho paraconsistentes em ferramentas de automação e sistemas de informação.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli, João Marcos, Marcelo Coniglio)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)
 
----
+
 
 **Exercite!**  
 Escolha um dos cenários acima, modele a situação e compartilhe sua solução com colegas ou em fóruns de discussão sobre lógica e sistemas inteligentes.

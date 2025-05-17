@@ -59,10 +59,10 @@ Por fim, a adoção prática e o suporte da comunidade científica e tecnológic
 - **Existência de ferramentas e implementações:** Há softwares, bibliotecas ou frameworks que implementam o sistema?
 - **Documentação e literatura:** O sistema é bem documentado e estudado na literatura especializada?
 
----
+___
 
 ## **Considerações Finais**
 
 A escolha e avaliação de um sistema paraconsistente dependem do contexto de aplicação e dos objetivos específicos do usuário. Os critérios apresentados acima fornecem um panorama abrangente para analisar e comparar diferentes sistemas, auxiliando na seleção da abordagem mais adequada para cada situação. À medida que a lógica paraconsistente avança, novos critérios e desafios podem surgir, reforçando a importância de uma avaliação contínua e crítica desses sistemas.
 
-```
+

@@ -5,7 +5,7 @@
 
 A gestão de bancos de dados frequentemente enfrenta o desafio de lidar com informações contraditórias. Essas inconsistências podem surgir por diversas razões, como integração de múltiplas fontes de dados, erros de entrada, atualizações concorrentes ou falhas de comunicação. A forma como esses conflitos são tratados impacta diretamente a confiabilidade e a utilidade dos sistemas de informação. Neste contexto, é fundamental comparar as abordagens clássicas e paraconsistentes para a resolução de conflitos em bancos de dados.
 
----
+___
 
 ### 1. Abordagem Clássica
 
@@ -25,7 +25,7 @@ A lógica clássica, base dos sistemas tradicionais de bancos de dados relaciona
 - **Rigidez:** Dificuldade em lidar com cenários onde a contradição é inevitável ou temporária.
 - **Impossibilidade de Raciocínio sobre Contradições:** O sistema não consegue operar ou tomar decisões enquanto houver inconsistências.
 
----
+___
 
 ### 2. Abordagem Paraconsistente
 
@@ -45,7 +45,7 @@ A lógica paraconsistente, por sua vez, permite que sistemas operem mesmo na pre
 - **Flexibilidade:** Adapta-se melhor a ambientes dinâmicos e integrados, onde contradições são comuns.
 - **Raciocínio Robusto:** Permite que o sistema continue operando e fornecendo respostas úteis, mesmo em cenários de incerteza.
 
----
+___
 
 ### 3. Exemplo Prático
 
@@ -65,7 +65,7 @@ Considere um banco de dados de pacientes em um hospital, onde dois sistemas dist
 - Consultas podem retornar ambos os valores, indicando a existência de conflito, ou calcular uma resposta ponderada.
 - O sistema pode continuar operando, alertando profissionais sobre a inconsistência, mas sem impedir o acesso à informação.
 
----
+___
 
 ### 4. Considerações Finais
 
@@ -76,4 +76,4 @@ A comparação entre abordagens clássicas e paraconsistentes na resolução de 
 - **Lógica Paraconsistente:** Flexível, preserva informações e permite raciocínio útil mesmo na presença de contradições.
 
 A adoção de abordagens paraconsistentes representa um avanço significativo para a gestão de bancos de dados modernos, especialmente em aplicações críticas e ambientes de alta complexidade.
-```
+

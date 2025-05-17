@@ -39,4 +39,4 @@ Entre as publicações mais influentes, destacam-se:
 ## 6. Conclusão
 
 O impacto das publicações dos principais autores da lógica paraconsistente é profundo e multifacetado. Elas não apenas estabeleceram os fundamentos teóricos da área, mas também impulsionaram sua aplicação em problemas reais e fomentaram o diálogo interdisciplinar. O legado dessas obras continua a inspirar novas pesquisas e aplicações, consolidando a lógica paraconsistente como um campo dinâmico e relevante no cenário científico contemporâneo.
-```
+

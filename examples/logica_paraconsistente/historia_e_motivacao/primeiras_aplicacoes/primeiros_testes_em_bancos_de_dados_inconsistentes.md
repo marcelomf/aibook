@@ -39,7 +39,7 @@ Além disso, esses experimentos influenciaram o surgimento de novas abordagens p
 - Carnielli, W. A., & Marcos, J. (2002). A taxonomy of C-systems. In *Paraconsistency: The logical way to the inconsistent* (pp. 1-94). Springer.
 - Subrahmanian, V. S. (1994). Paraconsistent logic programming. In *Handbook of Logic in Artificial Intelligence and Logic Programming* (Vol. 3, pp. 341-435). Oxford University Press.
 
----
+___
 
 Esses primeiros testes em bancos de dados inconsistentes ilustram a importância da lógica paraconsistente como resposta inovadora a um dos grandes desafios da era da informação: operar de forma confiável mesmo diante da imperfeição e da contradição.
-```
+

@@ -45,7 +45,7 @@ Apesar de suas vantagens, a tolerância à inconsistência também levanta quest
 
 A lógica paraconsistente, ao permitir a tolerância controlada à inconsistência, oferece uma abordagem mais realista e flexível para a justificação do conhecimento. Ela reconhece que a busca pelo conhecimento é um processo dinâmico, sujeito a revisões e a conflitos de informação, e propõe ferramentas formais para lidar com essas situações sem sacrificar a racionalidade. Assim, a lógica paraconsistente contribui para uma epistemologia mais robusta, capaz de enfrentar os desafios do mundo real, onde a inconsistência é muitas vezes inevitável, mas não necessariamente destrutiva.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógica Paraconsistente: Introdução e Aplicações"

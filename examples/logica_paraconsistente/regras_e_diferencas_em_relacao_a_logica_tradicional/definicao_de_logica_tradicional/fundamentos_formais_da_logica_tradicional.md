@@ -64,9 +64,9 @@ Essas limitações motivaram o desenvolvimento de sistemas lógicos alternativos
 
 A lógica tradicional fornece a base formal para o raciocínio dedutivo, sustentando grande parte da matemática, ciência da computação e filosofia. Seus fundamentos formais — proposições, conectivos, valores de verdade, princípios lógicos e sistemas axiomáticos — são essenciais para compreender tanto suas capacidades quanto suas limitações, especialmente quando comparada a sistemas não clássicos, como a lógica paraconsistente.
 
----
+
 **Referências:**
 - Mendelson, E. (2010). *Introduction to Mathematical Logic*. CRC Press.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic*. Cambridge University Press.
 - Suppes, P. (1957). *Introduction to Logic*. Van Nostrand.
-```
+

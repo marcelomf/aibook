@@ -56,4 +56,4 @@ Apesar das vantagens, o desenvolvimento de softwares tolerantes a inconsistênci
 ## Conclusão
 
 A lógica paraconsistente oferece uma poderosa ferramenta para o desenvolvimento de softwares capazes de operar em ambientes informacionais complexos e imperfeitos. Ao permitir o tratamento controlado de inconsistências, esses sistemas tornam-se mais robustos, flexíveis e confiáveis, atendendo às demandas de aplicações modernas em bancos de dados, inteligência artificial, sistemas de decisão e além. O domínio dessas técnicas é, portanto, um diferencial importante para desenvolvedores e pesquisadores que atuam na fronteira da ciência da computação e da engenharia de software.
-```
+

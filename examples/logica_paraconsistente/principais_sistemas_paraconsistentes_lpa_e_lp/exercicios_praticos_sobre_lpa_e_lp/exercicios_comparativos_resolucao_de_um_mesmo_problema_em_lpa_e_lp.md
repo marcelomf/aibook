@@ -3,7 +3,7 @@
 
 Neste tópico, propomos exercícios práticos que ilustram como a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)** tratam um mesmo problema envolvendo contradições. O objetivo é evidenciar as diferenças conceituais e operacionais entre esses dois sistemas paraconsistentes, mostrando suas abordagens diante de informações conflitantes.
 
----
+
 
 ## 1. Contextualização do Problema
 
@@ -16,7 +16,7 @@ Considere o seguinte cenário, comum em bancos de dados e sistemas de informaç�
 
 No contexto da lógica clássica, a presença dessas duas afirmações contraditórias levaria à trivialidade: qualquer proposição poderia ser considerada verdadeira (princípio da explosão). Já nas lógicas paraconsistentes, é possível tratar essa contradição de forma controlada.
 
----
+
 
 ## 2. Resolução do Problema em LPA
 
@@ -49,7 +49,7 @@ Suponhamos que ambas as fontes sejam igualmente confiáveis, então:
 O grau de contradição é máximo (1), e o grau de certeza é nulo (0).  
 Na LPA, isso indica que a informação sobre o status de João é **inconsistente**, mas o sistema não entra em colapso: a contradição é registrada e pode ser tratada, por exemplo, solicitando mais informações ou aplicando regras de desempate.
 
----
+
 
 ## 3. Resolução do Problema em LP
 
@@ -72,19 +72,19 @@ No entanto, ao contrário da lógica clássica, isso **não** implica que qualqu
 **Interpretação:**  
 O sistema reconhece a contradição, mas ela não se propaga para outras proposições. O status de João permanece contraditório, e decisões podem ser tomadas com base em regras adicionais (por exemplo, priorizar uma fonte, solicitar revisão, etc.).
 
----
+
 
 ## 4. Comparação dos Resultados
 
 | Aspecto                  | LPA                                         | LP                                         |
-|--------------------------|---------------------------------------------|--------------------------------------------|
+|--||--|
 | **Representação**        | Graus de evidência (μ, λ)                   | Proposições podem ser simultaneamente V e F|
 | **Diagnóstico**          | Grau de contradição e certeza calculados    | Contradição é aceita localmente            |
 | **Decisão**              | Pode usar graus para tomar decisões         | Precisa de regras externas para decidir    |
 | **Explosão**             | Não ocorre                                  | Não ocorre                                 |
 | **Tratamento da Contradição** | Quantitativo e explícito                | Qualitativo e local                        |
 
----
+
 
 ## 5. Exercício Proposto
 
@@ -101,7 +101,7 @@ Dado o cenário acima, resolva:
    - Explique como o sistema lida com a contradição.
    - Indique possíveis estratégias para tomada de decisão.
 
----
+
 
 ## 6. Resolução Sugerida
 
@@ -118,11 +118,10 @@ Dado o cenário acima, resolva:
 - ¬P é verdadeira (Fonte B)
 - **Interpretação:** O sistema reconhece a contradição, mas ela não afeta outras proposições. Estratégias externas são necessárias para resolver a ambiguidade.
 
----
+
 
 ## 7. Conclusão
 
 Este exercício mostra como LPA e LP permitem tratar contradições de forma controlada, cada uma com suas particularidades. A LPA fornece ferramentas quantitativas para análise e decisão, enquanto a LP oferece uma abordagem qualitativa, aceitando a coexistência de contradições sem comprometer a integridade do sistema lógico.
 
----
-```
+

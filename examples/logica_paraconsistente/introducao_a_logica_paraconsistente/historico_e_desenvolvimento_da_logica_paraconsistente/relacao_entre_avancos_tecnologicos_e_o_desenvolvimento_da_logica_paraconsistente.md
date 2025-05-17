@@ -39,8 +39,8 @@ Com o contínuo avanço da tecnologia, especialmente em áreas como inteligênci
 
 A relação entre avanços tecnológicos e o desenvolvimento da lógica paraconsistente é de mútua influência e fortalecimento. À medida que a tecnologia evolui e os sistemas se tornam mais complexos, a lógica paraconsistente se consolida como uma ferramenta indispensável para o tratamento de inconsistências, contribuindo para a construção de sistemas mais inteligentes, resilientes e confiáveis.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

@@ -26,4 +26,4 @@ Essas primeiras colaborações interdisciplinares foram fundamentais para demons
 ## Considerações Finais
 
 A história das primeiras colaborações interdisciplinares na lógica paraconsistente mostra como a integração de diferentes áreas do conhecimento pode impulsionar a inovação e a resolução de problemas complexos. O diálogo entre teoria e prática, envolvendo filosofia, matemática, ciência da computação, engenharia e outras áreas, foi e continua sendo essencial para o avanço e a consolidação das aplicações da lógica paraconsistente no mundo real.
-```
+

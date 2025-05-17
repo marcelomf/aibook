@@ -72,5 +72,4 @@ O uso de ambientes computacionais é indispensável para o avanço do estudo e d
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Beziau, J.-Y. (Ed.). (2012). *Paraconsistency: Logic and Applications*. Springer.
 
----
-```
+

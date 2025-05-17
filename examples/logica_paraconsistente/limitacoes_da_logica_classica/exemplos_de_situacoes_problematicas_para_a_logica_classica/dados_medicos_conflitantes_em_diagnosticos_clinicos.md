@@ -33,4 +33,4 @@ Por exemplo, um sistema baseado em lógica paraconsistente pode atribuir diferen
 ### Conclusão
 
 Os dados médicos conflitantes em diagnósticos clínicos representam um desafio significativo para a lógica clássica, evidenciando suas limitações em contextos reais onde a informação é imperfeita, incompleta ou contraditória. A adoção de lógicas não clássicas, como a lógica paraconsistente, oferece caminhos promissores para aprimorar a tomada de decisão em saúde, tornando-a mais robusta e adaptada à complexidade do mundo real.
-```
+

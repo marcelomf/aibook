@@ -2,7 +2,7 @@
 
 A lógica paraconsistente surge como uma resposta às limitações da lógica clássica diante de contradições. Enquanto a lógica clássica é explosiva — ou seja, a partir de uma contradição qualquer proposição pode ser inferida (princípio da explosão) —, a lógica paraconsistente propõe sistemas de inferência que controlam o impacto das contradições, permitindo que o raciocínio continue de forma não trivial. Neste tópico, exploramos as principais regras de inferência exclusivas da lógica paraconsistente, destacando como elas diferem das regras tradicionais e como possibilitam o tratamento de informações inconsistentes.
 
----
+
 
 ## 1. Princípio da Não Explosão
 
@@ -16,7 +16,7 @@ Na lógica paraconsistente, essa regra é **rejeitada**. Ou seja, mesmo que uma 
 
 Essa é a principal característica que distingue a lógica paraconsistente das lógicas clássicas e intuitionistas.
 
----
+
 
 ## 2. Regras de Inferência Controlada
 
@@ -36,7 +36,7 @@ Algumas lógicas paraconsistentes, como a **Lógica de Priest (LP)**, introduzem
 - **Regra de Consistência:** Se ◦A (A é consistente), então as regras clássicas se aplicam a A.
 - **Regra de Inconsistência:** Se •A (A é inconsistente), as inferências a partir de A são restritas, evitando a explosão.
 
----
+
 
 ## 3. Modificações nas Regras Clássicas
 
@@ -50,7 +50,7 @@ O **modus ponens** (de A e A → B, infere-se B) é geralmente mantido, mas pode
 
 Em algumas lógicas paraconsistentes, a equivalência entre A e ¬¬A pode não valer em contextos contraditórios, exigindo regras específicas para tratar negações.
 
----
+
 
 ## 4. Regras de Inferência em Lógicas Paraconsistentes Anotadas (LPA)
 
@@ -63,7 +63,7 @@ Na LPA, as proposições são anotadas com pares ordenados (μ, λ), representan
 
 Essas regras permitem inferências graduais, mesmo diante de informações contraditórias.
 
----
+
 
 ## 5. Resumo das Características das Regras Paraconsistentes
 
@@ -72,7 +72,7 @@ Essas regras permitem inferências graduais, mesmo diante de informações contr
 - **Operadores de consistência/inconsistência:** Permitem distinguir entre proposições confiáveis e contraditórias.
 - **Inferência graduada:** Em sistemas anotados, as conclusões dependem dos graus de evidência.
 
----
+
 
 ## 6. Exemplos Práticos
 
@@ -88,13 +88,13 @@ Na lógica clássica, isso levaria à explosão. Na lógica paraconsistente, pod
 
 Em um sistema de decisão automatizado, informações contraditórias sobre um paciente não impedem que o sistema continue funcionando. As regras de inferência paraconsistentes permitem que decisões sejam tomadas com base nas informações mais confiáveis ou nos graus de evidência disponíveis.
 
----
+
 
 ## 7. Conclusão
 
 As regras de inferência exclusivas da lógica paraconsistente são projetadas para lidar com contradições de forma controlada, evitando a explosão e permitindo o raciocínio útil em contextos de informação inconsistente. Essas regras são fundamentais para aplicações em bancos de dados, inteligência artificial e sistemas de decisão, onde a inconsistência é inevitável, mas não pode paralisar o raciocínio lógico.
 
----
+
 
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems.

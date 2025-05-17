@@ -59,6 +59,6 @@ A definição formal da lógica paraconsistente é fundamental para:
 - **da Costa, N. C. A.** (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic, 15(4), 497–510.
 - **Carnielli, W. A., Coniglio, M. E.** (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+___
 
 A lógica paraconsistente, ao rejeitar o princípio da explosão, oferece uma estrutura formal robusta para o tratamento de contradições, sendo uma ferramenta essencial para o raciocínio em ambientes complexos e incertos.

@@ -42,4 +42,4 @@ Além do exemplo empresarial, outros cenários típicos incluem:
 ### Conclusão
 
 A contextualização do cenário de decisão sob contradição evidencia a necessidade de ferramentas lógicas capazes de lidar com inconsistências de maneira produtiva. A lógica paraconsistente oferece uma estrutura teórica e prática para enfrentar esses desafios, permitindo que decisões sejam tomadas de forma racional, mesmo quando a informação disponível é imperfeita ou contraditória.
-```
+

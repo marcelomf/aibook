@@ -3,7 +3,7 @@
 
 A implementação computacional de sistemas lógicos paraconsistentes, como a **Lógica Paraconsistente Anotada (LPA)** e a **Lógica de Priest (LP)**, é fundamental para compreender seu funcionamento prático e explorar suas aplicações em áreas como bancos de dados, inteligência artificial e sistemas de tomada de decisão. A seguir, propomos exercícios práticos que envolvem a modelagem e a implementação básica desses sistemas em linguagem de programação, com foco em Python, devido à sua simplicidade e ampla adoção acadêmica.
 
----
+
 
 ## 1. Exercício: Representação de Fórmulas e Anotações na LPA
 
@@ -56,7 +56,7 @@ p = ProposicaoLPA("A", 0.7, 0.6)
 print(f"Proposição {p.nome}: {p.estado_logico()}")
 ```
 
----
+
 
 ## 2. Exercício: Implementação Básica da Lógica de Priest (LP)
 
@@ -127,7 +127,7 @@ print("p1 AND p2:", p1.conjuncao(p2).valor)
 print("p1 OR p2:", p1.disjuncao(p2).valor)
 ```
 
----
+
 
 ## 3. Exercício: Simulação de Resolução de Contradições
 
@@ -140,7 +140,7 @@ Utilizar as implementações acima para simular a resolução de contradições 
 - Implemente uma função que identifique proposições inconsistentes (LPA: Gct > 0; LP: valor = "B").
 - Proponha uma estratégia simples para tratar ou sinalizar essas contradições (ex: priorizar proposições com maior grau de certeza, ou sinalizar para revisão humana).
 
----
+
 
 ## 4. Exercício: Extensão e Exploração
 
@@ -150,7 +150,7 @@ Utilizar as implementações acima para simular a resolução de contradições 
 - Implemente uma interface simples (CLI) para o usuário inserir proposições e ver os resultados.
 - Explore a integração com bibliotecas de IA para aplicar a lógica paraconsistente em sistemas de decisão.
 
----
+
 
 ## Referências e Leitura Recomendada
 
@@ -158,7 +158,7 @@ Utilizar as implementações acima para simular a resolução de contradições 
 - **da Costa, N. C. A.** (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 - **Abe, Jair Minoro; Nakamatsu, Kazumi.** (2009). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Livraria da Física.
 
----
+
 
 Esses exercícios proporcionam uma introdução prática à implementação computacional dos principais sistemas paraconsistentes, permitindo ao leitor experimentar e compreender, de forma concreta, os conceitos fundamentais da LPA e da LP.
-```
+

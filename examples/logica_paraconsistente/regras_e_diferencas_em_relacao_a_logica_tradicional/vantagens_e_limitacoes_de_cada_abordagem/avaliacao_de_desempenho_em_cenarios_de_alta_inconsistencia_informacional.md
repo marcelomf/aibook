@@ -53,10 +53,10 @@ Diversos estudos de caso demonstram a eficácia da lógica paraconsistente em ce
 
 A avaliação de desempenho em cenários de alta inconsistência informacional evidencia a importância da lógica paraconsistente como ferramenta para o raciocínio não trivial diante de contradições. Embora apresente desafios, sua adoção permite maior robustez, flexibilidade e utilidade prática em sistemas complexos e dinâmicos. O contínuo desenvolvimento de métodos, métricas e ferramentas de apoio tende a ampliar ainda mais o alcance e a eficácia dessa abordagem nos próximos anos.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
 
-```
+

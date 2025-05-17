@@ -40,4 +40,4 @@ A participação em conferências, simpósios e outros eventos acadêmicos é um
 ### Considerações Finais
 
 A participação em eventos acadêmicos é um investimento valioso na carreira de estudantes e jovens pesquisadores. Além de ampliar horizontes e consolidar conhecimentos, esses encontros são fundamentais para a construção de uma trajetória científica sólida e conectada com a comunidade internacional. Encoraja-se, portanto, a busca ativa por essas oportunidades, que certamente contribuirão para o crescimento pessoal e profissional no campo da Lógica Paraconsistente e além.
-```
+

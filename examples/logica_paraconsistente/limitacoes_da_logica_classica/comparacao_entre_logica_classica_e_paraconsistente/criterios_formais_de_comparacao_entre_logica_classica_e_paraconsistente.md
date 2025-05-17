@@ -3,7 +3,7 @@
 
 A comparação entre lógica clássica e lógica paraconsistente é fundamental para compreender as motivações, vantagens e limitações de cada abordagem no tratamento de informações, especialmente quando há contradições. Para realizar essa comparação de maneira rigorosa, utilizam-se critérios formais que avaliam propriedades lógicas, semânticas e pragmáticas dos sistemas. A seguir, apresentamos os principais critérios formais de comparação, destacando como cada lógica se comporta em relação a eles.
 
----
+
 
 ## 1. **Princípio da Não Contradição**
 
@@ -12,7 +12,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Permite que $A$ e $\neg A$ sejam ambos verdadeiros em certos contextos, sem que isso implique a trivialidade do sistema. Ou seja, a presença de contradições não leva necessariamente à explosão lógica.
 
----
+
 
 ## 2. **Princípio da Explosão (Ex Falso Quodlibet)**
 
@@ -25,7 +25,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   O princípio da explosão não é válido. A dedução de qualquer proposição a partir de uma contradição é bloqueada por mecanismos formais, permitindo o raciocínio útil mesmo na presença de inconsistências.
 
----
+
 
 ## 3. **Consistência e Completude**
 
@@ -34,7 +34,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Pode operar sobre conjuntos inconsistentes de premissas sem colapsar. A completude pode ser redefinida ou adaptada, dependendo do sistema paraconsistente adotado.
 
----
+
 
 ## 4. **Semântica Formal**
 
@@ -43,7 +43,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Pode adotar semânticas multivalentes, como a lógica de três valores (verdadeiro, falso, ambos), ou anotações que expressam graus de certeza e contradição (como na Lógica Paraconsistente Anotada).
 
----
+
 
 ## 5. **Preservação da Inferência**
 
@@ -52,7 +52,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Pode ser monotônica ou não, dependendo do sistema. Algumas lógicas paraconsistentes são não-monotônicas, permitindo a revisão de inferências diante de novas informações contraditórias.
 
----
+
 
 ## 6. **Aplicabilidade Prática**
 
@@ -61,7 +61,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Essencial em contextos com informações incompletas, incertas ou contraditórias, como bancos de dados, inteligência artificial, direito e filosofia.
 
----
+
 
 ## 7. **Formalização e Sistemas Dedutivos**
 
@@ -70,7 +70,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Diversos sistemas dedutivos foram desenvolvidos, como a Lógica Paraconsistente Anotada (LPA), Lógica de Priest (LP), entre outros, cada um com regras específicas para tratar contradições.
 
----
+
 
 ## 8. **Expressividade**
 
@@ -79,12 +79,12 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 - **Lógica Paraconsistente:**  
   Maior expressividade para modelar e raciocinar sobre domínios onde a contradição é inevitável ou informativamente relevante.
 
----
+
 
 ## **Resumo Comparativo**
 
 | Critério                      | Lógica Clássica         | Lógica Paraconsistente      |
-|-------------------------------|-------------------------|-----------------------------|
+|-|-|--|
 | Não Contradição               | Absoluta                | Relativa                    |
 | Explosão                      | Válida                  | Bloqueada                   |
 | Consistência                  | Exigida                 | Não exigida                 |
@@ -94,7 +94,7 @@ A comparação entre lógica clássica e lógica paraconsistente é fundamental 
 | Formalização                  | Bem estabelecida        | Diversificada               |
 | Expressividade                | Limitada                | Ampliada                    |
 
----
+
 
 ## **Conclusão**
 
@@ -102,5 +102,4 @@ A análise formal dos critérios acima evidencia que a lógica paraconsistente s
 
 A escolha entre lógica clássica e paraconsistente deve ser guiada pelas necessidades do domínio de aplicação e pelo tipo de raciocínio desejado, sempre considerando os critérios formais que fundamentam cada abordagem.
 
----
-```
+

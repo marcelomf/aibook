@@ -27,7 +27,7 @@ A lógica paraconsistente foi desenvolvida justamente para **evitar a explosão*
 ### Comparação Prática
 
 | Aspecto                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|-------------------------------|----------------------------------|----------------------------------|
+|-|-|-|
 | **Tratamento de Contradições** | Não tolera contradições; leva à explosão | Tolera e isola contradições; evita explosão |
 | **Aplicação em Dados Inconsistentes** | Inviável; requer limpeza total dos dados | Viável; permite operar mesmo com inconsistências |
 | **Raciocínio**                 | Trivializa diante de contradições | Mantém raciocínio significativo  |
@@ -43,4 +43,4 @@ A capacidade de tratar inconsistências de forma controlada torna a lógica para
 ### Conclusão
 
 Enquanto a lógica clássica é poderosa e adequada para contextos onde a consistência pode ser garantida, ela se mostra limitada diante de inconsistências inevitáveis em sistemas complexos e dinâmicos. A lógica paraconsistente, ao permitir o tratamento controlado de contradições, amplia as possibilidades de aplicação da lógica formal, tornando-se uma ferramenta essencial para a ciência da computação, inteligência artificial e outras áreas que lidam com informação imperfeita ou conflitante.
-```
+

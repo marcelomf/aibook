@@ -55,7 +55,7 @@ Ao utilizar a LPA, o sistema de registros médicos pode:
 
 A Lógica Paraconsistente Anotada oferece uma abordagem robusta para lidar com contradições em registros médicos, permitindo que sistemas de informação médica sejam mais tolerantes a erros e inconsistências inevitáveis em ambientes reais. Ao anotar proposições com graus de evidência favorável e desfavorável, a LPA possibilita a identificação, o tratamento e a resolução de conflitos de maneira controlada e racional, sem comprometer a integridade do raciocínio lógico.
 
----
+
 
 **Referências:**
 

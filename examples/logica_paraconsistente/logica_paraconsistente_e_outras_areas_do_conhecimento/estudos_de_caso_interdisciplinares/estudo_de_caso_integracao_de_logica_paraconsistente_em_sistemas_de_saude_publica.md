@@ -46,9 +46,9 @@ A implementação de lógica paraconsistente em sistemas de saúde pública exig
 
 A integração da lógica paraconsistente em sistemas de saúde pública representa um avanço significativo na gestão de informações contraditórias, promovendo decisões mais seguras e fundamentadas. Estudos de caso demonstram que, ao invés de ignorar ou eliminar dados inconsistentes, é possível utilizá-los de maneira produtiva, aumentando a eficiência e a qualidade dos serviços de saúde. Essa abordagem interdisciplinar, que une lógica, ciência da computação e saúde, ilustra o potencial transformador das lógicas não clássicas em cenários críticos do mundo real.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Batens, D. (2000). "A General Characterization of Adaptive Logics."  
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."  
 - Silva Filho, J. I. (2011). "Lógica Paraconsistente Anotada: Teoria e Aplicações."
-```
+

@@ -35,7 +35,7 @@ A demanda por abordagens não triviais nessas áreas reflete uma compreensão ma
 
 A lógica paraconsistente, ao permitir o tratamento controlado de inconsistências, contribui para a construção de sistemas mais flexíveis, resilientes e alinhados com as necessidades reais de profissionais e instituições nessas áreas. Seu uso crescente em aplicações como bancos de dados jurídicos, sistemas de apoio à decisão clínica e análise de políticas públicas evidencia sua relevância e potencial transformador.
 
----
+___
 
 **Referências:**
 
@@ -43,4 +43,4 @@ A lógica paraconsistente, ao permitir o tratamento controlado de inconsistênci
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Sartor, G. (2005). *Legal Reasoning: A Cognitive Approach to the Law*. Springer.
 - Batini, C., & Scannapieco, M. (2016). *Data and Information Quality: Dimensions, Principles and Techniques*. Springer.
-```
+

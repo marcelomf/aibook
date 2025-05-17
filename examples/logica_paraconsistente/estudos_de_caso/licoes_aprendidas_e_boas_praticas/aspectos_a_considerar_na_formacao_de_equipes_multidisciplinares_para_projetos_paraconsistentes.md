@@ -48,9 +48,9 @@ A avaliação de projetos paraconsistentes deve considerar múltiplos critérios
 - **Avaliação de impacto:** Medir os benefícios práticos no contexto de aplicação, como melhoria na tomada de decisão ou aumento da confiabilidade dos sistemas.
 - **Feedback contínuo:** Incorporar avaliações regulares dos usuários finais e stakeholders para ajustar o projeto às necessidades reais.
 
----
+___
 
 ## Conclusão
 
 A formação de equipes multidisciplinares para projetos paraconsistentes é um fator crítico de sucesso. A integração de diferentes competências, aliada a uma comunicação eficaz, gestão de conflitos, flexibilidade e uso de ferramentas adequadas, permite explorar todo o potencial da lógica paraconsistente em aplicações práticas. Ao considerar esses aspectos, as equipes estarão mais preparadas para enfrentar os desafios inerentes ao tratamento de informações contraditórias e à construção de sistemas inovadores e confiáveis.
-```
+

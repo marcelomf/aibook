@@ -75,6 +75,6 @@ No entanto, a tendência é que, com o aumento da complexidade e da criticidade 
   Livro abrangente sobre teoria e aplicações práticas.
 - **Artigos recentes em journals de IA e lógica não clássica**, como *Journal of Artificial Intelligence Research* e *Journal of Applied Logic*.
 
----
+
 
 O raciocínio paraconsistente representa uma fronteira promissora para o desenvolvimento de sistemas de aprendizado profundo mais adaptáveis e confiáveis, especialmente em cenários onde a contradição e a incerteza são inerentes.

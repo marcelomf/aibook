@@ -37,4 +37,4 @@ A resolução de conflitos em bancos de dados requer abordagens que sejam capaze
 É nesse contexto que a **Lógica Paraconsistente** se destaca como uma ferramenta poderosa, permitindo lidar com contradições de maneira controlada e fundamentada, sem que o sistema lógico se torne trivial ou inutilizável. Ao invés de simplesmente rejeitar ou ignorar dados conflitantes, a lógica paraconsistente possibilita a modelagem, análise e resolução de inconsistências, promovendo maior robustez e flexibilidade na gestão de bancos de dados reais.
 
 Nos próximos tópicos, exploraremos como a lógica paraconsistente pode ser aplicada na prática para tratar esses desafios, apresentando exemplos concretos e estratégias de implementação.
-```
+

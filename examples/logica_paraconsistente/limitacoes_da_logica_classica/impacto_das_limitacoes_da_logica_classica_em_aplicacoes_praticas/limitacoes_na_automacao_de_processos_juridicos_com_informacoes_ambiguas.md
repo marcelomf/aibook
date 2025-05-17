@@ -41,10 +41,10 @@ Diante dessas limitações, pesquisadores têm buscado alternativas, como a **l�
 
 A automação de processos jurídicos baseada exclusivamente em lógica clássica encontra barreiras significativas quando confrontada com a ambiguidade e a contradição inerentes ao campo jurídico. Reconhecer essas limitações é fundamental para o desenvolvimento de sistemas mais eficazes, capazes de apoiar profissionais do Direito em tarefas complexas e decisivas.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Sartor, G. (2010). *Legal Reasoning: A Cognitive Approach to the Law*. Springer.
 
-```
+

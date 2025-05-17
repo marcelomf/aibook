@@ -72,11 +72,11 @@ A participação em eventos e encontros promovidos por comunidades de pesquisa �
 
 A participação em eventos e encontros promovidos por comunidades de pesquisa é uma das formas mais eficazes de se manter atualizado, construir uma rede de contatos e contribuir ativamente para o avanço da Lógica Paraconsistente. Fique atento às oportunidades, envolva-se e aproveite ao máximo o que essas comunidades têm a oferecer!
 
----
+
 
 **Sugestão de leitura complementar:**  
 - [Sociedade Brasileira de Lógica (SBL)](https://www.sbl.org.br)  
 - [Centro de Lógica, Epistemologia e História da Ciência (CLE/Unicamp)](https://www.cle.unicamp.br)  
 - [World Congress on Paraconsistency](https://www.paraconsistency.org)
 
-```
+

@@ -52,7 +52,7 @@ No entanto, a generalização deve ser feita de forma criteriosa, considerando a
 - **Realize testes e validações** em ambientes controlados antes de implantar em sistemas críticos;
 - **Mantenha-se atualizado** sobre avanços teóricos e práticos na área de lógicas não clássicas.
 
----
+___
 
 **Em resumo**, a Lógica Paraconsistente oferece um arcabouço teórico e prático promissor para o tratamento de contradições em diversos contextos. Sua generalização é possível, mas requer análise cuidadosa das características do problema e das demandas do domínio de aplicação.
-```
+

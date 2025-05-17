@@ -57,8 +57,8 @@ A lógica paraconsistente, ao permitir a convivência de informações contradit
 
 A integração de abordagens paraconsistentes com sistemas legados é um processo desafiador, mas potencialmente transformador. Ao permitir o tratamento controlado de contradições, a lógica paraconsistente pode aumentar a robustez e a flexibilidade dos sistemas de informação. No entanto, o sucesso dessa integração depende de uma análise cuidadosa dos desafios técnicos e organizacionais, bem como do comprometimento com a capacitação e a adaptação contínua dos processos.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic.
-```
+

@@ -34,7 +34,7 @@ A busca por sistemas lógicos mais flexíveis e robustos, capazes de refletir a 
 
 A LP também foi criada como um **laboratório teórico** para explorar as consequências de relaxar certas restrições da lógica clássica. Isso permitiu o desenvolvimento de novas técnicas de prova, semânticas alternativas (como a semântica de três valores: verdadeiro, falso e ambos), e uma compreensão mais profunda dos limites e possibilidades do raciocínio formal.
 
----
+
 
 **Em resumo**, a Lógica de Priest (LP) foi criada para oferecer uma alternativa à lógica clássica, capaz de lidar com contradições de maneira não trivial. Suas motivações incluem a necessidade de evitar a explosão lógica, a relevância prática das contradições, a análise de paradoxos, avanços em filosofia e computação, e a busca por fundamentos teóricos mais abrangentes. A LP representa, assim, um marco no desenvolvimento das lógicas paraconsistentes e uma resposta inovadora aos desafios do raciocínio em contextos complexos e contraditórios.
-```
+

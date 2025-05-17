@@ -36,10 +36,10 @@ O sistema pode então calcular o grau de certeza e o grau de contradição dessa
 
 O uso da lógica paraconsistente em diagnósticos médicos com sintomas contraditórios representa um avanço significativo na gestão de informações complexas e incertas. Ao permitir o tratamento formal de contradições, essa abordagem contribui para diagnósticos mais precisos, reduz o risco de erros e amplia a capacidade dos sistemas de apoio à decisão clínica. Este estudo de caso ilustra como a lógica paraconsistente pode ser aplicada de forma prática e eficaz em um dos contextos mais sensíveis e críticos da sociedade: a saúde.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
 
-```
+

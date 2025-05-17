@@ -47,9 +47,9 @@ A escolha entre lógica clássica e paraconsistente deve considerar o contexto d
 
 Em resumo, o desempenho computacional em sistemas paraconsistentes tende a ser inferior ao de sistemas clássicos em termos de velocidade e uso de recursos, mas essa diferença é frequentemente justificada pela robustez, flexibilidade e riqueza de informações que esses sistemas proporcionam.
 
----
+
 **Referências:**
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Subrahmanian, V. S. (1994). *Paraconsistent Logic Programming*. In *Handbook of Logic in Artificial Intelligence and Logic Programming* (Vol. 3).
-```
+

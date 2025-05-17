@@ -51,8 +51,8 @@ Apesar dos benefícios, a adoção da lógica paraconsistente em big data traz d
 
 A lógica paraconsistente oferece uma abordagem robusta para a escalabilidade de sistemas de big data, ao permitir o processamento eficiente de grandes volumes de dados, mesmo na presença de inconsistências. Isso representa um avanço significativo em relação à lógica tradicional, tornando possível extrair valor de dados complexos e contraditórios em larga escala, com maior resiliência e flexibilidade.
 
----
+
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Inconsistency Tolerant Reasoning in Big Data*. In: Handbook of Big Data Technologies.
-```
+

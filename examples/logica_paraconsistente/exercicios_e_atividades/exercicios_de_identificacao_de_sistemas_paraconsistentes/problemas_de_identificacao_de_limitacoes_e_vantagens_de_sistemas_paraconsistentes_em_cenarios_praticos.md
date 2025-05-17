@@ -5,7 +5,7 @@
 
 A aplicação de sistemas paraconsistentes em cenários reais traz à tona tanto vantagens quanto limitações, que precisam ser cuidadosamente analisadas para garantir o sucesso na resolução de problemas envolvendo informações contraditórias. Nesta seção, você encontrará uma discussão detalhada sobre como identificar essas limitações e vantagens, seguida de exercícios práticos para fixação do conteúdo.
 
----
+
 
 ### 1. **Vantagens dos Sistemas Paraconsistentes em Cenários Práticos**
 
@@ -17,7 +17,7 @@ Os sistemas paraconsistentes foram desenvolvidos para superar as limitações da
 - **Resolução de Conflitos:** Auxiliam na mediação e resolução de conflitos em sistemas multiagentes, negociações automatizadas e análise de informações provenientes de múltiplas fontes.
 - **Aplicações em Direito e Filosofia:** Permitem modelar raciocínios jurídicos e filosóficos onde normas ou princípios podem entrar em conflito sem invalidar todo o sistema.
 
----
+
 
 ### 2. **Limitações dos Sistemas Paraconsistentes em Cenários Práticos**
 
@@ -29,7 +29,7 @@ Apesar das vantagens, os sistemas paraconsistentes também apresentam limitaçõ
 - **Integração com Sistemas Legados:** A adoção de lógica paraconsistente pode exigir adaptações significativas em sistemas já existentes, o que pode ser custoso e demorado.
 - **Limitações Teóricas:** Em alguns casos, a lógica paraconsistente pode não capturar todas as nuances de certos tipos de contradição, especialmente em domínios altamente especializados.
 
----
+
 
 ### 3. **Exercícios Práticos**
 
@@ -45,7 +45,7 @@ Imagine um sistema de tomada de decisão automatizada em um banco, que utiliza l
 
 Diante de um cenário de integração de dados de múltiplas fontes (por exemplo, diferentes agências de notícias), como você avaliaria qual sistema paraconsistente é mais adequado? Quais critérios você utilizaria para identificar vantagens e limitações de cada sistema?
 
----
+
 
 ### 4. **Discussão e Reflexão**
 
@@ -58,7 +58,7 @@ A identificação das vantagens e limitações dos sistemas paraconsistentes é 
 
 A escolha do sistema paraconsistente mais adequado deve ser guiada por uma análise criteriosa do contexto e dos objetivos do projeto.
 
----
+
 
 ### 5. **Sugestão de Leitura Complementar**
 
@@ -66,9 +66,9 @@ A escolha do sistema paraconsistente mais adequado deve ser guiada por uma anál
 - **"Paraconsistent Logic: Consistency, Contradiction and Negation"** – Koji Tanaka et al.
 - **Artigos sobre aplicações práticas em bancos de dados e inteligência artificial (ver referências ao final do eBook).**
 
----
+
 
 > **Dica:** Ao resolver os exercícios, procure sempre justificar suas respostas com base nos conceitos apresentados e, se possível, exemplifique com situações reais ou hipotéticas.
 
----
-```
+
+

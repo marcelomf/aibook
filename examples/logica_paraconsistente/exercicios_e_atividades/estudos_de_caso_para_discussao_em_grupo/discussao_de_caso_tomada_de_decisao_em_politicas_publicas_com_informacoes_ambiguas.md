@@ -49,8 +49,8 @@ A lógica clássica, ao se deparar com contradições (por exemplo, "a vacina é
 
 A lógica paraconsistente oferece um arcabouço teórico e prático para lidar com a complexidade e a ambiguidade inerentes à tomada de decisão em políticas públicas. Ao reconhecer e tratar contradições de forma estruturada, gestores podem tomar decisões mais informadas, transparentes e adaptáveis, mesmo em cenários de incerteza.
 
----
+
 
 **Sugestão de Atividade:**  
 Divida o grupo em equipes e peça que cada uma proponha um plano de ação para o caso apresentado, utilizando os princípios da lógica paraconsistente. Em seguida, compare as estratégias e discuta os pontos fortes e fracos de cada abordagem.
-```
+

@@ -5,7 +5,7 @@ A lógica clássica, base do raciocínio tradicional, segue o chamado **princíp
 
 A seguir, apresentamos exemplos simples e ilustrativos de como a lógica paraconsistente trata contradições de maneira controlada e útil.
 
----
+___
 
 ## Exemplo 1: Banco de Dados com Informações Contraditórias
 
@@ -18,7 +18,7 @@ Na lógica clássica, a presença dessas duas afirmações contraditórias levar
 
 **Na lógica paraconsistente**, é possível reconhecer que há uma contradição, mas o sistema não se torna trivial. O sistema pode, por exemplo, sinalizar a inconsistência e permitir que consultas retornem um estado "indeterminado" ou "inconsistente", sem comprometer o restante do banco de dados.
 
----
+___
 
 ## Exemplo 2: Diagnóstico Médico com Resultados Conflitantes
 
@@ -29,7 +29,7 @@ Considere um sistema de apoio à decisão médica que recebe informações de di
 
 Na lógica clássica, essa contradição poderia invalidar qualquer conclusão sobre o paciente. Já na lógica paraconsistente, o sistema pode registrar a contradição e continuar operando, talvez atribuindo um grau de incerteza ao diagnóstico ou solicitando exames adicionais, sem descartar automaticamente todas as informações.
 
----
+___
 
 ## Exemplo 3: Relatos Contraditórios em Investigações
 
@@ -40,7 +40,7 @@ Em uma investigação, duas testemunhas fazem declarações opostas:
 
 A lógica clássica não permite que ambas as afirmações sejam consideradas verdadeiras ao mesmo tempo. A lógica paraconsistente, por outro lado, permite que o sistema registre ambas as informações, reconheça a contradição e continue a análise, talvez ponderando a confiabilidade das testemunhas ou buscando mais evidências.
 
----
+___
 
 ## Exemplo 4: Sistemas de Inteligência Artificial
 
@@ -51,11 +51,10 @@ Em sistemas de inteligência artificial, especialmente aqueles que integram info
 
 A lógica paraconsistente permite que o sistema registre ambas as informações, sinalize a inconsistência ao usuário e, se possível, busque uma fonte adicional para resolver a contradição, em vez de simplesmente falhar ou fornecer uma resposta arbitrária.
 
----
+___
 
 ## Conclusão
 
 Esses exemplos mostram que a lógica paraconsistente é especialmente útil em contextos onde a informação pode ser incompleta, incerta ou contraditória — situações comuns em bancos de dados, sistemas de apoio à decisão, inteligência artificial e investigações. Ao permitir o tratamento controlado de contradições, a lógica paraconsistente amplia as possibilidades de raciocínio e análise, tornando-se uma ferramenta valiosa para a ciência da computação, filosofia, matemática e outras áreas.
 
----
-```
+

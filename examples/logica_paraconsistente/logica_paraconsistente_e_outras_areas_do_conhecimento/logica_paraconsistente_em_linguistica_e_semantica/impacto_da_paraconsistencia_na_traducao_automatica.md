@@ -52,7 +52,7 @@ Apesar do potencial, a integração da lógica paraconsistente em sistemas de tr
 
 A lógica paraconsistente oferece uma abordagem inovadora e poderosa para enfrentar os desafios da tradução automática em contextos de ambiguidade, incerteza e contradição. Ao permitir que sistemas de TA reconheçam, representem e tratem informações contraditórias de forma controlada, a paraconsistência contribui para traduções mais precisas, transparentes e fiéis ao texto original. Com o avanço das pesquisas e o desenvolvimento de novas ferramentas, espera-se que a lógica paraconsistente desempenhe um papel cada vez mais relevante na evolução da tradução automática e do processamento de linguagem natural.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  

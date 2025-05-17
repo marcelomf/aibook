@@ -45,9 +45,8 @@ Para enfrentar esses desafios, algumas abordagens têm sido exploradas:
 
 Apesar dos desafios de desempenho computacional, a lógica paraconsistente oferece benefícios únicos para aplicações que exigem tolerância a inconsistências. O avanço das pesquisas em algoritmos, arquiteturas e técnicas de otimização será fundamental para viabilizar o uso eficiente dessa abordagem em sistemas de larga escala, tornando-a cada vez mais relevante em um mundo onde a complexidade e a contradição de informações são a norma.
 
----
+___
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics in Knowledge Representation*. Artificial Intelligence, 61(2), 235-355.
 - Prieto, M., & Subrahmanian, V. S. (1994). *Efficient Query Processing in Paraconsistent Databases*. Information Systems, 19(2), 131-146.
-```

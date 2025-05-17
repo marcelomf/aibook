@@ -7,7 +7,7 @@ O diagnóstico de sistemas complexos — como redes elétricas, sistemas industr
 
 Neste estudo de caso, comparamos os resultados obtidos ao aplicar a **lógica clássica** e a **lógica paraconsistente** no diagnóstico de um sistema industrial automatizado sujeito a informações contraditórias.
 
----
+___
 
 ### 1. Diagnóstico com Lógica Clássica
 
@@ -27,7 +27,7 @@ Na lógica clássica, a presença dessa contradição pode levar o sistema a:
 - Diagnóstico frequentemente interrompido ou inconclusivo.
 - Necessidade de intervenção humana para resolução de conflitos.
 
----
+___
 
 ### 2. Diagnóstico com Lógica Paraconsistente
 
@@ -49,19 +49,19 @@ Na lógica paraconsistente, o sistema pode:
 - Possibilidade de priorizar ações corretivas ou de manutenção com base no grau de contradição detectado.
 - Redução da necessidade de intervenção humana imediata.
 
----
+___
 
 ### 3. Resultados Práticos: Comparação
 
 | Critério                        | Lógica Clássica                  | Lógica Paraconsistente           |
-|----------------------------------|----------------------------------|----------------------------------|
+|_________________________________-|_________________________________-|_________________________________-|
 | **Tolerância a Contradições**    | Baixa                            | Alta                             |
 | **Continuidade do Diagnóstico**  | Frequentemente interrompido      | Mantido, com sinalização de conflitos |
 | **Qualidade das Conclusões**     | Inconclusivas ou inválidas       | Úteis, mesmo sob incerteza       |
 | **Necessidade de Intervenção**   | Alta                             | Reduzida                         |
 | **Aplicação em Ambientes Reais** | Limitada                         | Ampla, especialmente em sistemas críticos |
 
----
+___
 
 ### 4. Considerações Finais
 
@@ -72,5 +72,4 @@ Essa abordagem não apenas aumenta a robustez e a confiabilidade dos sistemas de
 **Sugestão de Leitura:**  
 Para aprofundar-se no tema, recomenda-se a leitura de artigos e livros sobre Lógica Paraconsistente Anotada (LPA) e suas aplicações em sistemas de diagnóstico industrial e inteligência artificial.
 
----
-```
+

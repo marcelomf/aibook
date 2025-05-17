@@ -3,7 +3,7 @@
 
 A tomada de decisão em ambientes reais frequentemente envolve lidar com informações incompletas, ambíguas ou até mesmo contraditórias. Em muitos contextos, como gestão empresarial, medicina, direito e sistemas automatizados, a presença de dados conflitantes pode comprometer a eficácia das decisões se forem utilizados apenas métodos tradicionais baseados em lógica clássica. A Lógica Paraconsistente, ao permitir o tratamento controlado de contradições, oferece ferramentas valiosas para otimizar decisões nesses cenários. A seguir, apresentamos estudos de caso que ilustram como a lógica paraconsistente pode ser aplicada para aprimorar processos decisórios em ambientes contraditórios.
 
----
+___
 
 ## 1. Diagnóstico Médico com Dados Contraditórios
 
@@ -19,7 +19,7 @@ Utilizando a Lógica Paraconsistente Anotada (LPA), é possível atribuir graus 
 
 O uso da LPA permite que o sistema não descarte informações contraditórias, mas as integre de forma controlada, oferecendo ao médico uma visão mais completa e fundamentada para a tomada de decisão, reduzindo o risco de erros causados por exclusão prematura de dados relevantes.
 
----
+___
 
 ## 2. Gerenciamento de Bancos de Dados Inconsistentes
 
@@ -35,7 +35,7 @@ Sistemas de gerenciamento de bancos de dados podem empregar lógica paraconsiste
 
 A abordagem paraconsistente permite que decisões operacionais e estratégicas sejam tomadas com base em uma análise mais rica e realista dos dados disponíveis, minimizando perdas de informação e aumentando a confiabilidade dos processos decisórios.
 
----
+___
 
 ## 3. Inteligência Artificial em Sistemas de Recomendação
 
@@ -51,7 +51,7 @@ Ao modelar as avaliações dos usuários com lógica paraconsistente, o sistema 
 
 Isso resulta em recomendações mais personalizadas e robustas, capazes de lidar com a diversidade de opiniões sem descartar informações relevantes, melhorando a satisfação do usuário e a eficácia do sistema.
 
----
+___
 
 ## 4. Resolução de Conflitos em Sistemas Multiagente
 
@@ -67,11 +67,10 @@ A lógica paraconsistente permite que cada agente avalie e combine informações
 
 Essa abordagem aumenta a resiliência do sistema, permitindo que os agentes continuem operando de forma eficiente mesmo diante de incertezas e contradições, otimizando a tomada de decisão coletiva.
 
----
+___
 
 ## Considerações Finais
 
 Os estudos de caso apresentados demonstram que a Lógica Paraconsistente é uma ferramenta poderosa para otimizar decisões em ambientes contraditórios. Ao invés de ignorar ou eliminar contradições, ela permite que sistemas e profissionais as tratem de forma estruturada, extraindo o máximo de informação possível e reduzindo riscos associados à incerteza. Com a crescente complexidade dos ambientes de decisão modernos, a adoção de abordagens paraconsistentes tende a se tornar cada vez mais relevante em diversas áreas do conhecimento.
 
----
-```
+

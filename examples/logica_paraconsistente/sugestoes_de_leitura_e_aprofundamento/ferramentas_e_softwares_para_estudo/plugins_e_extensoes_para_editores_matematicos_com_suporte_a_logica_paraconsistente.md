@@ -3,7 +3,7 @@
 
 A formalização e o estudo da lógica paraconsistente frequentemente exigem o uso de editores matemáticos e ferramentas computacionais capazes de lidar com notações lógicas avançadas, manipulação simbólica e, em alguns casos, verificação automática de provas. Embora a lógica paraconsistente ainda não seja tão amplamente suportada quanto a lógica clássica em ambientes computacionais, há um crescente interesse em desenvolver plugins, extensões e bibliotecas que facilitem o trabalho de pesquisadores, estudantes e profissionais da área. A seguir, apresentamos algumas das principais opções disponíveis e dicas para integrar a lógica paraconsistente ao seu fluxo de trabalho matemático.
 
----
+
 
 ## 1. **Coq e Lean: Bibliotecas para Lógicas Não Clássicas**
 
@@ -19,7 +19,7 @@ A formalização e o estudo da lógica paraconsistente frequentemente exigem o u
 
 > **Dica:** Para usar lógica paraconsistente nesses assistentes, é comum definir novos tipos de conectivos e axiomas, adaptando o sistema de inferência conforme necessário.
 
----
+
 
 ## 2. **LaTeX: Pacotes para Notação Paraconsistente**
 
@@ -41,7 +41,7 @@ O **LaTeX** é o padrão para produção de textos matemáticos. Embora não haj
 > **Exemplo:**  
 > `$\negf A$` para negação forte de A.
 
----
+
 
 ## 3. **Plugins para VS Code, Atom e Outros Editores**
 
@@ -58,7 +58,7 @@ Editores modernos como **VS Code** e **Atom** oferecem extensões para edição 
 
 Essas extensões facilitam a escrita, compilação e visualização de fórmulas lógicas, além de integrarem-se a sistemas de verificação de provas.
 
----
+
 
 ## 4. **Softwares Específicos para Lógica Paraconsistente**
 
@@ -71,7 +71,7 @@ Embora menos comuns, existem ferramentas e projetos dedicados à lógica paracon
 - **Paraconsistent Logic Reasoners:**  
   Projetos experimentais, como o [Paraconsistent Reasoner for Prolog](https://github.com/ParaconsistentProlog), estendem Prolog para raciocínio paraconsistente.
 
----
+
 
 ## 5. **Sistemas de Álgebra Computacional**
 
@@ -83,7 +83,7 @@ Softwares como **Mathematica** e **SageMath** permitem a definição de operador
 - **Mathematica:**  
   Suporte à definição de operadores e regras de inferência customizadas.
 
----
+
 
 ## 6. **Dicas para Integração e Customização**
 
@@ -96,7 +96,7 @@ Softwares como **Mathematica** e **SageMath** permitem a definição de operador
 - **Acompanhe projetos de pesquisa:**  
   Muitos avanços em ferramentas para lógica paraconsistente surgem em projetos acadêmicos. Fique atento a repositórios e publicações recentes.
 
----
+
 
 ## 7. **Referências e Links Úteis**
 
@@ -107,11 +107,11 @@ Softwares como **Mathematica** e **SageMath** permitem a definição de operador
 - [SageMath](https://www.sagemath.org/)
 - [Mathematica](https://www.wolfram.com/mathematica/)
 
----
+
 
 ## **Conclusão**
 
 Embora o suporte nativo à lógica paraconsistente em editores matemáticos ainda seja limitado, é possível adaptar ferramentas existentes por meio de plugins, extensões e customizações. O uso de assistentes de prova, editores LaTeX e sistemas de álgebra computacional, aliado à criação de macros e bibliotecas específicas, permite que pesquisadores e estudantes explorem e formalizem sistemas paraconsistentes de maneira eficiente e produtiva.
 
 > **Sugestão:** Mantenha-se atualizado sobre novos desenvolvimentos em comunidades acadêmicas e de software livre, pois o campo está em constante evolução e novas ferramentas podem surgir a qualquer momento.
-```
+

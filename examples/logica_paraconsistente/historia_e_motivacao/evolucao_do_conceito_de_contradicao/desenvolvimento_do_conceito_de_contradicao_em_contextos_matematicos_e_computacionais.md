@@ -31,7 +31,7 @@ Em contextos matemáticos, isso abre caminho para novas abordagens em teoria dos
 
 Atualmente, o conceito de contradição é visto de forma mais flexível e contextualizada. Em vez de ser apenas um erro a ser eliminado, a contradição pode ser uma característica inerente de sistemas complexos, especialmente em ambientes dinâmicos e distribuídos. A lógica paraconsistente, ao permitir o raciocínio em presença de contradições, representa uma resposta inovadora e necessária aos desafios contemporâneos da matemática e da computação.
 
----
+___
 
 **Referências:**
 
@@ -39,4 +39,4 @@ Atualmente, o conceito de contradição é visto de forma mais flexível e conte
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Subrahmanian, V. S. (1994). *Paraconsistent Databases*. Theoretical Computer Science, 111(1-2), 151-178.
-```
+

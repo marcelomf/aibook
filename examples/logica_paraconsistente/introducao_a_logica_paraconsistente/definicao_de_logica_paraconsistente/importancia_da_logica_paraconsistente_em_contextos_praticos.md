@@ -22,7 +22,7 @@ A lógica paraconsistente também tem impacto significativo em discussões filos
 
 No desenvolvimento de grandes sistemas de software, especialmente aqueles que evoluem ao longo do tempo e integram módulos desenvolvidos por diferentes equipes, inconsistências lógicas podem surgir. A lógica paraconsistente pode ser empregada para detectar, isolar e gerenciar essas inconsistências, permitindo a manutenção e evolução do sistema sem a necessidade de reescrever grandes partes do código.
 
----
+___
 
 ## Conclusão
 

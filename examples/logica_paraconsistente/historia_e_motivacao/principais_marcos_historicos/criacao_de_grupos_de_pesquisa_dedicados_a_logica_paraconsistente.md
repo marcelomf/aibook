@@ -42,9 +42,9 @@ Atualmente, existem diversos grupos de pesquisa ativos em universidades do Brasi
 
 A criação e consolidação de grupos de pesquisa dedicados à lógica paraconsistente foram essenciais para o desenvolvimento e a disseminação desse campo. Esses grupos não apenas impulsionaram o avanço teórico, mas também promoveram a aplicação prática da lógica paraconsistente em diferentes domínios, consolidando-a como uma área interdisciplinar e internacionalmente reconhecida.
 
----
+___
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Publicações do Centro de Lógica, Epistemologia e História da Ciência (CLE/UNICAMP)
-```
+

@@ -55,7 +55,7 @@ Apesar do potencial, a adoção da lógica paraconsistente em sistemas autônomo
 
 No entanto, pesquisas recentes têm mostrado avanços significativos, e a tendência é que a lógica paraconsistente se torne cada vez mais presente em aplicações críticas, contribuindo para sistemas autônomos e inteligentes mais seguros, transparentes e adaptáveis.
 
----
+___
 
 **Em resumo**, a lógica paraconsistente representa uma evolução fundamental para o futuro dos sistemas autônomos e inteligentes, oferecendo mecanismos para lidar com a complexidade e a incerteza do mundo real de maneira controlada e eficiente.
-```
+

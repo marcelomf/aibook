@@ -33,9 +33,9 @@ Hoje, a percepção filosófica sobre contradições é plural. Em muitos contex
 
 A percepção filosófica sobre as contradições evoluiu de uma rejeição absoluta para uma abordagem mais matizada e pragmática. O desenvolvimento da lógica paraconsistente representa um marco nessa trajetória, permitindo que a contradição seja tratada como um fenômeno a ser compreendido e gerenciado, e não apenas evitado. Essa mudança reflete a complexidade do mundo real, onde informações contraditórias são frequentes e, muitas vezes, inevitáveis.
 
----
+___
 **Sugestão de leitura complementar:**
 - Newton da Costa, *Lógica Paraconsistente: Introdução e Aplicações*
 - Graham Priest, *In Contradiction*
 - Susan Haack, *Philosophy of Logics*
-```
+

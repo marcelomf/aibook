@@ -51,8 +51,8 @@ Muitos editais de fomento à pesquisa incentivam a formação de equipes interna
 - **Desenvolvimento de habilidades interculturais e linguísticas.**
 - **Maior visibilidade e impacto para as pesquisas desenvolvidas.**
 
----
+
 
 A participação em intercâmbios e colaborações acadêmicas é fundamental para o avanço da Lógica Paraconsistente e para a formação de pesquisadores preparados para os desafios contemporâneos. Aproveite as oportunidades disponíveis e contribua para o desenvolvimento desse campo inovador!
 
-```
+

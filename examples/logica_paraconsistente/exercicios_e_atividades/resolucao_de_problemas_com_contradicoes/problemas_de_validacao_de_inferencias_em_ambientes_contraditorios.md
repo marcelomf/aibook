@@ -2,7 +2,7 @@
 
 A validação de inferências é uma etapa fundamental em qualquer sistema lógico, pois garante que as conclusões obtidas a partir de um conjunto de premissas sejam corretas e confiáveis. No entanto, em ambientes onde há contradições — ou seja, onde informações conflitantes coexistem —, a tarefa de validar inferências torna-se especialmente desafiadora. Este tópico explora como a Lógica Paraconsistente oferece ferramentas para lidar com esses problemas, apresentando conceitos, exemplos e estratégias para a validação de inferências em contextos contraditórios.
 
----
+
 
 ## 1. O Problema da Explosão na Lógica Clássica
 
@@ -14,7 +14,7 @@ Na lógica clássica, a presença de uma contradição (por exemplo, afirmar sim
   2. "O paciente não tem febre." (¬A)
 - Na lógica clássica, a partir dessas duas premissas, poderíamos inferir qualquer coisa, como "O paciente é um robô", o que claramente não faz sentido.
 
----
+
 
 ## 2. A Abordagem Paraconsistente
 
@@ -32,7 +32,7 @@ A validação de inferências em ambientes contraditórios envolve:
 - **Avaliação do Grau de Contradição:** Medir o quanto a contradição afeta a confiabilidade das inferências.
 - **Aplicação de Regras Paraconsistentes:** Utilizar regras específicas para determinar quais conclusões ainda podem ser consideradas válidas, mesmo diante de contradições.
 
----
+
 
 ## 3. Exemplos Práticos
 
@@ -49,7 +49,7 @@ Em bancos de dados, é comum encontrar registros conflitantes devido a erros de 
 
 Sistemas de IA frequentemente lidam com informações contraditórias, especialmente em ambientes dinâmicos ou com múltiplos sensores. A lógica paraconsistente permite que o sistema continue operando, ponderando as evidências e evitando decisões precipitadas baseadas em dados conflitantes.
 
----
+
 
 ## 4. Estratégias para Validação de Inferências
 
@@ -65,18 +65,18 @@ Alguns sistemas paraconsistentes implementam filtros que bloqueiam inferências 
 
 Em certos casos, é possível resolver contradições por meio de regras de prioridade, fontes de dados mais confiáveis ou intervenção humana, restaurando a consistência do sistema e validando as inferências subsequentes.
 
----
+
 
 ## 5. Considerações Finais
 
 A validação de inferências em ambientes contraditórios é um desafio central para sistemas de raciocínio não clássico. A Lógica Paraconsistente oferece uma abordagem robusta para lidar com contradições, permitindo que sistemas continuem operando de forma útil e confiável. Ao adotar estratégias como a avaliação do grau de contradição, o uso de anotações e a filtragem de inferências, é possível garantir que as conclusões obtidas sejam tão válidas quanto possível, mesmo diante de informações conflitantes.
 
----
+
 
 **Sugestão de Exercício:**  
 Analise um conjunto de premissas contraditórias e, utilizando as regras da Lógica Paraconsistente Anotada, determine quais inferências podem ser validadas e quais devem ser consideradas incertas ou inválidas. Explique seu raciocínio.
 
----
+
 
 **Leitura Recomendada:**  
 - Da Costa, N. C. A. "On the Theory of Inconsistent Formal Systems."  

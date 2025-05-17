@@ -4,7 +4,7 @@ O **princípio da explosão** (em latim, *ex contradictione sequitur quodlibet*)
 
 Neste tópico, apresentaremos uma demonstração formal do princípio da explosão, utilizando as regras básicas da lógica proposicional clássica.
 
----
+
 
 ## 1. Enunciado do Princípio da Explosão
 
@@ -17,7 +17,7 @@ Em notação formal:
 A, \neg A \vdash B
 \]
 
----
+
 
 ## 2. Regras da Lógica Clássica Utilizadas
 
@@ -27,7 +27,7 @@ Para a demonstração, utilizaremos as seguintes regras da lógica proposicional
 - **Eliminação da conjunção (\(\wedge\)-elim):** De \( A \wedge B \), pode-se concluir \( A \) e \( B \).
 - **Eliminação da negação (Reductio ad Absurdum):** Se \( A \) e \( \neg A \) são ambos verdadeiros, pode-se concluir qualquer proposição \( B \).
 
----
+
 
 ## 3. Demonstração Formal
 
@@ -60,13 +60,13 @@ Vamos demonstrar que, a partir de \( A \) e \( \neg A \), qualquer proposição 
 - Portanto, para que \( A \vee B \) seja verdadeiro, \( B \) deve ser verdadeiro.
 - Assim, qualquer proposição \( B \) pode ser deduzida.
 
----
+
 
 ## 4. Consequências
 
 O princípio da explosão mostra que a lógica clássica não tolera contradições: se um sistema admite uma contradição, ele se torna trivial, pois qualquer proposição pode ser provada. Isso motiva o desenvolvimento de **lógicas paraconsistentes**, que buscam evitar a explosão e permitir o raciocínio mesmo na presença de contradições.
 
----
+
 
 ## 5. Referências
 
@@ -74,7 +74,7 @@ O princípio da explosão mostra que a lógica clássica não tolera contradiç�
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*, 15(4), 497-510.
 - Mendelson, E. (2015). *Introduction to Mathematical Logic* (6th ed.). CRC Press.
 
----
+
 
 **Resumo:**  
 A demonstração formal do princípio da explosão evidencia uma limitação fundamental da lógica clássica: a incapacidade de lidar com contradições sem perder a distinção entre proposições verdadeiras e falsas. Este é um dos principais motivos para o estudo e aplicação da lógica paraconsistente, tema central deste eBook.

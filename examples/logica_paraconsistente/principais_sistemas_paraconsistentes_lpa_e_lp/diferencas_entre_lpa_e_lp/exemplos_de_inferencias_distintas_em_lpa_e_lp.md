@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente Anotada (LPA) e a Lógica de Priest (LP) são dois dos sistemas mais estudados dentro do campo da lógica paraconsistente. Embora ambos permitam o tratamento controlado de contradições, suas abordagens e mecanismos inferenciais apresentam diferenças significativas. Neste tópico, exploraremos exemplos práticos que ilustram como inferências podem divergir entre LPA e LP, destacando as características de cada sistema.
 
----
+
 
 ## 1. **Lógica Paraconsistente Anotada (LPA)**
 
@@ -26,7 +26,7 @@ Na LPA, a inferência sobre $P$ não leva automaticamente à trivialidade (ou se
 
 Neste caso, o sistema pode inferir que $P$ é **quase verdadeiro**, mas com alto grau de contradição. Não é possível inferir, por exemplo, que qualquer outra proposição $Q$ seja verdadeira apenas porque $P$ é contraditório.
 
----
+
 
 ## 2. **Lógica de Priest (LP)**
 
@@ -48,7 +48,7 @@ Na LP, a presença de uma contradição (ou seja, $P$ sendo ambos) **não implic
 
 No entanto, as regras de inferência são diferentes das da LPA, pois não há graus de evidência, apenas valores de verdade.
 
----
+
 
 ## 3. **Comparação de Inferências: LPA vs. LP**
 
@@ -71,22 +71,21 @@ Suponha que um sistema de diagnóstico médico receba informações conflitantes
 - **LPA:** Não é possível inferir qualquer proposição a partir de uma contradição, mas é possível quantificar o impacto da contradição.
 - **LP:** Também não é possível inferir qualquer proposição a partir de uma contradição, mas não há quantificação, apenas classificação.
 
----
+
 
 ## 4. **Resumo das Diferenças nas Inferências**
 
 | Aspecto                  | LPA                                      | LP                                 |
-|--------------------------|------------------------------------------|------------------------------------|
+|--|||
 | Representação            | Graus de evidência $(\mu, \lambda)$      | Valores de verdade (V, F, B)       |
 | Inferência com contradição| Quantitativa, baseada em graus           | Qualitativa, baseada em valores    |
 | Princípio da explosão    | Não se aplica                            | Não se aplica                      |
 | Decisão                  | Ponderada, baseada em graus              | Baseada em classificação           |
 
----
+
 
 ## 5. **Conclusão**
 
 Tanto a LPA quanto a LP oferecem mecanismos robustos para lidar com contradições sem colapsar o sistema lógico. No entanto, a LPA permite inferências mais refinadas, considerando diferentes graus de evidência, enquanto a LP trabalha com uma abordagem qualitativa, classificando proposições como verdadeiras, falsas ou ambas. A escolha entre os sistemas depende do contexto e das necessidades da aplicação, sendo fundamental compreender as diferenças inferenciais para uma utilização adequada.
 
----
-```
+

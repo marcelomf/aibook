@@ -48,4 +48,4 @@ Essas interações resultaram em uma multiplicidade de sistemas paraconsistentes
 ## 5. Conclusão
 
 A lógica paraconsistente é fruto de um esforço coletivo e internacional para superar as limitações da lógica clássica diante de contradições. Os pioneiros, como Newton da Costa, Stanisław Jaśkowski e Graham Priest, atuaram em contextos culturais e acadêmicos distintos, mas suas contribuições convergiram para a criação de uma área vibrante e interdisciplinar. As escolas de pensamento lógico, por sua vez, forneceram o ambiente intelectual necessário para o florescimento dessas ideias, tornando a lógica paraconsistente uma das mais importantes inovações do raciocínio não clássico no século XX e XXI.
-```
+

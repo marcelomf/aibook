@@ -61,6 +61,6 @@ A modelagem de estruturas algébricas paraconsistentes ainda é um campo em dese
 - **da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. Notre Dame Journal of Formal Logic.**
 - **Batens, D. (2000). A universal logic approach to paraconsistency.**
 
----
+___
 
 A modelagem de estruturas algébricas paraconsistentes representa uma fronteira promissora entre lógica, matemática e ciência da computação, permitindo o avanço de sistemas capazes de operar de forma robusta em ambientes incertos e contraditórios.

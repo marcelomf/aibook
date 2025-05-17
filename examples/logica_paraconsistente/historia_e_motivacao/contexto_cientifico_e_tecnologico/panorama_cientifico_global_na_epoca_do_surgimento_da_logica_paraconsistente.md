@@ -34,6 +34,6 @@ O surgimento da lógica paraconsistente refletiu uma mudança de paradigma no pe
 
 Além disso, sua influência se estendeu para áreas como a teoria dos sistemas, a biologia, o direito e a engenharia, onde a gestão de informações conflitantes é uma necessidade prática.
 
----
+___
 
 **Em resumo**, o surgimento da lógica paraconsistente foi uma resposta direta aos desafios científicos e tecnológicos do século XX, marcados pelo aumento da complexidade informacional, pela necessidade de sistemas mais robustos e pela abertura filosófica para novas formas de raciocínio. Esse contexto global não apenas motivou o desenvolvimento da lógica paraconsistente, mas também garantiu sua relevância e aplicação em múltiplos domínios do conhecimento contemporâneo.

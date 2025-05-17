@@ -70,7 +70,7 @@ A escolha entre lógica clássica e lógica paraconsistente em sistemas computac
 ## 6. **Resumo Comparativo**
 
 | Aspecto                  | Lógica Clássica         | Lógica Paraconsistente      |
-|--------------------------|------------------------|----------------------------|
+|--||-|
 | Processamento            | Mais rápido            | Potencialmente mais lento  |
 | Implementação            | Mais simples           | Mais complexa              |
 | Consumo de recursos      | Menor                  | Maior                      |
@@ -84,9 +84,9 @@ A adoção de lógicas paraconsistentes pode aumentar os custos operacionais ini
 
 A decisão entre lógica clássica e paraconsistente deve considerar não apenas o custo imediato, mas também o custo total de propriedade, incluindo manutenção, evolução e resiliência do sistema ao longo do tempo.
 
----
+
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics: Consistency, Contradiction and Negation*. Notre Dame Journal of Formal Logic.
 - Batens, D. (2019). *A survey of inconsistency-adaptive logics*. In Handbook of Philosophical Logic (pp. 1-82). Springer.
-```
+

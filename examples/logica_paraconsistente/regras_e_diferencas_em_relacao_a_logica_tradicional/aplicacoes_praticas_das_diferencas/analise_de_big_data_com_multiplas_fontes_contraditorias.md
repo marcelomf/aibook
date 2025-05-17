@@ -49,10 +49,10 @@ Algumas ferramentas e frameworks já incorporam princípios paraconsistentes ou 
 
 A análise de big data com múltiplas fontes contraditórias é um desafio crescente na era da informação. A Lógica Paraconsistente oferece uma abordagem robusta e flexível para lidar com esse cenário, permitindo que organizações extraiam valor mesmo de dados imperfeitos ou conflitantes. Ao adotar técnicas paraconsistentes, é possível transformar contradições em oportunidades de aprendizado e melhoria contínua dos processos de análise e tomada de decisão.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  
 - "Paraconsistent Reasoning in Big Data Analytics" – Journal of Applied Logic, 2022
 
-```
+

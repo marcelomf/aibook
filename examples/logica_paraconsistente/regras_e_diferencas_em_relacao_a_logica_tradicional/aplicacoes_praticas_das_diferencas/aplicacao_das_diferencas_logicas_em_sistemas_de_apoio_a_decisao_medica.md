@@ -2,7 +2,7 @@
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, apresenta vantagens significativas em áreas onde a informação pode ser incerta, incompleta ou até mesmo conflitante. Um dos campos mais impactados por essas características é a medicina, especialmente no desenvolvimento de **sistemas de apoio à decisão médica** (SADM). Neste tópico, exploramos como as diferenças fundamentais entre a lógica paraconsistente e a lógica tradicional são aplicadas para aprimorar a tomada de decisão clínica.
 
----
+
 
 ## 1. Desafios na Tomada de Decisão Médica
 
@@ -15,7 +15,7 @@ A prática médica frequentemente lida com situações em que:
 
 Na lógica clássica, a presença de contradições pode levar à trivialização do sistema: se uma contradição é aceita, qualquer conclusão pode ser inferida (princípio da explosão). Isso inviabiliza o uso direto da lógica clássica em contextos médicos reais, onde a contradição é muitas vezes inevitável.
 
----
+
 
 ## 2. Vantagens da Lógica Paraconsistente
 
@@ -27,7 +27,7 @@ A lógica paraconsistente, ao rejeitar o princípio da explosão, permite que si
 
 Essas características são essenciais para sistemas de apoio à decisão médica, que precisam lidar com incertezas e fornecer recomendações úteis aos profissionais de saúde.
 
----
+
 
 ## 3. Exemplos Práticos de Aplicação
 
@@ -55,7 +55,7 @@ Em unidades de terapia intensiva, sensores podem fornecer leituras conflitantes 
 - **Continuar monitorando e alertando para riscos reais, sem descartar informações úteis**;
 - **Apoiar a equipe médica na priorização de intervenções**.
 
----
+
 
 ## 4. Implementação: Lógica Paraconsistente Anotada (LPA)
 
@@ -66,7 +66,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é uma das abordagens mais utilizada
 
 O sistema pode, então, calcular o grau de contradição e sugerir ações baseadas nesse contexto, como solicitar novos exames ou aguardar evolução do quadro.
 
----
+
 
 ## 5. Benefícios para a Prática Médica
 
@@ -75,19 +75,19 @@ O sistema pode, então, calcular o grau de contradição e sugerir ações basea
 - **Apoio à decisão em situações complexas**, onde a lógica clássica seria insuficiente;
 - **Facilitação do trabalho em equipe**, ao explicitar divergências e sugerir caminhos de consenso.
 
----
+
 
 ## 6. Considerações Finais
 
 A aplicação das diferenças lógicas proporcionadas pela lógica paraconsistente em sistemas de apoio à decisão médica representa um avanço significativo na segurança, eficiência e qualidade do cuidado ao paciente. Ao permitir o raciocínio mesmo diante de contradições, esses sistemas tornam-se aliados valiosos dos profissionais de saúde, especialmente em um cenário cada vez mais orientado por dados e inteligência artificial.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.  
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). *Paraconsistent Logics and their Applications*.
 
----
+
 
 **Exercício sugerido:**  
 Analise um caso clínico real ou fictício em que exames e sintomas apresentem contradições. Proponha como um sistema baseado em lógica paraconsistente poderia apoiar o médico na tomada de decisão.

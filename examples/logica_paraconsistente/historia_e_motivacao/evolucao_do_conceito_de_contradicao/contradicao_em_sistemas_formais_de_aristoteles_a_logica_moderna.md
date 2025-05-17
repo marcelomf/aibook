@@ -51,10 +51,10 @@ Esses avanços refletem uma mudança de paradigma: da busca pela eliminação ab
 
 A evolução do conceito de contradição, desde Aristóteles até a lógica moderna, revela a profunda relação entre os limites do raciocínio formal e as necessidades práticas do conhecimento humano. O surgimento de lógicas alternativas, como a lógica paraconsistente, representa uma resposta inovadora aos desafios impostos pela complexidade dos sistemas contemporâneos, ampliando as fronteiras do raciocínio lógico e da ciência.
 
----
+___
 **Referências:**
 - Aristóteles. *Metafísica*.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

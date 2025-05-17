@@ -39,7 +39,7 @@ O IWPR é um workshop internacional que ocorre em diferentes países, reunindo p
 
 Grandes conferências internacionais de inteligência artificial, como a IJCAI (International Joint Conference on Artificial Intelligence) e a AAAI (Association for the Advancement of Artificial Intelligence), frequentemente incluem workshops e simpósios temáticos sobre raciocínio não clássico e lógica paraconsistente, refletindo o interesse crescente da área de IA por abordagens robustas ao tratamento de inconsistências.
 
----
+
 
 ### Como Participar e se Atualizar
 
@@ -48,9 +48,9 @@ Grandes conferências internacionais de inteligência artificial, como a IJCAI (
 - **Acompanhamento Online:** Muitos eventos oferecem transmissões ao vivo ou gravações das sessões, facilitando o acesso para quem não pode comparecer presencialmente.
 - **Redes Sociais e Newsletters:** Siga as sociedades e grupos de pesquisa em lógica para receber atualizações sobre eventos futuros.
 
----
+
 
 ### Conclusão
 
 Participar de workshops e simpósios especializados é uma das melhores formas de se manter atualizado sobre os avanços em Lógica Paraconsistente, trocar experiências com outros pesquisadores e ampliar sua rede de contatos acadêmicos e profissionais. Recomenda-se acompanhar os sites das principais sociedades científicas e grupos de pesquisa, bem como participar ativamente desses eventos para enriquecer sua formação e contribuir para o desenvolvimento da área.
-```
+

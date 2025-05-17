@@ -43,9 +43,9 @@ Para mitigar esses desafios, algumas estratégias vêm sendo propostas:
 
 Embora a lógica paraconsistente ofereça soluções inovadoras para o tratamento de informações contraditórias, os problemas de interpretabilidade e transparência permanecem como desafios centrais para sua adoção em larga escala. O avanço nessas áreas é fundamental para garantir que as decisões baseadas em lógica paraconsistente sejam não apenas corretas do ponto de vista formal, mas também compreensíveis e confiáveis para todos os envolvidos.
 
----
+___
 **Referências:**
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Besnard, P., & Hunter, A. (2008). *Elements of Argumentation*. MIT Press.
-```
+

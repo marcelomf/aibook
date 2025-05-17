@@ -65,8 +65,8 @@ Apesar dos avanços, a adaptação de sistemas paraconsistentes ainda enfrenta d
 
 A pesquisa continua avançando, com novas aplicações surgindo em áreas como ciência de dados, robótica, direito e governança de dados. A lógica paraconsistente, ao permitir a convivência controlada com a contradição, se consolida como uma ferramenta essencial para enfrentar a complexidade e a imperfeição inerentes aos sistemas do mundo real.
 
----
+___
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Lógicas Paraconsistentes: Teoria e Aplicações*.
 - Carnielli, W.A., & Coniglio, M.E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

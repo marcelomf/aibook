@@ -62,9 +62,9 @@ Apesar das vantagens, a aplicação de algoritmos paraconsistentes ainda enfrent
 
 Os algoritmos paraconsistentes representam uma abordagem inovadora e poderosa para a reconciliação de registros conflitantes em bancos de dados. Ao permitir o tratamento controlado de inconsistências, eles ampliam a capacidade dos sistemas de informação de lidar com a complexidade e a imperfeição dos dados do mundo real, promovendo maior confiabilidade e utilidade das informações armazenadas.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Batens, D. (2019). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

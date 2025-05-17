@@ -3,7 +3,7 @@
 
 A pesquisa em Lógica Paraconsistente tem se desenvolvido em diversos países, com destaque para grupos e centros de excelência que impulsionam avanços teóricos e aplicações práticas. A seguir, apresentamos algumas das principais universidades e centros de pesquisa dedicados ao estudo e desenvolvimento da lógica paraconsistente, com ênfase em suas contribuições, linhas de pesquisa e formas de participação.
 
----
+
 
 ## 1. **Universidade de São Paulo (USP) – Brasil**
 
@@ -18,7 +18,7 @@ A USP é reconhecida internacionalmente como um dos principais polos de pesquisa
   - Programas de pós-graduação em Lógica e Filosofia da Ciência.
   - Grupos de estudo e seminários abertos a estudantes e pesquisadores.
 
----
+
 
 ## 2. **Universidade Estadual de Campinas (UNICAMP) – Brasil**
 
@@ -33,7 +33,7 @@ A UNICAMP, por meio do **CLE (Centro de Lógica, Epistemologia e História da Ci
   - Ingresso em programas de mestrado e doutorado.
   - Participação em eventos e grupos de pesquisa do CLE.
 
----
+
 
 ## 3. **Australian National University (ANU) – Austrália**
 
@@ -47,7 +47,7 @@ O **Centre for Philosophy of the Sciences** da ANU abriga pesquisadores renomado
   - Programas de pós-graduação em Filosofia e Lógica.
   - Seminários e colaborações internacionais.
 
----
+
 
 ## 4. **University of Melbourne – Austrália**
 
@@ -57,7 +57,7 @@ A University of Melbourne é outro centro de excelência, com o **School of Hist
   - Colaboração com Graham Priest e outros especialistas em lógica não clássica.
   - Pesquisas em lógica dialeteísta e aplicações em filosofia da linguagem e matemática.
 
----
+
 
 ## 5. **University of St Andrews – Reino Unido**
 
@@ -67,7 +67,7 @@ O **Arché Research Centre** da University of St Andrews é reconhecido por suas
   - Projetos sobre paradoxos, inconsistências e raciocínio não clássico.
   - Ambiente internacional e interdisciplinar.
 
----
+
 
 ## 6. **Outros Centros e Grupos de Pesquisa**
 
@@ -77,7 +77,7 @@ Além dos centros mencionados, diversas outras instituições mantêm grupos ati
 - **Universidade Federal do Rio Grande do Norte (UFRN) – Brasil:** Grupo de Lógica e Inteligência Artificial.
 - **University of Otago – Nova Zelândia:** Pesquisas em lógica não clássica e filosofia da lógica.
 
----
+
 
 ## **Como se Engajar com a Comunidade**
 
@@ -85,11 +85,10 @@ Além dos centros mencionados, diversas outras instituições mantêm grupos ati
 - **Publicação e leitura:** Revistas como *Studia Logica*, *Journal of Philosophical Logic* e *CLE e-Prints* publicam artigos relevantes na área.
 - **Grupos online:** Plataformas como ResearchGate, fóruns acadêmicos e listas de discussão permitem contato com pesquisadores do mundo todo.
 
----
+
 
 ## **Conclusão**
 
 A lógica paraconsistente é um campo dinâmico, com centros de excelência espalhados pelo mundo, especialmente no Brasil e na Austrália. Universidades como USP, UNICAMP, ANU e University of Melbourne lideram pesquisas inovadoras, formando uma comunidade ativa e aberta à colaboração. Engajar-se com esses centros é fundamental para quem deseja aprofundar seus conhecimentos e contribuir para o avanço da área.
 
----
-```
+

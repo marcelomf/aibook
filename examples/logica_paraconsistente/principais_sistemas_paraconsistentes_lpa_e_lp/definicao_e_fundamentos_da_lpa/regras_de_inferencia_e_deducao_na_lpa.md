@@ -4,7 +4,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos e
 
 Neste tópico, abordaremos as **regras de inferência e dedução** na LPA, destacando suas particularidades em relação à lógica clássica e mostrando como elas permitem um raciocínio controlado diante de inconsistências.
 
----
+
 
 ## 1. Fundamentos da LPA
 
@@ -15,7 +15,7 @@ Na LPA, cada proposição é associada a **anotações** que representam graus d
 
 Esses valores geralmente pertencem ao intervalo [0, 1], permitindo representar diferentes níveis de certeza e incerteza.
 
----
+
 
 ## 2. Regras de Inferência na LPA
 
@@ -64,7 +64,7 @@ A negação de uma proposição \( P \) com anotação \( (a, b) \) é:
 
 Ou seja, invertem-se os graus de evidência favorável e contrária.
 
----
+
 
 ## 3. Dedução na LPA
 
@@ -90,7 +90,7 @@ O processo dedutivo na LPA consiste em:
 2. **Aplicar as regras de inferência** para obter as anotações das proposições derivadas.
 3. **Avaliar o grau de contradição e certeza** das conclusões, decidindo se são aceitáveis para o contexto do problema.
 
----
+
 
 ## 4. Exemplo Prático
 
@@ -107,13 +107,13 @@ Q = ( \min(0,8, 0,7), \max(0,2, 0,1) ) = (0,7, 0,2)
 
 Assim, \( Q \) tem uma evidência favorável de 0,7 e contrária de 0,2.
 
----
+
 
 ## 5. Considerações Finais
 
 As regras de inferência e dedução na LPA permitem que sistemas computacionais, bancos de dados e agentes inteligentes operem de forma robusta mesmo diante de informações contraditórias. Ao invés de descartar ou ignorar contradições, a LPA oferece mecanismos formais para **quantificar, propagar e controlar** essas inconsistências, tornando-se uma ferramenta poderosa para aplicações em inteligência artificial, sistemas de apoio à decisão e outras áreas que lidam com incerteza e conflito de informações.
 
----
+
 
 **Referências:**
 
@@ -121,7 +121,7 @@ As regras de inferência e dedução na LPA permitem que sistemas computacionais
 - Batens, D. (2000). A survey of inconsistency-adaptive logics. In *Frontiers of Paraconsistent Logic* (pp. 49-73). Research Studies Press.
 - Abe, J. M., & Nakamatsu, K. (Eds.). (2016). *New Frontiers in Paraconsistent Logic*. Springer.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – J.M. Abe  

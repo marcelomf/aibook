@@ -49,7 +49,7 @@ A pesquisa em lógica paraconsistente aplicada à matemática continua avançand
 
 Essas iniciativas apontam para um futuro em que a lógica paraconsistente será cada vez mais integrada ao estudo dos fundamentos matemáticos, ampliando as fronteiras do raciocínio formal e da própria matemática.
 
----
+___
 
 **Referências para aprofundamento:**
 
@@ -57,4 +57,4 @@ Essas iniciativas apontam para um futuro em que a lógica paraconsistente será 
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
-```
+

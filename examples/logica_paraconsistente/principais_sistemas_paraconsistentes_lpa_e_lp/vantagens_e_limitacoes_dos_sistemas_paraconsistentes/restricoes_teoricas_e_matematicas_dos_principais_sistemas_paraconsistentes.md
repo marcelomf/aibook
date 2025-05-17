@@ -49,5 +49,4 @@ Apesar das restrições teóricas e matemáticas, as lógicas paraconsistentes o
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 
----
-```
+

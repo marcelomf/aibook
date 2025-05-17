@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente, ao permitir o tratamento controlado de contradições, abre um vasto leque de possibilidades para projetos interdisciplinares em diversas áreas do conhecimento. A seguir, são apresentadas propostas de projetos que integram a lógica paraconsistente com áreas aplicadas como Direito, Medicina e Engenharia, destacando objetivos, justificativas e possíveis abordagens metodológicas.
 
----
+
 
 ## 1. Direito: Análise de Contradições em Jurisprudência e Legislação
 
@@ -19,7 +19,7 @@ O Direito frequentemente lida com normas e decisões conflitantes. A lógica cl�
 - **Ferramenta computacional:** Desenvolver um protótipo de software que auxilie juristas na identificação e resolução de inconsistências.
 - **Estudo de caso:** Aplicar o sistema a um conjunto de decisões do Supremo Tribunal Federal (STF) ou de tribunais estaduais.
 
----
+
 
 ## 2. Medicina: Diagnóstico Médico com Dados Contraditórios
 
@@ -35,7 +35,7 @@ Na prática médica, é comum encontrar dados conflitantes (exames divergentes, 
 - **Desenvolvimento de protótipo:** Implementar um sistema de apoio à decisão que sugira diagnósticos ou condutas mesmo diante de contradições.
 - **Validação:** Testar o sistema em parceria com hospitais ou clínicas, avaliando sua utilidade e precisão.
 
----
+
 
 ## 3. Engenharia: Monitoramento e Diagnóstico de Falhas em Sistemas Complexos
 
@@ -51,7 +51,7 @@ Sistemas complexos frequentemente apresentam sinais contraditórios de sensores 
 - **Desenvolvimento de sistema embarcado:** Criar um módulo de diagnóstico que funcione em tempo real, integrando-se ao sistema de controle existente.
 - **Estudo de caso:** Implementar e testar o sistema em uma planta piloto ou laboratório de automação.
 
----
+
 
 ## 4. Outras Possibilidades
 
@@ -61,7 +61,7 @@ Além das áreas destacadas, a lógica paraconsistente pode ser aplicada em proj
 - **Gestão e Administração:** Tomada de decisão em ambientes de incerteza e conflito de informações.
 - **Inteligência Artificial:** Desenvolvimento de agentes autônomos capazes de operar em ambientes inconsistentes.
 
----
+
 
 ## **Sugestões para Desenvolvimento dos Projetos**
 
@@ -69,7 +69,7 @@ Além das áreas destacadas, a lógica paraconsistente pode ser aplicada em proj
 - **Parcerias institucionais:** Buscar colaboração com universidades, hospitais, escritórios de advocacia ou empresas de engenharia.
 - **Publicação e disseminação:** Documentar os resultados em artigos, relatórios técnicos e apresentações em eventos científicos.
 
----
+
 
 ## **Referências para Aprofundamento**
 
@@ -77,7 +77,7 @@ Além das áreas destacadas, a lógica paraconsistente pode ser aplicada em proj
 - **da Costa, N. C. A. (1974).** *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
 - **Batens, D. (2007).** *A Universal Logic Approach to Adaptive Logics*. Logica Universalis.
 
----
+
 
 Essas propostas demonstram o potencial da lógica paraconsistente como ferramenta inovadora para enfrentar desafios reais em diferentes áreas do conhecimento, promovendo soluções criativas e eficazes para problemas envolvendo contradições e incertezas.
-```
+

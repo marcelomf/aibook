@@ -46,10 +46,10 @@ Diante desses desafios, a **lógica paraconsistente** surge como uma alternativa
 
 O impacto das contradições na confiabilidade de sistemas automatizados é profundo e multifacetado. Ignorar ou tratar de forma inadequada essas contradições pode comprometer a utilidade, segurança e aceitação dos sistemas. Por isso, o desenvolvimento de abordagens lógicas capazes de lidar com inconsistências — como a lógica paraconsistente — é fundamental para a evolução de sistemas automatizados confiáveis e resilientes.
 
----
+
 
 **Sugestão de leitura:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Inconsistency Tolerant Reasoning in Knowledge Representation Systems*. Journal of Applied Logic.
 
-```
+

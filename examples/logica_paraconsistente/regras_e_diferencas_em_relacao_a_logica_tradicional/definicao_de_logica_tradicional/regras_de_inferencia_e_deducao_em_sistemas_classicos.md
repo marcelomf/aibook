@@ -89,9 +89,9 @@ Embora as regras de inferência clássicas sejam poderosas e amplamente aplicáv
 
 As regras de inferência e dedução em sistemas clássicos são fundamentais para o raciocínio lógico formal. Elas permitem a construção de argumentos válidos e a derivação de conclusões a partir de premissas, desde que o sistema permaneça livre de contradições. O entendimento dessas regras é essencial para qualquer estudo posterior de lógicas não clássicas, como a lógica paraconsistente, que busca lidar de forma controlada com a presença de contradições.
 
----
+
 **Referências:**
 - Mendelson, E. (2015). *Introduction to Mathematical Logic*. CRC Press.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Copi, I. M., Cohen, C., & McMahon, K. (2016). *Introduction to Logic*. Pearson.
-```
+

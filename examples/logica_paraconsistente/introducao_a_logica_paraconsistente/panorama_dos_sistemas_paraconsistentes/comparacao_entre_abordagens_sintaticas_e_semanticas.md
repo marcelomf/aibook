@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente, ao desafiar o princípio da explosão da lógica clássica, desenvolveu diferentes sistemas e métodos para lidar com contradições. Entre os principais enfoques para a construção e análise desses sistemas, destacam-se as **abordagens sintáticas** e **semânticas**. Compreender as diferenças, vantagens e limitações de cada abordagem é fundamental para o estudo e aplicação da lógica paraconsistente.
 
----
+___
 
 ## 1. Abordagem Sintática
 
@@ -25,7 +25,7 @@ A abordagem sintática foca nas **regras de inferência** e na **estrutura forma
 - **Menor Intuição Semântica:** Pode ser difícil interpretar o significado das fórmulas apenas a partir das regras sintáticas.
 - **Dependência do Sistema:** Resultados podem variar significativamente conforme as regras escolhidas.
 
----
+___
 
 ## 2. Abordagem Semântica
 
@@ -47,19 +47,19 @@ A abordagem semântica concentra-se no **significado das fórmulas** e na **atri
 - **Complexidade Formal:** A definição de modelos pode ser mais abstrata e exigir ferramentas matemáticas avançadas.
 - **Implementação Computacional:** Pode ser mais desafiador traduzir semânticas complexas em algoritmos eficientes.
 
----
+___
 
 ## 3. Comparação Direta
 
 | Aspecto                | Abordagem Sintática                  | Abordagem Semântica                  |
-|------------------------|--------------------------------------|--------------------------------------|
+|________________________|____________________________________--|____________________________________--|
 | **Foco**               | Regras de inferência e provas        | Modelos e valores de verdade         |
 | **Exemplo**            | LPA, sistemas de dedução natural     | LP, semântica de três valores        |
 | **Vantagem Principal** | Clareza formal, implementação        | Intuição, análise conceitual         |
 | **Limitação Principal**| Menor intuição, dependência do sistema| Complexidade, implementação          |
 | **Aplicação**          | Prova automática, algoritmos         | Análise de modelos, filosofia        |
 
----
+___
 
 ## 4. Relação e Complementaridade
 
@@ -68,16 +68,16 @@ Na prática, **abordagens sintáticas e semânticas são complementares**. Um si
 - **Exemplo:** A Lógica Paraconsistente Anotada possui tanto uma apresentação sintática (regras de manipulação de anotações) quanto uma semântica baseada em reticulados de valores de verdade.
 - **Importância:** A análise sintática é essencial para a implementação computacional, enquanto a semântica fornece a base conceitual para interpretar os resultados.
 
----
+___
 
 ## 5. Considerações Finais
 
 A escolha entre abordagens sintáticas e semânticas depende dos objetivos do estudo ou aplicação. Para o desenvolvimento de sistemas automáticos de raciocínio, a sintaxe é fundamental. Para a análise conceitual e filosófica, a semântica é indispensável. Em lógica paraconsistente, a integração de ambas as perspectivas é o caminho mais produtivo para avançar tanto na teoria quanto nas aplicações práticas.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton C. A. da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"
 - Graham Priest, "In Contradiction: A Study of the Transconsistent"
 - Walter Carnielli & João Marcos, "On the Generation of Logics of Formal Inconsistency"
-```
+

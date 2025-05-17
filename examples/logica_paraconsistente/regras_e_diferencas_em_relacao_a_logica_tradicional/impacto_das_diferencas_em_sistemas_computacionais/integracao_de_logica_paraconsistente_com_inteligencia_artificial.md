@@ -59,6 +59,6 @@ No entanto, com o crescimento da demanda por sistemas capazes de operar em ambie
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent Logics in Artificial Intelligence.**  
 - **Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.**
 
----
+
 
 A integração entre lógica paraconsistente e inteligência artificial representa um passo fundamental para o desenvolvimento de sistemas mais flexíveis, resilientes e capazes de lidar com a complexidade do mundo real.

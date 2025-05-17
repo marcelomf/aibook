@@ -39,10 +39,10 @@ A adoção inicial da lógica paraconsistente em aplicações práticas demonstr
 
 A lógica paraconsistente, ao permitir o tratamento controlado de contradições, mostrou-se fundamental para o avanço de diversas áreas tecnológicas e científicas. Suas aplicações práticas iniciais não apenas validaram sua relevância, mas também abriram caminho para inovações em raciocínio automatizado, gestão de dados e tomada de decisão em ambientes complexos e incertos.
 
----
+___
 **Referências:**
 - da Costa, N. C. A. (1974). On the theory of inconsistent formal systems. *Notre Dame Journal of Formal Logic*.
 - Batens, D. (1999). Inconsistency-adaptive logics. In *Frontiers of Paraconsistent Logic*.
 - Subrahmanian, V. S. (1994). Paraconsistent logic programming. *Theoretical Computer Science*.
 - Abe, Jair Minoro; Nakamatsu, Kazumi. (2009). *Lógica Paraconsistente Anotada: Teoria e Aplicações*.
-```
+

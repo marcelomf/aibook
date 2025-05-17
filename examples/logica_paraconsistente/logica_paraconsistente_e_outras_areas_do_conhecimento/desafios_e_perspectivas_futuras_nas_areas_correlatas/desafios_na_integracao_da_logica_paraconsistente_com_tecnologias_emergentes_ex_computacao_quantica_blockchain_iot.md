@@ -38,4 +38,4 @@ Além dos desafios específicos de cada tecnologia, há questões comuns:
 ### 5. Perspectivas Futuras
 
 Apesar dos desafios, a integração da lógica paraconsistente com tecnologias emergentes é promissora. Espera-se que, com o avanço da pesquisa interdisciplinar, surjam novos modelos, algoritmos e aplicações capazes de lidar de forma eficiente com a complexidade e a contradição inerentes a esses sistemas. A colaboração entre pesquisadores de lógica, ciência da computação, engenharia e áreas aplicadas será essencial para transformar o potencial da lógica paraconsistente em soluções inovadoras para os desafios do século XXI.
-```
+

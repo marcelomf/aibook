@@ -39,11 +39,11 @@ Walter Carnielli é outro nome de destaque na pesquisa em lógica paraconsistent
 **Descrição:**  
 Graham Priest é um dos principais nomes internacionais em lógica paraconsistente. Este livro, traduzido para o português, apresenta uma defesa filosófica e técnica da possibilidade de sistemas lógicos que toleram contradições, conhecidos como dialeteísmo. A obra é fundamental para quem deseja compreender as bases filosóficas e os debates contemporâneos sobre o tema.
 
----
+
 
 ### **Considerações Finais**
 
 A leitura desses livros clássicos traduzidos para o português proporciona uma base sólida para o entendimento da lógica paraconsistente, tanto em seus aspectos teóricos quanto práticos. Além disso, muitos desses autores são referências internacionais e nacionais, o que garante a qualidade e a confiabilidade do conteúdo apresentado. Recomenda-se que o leitor complemente seus estudos com artigos científicos recentes e participe de eventos acadêmicos para se manter atualizado sobre os avanços na área.
 
 > **Dica:** Muitas dessas obras estão disponíveis em bibliotecas universitárias e em formato digital, facilitando o acesso para estudantes e pesquisadores de todo o Brasil.
-```
+

@@ -4,7 +4,7 @@ A lógica paraconsistente oferece uma abordagem inovadora para lidar com contrad
 
 Neste tópico, apresentamos atividades práticas de dedução lógica utilizando tabelas verdade paraconsistentes, com o objetivo de desenvolver a habilidade de interpretar e raciocinar em contextos onde a contradição não implica colapso do sistema lógico.
 
----
+
 
 ## 1. Introdução às Tabelas Verdade Paraconsistentes
 
@@ -17,14 +17,14 @@ Na lógica clássica, as tabelas verdade trabalham apenas com dois valores: **Ve
 
 Esses valores permitem representar situações de incerteza, inconsistência ou informação incompleta.
 
----
+
 
 ## 2. Exemplo de Tabela Verdade Paraconsistente
 
 Considere a seguinte tabela verdade para a negação (¬) em uma lógica paraconsistente de quatro valores:
 
 | p | ¬p |
-|---|----|
+||-|
 | V | F  |
 | F | V  |
 | B | B  |
@@ -32,7 +32,7 @@ Considere a seguinte tabela verdade para a negação (¬) em uma lógica paracon
 
 Observe que, ao contrário da lógica clássica, a negação de um valor contraditório (B) permanece contraditória, e a negação de um valor indeterminado (N) permanece indeterminada.
 
----
+
 
 ## 3. Atividades Práticas
 
@@ -41,7 +41,7 @@ Observe que, ao contrário da lógica clássica, a negação de um valor contrad
 Dada a seguinte tabela verdade para a conjunção (∧):
 
 | p | q | p ∧ q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | F     |
 | V | B | B     |
@@ -64,7 +64,7 @@ Se p = B (contraditório) e q = N (indeterminado), qual o valor de p ∧ q?
 **Resposta:**  
 Consultando a tabela, p ∧ q = N.
 
----
+
 
 ### Atividade 2: Dedução Lógica
 
@@ -79,7 +79,7 @@ Suponha que, devido a informações conflitantes, p = B (contraditório) e q = F
 Qual o valor lógico de p ∨ q (disjunção) nesta lógica paraconsistente, considerando a seguinte tabela para a disjunção (∨):
 
 | p | q | p ∨ q |
-|---|---|-------|
+|||-|
 | V | V | V     |
 | V | F | V     |
 | V | B | V     |
@@ -100,7 +100,7 @@ Qual o valor lógico de p ∨ q (disjunção) nesta lógica paraconsistente, con
 **Resposta:**  
 p = B, q = F ⇒ p ∨ q = B.
 
----
+
 
 ### Atividade 3: Análise de Contradição
 
@@ -113,7 +113,7 @@ Se r = B, o que podemos concluir sobre ¬r e r ∧ ¬r?
 **Interpretação:**  
 Mesmo diante de uma contradição, a lógica paraconsistente não permite deduzir qualquer proposição arbitrária (não ocorre explosão lógica). O valor contraditório é mantido e pode ser tratado de forma controlada.
 
----
+
 
 ## 4. Exercícios Propostos
 
@@ -129,13 +129,13 @@ Mesmo diante de uma contradição, a lógica paraconsistente não permite deduzi
 4. **Análise de caso:**  
    Em um sistema de tomada de decisão, uma informação é marcada como B. O que isso significa para a confiabilidade da decisão? Como a lógica paraconsistente pode ajudar a tratar esse caso?
 
----
+
 
 ## 5. Considerações Finais
 
 As atividades de dedução lógica a partir de tabelas verdade paraconsistentes são essenciais para compreender como sistemas lógicos podem operar de maneira robusta diante de inconsistências. Ao praticar a leitura e interpretação dessas tabelas, o estudante desenvolve habilidades para aplicar a lógica paraconsistente em contextos reais, como bancos de dados, inteligência artificial e resolução de conflitos, onde a contradição é inevitável, mas não precisa ser destrutiva.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  

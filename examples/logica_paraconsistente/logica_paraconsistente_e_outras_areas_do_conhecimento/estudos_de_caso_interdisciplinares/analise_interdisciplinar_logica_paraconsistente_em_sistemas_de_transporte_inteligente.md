@@ -79,7 +79,7 @@ A aplicação da lógica paraconsistente em sistemas de transporte inteligente d
 - **Santos, S. B., & Abe, J. M. (2010). Lógica Paraconsistente Anotada: Teoria e Aplicações.** Editora Unesp.
 - **Cordeiro, J. V. (2018). Paraconsistent Logic in Intelligent Transportation Systems.** Journal of Advanced Transportation.
 
----
+___
 
 *Este texto integra o capítulo "Lógica Paraconsistente e Outras Áreas do Conhecimento" do eBook "Lógica Paraconsistente: Fundamentos, Aplicações e Estudos de Caso".*
-```
+

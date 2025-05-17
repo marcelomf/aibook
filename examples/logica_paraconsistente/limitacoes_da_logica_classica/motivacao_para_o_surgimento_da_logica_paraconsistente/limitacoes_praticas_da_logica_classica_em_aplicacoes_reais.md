@@ -42,9 +42,9 @@ Sistemas de processamento de linguagem natural frequentemente encontram frases a
 
 Além das limitações técnicas, a lógica clássica enfrenta desafios filosóficos ao tentar modelar o raciocínio humano, que é capaz de conviver com contradições e incertezas sem colapsar em trivialidade.
 
----
+
 
 ## **Conclusão**
 
 As limitações práticas da lógica clássica em aplicações reais motivaram o desenvolvimento de sistemas lógicos alternativos, como a lógica paraconsistente. Esses sistemas permitem lidar de forma controlada com contradições, incertezas e inconsistências, tornando-se ferramentas essenciais em áreas como bancos de dados, inteligência artificial, ciência da computação e filosofia. Reconhecer essas limitações é fundamental para a escolha adequada de modelos lógicos em projetos que envolvem dados complexos e dinâmicos.
-```
+

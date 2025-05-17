@@ -41,4 +41,4 @@ A rejeição do princípio da explosão pela LP tem profundas implicações prá
 ### Conclusão
 
 A relação da LP com o princípio da não explosão é central para sua definição e utilidade. Ao rejeitar a explosão, a LP oferece uma alternativa poderosa à lógica clássica, permitindo o raciocínio em ambientes onde contradições são inevitáveis. Isso torna a LP uma ferramenta fundamental para diversas áreas da ciência, tecnologia e filosofia, onde a tolerância à inconsistência é não apenas desejável, mas necessária.
-```
+

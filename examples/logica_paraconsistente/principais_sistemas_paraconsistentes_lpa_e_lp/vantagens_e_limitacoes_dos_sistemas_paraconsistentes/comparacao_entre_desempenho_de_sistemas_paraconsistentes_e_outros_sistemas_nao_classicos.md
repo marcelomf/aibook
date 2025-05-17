@@ -73,10 +73,10 @@ A escolha entre sistemas paraconsistentes e outros sistemas não clássicos deve
 
 Em muitos cenários modernos, a integração de diferentes sistemas não clássicos pode oferecer soluções mais robustas e flexíveis, aproveitando as vantagens de cada abordagem.
 
----
+
 
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.
 - Batens, D. (2015). *Paraconsistent Logic*. Stanford Encyclopedia of Philosophy.
-```
+

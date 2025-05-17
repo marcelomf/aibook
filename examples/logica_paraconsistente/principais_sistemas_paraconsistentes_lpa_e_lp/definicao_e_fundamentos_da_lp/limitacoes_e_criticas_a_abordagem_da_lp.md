@@ -31,11 +31,11 @@ No campo da filosofia, a LP é frequentemente criticada por sua aceitação do d
 
 Em contextos matemáticos e formais, a LP pode apresentar limitações na condução de provas e demonstrações. A presença de contradições pode dificultar a aplicação de certos métodos dedutivos e comprometer a confiança nos resultados obtidos, especialmente em áreas que exigem rigor absoluto, como a matemática pura.
 
----
+
 
 ### **Considerações Finais**
 
 Apesar dessas limitações e críticas, a Lógica de Priest (LP) representa um avanço importante na compreensão e no tratamento de contradições em sistemas lógicos. Ela abriu caminho para o desenvolvimento de outras lógicas paraconsistentes e para a reflexão sobre os limites da lógica clássica. No entanto, sua adoção prática e teórica deve ser feita com consciência de suas restrições, avaliando cuidadosamente o contexto e os objetivos de cada aplicação.
 
 Para superar algumas dessas limitações, pesquisadores têm proposto extensões e variações da LP, bem como a combinação com outros sistemas lógicos, buscando maior flexibilidade e aplicabilidade. O estudo crítico das limitações da LP é, portanto, fundamental para o avanço da lógica paraconsistente como um todo.
-```
+

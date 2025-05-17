@@ -27,9 +27,9 @@ Na filosofia, especialmente em debates sobre paradoxos e antinomias, contradiç�
 
 Na ciência, especialmente em fases iniciais de pesquisa ou em áreas de fronteira, é comum que diferentes experimentos ou teorias produzam resultados contraditórios. Em vez de descartar todo o corpo de conhecimento, a lógica paraconsistente permite que cientistas mantenham hipóteses conflitantes em aberto, promovendo o avanço gradual do conhecimento até que novas evidências permitam a resolução das contradições.
 
----
+___
 
 ## Conclusão
 
 Esses exemplos ilustram que, longe de serem meras curiosidades teóricas, as contradições são parte integrante de muitos sistemas e processos do mundo real. A lógica paraconsistente surge, assim, como uma ferramenta essencial para modelar, analisar e operar em ambientes onde a inconsistência é inevitável, promovendo soluções mais flexíveis, robustas e realistas para problemas complexos.
-```
+

@@ -41,4 +41,4 @@ Além disso, há interesse em estudar a relação entre as semânticas dessas l�
 ### Conclusão
 
 A interação entre lógica paraconsistente e lógica relevante representa um campo fértil para pesquisa e aplicações práticas. A compreensão das diferenças e possíveis integrações entre esses sistemas permite o desenvolvimento de ferramentas lógicas mais robustas para enfrentar os desafios do raciocínio em ambientes complexos, contraditórios e incertos, ampliando as fronteiras do raciocínio não clássico.
-```
+

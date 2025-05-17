@@ -49,9 +49,9 @@ A análise crítica dos resultados dos estudos de caso reforça que a Lógica Pa
 
 O avanço das pesquisas e o desenvolvimento de ferramentas mais acessíveis tendem a ampliar o uso da lógica paraconsistente, tornando-a cada vez mais relevante para a solução de problemas reais em diversas áreas do conhecimento.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógicas Paraconsistentes: Teoria e Aplicações*.
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*.
-```
+

@@ -48,6 +48,6 @@ No entanto, essas soluções são frequentemente insuficientes em ambientes de g
 
 Diante dessas dificuldades, torna-se evidente a necessidade de abordagens mais flexíveis e robustas para lidar com inconsistências, sem comprometer a utilidade dos dados. É nesse contexto que a **lógica paraconsistente** se destaca, permitindo que sistemas continuem operando mesmo na presença de contradições, sem que todo o conhecimento armazenado seja invalidado.
 
----
+
 
 **Em resumo**, a manutenção da consistência em grandes volumes de dados é um desafio crescente, que expõe as limitações da lógica clássica e demanda novas soluções capazes de lidar com a complexidade e a imperfeição inerentes aos sistemas de informação modernos. A lógica paraconsistente surge como uma alternativa promissora para enfrentar esse cenário, tema que será aprofundado nos próximos capítulos deste eBook.

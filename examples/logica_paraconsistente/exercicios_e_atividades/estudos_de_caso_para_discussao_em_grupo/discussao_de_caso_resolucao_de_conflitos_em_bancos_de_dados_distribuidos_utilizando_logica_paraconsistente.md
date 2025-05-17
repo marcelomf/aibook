@@ -44,8 +44,8 @@ A lógica paraconsistente permite que o banco de dados registre e manipule infor
 
 A lógica paraconsistente oferece uma abordagem inovadora e pragmática para a resolução de conflitos em bancos de dados distribuídos, permitindo que sistemas complexos operem de forma robusta mesmo diante de inconsistências inevitáveis. Discutir e compreender essas estratégias é fundamental para o desenvolvimento de soluções resilientes e confiáveis em ambientes de dados cada vez mais distribuídos e dinâmicos.
 
----
+
 
 **Sugestão de atividade:**  
 Divida o grupo em equipes e proponha que cada uma elabore um plano de resolução de conflitos para o caso apresentado, utilizando princípios da lógica paraconsistente. Em seguida, compare as soluções e discuta os impactos práticos de cada abordagem.
-```
+

@@ -32,7 +32,7 @@ A modelagem de bancos de dados para suportar inconsistências, inspirada pela l�
 Uma das abordagens mais utilizadas é a **Lógica Paraconsistente Anotada (LPA)**, que associa a cada fato um par de valores representando o grau de evidência favorável (μ) e desfavorável (λ) à sua veracidade. Por exemplo, um registro pode ser anotado como:
 
 | ID | Fato         | μ (favorável) | λ (desfavorável) |
-|----|--------------|---------------|------------------|
+|___-|____________--|_______________|__________________|
 | 1  | "Cliente A é VIP" | 0.8           | 0.2              |
 | 2  | "Cliente B é VIP" | 0.5           | 0.5              |
 
@@ -43,7 +43,7 @@ Esses valores podem ser derivados de diferentes fontes, votos de especialistas, 
 Outra estratégia é manter, para cada informação, o histórico de versões ou a origem dos dados, permitindo identificar e rastrear conflitos:
 
 | ID | Fato         | Valor | Fonte      | Timestamp   |
-|----|--------------|-------|------------|-------------|
+|___-|____________--|______-|____________|____________-|
 | 1  | "Saldo"      | 1000  | Sistema X  | 2024-06-01  |
 | 2  | "Saldo"      | 950   | Sistema Y  | 2024-06-01  |
 
@@ -52,7 +52,7 @@ Outra estratégia é manter, para cada informação, o histórico de versões ou
 Campos adicionais podem indicar o status de consistência de cada registro:
 
 | ID | Fato         | Valor | Consistência |
-|----|--------------|-------|--------------|
+|___-|____________--|______-|____________--|
 | 1  | "Endereço"   | Rua A | Consistente  |
 | 2  | "Endereço"   | Rua B | Inconsistente|
 
@@ -90,10 +90,10 @@ Suponha um banco de dados de clientes integrado de duas filiais, onde o campo "s
 
 A modelagem de bancos de dados para suportar inconsistências, fundamentada na lógica paraconsistente, representa um avanço significativo para sistemas que precisam lidar com dados reais, muitas vezes imperfeitos ou contraditórios. Ao invés de buscar uma consistência absoluta, o foco passa a ser a **gestão inteligente das contradições**, permitindo maior flexibilidade, resiliência e capacidade de adaptação dos sistemas de informação.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente Anotada: Teoria e Aplicações" – Newton da Costa, Walter Carnielli  
 - "Paraconsistent Databases" – Leopoldo Bertossi, Jan Chomicki
 
-```
+

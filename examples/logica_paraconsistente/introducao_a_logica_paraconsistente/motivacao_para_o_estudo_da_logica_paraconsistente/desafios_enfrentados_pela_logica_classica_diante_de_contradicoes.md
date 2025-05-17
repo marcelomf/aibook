@@ -39,7 +39,7 @@ As principais limitações da lógica clássica diante de contradições podem s
 
 Diante desses desafios, pesquisadores buscaram alternativas que permitissem lidar com contradições de maneira mais flexível e realista. A **lógica paraconsistente** surge como uma resposta a essas limitações, oferecendo sistemas lógicos nos quais a presença de contradições não leva necessariamente à trivialidade. Assim, é possível raciocinar de forma útil mesmo em contextos onde inconsistências são inevitáveis.
 
----
+___
 
 **Em resumo:**  
 A lógica clássica, embora poderosa e fundamental, enfrenta sérios desafios diante de contradições devido ao princípio da explosão. Isso limita sua aplicação em muitos contextos práticos, motivando o desenvolvimento de lógicas alternativas, como a lógica paraconsistente, capazes de tratar inconsistências de forma controlada e produtiva.

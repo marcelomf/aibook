@@ -5,7 +5,7 @@ A lógica tradicional, também conhecida como lógica clássica, é um sistema f
 
 Neste tópico, apresentamos os principais operadores e conectivos da lógica tradicional, suas definições, notações e exemplos de uso.
 
----
+
 
 ## 1. Negação (¬)
 
@@ -16,11 +16,11 @@ Neste tópico, apresentamos os principais operadores e conectivos da lógica tra
   Se \( p \) representa "Está chovendo", então \( \neg p \) significa "Não está chovendo".
 
 | p   | ¬p  |
-|-----|-----|
+|--|--|
 | V   | F   |
 | F   | V   |
 
----
+
 
 ## 2. Conjunção (∧)
 
@@ -33,13 +33,13 @@ Neste tópico, apresentamos os principais operadores e conectivos da lógica tra
   \( p \land q \): "Estudo lógica **e** gosto de matemática"
 
 | p   | q   | p ∧ q |
-|-----|-----|-------|
+|--|--|-|
 | V   | V   | V     |
 | V   | F   | F     |
 | F   | V   | F     |
 | F   | F   | F     |
 
----
+
 
 ## 3. Disjunção (∨)
 
@@ -52,13 +52,13 @@ Neste tópico, apresentamos os principais operadores e conectivos da lógica tra
   \( p \lor q \): "Vou ao cinema **ou** vou ao teatro (ou ambos)"
 
 | p   | q   | p ∨ q |
-|-----|-----|-------|
+|--|--|-|
 | V   | V   | V     |
 | V   | F   | V     |
 | F   | V   | V     |
 | F   | F   | F     |
 
----
+
 
 ## 4. Implicação (→)
 
@@ -71,13 +71,13 @@ Neste tópico, apresentamos os principais operadores e conectivos da lógica tra
   \( p \rightarrow q \): "Se estudo para a prova, então vou bem na prova"
 
 | p   | q   | p → q |
-|-----|-----|-------|
+|--|--|-|
 | V   | V   | V     |
 | V   | F   | F     |
 | F   | V   | V     |
 | F   | F   | V     |
 
----
+
 
 ## 5. Bicondicional (↔)
 
@@ -90,13 +90,13 @@ Neste tópico, apresentamos os principais operadores e conectivos da lógica tra
   \( p \leftrightarrow q \): "Hoje é sábado **se e somente se** não tenho aula"
 
 | p   | q   | p ↔ q |
-|-----|-----|-------|
+|--|--|-|
 | V   | V   | V     |
 | V   | F   | F     |
 | F   | V   | F     |
 | F   | F   | V     |
 
----
+
 
 ## 6. Outros Operadores
 
@@ -107,7 +107,7 @@ Além dos conectivos acima, a lógica tradicional pode empregar outros operadore
   - **Universal (∀):** "Para todo"
   - **Existencial (∃):** "Existe pelo menos um"
 
----
+
 
 ## Considerações Finais
 
@@ -115,5 +115,4 @@ Os conectivos lógicos são fundamentais para a construção de argumentos e par
 
 Na lógica tradicional, as regras de uso desses operadores são bem definidas e seguem o princípio da não contradição: uma proposição não pode ser verdadeira e falsa ao mesmo tempo. Essa característica distingue a lógica clássica de sistemas não clássicos, como a lógica paraconsistente, que será abordada nos próximos tópicos deste eBook.
 
----
-```
+

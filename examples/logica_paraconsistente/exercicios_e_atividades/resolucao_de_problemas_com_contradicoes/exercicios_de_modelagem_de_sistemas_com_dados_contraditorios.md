@@ -2,7 +2,7 @@
 
 A modelagem de sistemas que lidam com dados contraditórios é um dos grandes desafios enfrentados em áreas como bancos de dados, inteligência artificial e sistemas de apoio à decisão. A Lógica Paraconsistente oferece ferramentas teóricas e práticas para tratar essas situações sem que o sistema se torne trivial, ou seja, sem que qualquer afirmação possa ser considerada verdadeira a partir de uma contradição. Nesta seção, propomos exercícios práticos para desenvolver habilidades na modelagem de sistemas que precisam operar sob a presença de informações inconsistentes.
 
----
+
 
 ## 1. Introdução à Modelagem Paraconsistente
 
@@ -14,7 +14,7 @@ Antes de iniciar os exercícios, é importante compreender que, em um sistema pa
 - **Sistemas de diagnóstico médico:** Sintomas e exames que apontam para diagnósticos conflitantes.
 - **Redes sociais:** Usuários relatando fatos opostos sobre um mesmo evento.
 
----
+
 
 ## 2. Exercício 1: Modelando um Banco de Dados Inconsistente
 
@@ -40,7 +40,7 @@ Considere um banco de dados de clientes de uma empresa, onde diferentes fontes d
     - Solicitar uma verificação adicional.
     - Utilizar regras de prioridade (por exemplo, fonte mais recente ou mais confiável).
 
----
+
 
 ## 3. Exercício 2: Diagnóstico Médico com Informações Conflitantes
 
@@ -66,7 +66,7 @@ Um sistema de apoio ao diagnóstico recebe os seguintes dados sobre um paciente:
   - Pode sugerir: "Há evidências conflitantes sobre a presença da doença A. Recomenda-se a realização de exames adicionais ou consulta a um especialista."
   - O sistema não descarta nenhuma hipótese, mas sinaliza a necessidade de cautela.
 
----
+
 
 ## 4. Exercício 3: Resolução de Conflitos em Relatórios de Eventos
 
@@ -90,7 +90,7 @@ Em uma rede social, dois usuários relatam informações opostas sobre um mesmo 
   - Pode solicitar confirmação de outros usuários ou fontes oficiais.
   - Pode calcular um grau de confiabilidade para cada informação, baseado no histórico dos usuários.
 
----
+
 
 ## 5. Dicas para Modelagem Paraconsistente
 
@@ -99,20 +99,20 @@ Em uma rede social, dois usuários relatam informações opostas sobre um mesmo 
 - **Implemente mecanismos de resolução:** Defina regras para lidar com contradições, como priorização de fontes, solicitação de dados adicionais ou apresentação transparente das divergências.
 - **Evite decisões precipitadas:** Em vez de descartar informações contraditórias, mantenha-as no sistema até que haja evidências suficientes para uma decisão.
 
----
+
 
 ## 6. Exercício Proposto
 
 **Desafio:**  
 Projete um pequeno sistema de cadastro de produtos para um supermercado, onde diferentes funcionários podem registrar informações sobre o estoque. Considere que podem ocorrer divergências sobre a quantidade de determinado produto em estoque. Modele o sistema utilizando lógica paraconsistente e proponha uma estratégia para lidar com as contradições.
 
----
+
 
 ## 7. Conclusão
 
 A modelagem de sistemas com dados contraditórios é uma habilidade essencial em um mundo onde a informação é abundante, mas nem sempre consistente. A Lógica Paraconsistente oferece uma abordagem robusta para lidar com essas situações, permitindo que sistemas continuem operando de forma útil e confiável. Praticar exercícios como os apresentados aqui é fundamental para desenvolver a intuição e a competência necessárias para aplicar esses conceitos em situações reais.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - "Lógica Paraconsistente: Teoria e Aplicações" – Walter Carnielli & João Marcos  

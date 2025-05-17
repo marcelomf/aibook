@@ -44,7 +44,7 @@ Na LP, os valores de verdade são:
 Para a proposição \( L \):
 
 | \( L \) | \( \neg L \) | Situação em LP |
-|---------|--------------|----------------|
+||--|-|
 | V       | F            | Normal         |
 | F       | V            | Normal         |
 | B       | B            | Contradição tolerada |
@@ -65,7 +65,7 @@ Na LP, a presença de uma contradição não compromete a integridade do sistema
 - **Exemplo clássico:** o paradoxo do mentiroso ("Este enunciado é falso").
 - **Aplicação:** permite o tratamento formal de inconsistências em diversas áreas do conhecimento.
 
----
+
 
 **Referências:**
 

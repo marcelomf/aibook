@@ -47,5 +47,4 @@ Os princípios da não contradição e do terceiro excluído são fundamentais p
 > - Graham Priest, "In Contradiction"  
 > - Jean-Yves Béziau, "Universal Logic: An Anthology"
 
----
-```
+

@@ -65,7 +65,7 @@ Na LPA, podemos atribuir um grau de evidência favorável de 0,6 e um grau de ev
 
 A aplicação da lógica paraconsistente em sistemas de recomendação sob incerteza representa um avanço significativo na robustez e na qualidade das recomendações. Ao permitir o tratamento formal de contradições e incertezas, esses sistemas tornam-se mais adaptáveis à complexidade dos dados do mundo real, oferecendo recomendações mais confiáveis e transparentes. Com o crescimento do volume e da diversidade de informações disponíveis, a lógica paraconsistente tende a se consolidar como uma ferramenta essencial para o desenvolvimento de sistemas inteligentes de recomendação.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics and Knowledge Bases."  

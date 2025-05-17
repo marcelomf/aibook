@@ -37,8 +37,8 @@ A flexibilidade proporcionada pela lógica paraconsistente na modelagem de siste
 
 Para profissionais e pesquisadores, compreender e aplicar os princípios da lógica paraconsistente é essencial para projetar soluções inovadoras em áreas onde a contradição não é exceção, mas parte integrante do processo de análise e decisão.
 
----
+
 **Sugestão de leitura:**  
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Introdução à Lógica Paraconsistente*.  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*.
-```
+

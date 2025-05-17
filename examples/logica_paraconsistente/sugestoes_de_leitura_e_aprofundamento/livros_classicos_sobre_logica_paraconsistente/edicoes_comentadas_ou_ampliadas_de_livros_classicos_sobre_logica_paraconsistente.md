@@ -48,7 +48,7 @@ A literatura sobre lógica paraconsistente tem se expandido significativamente d
 - **Destaques da edição online comentada:**  
   O "Handbook of Paraconsistency" é uma coletânea abrangente de artigos sobre os fundamentos, sistemas e aplicações da lógica paraconsistente. A edição online comentada, lançada em 2019, inclui anotações dos editores, links para recursos digitais e atualizações sobre pesquisas recentes, facilitando o acesso a estudantes e pesquisadores de todo o mundo.
 
----
+
 
 ### **Por que buscar edições comentadas ou ampliadas?**
 
@@ -59,13 +59,13 @@ Edições comentadas ou ampliadas de livros clássicos são fundamentais para qu
 - **Exemplos e aplicações recentes:** Novos estudos de caso e aplicações em áreas emergentes, como inteligência artificial e ciência de dados.
 - **Acesso facilitado:** Edições digitais e anotações tornam o conteúdo mais acessível e interativo.
 
----
+
 
 ### **Sugestão de leitura complementar**
 
 Além das obras citadas, recomenda-se acompanhar periódicos especializados, como o *Journal of Applied Non-Classical Logics* e o *Studia Logica*, que frequentemente publicam revisões e discussões sobre os avanços em lógica paraconsistente.
 
----
+
 
 **Em resumo**, as edições comentadas ou ampliadas dos livros clássicos sobre lógica paraconsistente são recursos valiosos para quem busca uma compreensão profunda, atualizada e crítica deste fascinante ramo da lógica não clássica.
-```
+

@@ -35,11 +35,11 @@ Hoje, a lógica paraconsistente é reconhecida como uma das principais alternati
 
 A influência dos contextos filosófico e matemático permanece central, pois a lógica paraconsistente continua a desafiar e expandir nossa compreensão sobre o raciocínio, a verdade e a manipulação de informações contraditórias.
 
----
+___
 
 **Referências:**
 
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
 - da Costa, N. C. A. (1974). *On the theory of inconsistent formal systems*. Notre Dame Journal of Formal Logic, 15(4), 497-510.
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
-```
+

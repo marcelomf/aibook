@@ -58,8 +58,8 @@ Apesar das vantagens, a aplicação da LP em IA também apresenta desafios:
 
 A utilização da Lógica Paraconsistente de Priest (LP) em sistemas de Inteligência Artificial representa um avanço significativo na capacidade de lidar com incertezas e contradições, tornando a tomada de decisão mais robusta e confiável. À medida que os sistemas de IA se tornam mais complexos e integrados a ambientes reais, a adoção de abordagens paraconsistentes tende a crescer, ampliando as fronteiras do raciocínio automatizado sob incerteza.
 
----
+
 **Sugestão de leitura complementar:**  
 - Priest, G. (2002). *Paraconsistent Logic*. In D. Gabbay & F. Guenthner (Eds.), *Handbook of Philosophical Logic* (Vol. 6, pp. 287–393).  
 - Batens, D. (2000). *A General Characterization of Adaptive Logics*. Logique et Analyse, 173–174, 45–68.
-```
+

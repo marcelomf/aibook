@@ -77,4 +77,4 @@ A aplicação da lógica paraconsistente em sistemas de recomendação de produt
 - D’Ottaviano, I. M. L., & da Costa, N. C. A. (2015). *Lógica Paraconsistente: Teoria e Aplicações*. Editora Unicamp.
 - Batens, D. (2019). *Paraconsistent Logic*. Stanford Encyclopedia of Philosophy.
 - Silva Filho, J. I., & Abe, J. M. (2007). *Lógica Paraconsistente Anotada: Teoria e Aplicações*. Editora Livraria da Física.
-```
+

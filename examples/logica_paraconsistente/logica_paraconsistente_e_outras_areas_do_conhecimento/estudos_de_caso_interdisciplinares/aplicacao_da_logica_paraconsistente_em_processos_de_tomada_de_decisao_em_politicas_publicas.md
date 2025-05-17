@@ -53,7 +53,7 @@ Utilizando um sistema de apoio à decisão baseado em lógica paraconsistente, a
 
 A lógica paraconsistente representa uma inovação metodológica relevante para a gestão pública contemporânea, especialmente em contextos marcados por incerteza e pluralidade de interesses. Ao permitir a incorporação e o tratamento sistemático de informações contraditórias, ela contribui para decisões mais fundamentadas, transparentes e democráticas. O avanço das ferramentas computacionais e a crescente complexidade dos desafios sociais tornam a lógica paraconsistente uma aliada estratégica para gestores públicos, pesquisadores e todos os envolvidos na formulação de políticas públicas.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, M. I. C., & da Costa, N. C. A. (2015). *Lógica Paraconsistente: Teoria e Aplicações*.  

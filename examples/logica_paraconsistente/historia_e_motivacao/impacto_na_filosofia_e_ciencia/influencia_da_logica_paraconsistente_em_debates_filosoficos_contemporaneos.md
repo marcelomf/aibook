@@ -39,7 +39,7 @@ A lógica paraconsistente também tem sido empregada na análise de paradoxos se
 
 Por fim, a lógica paraconsistente contribuiu para o movimento do pluralismo lógico, que defende a existência de múltiplos sistemas lógicos adequados para diferentes contextos. Isso desafia a hegemonia da lógica clássica na filosofia analítica e incentiva uma visão mais aberta e pragmática sobre o papel da lógica na investigação filosófica.
 
----
+___
 
 ## Referências
 
@@ -48,7 +48,7 @@ Por fim, a lógica paraconsistente contribuiu para o movimento do pluralismo ló
 - Bueno, O. (2010). "Paraconsistent Logic and the Philosophy of Mathematics". In: *The Stanford Encyclopedia of Philosophy*.
 - Berto, F. (2011). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+___
 
 A lógica paraconsistente, ao desafiar dogmas tradicionais e oferecer novas ferramentas conceituais, tornou-se um elemento central em muitos debates filosóficos contemporâneos, promovendo uma visão mais flexível, plural e realista do raciocínio, da verdade e da própria racionalidade.
-```
+

@@ -7,7 +7,7 @@ Sistemas de recomendação são amplamente utilizados em plataformas de comérci
 
 A **Lógica Paraconsistente** oferece ferramentas teóricas e práticas para lidar com essas contradições de forma controlada, evitando que o sistema de recomendação se torne ineficaz ou produza resultados absurdos. Neste estudo de caso, analisaremos como a lógica paraconsistente pode ser aplicada para tratar inconsistências em sistemas de recomendação de produtos.
 
----
+
 
 ## Contexto do Caso
 
@@ -20,7 +20,7 @@ Imagine uma loja virtual que utiliza um sistema de recomendação baseado em ava
 - Além disso, há registros duplicados do produto, com pequenas variações no nome ("Fone de Ouvido X", "Fone X", "Fone de Ouvido X - Preto"), cada um com avaliações próprias.
 - O sistema de recomendação precisa sugerir produtos relevantes para um novo usuário, mas não pode simplesmente ignorar avaliações contraditórias ou descartar produtos com dados inconsistentes.
 
----
+
 
 ## Desafios Enfrentados
 
@@ -28,7 +28,7 @@ Imagine uma loja virtual que utiliza um sistema de recomendação baseado em ava
 2. **Dados duplicados e conflitantes:** Como consolidar registros múltiplos do mesmo produto, cujas avaliações podem ser divergentes?
 3. **Decisão sob incerteza:** Como recomendar produtos de forma confiável mesmo diante de informações contraditórias?
 
----
+
 
 ## Aplicação da Lógica Paraconsistente
 
@@ -57,7 +57,7 @@ Em vez de recomendar apenas produtos com avaliações totalmente positivas (o qu
 - **Sinalizar produtos com alta contradição:** O sistema pode alertar o usuário sobre a existência de opiniões divergentes, promovendo transparência.
 - **Permitir recomendações personalizadas:** Usuários que toleram mais incerteza podem receber recomendações de produtos com maior grau de contradição, enquanto outros podem preferir apenas produtos com avaliações mais consensuais.
 
----
+
 
 ## Benefícios da Abordagem Paraconsistente
 
@@ -66,7 +66,7 @@ Em vez de recomendar apenas produtos com avaliações totalmente positivas (o qu
 - **Transparência para o usuário**, que pode ser informado sobre a existência de opiniões divergentes.
 - **Flexibilidade na personalização das recomendações**, adaptando-se ao perfil e à tolerância ao risco de cada usuário.
 
----
+
 
 ## Questões para Discussão em Grupo
 
@@ -75,11 +75,10 @@ Em vez de recomendar apenas produtos com avaliações totalmente positivas (o qu
 3. **Como comunicar ao usuário a existência de contradições sem prejudicar a confiança no sistema?**
 4. **Que outros tipos de inconsistências podem surgir em sistemas de recomendação e como poderiam ser tratados?**
 
----
+
 
 ## Conclusão
 
 O tratamento de inconsistências é um desafio central em sistemas de recomendação modernos. A lógica paraconsistente oferece uma abordagem teórica e prática para lidar com contradições de forma controlada, permitindo que o sistema continue operando de maneira confiável e transparente. Discutir casos como este em grupo pode ajudar a aprofundar a compreensão dos conceitos e a explorar soluções inovadoras para problemas reais.
 
----
-```
+

@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente é um campo relativamente recente no panorama da lógica matemática e filosófica, tendo se desenvolvido a partir da segunda metade do século XX. Diversos autores desempenharam papéis fundamentais na sua criação, formalização e difusão. A seguir, destacam-se alguns dos principais pioneiros e suas contribuições mais relevantes para a área.
 
----
+
 
 ## 1. **Newton da Costa (1929-)**
 
@@ -18,7 +18,7 @@ Newton Carneiro Affonso da Costa, matemático e lógico brasileiro, é amplament
 - *Sistemas Formais Inconsistentes* (1963)
 - *Paraconsistent Logic: Consistency, Contradiction and Negation* (com Walter Carnielli e Marcelo Coniglio, 2007)
 
----
+
 
 ## 2. **Stanley Priest (1943-)**
 
@@ -33,7 +33,7 @@ Graham Priest, filósofo e lógico britânico-australiano, é outro nome central
 - *In Contradiction* (1987, 2ª ed. 2006)
 - *An Introduction to Non-Classical Logic* (2001, 2ª ed. 2008)
 
----
+
 
 ## 3. **Jean-Yves Béziau (1965-)**
 
@@ -47,7 +47,7 @@ Filósofo e lógico francês, Béziau contribuiu para a disseminação e desenvo
 - *Paraconsistent Logic: Consistency, Contradiction and Negation* (co-autor)
 - Diversos artigos e coletâneas sobre lógica não clássica
 
----
+
 
 ## 4. **Walter Carnielli (1952-)**
 
@@ -61,7 +61,7 @@ Matemático e lógico brasileiro, Carnielli é um dos principais nomes na pesqui
 - *Paraconsistent Logic: Consistency, Contradiction and Negation* (com da Costa e Coniglio)
 - Diversos artigos sobre LPA e aplicações
 
----
+
 
 ## 5. **Diderik Batens (1944-)**
 
@@ -74,11 +74,11 @@ Filósofo e lógico belga, Batens é conhecido por seu trabalho em lógicas adap
 **Principais obras:**
 - Diversos artigos sobre lógicas adaptativas e paraconsistência
 
----
+
 
 ## **Conclusão**
 
 A lógica paraconsistente é fruto do trabalho colaborativo e inovador de diversos pesquisadores ao redor do mundo. Os autores mencionados acima são apenas alguns dos pioneiros cujas contribuições foram fundamentais para o desenvolvimento, formalização e aplicação dessa área. Suas obras são leitura essencial para quem deseja aprofundar-se nos fundamentos e nas aplicações da lógica paraconsistente.
 
 **Sugestão:** Para um estudo mais aprofundado, recomenda-se a leitura das obras citadas e a busca por artigos recentes em periódicos especializados, como *Journal of Applied Logic*, *Studia Logica* e *Logic Journal of the IGPL*.
-```
+

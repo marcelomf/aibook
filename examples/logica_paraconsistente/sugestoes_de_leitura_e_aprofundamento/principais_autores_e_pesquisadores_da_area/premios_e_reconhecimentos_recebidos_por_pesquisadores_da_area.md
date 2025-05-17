@@ -3,7 +3,7 @@
 
 A Lógica Paraconsistente, desde sua origem nas décadas de 1940 e 1950, tem atraído a atenção de matemáticos, filósofos e cientistas da computação em todo o mundo. Embora seja uma área relativamente jovem dentro da lógica matemática, diversos pesquisadores que contribuíram significativamente para o desenvolvimento e a aplicação da lógica paraconsistente receberam prêmios e reconhecimentos importantes, tanto em âmbito nacional quanto internacional. A seguir, destacam-se alguns dos principais prêmios, homenagens e distinções concedidos a estudiosos da área.
 
----
+
 
 ## Prêmios Internacionais
 
@@ -16,7 +16,7 @@ O Prêmio Jean Nicod, concedido anualmente em Paris, reconhece filósofos da men
 ### 3. **Fellowship da Association for Symbolic Logic (ASL)**
 A ASL concede o título de "Fellow" a pesquisadores que tenham contribuído de forma notável para a lógica matemática. **Newton da Costa** e **Graham Priest** figuram entre os homenageados, reconhecendo suas trajetórias e impacto internacional.
 
----
+
 
 ## Reconhecimentos Nacionais
 
@@ -26,7 +26,7 @@ No Brasil, a Ordem Nacional do Mérito Científico é uma das maiores honrarias 
 ### 2. **Prêmio Jabuti (Brasil)**
 Embora não seja específico da área de lógica, o Prêmio Jabuti já reconheceu obras de divulgação científica e matemática que abordam temas de lógica paraconsistente, destacando a importância do tema no cenário acadêmico brasileiro.
 
----
+
 
 ## Homenagens Acadêmicas e Outras Distinções
 
@@ -34,13 +34,13 @@ Embora não seja específico da área de lógica, o Prêmio Jabuti já reconhece
 - **Conferências e Simpósios em Homenagem**: Eventos internacionais, como o "Newton da Costa Fest" e simpósios dedicados a Graham Priest, celebram o legado e a influência desses pesquisadores.
 - **Publicações Especiais**: Edições comemorativas de revistas científicas, como a *Studia Logica* e a *Journal of Philosophical Logic*, já foram dedicadas a temas e autores da lógica paraconsistente.
 
----
+
 
 ## Impacto e Reconhecimento Contínuo
 
 O reconhecimento dos pesquisadores da lógica paraconsistente reflete não apenas a originalidade e profundidade de suas contribuições teóricas, mas também a relevância prática de suas ideias em áreas como ciência da computação, inteligência artificial, filosofia e matemática. O contínuo interesse em suas obras, a crescente adoção de sistemas paraconsistentes em aplicações reais e a presença constante em eventos científicos internacionais demonstram o impacto duradouro desses estudiosos.
 
----
+
 
 ## Referências
 
@@ -50,7 +50,7 @@ O reconhecimento dos pesquisadores da lógica paraconsistente reflete não apena
 - Priest, G. (2002). *Paraconsistent Logic*. In: Handbook of Philosophical Logic.
 - Da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*.
 
----
+
 
 A trajetória de prêmios e reconhecimentos dos principais pesquisadores da lógica paraconsistente evidencia a importância e o vigor desta área, incentivando novas gerações a explorar e expandir os limites do raciocínio lógico não clássico.
-```
+

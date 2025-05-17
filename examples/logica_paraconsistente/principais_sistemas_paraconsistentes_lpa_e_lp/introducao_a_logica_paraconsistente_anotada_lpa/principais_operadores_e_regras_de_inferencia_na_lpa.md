@@ -4,7 +4,7 @@ A **Lógica Paraconsistente Anotada (LPA)** é um dos sistemas mais conhecidos e
 
 Neste tópico, abordaremos os principais operadores e regras de inferência da LPA, com foco na versão mais utilizada: a **LPA de dois valores** (LPA$_{2v}$), também conhecida como Lógica Paraconsistente Anotada com Anotação de Dois Valores.
 
----
+
 
 ## 1. Estrutura Básica da LPA
 
@@ -20,7 +20,7 @@ onde:
 
 Esses valores podem ser obtidos, por exemplo, a partir de fontes de dados, sensores, opiniões de especialistas, etc.
 
----
+
 
 ## 2. Principais Operadores na LPA
 
@@ -36,7 +36,7 @@ $$
 
 Ou seja, invertem-se os graus de evidência favorável e contrária.
 
----
+
 
 ### 2.2. Conjunção ($\wedge$)
 
@@ -49,7 +49,7 @@ $$
 - O grau de evidência favorável é o menor entre os dois;
 - O grau de evidência contrária é o maior entre os dois.
 
----
+
 
 ### 2.3. Disjunção ($\vee$)
 
@@ -62,7 +62,7 @@ $$
 - O grau de evidência favorável é o maior entre os dois;
 - O grau de evidência contrária é o menor entre os dois.
 
----
+
 
 ### 2.4. Implicação ($\rightarrow$)
 
@@ -74,7 +74,7 @@ $$
 
 No entanto, a definição exata pode variar conforme o contexto e a versão da LPA utilizada.
 
----
+
 
 ## 3. Regras de Inferência na LPA
 
@@ -106,7 +106,7 @@ Se $G_{ct}$ for alto, a proposição está em situação de conflito.
 
 Esses valores são usados para tomar decisões e inferir conclusões mesmo diante de informações contraditórias.
 
----
+
 
 ## 4. Exemplo Prático
 
@@ -127,7 +127,7 @@ $$
 \neg A_{(0.8, 0.1)} = A_{(0.1, 0.8)}
 $$
 
----
+
 
 ## 5. Considerações Finais
 
@@ -135,7 +135,7 @@ A LPA oferece um conjunto robusto de operadores e regras de inferência que perm
 
 O domínio dos operadores e das regras de inferência da LPA é fundamental para a correta aplicação dessa lógica em problemas reais, permitindo extrair conclusões úteis mesmo em cenários de incerteza e inconsistência.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). "Paraconsistent Logics: Consistency, Contradiction and Negation."  

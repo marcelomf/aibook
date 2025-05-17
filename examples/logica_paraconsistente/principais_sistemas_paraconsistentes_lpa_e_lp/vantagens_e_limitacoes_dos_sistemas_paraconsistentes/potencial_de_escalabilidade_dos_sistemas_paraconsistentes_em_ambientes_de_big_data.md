@@ -45,9 +45,9 @@ A tendência é que, com o amadurecimento das ferramentas e o aumento do interes
 
 O potencial de escalabilidade dos sistemas paraconsistentes em ambientes de big data é significativo, especialmente pela capacidade de lidar com inconsistências de forma controlada e eficiente. Embora desafios técnicos ainda existam, os avanços em pesquisa e desenvolvimento apontam para um futuro em que a lógica paraconsistente será uma ferramenta essencial para a análise e tomada de decisão em cenários de dados massivos e contraditórios.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.  
 - da Costa, N. C. A., & Subrahmanian, V. S. (2019). *Paraconsistent Databases*. In: *Handbook of Logic in Artificial Intelligence and Logic Programming*.
-```
+

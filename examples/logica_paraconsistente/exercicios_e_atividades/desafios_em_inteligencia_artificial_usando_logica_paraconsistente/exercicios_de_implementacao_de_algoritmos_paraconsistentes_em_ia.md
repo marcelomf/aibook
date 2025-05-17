@@ -3,7 +3,7 @@
 
 A aplicação da Lógica Paraconsistente em Inteligência Artificial (IA) tem se mostrado uma abordagem promissora para lidar com informações contraditórias, incertezas e inconsistências, especialmente em ambientes complexos e dinâmicos. Nesta seção, propomos exercícios práticos para implementação de algoritmos paraconsistentes em IA, visando consolidar o entendimento teórico e estimular o desenvolvimento de soluções inovadoras.
 
----
+
 
 ## 1. **Implementando um Classificador Paraconsistente Simples**
 
@@ -30,7 +30,7 @@ dados = [
 ]
 ```
 
----
+
 
 ## 2. **Resolução de Conflitos em Sistemas Multiagentes**
 
@@ -43,7 +43,7 @@ Em um sistema multiagente, diferentes agentes podem fornecer informações contr
 - Utilize a LPA para determinar o estado final do fato (verdadeiro, falso, inconsistente ou indefinido).
 - Simule um cenário com pelo menos três agentes e analise o resultado.
 
----
+
 
 ## 3. **Diagnóstico Médico com Dados Inconsistentes**
 
@@ -56,7 +56,7 @@ Considere um sistema de apoio à decisão médica que recebe laudos de diferente
 - Apresente ao usuário os diagnósticos classificados como verdadeiros, falsos, inconsistentes ou indefinidos.
 - Discuta como o sistema pode ajudar o médico a tomar decisões mais informadas.
 
----
+
 
 ## 4. **Filtragem Paraconsistente de Fake News**
 
@@ -69,7 +69,7 @@ Implemente um filtro de notícias que utiliza lógica paraconsistente para avali
 - Classifique as notícias e proponha ações (exibir, ocultar, sinalizar como duvidosa).
 - Analise como a abordagem paraconsistente pode reduzir a propagação de informações falsas.
 
----
+
 
 ## 5. **Exercício Avançado: Integração com Machine Learning**
 
@@ -82,7 +82,7 @@ Integre a lógica paraconsistente a um modelo de machine learning tradicional (p
 - Modifique o algoritmo de decisão para considerar Gc e Gct na classificação.
 - Avalie o desempenho do modelo em dados ruidosos e compare com o modelo tradicional.
 
----
+
 
 ## Dicas para Implementação
 
@@ -90,7 +90,7 @@ Integre a lógica paraconsistente a um modelo de machine learning tradicional (p
 - Documente cada etapa do seu código, explicando como a lógica paraconsistente está sendo aplicada.
 - Teste seus algoritmos com diferentes cenários de inconsistência para avaliar a robustez da abordagem.
 
----
+
 
 ## Referências para Estudo
 
@@ -99,7 +99,7 @@ Integre a lógica paraconsistente a um modelo de machine learning tradicional (p
 - **Carnielli, W. A., & Coniglio, M. E. (2016). Paraconsistent Logic: Consistency, Contradiction and Negation.**
 - **Santos, P. S., & Subrahmanian, V. S. (1997). Paraconsistent logic programming.**
 
----
+
 
 Esses exercícios proporcionam uma base prática para o desenvolvimento de sistemas de IA mais tolerantes a inconsistências, promovendo soluções inovadoras em áreas como bancos de dados, diagnóstico, tomada de decisão e filtragem de informações.
-```
+

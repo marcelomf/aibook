@@ -66,5 +66,4 @@ A aplicação da Lógica Paraconsistente de Priest em sistemas de detecção de 
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Batens, D. (2019). *Paraconsistency and its Applications in Computer Science*. Journal of Applied Logic.
 
----
-```
+

@@ -44,7 +44,7 @@ A introdução da lógica paraconsistente na filosofia da ciência representa um
 
 Assim, a lógica paraconsistente não apenas amplia o ferramental lógico disponível para filósofos e cientistas, mas também contribui para uma visão mais dinâmica e tolerante do processo científico, alinhada com a complexidade e a incerteza inerentes à investigação do mundo real.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Newton da Costa, "Lógica Paraconsistente: Essencial"

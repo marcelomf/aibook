@@ -45,7 +45,7 @@ Devido a essas limitações, a comunidade de IA buscou alternativas à lógica c
 
 A lógica clássica, embora fundamental para o desenvolvimento da inteligência artificial, mostra-se insuficiente para lidar com a complexidade e a imperfeição dos dados do mundo real. Suas limitações diante de contradições e incertezas motivaram o surgimento de abordagens alternativas, como a lógica paraconsistente, que ampliam as capacidades dos sistemas de IA, tornando-os mais robustos, flexíveis e aplicáveis a cenários reais.
 
----
+___
 
 **Referências:**
 - Beziau, J.-Y. (2012). Paraconsistent logic: Consistency, contradiction and negation. Springer.

@@ -39,7 +39,7 @@ O desenvolvimento de ferramentas computacionais para manipulação de lógicas p
 
 - **Tendência:** Disponibilização de bibliotecas, softwares e plataformas open source para facilitar a adoção da lógica paraconsistente em aplicações reais.
 
----
+
 
 ## Referências Recentes
 
@@ -48,9 +48,9 @@ O desenvolvimento de ferramentas computacionais para manipulação de lógicas p
 - da Costa, N. C. A., & French, S. (2003). *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*. Oxford University Press.
 - Arieli, O., & Avron, A. (2022). "Paraconsistent Logics and their Applications." *Handbook of the History of Logic*, Elsevier.
 
----
+
 
 ## Conclusão
 
 As tendências atuais de pesquisa em lógica paraconsistente demonstram um campo vibrante, em constante diálogo com desafios teóricos e práticos. Os principais autores continuam a expandir as fronteiras da área, promovendo inovações que impactam desde a filosofia até a inteligência artificial, consolidando a lógica paraconsistente como uma ferramenta essencial para o raciocínio em ambientes complexos e contraditórios.
-```
+

@@ -36,4 +36,4 @@ Na filosofia, especialmente na epistemologia, há discussões sobre como lidar c
 ## Conclusão
 
 Esses exemplos históricos, tanto teóricos quanto práticos, evidenciam as limitações da lógica clássica diante de contradições e inconsistências. Eles motivaram o surgimento de novas lógicas, como a lógica paraconsistente, que busca oferecer ferramentas para raciocinar de forma controlada em contextos onde a contradição é inevitável ou até mesmo desejável. O desenvolvimento dessas lógicas representa um avanço significativo na capacidade de modelar e resolver problemas complexos em diversas áreas do conhecimento.
-```
+

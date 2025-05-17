@@ -48,7 +48,7 @@ Além das abordagens clássicas, os estudos de caso também exploraram lógicas 
 A tabela a seguir resume as principais características das abordagens discutidas:
 
 | Abordagem                | Vantagens Principais                        | Limitações Principais                  | Aplicações Típicas                  |
-|--------------------------|---------------------------------------------|----------------------------------------|-------------------------------------|
+|________________________--|_____________________________________________|_______________________________________-|____________________________________-|
 | LPA                      | Quantificação de contradição e certeza      | Esforço computacional, subjetividade   | Bancos de dados, decisão            |
 | LP (Priest)              | Simplicidade, evita explosão lógica         | Não distingue graus de contradição     | IA, agentes autônomos               |
 | Lógicas de 3 valores/híbridas | Expressividade, integração com IA         | Complexidade formal e computacional    | Mineração de dados, PLN             |
@@ -59,8 +59,8 @@ Os estudos de caso demonstram que a escolha da abordagem paraconsistente mais ad
 
 A comparação entre as diferentes abordagens reforça a importância da lógica paraconsistente como ferramenta fundamental para o tratamento de inconsistências, promovendo soluções mais flexíveis e realistas em ambientes complexos e dinâmicos. O avanço contínuo na pesquisa e no desenvolvimento dessas lógicas promete ampliar ainda mais seu campo de aplicação, especialmente em áreas como inteligência artificial, ciência de dados e sistemas de informação.
 
----
+___
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - da Costa, N. C. A. (1974). *On the Theory of Inconsistent Formal Systems*. Notre Dame Journal of Formal Logic.
-```
+

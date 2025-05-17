@@ -4,7 +4,7 @@ A tomada de decisão é um dos pilares fundamentais em diversas áreas do conhec
 
 A **Lógica Paraconsistente** surge como uma alternativa robusta para modelar decisões em ambientes onde a incerteza e a contradição são inevitáveis. Este tópico explora como a lógica paraconsistente pode ser empregada na modelagem de decisões, destacando suas vantagens, métodos e aplicações práticas.
 
----
+___
 
 ## 1. Desafios na Tomada de Decisão sob Incerteza e Contradição
 
@@ -18,7 +18,7 @@ Exemplos típicos incluem diagnósticos médicos com exames conflitantes, sistem
 
 A lógica clássica exige a eliminação prévia das contradições para operar corretamente, o que pode levar à perda de informações relevantes ou à necessidade de suposições arbitrárias.
 
----
+___
 
 ## 2. Fundamentos da Lógica Paraconsistente na Teoria da Decisão
 
@@ -30,7 +30,7 @@ A lógica paraconsistente permite que sistemas de decisão:
 
 Um dos sistemas mais utilizados para esse fim é a **Lógica Paraconsistente Anotada (LPA)**, que associa a cada proposição dois valores: o grau de evidência favorável e o grau de evidência contrária. Isso permite representar, por exemplo, que uma informação é simultaneamente apoiada e contestada por diferentes fontes.
 
----
+___
 
 ## 3. Modelagem de Decisões com Lógica Paraconsistente
 
@@ -60,7 +60,7 @@ Com base nos graus calculados, podem ser estabelecidas regras como:
 - **Rejeitar uma proposição:** se o grau de certeza for negativo e o grau de contradição baixo.
 - **Suspender o julgamento:** se o grau de contradição for alto, indicando necessidade de mais informações ou de resolução de conflitos.
 
----
+___
 
 ## 4. Aplicações Práticas
 
@@ -76,7 +76,7 @@ Agentes inteligentes podem utilizar lógica paraconsistente para lidar com infor
 
 Na análise de riscos, diferentes relatórios podem apontar para conclusões opostas. A modelagem paraconsistente permite que gestores visualizem o grau de contradição e tomem decisões mais informadas, priorizando ações de investigação ou mitigação.
 
----
+___
 
 ## 5. Vantagens e Limitações
 
@@ -90,7 +90,7 @@ Na análise de riscos, diferentes relatórios podem apontar para conclusões opo
 - Pode demandar maior poder computacional em sistemas de grande escala.
 - A interpretação dos resultados pode ser mais complexa para usuários não familiarizados com o formalismo.
 
----
+___
 
 ## 6. Considerações Finais
 
@@ -98,7 +98,7 @@ A lógica paraconsistente representa um avanço significativo na modelagem de de
 
 Para aprofundamento, recomenda-se a leitura de obras especializadas em lógica paraconsistente aplicada à teoria da decisão, bem como a exploração de estudos de caso em diferentes domínios.
 
----
+___
 
 **Referências:**
 

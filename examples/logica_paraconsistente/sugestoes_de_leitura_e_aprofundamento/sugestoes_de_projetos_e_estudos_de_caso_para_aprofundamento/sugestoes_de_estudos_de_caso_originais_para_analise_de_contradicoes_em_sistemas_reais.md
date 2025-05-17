@@ -3,7 +3,7 @@
 
 A análise de contradições em sistemas reais é um dos campos mais promissores para a aplicação da Lógica Paraconsistente. A seguir, apresentamos sugestões de estudos de caso originais que podem ser desenvolvidos por estudantes, pesquisadores ou profissionais interessados em aprofundar seus conhecimentos e habilidades na identificação, modelagem e resolução de inconsistências utilizando abordagens paraconsistentes.
 
----
+
 
 ## 1. **Gestão de Dados em Prontuários Eletrônicos de Saúde**
 
@@ -17,7 +17,7 @@ Sistemas de prontuários eletrônicos frequentemente agregam informações de m�
   - Aplicar lógica paraconsistente para identificar e classificar os tipos de contradição.
   - Propor mecanismos automáticos de resolução ou sinalização de inconsistências para apoio à decisão clínica.
 
----
+
 
 ## 2. **Análise de Fake News e Contradições em Redes Sociais**
 
@@ -32,7 +32,7 @@ Redes sociais são ambientes propícios à disseminação de informações contr
   - Utilizar lógica paraconsistente para identificar afirmações contraditórias e avaliar o grau de confiabilidade das fontes.
   - Propor visualizações ou alertas para usuários sobre possíveis contradições.
 
----
+
 
 ## 3. **Sistemas de Recomendação com Preferências Contraditórias**
 
@@ -46,7 +46,7 @@ Em sistemas de recomendação (filmes, produtos, restaurantes), usuários podem 
   - Identificar padrões de contradição (ex: usuário avalia positivamente e negativamente o mesmo item em momentos distintos).
   - Aplicar lógica paraconsistente para ponderar recomendações e sugerir explicações para as contradições detectadas.
 
----
+
 
 ## 4. **Gestão de Contradições em Sistemas de Informação Jurídica**
 
@@ -60,7 +60,7 @@ Bases de dados jurídicas frequentemente apresentam decisões judiciais conflita
   - Identificar pontos de contradição entre decisões.
   - Utilizar lógica paraconsistente para classificar e sugerir critérios de resolução ou hierarquização das decisões.
 
----
+
 
 ## 5. **Monitoramento de Contradições em Dados de Sensores IoT**
 
@@ -74,7 +74,7 @@ Em ambientes inteligentes (cidades, indústrias, casas), sensores podem fornecer
   - Identificar situações em que sensores fornecem leituras incompatíveis.
   - Aplicar lógica paraconsistente para filtrar, ponderar ou sinalizar dados contraditórios, melhorando a confiabilidade do sistema.
 
----
+
 
 ## 6. **Resolução de Contradições em Processos de Negociação Empresarial**
 
@@ -88,7 +88,7 @@ Negociações entre empresas ou departamentos frequentemente envolvem informaç�
   - Utilizar lógica paraconsistente para representar e avaliar as diferentes posições.
   - Propor estratégias de resolução baseadas na análise das contradições.
 
----
+
 
 ## Considerações Finais
 
@@ -97,5 +97,4 @@ Esses estudos de caso podem ser adaptados a diferentes níveis de complexidade e
 **Sugestão:**  
 Ao desenvolver um estudo de caso, busque parcerias com profissionais da área de aplicação escolhida e utilize dados reais sempre que possível, respeitando as normas éticas e de privacidade.
 
----
-```
+

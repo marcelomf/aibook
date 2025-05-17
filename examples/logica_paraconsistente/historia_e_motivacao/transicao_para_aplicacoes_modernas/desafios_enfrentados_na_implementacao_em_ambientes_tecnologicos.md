@@ -31,9 +31,9 @@ Em ambientes críticos, como sistemas bancários, médicos ou jurídicos, a conf
 
 A ausência de padrões amplamente aceitos para a implementação de lógicas paraconsistentes dificulta a interoperabilidade entre sistemas diferentes. Isso pode limitar a troca de informações e a integração de soluções desenvolvidas por diferentes equipes ou organizações.
 
----
+___
 
 ### **Perspectivas Futuras**
 
 Apesar desses desafios, o interesse crescente em aplicações que lidam com grandes volumes de dados, informações contraditórias e incertezas — como em big data, internet das coisas (IoT) e inteligência artificial — tem impulsionado o desenvolvimento de novas abordagens e ferramentas. A pesquisa contínua e a colaboração entre academia e indústria são essenciais para superar as barreiras atuais e tornar a lógica paraconsistente uma ferramenta cada vez mais acessível e eficaz em ambientes tecnológicos modernos.
-```
+

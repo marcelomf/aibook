@@ -52,7 +52,7 @@ Por outro lado, desafios incluem a complexidade de implementação e a necessida
 
 A Lógica Paraconsistente Anotada representa um avanço significativo para o tratamento teórico de inconsistências em matemática e computação. Suas aplicações vão desde a modelagem de paradoxos matemáticos até a construção de sistemas computacionais mais tolerantes a falhas e contradições. O desenvolvimento contínuo de métodos e ferramentas baseados na LPA promete ampliar ainda mais seu impacto em áreas fundamentais do conhecimento.
 
----
+
 
 **Sugestão de leitura complementar:**  
 - D’Ottaviano, I.M.L., & da Costa, N.C.A. (2015). *Introdução à Teoria da Lógica Paraconsistente*.  

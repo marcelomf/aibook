@@ -51,7 +51,7 @@ Diversas universidades brasileiras e internacionais oferecem ambientes de simula
 
 - **Exemplo:** O portal [Lógica Paraconsistente Online](https://www.logicaparaconsistente.com.br/) (exemplo fictício) oferece simuladores, exercícios interativos e visualização gráfica de deduções.
 
----
+
 
 ### **Dicas para o Uso de Ferramentas de Visualização**
 
@@ -59,7 +59,7 @@ Diversas universidades brasileiras e internacionais oferecem ambientes de simula
 - **Analise casos reais:** Utilize exemplos práticos, como bancos de dados inconsistentes ou sistemas de decisão, para observar o comportamento das inferências.
 - **Integre com outras áreas:** Explore a integração dessas ferramentas com sistemas de inteligência artificial, bancos de dados e aplicações em ciência da computação.
 
----
+
 
 ### **Referências e Leituras Complementares**
 
@@ -67,7 +67,7 @@ Diversas universidades brasileiras e internacionais oferecem ambientes de simula
 - **da Costa, N. C. A., & Subrahmanian, V. S. (1993).** "Paraconsistent Logics: Consistency, Contradiction and Negation." *Handbook of Logic in Artificial Intelligence and Logic Programming*.
 - **Carnielli, W. A., & Coniglio, M. E. (2016).** *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 
----
+
 
 O uso de ferramentas de visualização é fundamental para o entendimento prático da lógica paraconsistente, permitindo que o estudante ou pesquisador observe, experimente e compreenda como as inferências são realizadas em ambientes contraditórios, tornando o estudo mais dinâmico e acessível.
-```
+

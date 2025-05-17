@@ -50,10 +50,10 @@ Diante dessas implicações, a adoção de **lógicas paraconsistentes** em apli
 
 A explosão lógica representa um desafio significativo para aplicações computacionais modernas, especialmente em contextos de grande escala, incerteza e integração de dados. O uso de lógicas paraconsistentes oferece uma alternativa viável e eficaz, permitindo que sistemas computacionais lidem com contradições de forma segura e produtiva, sem sacrificar a utilidade ou a confiabilidade das aplicações.
 
----
+
 
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). _Paraconsistent Logic: Consistency, Contradiction and Negation_. Springer.
 - Priest, G. (2008). _An Introduction to Non-Classical Logic: From If to Is_. Cambridge University Press.
 - Subrahmanian, V. S. (1994). _Paraconsistent Logic Programming_. In _Handbook of Logic in Artificial Intelligence and Logic Programming_ (Vol. 3).
-```
+

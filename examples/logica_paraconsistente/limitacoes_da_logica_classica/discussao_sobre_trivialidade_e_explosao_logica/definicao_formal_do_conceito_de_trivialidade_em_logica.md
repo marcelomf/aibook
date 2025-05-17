@@ -48,7 +48,7 @@ Por isso, as **lógicas paraconsistentes** foram desenvolvidas para evitar a tri
 - **Na lógica clássica**: A trivialidade ocorre devido ao princípio da explosão.
 - **Motivação para lógicas paraconsistentes**: Evitar a trivialidade e permitir o tratamento controlado de contradições.
 
----
+
 
 **Referências:**
 - Priest, G. (2008). *An Introduction to Non-Classical Logic: From If to Is*. Cambridge University Press.

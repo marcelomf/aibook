@@ -49,9 +49,9 @@ A lógica paraconsistente surge como uma alternativa inovadora para tratar contr
 
 O impacto das contradições em sistemas de informação é profundo e multifacetado. Ignorá-las pode comprometer a utilidade e a confiabilidade dos sistemas, enquanto abordagens tradicionais de eliminação de inconsistências mostram-se cada vez mais limitadas. A adoção de lógicas não clássicas, como a lógica paraconsistente, representa um avanço significativo, permitindo que sistemas de informação sejam mais flexíveis, resilientes e adaptados à realidade dos dados contemporâneos.
 
----
+___
 **Referências:**
 - Carnielli, W. A., & Coniglio, M. E. (2016). _Paraconsistent Logic: Consistency, Contradiction and Negation_. Springer.
 - Batens, D. (2019). _A survey of inconsistency-adaptive logics_. In Handbook of Philosophical Logic (pp. 1-82). Springer.
 - da Costa, N. C. A. (1974). _On the theory of inconsistent formal systems_. Notre Dame Journal of Formal Logic, 15(4), 497-510.
-```
+

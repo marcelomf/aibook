@@ -32,7 +32,7 @@ Ou seja, **não é verdade que uma proposição $P$ e sua negação $\neg P$ sej
 A tabela-verdade do princípio da não contradição mostra que não existe nenhuma atribuição de valores de verdade para $P$ que torne $P \land \neg P$ verdadeiro:
 
 | $P$ | $\neg P$ | $P \land \neg P$ |
-|-----|----------|------------------|
+|--|-||
 | V   |    F     |        F         |
 | F   |    V     |        F         |
 
@@ -46,7 +46,7 @@ O princípio da não contradição garante que os sistemas lógicos clássicos s
 
 Apesar de sua centralidade, o princípio da não contradição é justamente o ponto de partida para o desenvolvimento das **lógicas paraconsistentes**, que buscam lidar de forma controlada com situações em que contradições podem ocorrer sem que todo o sistema lógico colapse.
 
----
+
 
 **Resumo:**  
 O princípio da não contradição, formalizado como $\neg (P \land \neg P)$, afirma que nenhuma proposição pode ser verdadeira e falsa ao mesmo tempo. Ele é fundamental para a lógica clássica, garantindo a consistência dos sistemas dedutivos tradicionais.

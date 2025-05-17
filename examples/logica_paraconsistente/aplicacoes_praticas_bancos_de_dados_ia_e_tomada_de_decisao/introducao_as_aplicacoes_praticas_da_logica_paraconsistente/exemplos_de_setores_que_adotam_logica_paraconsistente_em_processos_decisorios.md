@@ -57,9 +57,9 @@ No campo jurídico, é comum a existência de testemunhos, provas e interpretaç
 
 **Exemplo prático:** Plataformas de mediação online que analisam versões conflitantes de partes envolvidas em disputas civis.
 
----
+___
 
 ## Considerações Finais
 
 A adoção da lógica paraconsistente em processos decisórios está em expansão, impulsionada pela crescente complexidade dos sistemas de informação e pela necessidade de lidar com incertezas e contradições de forma eficiente. Setores como tecnologia, saúde, indústria, direito e negócios já colhem benefícios dessa abordagem, tornando-a uma ferramenta essencial para o raciocínio não clássico e a tomada de decisões robustas em ambientes reais.
-```
+

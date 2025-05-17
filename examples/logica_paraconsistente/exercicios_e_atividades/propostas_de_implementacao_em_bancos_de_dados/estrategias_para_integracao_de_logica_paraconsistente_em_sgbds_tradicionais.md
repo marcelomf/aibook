@@ -5,7 +5,7 @@ A crescente complexidade dos sistemas de informação e a necessidade de lidar c
 
 Neste tópico, discutiremos estratégias práticas para integrar princípios e mecanismos da lógica paraconsistente em SGBDs tradicionais, visando ampliar sua capacidade de manipular informações inconsistentes de forma segura e eficiente.
 
----
+
 
 ## 1. **Extensão do Modelo de Dados**
 
@@ -27,7 +27,7 @@ Neste exemplo, `status_credito_grau_verdade` e `status_credito_grau_falsidade` a
 ### b) **Tabelas de Contradições**
 Outra abordagem é criar tabelas auxiliares para registrar e rastrear contradições detectadas durante operações de inserção, atualização ou consulta.
 
----
+
 
 ## 2. **Camada de Lógica Paraconsistente**
 
@@ -40,7 +40,7 @@ Procedures e triggers podem ser implementadas para interceptar operações que r
 ### b) **Módulos de Consulta Paraconsistente**
 Desenvolver funções de consulta que interpretem os dados anotados segundo as regras da lógica paraconsistente, permitindo consultas que retornem não apenas resultados binários, mas também informações sobre o grau de contradição ou incerteza.
 
----
+
 
 ## 3. **Camada de Aplicação**
 
@@ -53,7 +53,7 @@ Implementar um middleware entre a aplicação e o SGBD, responsável por:
 ### b) **Ferramentas de Visualização**
 Desenvolver dashboards ou relatórios que evidenciem a presença de contradições e permitam ao usuário tomar decisões informadas com base nos graus de crença e descrença.
 
----
+
 
 ## 4. **Adoção de Extensões e Plugins**
 
@@ -62,13 +62,13 @@ Alguns SGBDs permitem a criação de extensões ou plugins. É possível desenvo
 **Exemplo:**
 - No PostgreSQL, pode-se criar tipos de dados compostos e funções agregadas para manipular informações paraconsistentes.
 
----
+
 
 ## 5. **Integração com Ferramentas de Inteligência Artificial**
 
 A lógica paraconsistente pode ser integrada a módulos de IA responsáveis por inferência, detecção de inconsistências e tomada de decisão, utilizando o SGBD como repositório de dados anotados.
 
----
+
 
 ## 6. **Desafios e Considerações Práticas**
 
@@ -76,7 +76,7 @@ A lógica paraconsistente pode ser integrada a módulos de IA responsáveis por 
 - **Compatibilidade:** É importante garantir que as extensões paraconsistentes não comprometam a interoperabilidade com aplicações legadas.
 - **Treinamento:** Usuários e desenvolvedores devem ser capacitados para interpretar e manipular dados paraconsistentes.
 
----
+
 
 ## 7. **Exemplo Prático de Consulta Paraconsistente**
 
@@ -88,11 +88,10 @@ FROM Cliente
 WHERE status_credito_grau_verdade > 0.7 AND status_credito_grau_falsidade > 0.7;
 ```
 
----
+
 
 ## 8. **Conclusão**
 
 A integração da lógica paraconsistente em SGBDs tradicionais amplia significativamente a capacidade de lidar com dados inconsistentes, tornando os sistemas mais robustos e adaptáveis a cenários do mundo real. A escolha da estratégia de integração depende das necessidades do projeto, das características do SGBD utilizado e do nível de flexibilidade desejado. O desenvolvimento de soluções paraconsistentes em bancos de dados é um campo em expansão, com grande potencial para aplicações em ciência de dados, inteligência artificial e sistemas críticos.
 
----
-```
+

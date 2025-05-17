@@ -46,6 +46,6 @@ A introdução da lógica paraconsistente na filosofia da linguagem tem implica�
 - **Newton da Costa, "Lógicas Paraconsistentes: Introdução e Aplicações"** – Obra fundamental sobre os fundamentos e aplicações da lógica paraconsistente.
 - **Susan Haack, "Philosophy of Logics"** – Discussão sobre diferentes sistemas lógicos e suas implicações filosóficas, incluindo a paraconsistência.
 
----
+___
 
 Em resumo, a lógica paraconsistente oferece à filosofia da linguagem um instrumental teórico robusto para lidar com as contradições inerentes à linguagem natural, promovendo uma compreensão mais realista e flexível do significado, da verdade e da comunicação.

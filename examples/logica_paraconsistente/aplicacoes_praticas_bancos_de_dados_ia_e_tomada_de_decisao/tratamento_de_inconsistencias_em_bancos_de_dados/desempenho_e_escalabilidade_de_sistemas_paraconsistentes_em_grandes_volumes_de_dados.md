@@ -48,9 +48,9 @@ O uso de lógicas paraconsistentes em grandes volumes de dados é uma tendência
 
 A escolha das estratégias adequadas depende do contexto da aplicação, do volume de dados e do grau de inconsistência esperado. O contínuo desenvolvimento de ferramentas e técnicas específicas para lógicas paraconsistentes promete ampliar ainda mais sua aplicabilidade em ambientes de dados massivos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Carnielli, W. A., & Coniglio, M. E. (2016). *Paraconsistent Logic: Consistency, Contradiction and Negation*. Springer.
 - Subrahmanian, V. S. (1994). *Paraconsistent Databases*. Theoretical Computer Science, 133(2), 365-395.
-```
+

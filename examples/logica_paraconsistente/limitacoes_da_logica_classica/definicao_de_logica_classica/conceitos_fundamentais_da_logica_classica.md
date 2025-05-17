@@ -39,7 +39,7 @@ A lógica clássica utiliza operadores para construir proposições compostas:
 As **tabelas-verdade** são ferramentas fundamentais para determinar o valor de proposições compostas. Por exemplo, a tabela-verdade da conjunção (\( p \land q \)):
 
 | \( p \) | \( q \) | \( p \land q \) |
-|---------|---------|-----------------|
+|||--|
 | V       | V       | V               |
 | V       | F       | F               |
 | F       | V       | F               |
@@ -68,7 +68,7 @@ Exemplo:
 
 Apesar de sua robustez, a lógica clássica apresenta limitações importantes, especialmente ao lidar com informações contraditórias ou incompletas. Nessas situações, sistemas alternativos, como a lógica paraconsistente, podem ser mais adequados.
 
----
+
 
 A compreensão desses conceitos é fundamental para o estudo da lógica paraconsistente, pois ela surge justamente para superar algumas das limitações impostas pela lógica clássica, especialmente no tratamento de contradições.
-```
+

@@ -50,9 +50,9 @@ No entanto, com o aumento da complexidade dos sistemas de informação e a deman
 
 A integração da lógica paraconsistente em bancos de dados e sistemas de informação representa um avanço significativo na capacidade de lidar com a realidade dos dados contraditórios. Ao permitir que sistemas operem de forma útil e segura mesmo diante de inconsistências, a lógica paraconsistente amplia as possibilidades de integração, análise e tomada de decisão em ambientes cada vez mais complexos e dinâmicos.
 
----
+___
 
 **Sugestão de leitura complementar:**  
 - Arieli, O., & Avron, A. (1996). Reasoning with logical bilattices. *Journal of Logic, Language and Information*.
 - da Costa, N. C. A., & Subrahmanian, V. S. (1993). Paraconsistent logics and information systems. *Foundations of Computing and Decision Sciences*.
-```
+

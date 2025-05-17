@@ -5,7 +5,7 @@ A análise de inconsistências é um desafio recorrente em diversos domínios, c
 
 Neste tópico, apresentamos uma visão geral das principais ferramentas computacionais utilizadas para análise de inconsistências, destacando suas características, aplicações e exemplos de uso.
 
----
+
 
 ## 1. Sistemas de Gerenciamento de Bancos de Dados Paraconsistentes
 
@@ -18,7 +18,7 @@ Em sistemas de cadastro de clientes, onde diferentes fontes podem fornecer infor
 ### b) **Extensões Paraconsistentes para SQL**
 Algumas extensões do SQL tradicional incorporam operadores paraconsistentes, permitindo consultas que retornam não apenas resultados verdadeiros ou falsos, mas também sinalizam incertezas e contradições.
 
----
+
 
 ## 2. Ferramentas de Raciocínio Baseado em Lógica Paraconsistente
 
@@ -28,7 +28,7 @@ O Prover9 e o Mace4 são sistemas de prova automática e geração de modelos, r
 ### b) **Paraconsistent Logic Programming (PLP)**
 Ambientes de programação lógica, como o Prolog, possuem extensões para lógica paraconsistente, permitindo a modelagem de regras e fatos contraditórios. O PLP é útil em sistemas especialistas e agentes inteligentes que precisam tomar decisões mesmo diante de informações conflitantes.
 
----
+
 
 ## 3. Ferramentas para Análise de Dados e Inteligência Artificial
 
@@ -38,7 +38,7 @@ Ferramentas como o **Paraconsistent Decision Support System (PDSS)** utilizam l�
 ### b) **Frameworks de Machine Learning com Suporte a Inconsistências**
 Alguns frameworks de aprendizado de máquina, como o **Scikit-learn** (Python), podem ser integrados a módulos de pré-processamento baseados em lógica paraconsistente, permitindo a identificação e o tratamento de outliers e dados contraditórios antes do treinamento dos modelos.
 
----
+
 
 ## 4. Ferramentas de Visualização e Diagnóstico de Inconsistências
 
@@ -48,7 +48,7 @@ Ferramentas de análise visual, como o Paraconsistent Analyzer, permitem mapear 
 ### b) **Dashboards Customizados**
 Soluções de BI (Business Intelligence) podem ser customizadas para exibir indicadores de inconsistência, alertando usuários sobre possíveis conflitos em relatórios e painéis de controle.
 
----
+
 
 ## 5. Exemplos de Uso em Cenários Reais
 
@@ -56,7 +56,7 @@ Soluções de BI (Business Intelligence) podem ser customizadas para exibir indi
 - **Finanças:** Ferramentas de análise de crédito consideram informações contraditórias de diferentes bureaus para calcular scores mais robustos.
 - **Internet das Coisas (IoT):** Plataformas de monitoramento ambiental integram dados de sensores que podem apresentar leituras inconsistentes, utilizando lógica paraconsistente para filtrar e interpretar os dados.
 
----
+
 
 ## 6. Considerações Finais
 
@@ -65,5 +65,4 @@ O uso de ferramentas computacionais baseadas em lógica paraconsistente é funda
 **Sugestão de exercício:**  
 Pesquise uma ferramenta de sua área de interesse que utilize lógica paraconsistente ou técnicas similares para tratar inconsistências. Descreva seu funcionamento e proponha um exemplo prático de aplicação.
 
----
-```
+

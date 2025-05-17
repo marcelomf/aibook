@@ -32,7 +32,7 @@ A lógica paraconsistente surge, portanto, como uma resposta à necessidade de:
 
 As primeiras propostas de lógicas paraconsistentes datam das décadas de 1940 e 1950, com os trabalhos de Jaśkowski e da Costa. Eles mostraram que era possível construir sistemas lógicos coerentes nos quais o princípio da explosão não se aplica, abrindo caminho para uma nova área de pesquisa em lógica e suas aplicações.
 
----
+___
 
 Em resumo, as motivações iniciais para o desenvolvimento de sistemas paraconsistentes estão profundamente ligadas à necessidade de lidar de forma controlada e produtiva com contradições, refletindo a complexidade e a imperfeição inerentes ao conhecimento humano e aos sistemas de informação modernos.
-```
+

@@ -51,8 +51,8 @@ A coexistência desses dados contraditórios exige um modelo lógico capaz de:
 
 A Lógica Paraconsistente, especialmente em sua versão anotada, possibilita a modelagem dessas situações, permitindo que o sistema de decisão avalie as informações conflitantes de forma estruturada e racional, sem cair na trivialidade lógica.
 
----
+___
 
 **Resumo:**  
 Neste estudo de caso, a descrição dos dados conflitantes e suas fontes ilustra a importância da Lógica Paraconsistente na gestão de informações contraditórias, destacando como diferentes origens e naturezas dos dados impactam o processo de tomada de decisão em ambientes reais.
-```
+

@@ -36,4 +36,4 @@ Contradições em relatos de testemunhas são um exemplo clássico de situação
 - Carnielli, W. A., & Coniglio, M. E. (2016). _Paraconsistent Logic: Consistency, Contradiction and Negation_. Springer.
 - da Costa, N. C. A. (1974). _On the theory of inconsistent formal systems_. Notre Dame Journal of Formal Logic.
 - Priest, G. (2006). _In Contradiction: A Study of the Transconsistent_. Oxford University Press.
-```
+

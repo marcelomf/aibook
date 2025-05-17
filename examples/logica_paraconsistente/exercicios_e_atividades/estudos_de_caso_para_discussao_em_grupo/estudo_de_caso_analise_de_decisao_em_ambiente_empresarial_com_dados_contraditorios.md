@@ -30,7 +30,7 @@ A equipe utiliza a Lógica Paraconsistente Anotada (LPA) para mapear as informa�
 Na LPA, cada informação pode ser anotada com graus de certeza e de contradição. Por exemplo:
 
 | Informação                                 | Grau de Certeza | Grau de Contradição |
-|---------------------------------------------|-----------------|--------------------|
+||--|--|
 | Crescimento de vendas                      | 0,9             | 0,1                |
 | Baixa receptividade às campanhas           | 0,7             | 0,3                |
 | Alta demanda reprimida e forte concorrência | 0,8             | 0,2                |
@@ -60,7 +60,7 @@ A diretoria decide realizar um projeto-piloto na região, com estratégias de ma
 
 Este estudo de caso ilustra como a Lógica Paraconsistente pode ser uma ferramenta valiosa para a análise e tomada de decisão em ambientes empresariais complexos e contraditórios. Ao permitir a consideração controlada de informações conflitantes, a lógica paraconsistente contribui para decisões mais informadas, realistas e adaptáveis à dinâmica do mundo real.
 
----
+
 **Sugestão de atividade:**  
 Divida o grupo em equipes e peça que cada uma proponha uma estratégia de decisão para o caso apresentado, justificando o uso (ou não) da lógica paraconsistente em sua abordagem.
-```
+

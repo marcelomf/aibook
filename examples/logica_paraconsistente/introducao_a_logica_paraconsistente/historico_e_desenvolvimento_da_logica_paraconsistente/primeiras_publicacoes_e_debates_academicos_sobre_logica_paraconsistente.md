@@ -29,6 +29,6 @@ Além de da Costa e Priest, outros nomes importantes contribuíram para o desenv
 - Priest, G. (1979). The Logic of Paradox. *Journal of Philosophical Logic*, 8(1), 219–241.
 - Béziau, J.-Y. (2012). Paraconsistent Logic: Consistency, Contradiction and Negation. *Springer*.
 
----
+___
 
 A lógica paraconsistente, portanto, nasceu de um contexto de inquietação filosófica e necessidade prática, e suas primeiras publicações e debates acadêmicos pavimentaram o caminho para um campo dinâmico e interdisciplinar, fundamental para o tratamento moderno de informações contraditórias.

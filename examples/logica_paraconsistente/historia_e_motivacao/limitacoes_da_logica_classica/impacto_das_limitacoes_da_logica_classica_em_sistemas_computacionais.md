@@ -43,4 +43,4 @@ Diante dessas limitações, surgiram abordagens alternativas, como a **lógica p
 ## 5. Considerações Finais
 
 O impacto das limitações da lógica clássica em sistemas computacionais é profundo e multifacetado. Reconhecer essas limitações é fundamental para o desenvolvimento de soluções mais robustas, flexíveis e adaptadas à realidade dos dados e das aplicações modernas. A adoção de lógicas não clássicas, como a lógica paraconsistente, representa um avanço importante na superação desses desafios, permitindo que sistemas computacionais lidem de forma mais eficaz com a complexidade e a contradição inerentes ao mundo real.
-```
+

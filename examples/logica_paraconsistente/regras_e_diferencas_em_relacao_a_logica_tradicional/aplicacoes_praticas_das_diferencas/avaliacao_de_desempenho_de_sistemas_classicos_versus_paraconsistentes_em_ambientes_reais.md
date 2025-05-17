@@ -55,5 +55,4 @@ A avaliação de desempenho em ambientes reais mostra que sistemas paraconsisten
 - "Lógica Paraconsistente: Teoria e Aplicações" (Walter Carnielli, João Marcos)
 - "Paraconsistent Logic: Consistency, Contradiction and Negation" (Koji Tanaka et al.)
 
----
-```
+

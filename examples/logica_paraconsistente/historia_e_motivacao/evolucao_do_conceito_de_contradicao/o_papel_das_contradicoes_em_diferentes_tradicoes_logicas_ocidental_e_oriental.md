@@ -46,7 +46,7 @@ O reconhecimento de que contradições podem surgir em sistemas complexos, como 
 
 O papel das contradições nas tradições lógicas revela diferentes atitudes filosóficas diante da complexidade do mundo. Enquanto a tradição ocidental buscou evitar contradições para preservar a clareza e a racionalidade, algumas tradições orientais as aceitaram como parte integrante da experiência e do pensamento. O desenvolvimento contemporâneo da lógica paraconsistente representa um ponto de convergência, reconhecendo que, em certos contextos, conviver com contradições pode ser não apenas inevitável, mas também produtivo para o avanço do conhecimento.
 
----
+___
 
 **Sugestão de leitura complementar:**
 - Priest, G. (2006). *In Contradiction: A Study of the Transconsistent*. Oxford University Press.
