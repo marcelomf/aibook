@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "892ce2bcd178404c",
+    "type": "split",
+    "children": [
+      {
+        "id": "78250a4e21703866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ace0fd35746e750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introducao_a_nutricao_comportamental/SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "846854ed50143435",
+    "type": "split",
+    "children": [
+      {
+        "id": "f607f29b5309bde4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b20f230bc6754b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bf87e65f775d65b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b0078b7ed8894b7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c90ea481e8e6cb09",
+    "type": "split",
+    "children": [
+      {
+        "id": "72dbca3040b4babf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33028e87e3b7e978",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "introducao_a_nutricao_comportamental/SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para SUMMARY"
+            }
+          },
+          {
+            "id": "401ba05c2a5251f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "introducao_a_nutricao_comportamental/SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SUMMARY"
+            }
+          },
+          {
+            "id": "e1ae9b6d1d769762",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "312774c4886dc612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "introducao_a_nutricao_comportamental/SUMMARY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "68b20f230bc6754b",
+  "lastOpenFiles": [
+    "introducao_a_nutricao_comportamental/beneficios_esperados_para_o_individuo.md",
+    "introducao_a_nutricao_comportamental/SUMMARY.md",
+    "introducao_a_nutricao_comportamental/objetivos_da_nutricao_comportamental.md",
+    "introducao_a_nutricao_comportamental/importancia_da_integracao_entre_nutricao_e_psicologia.md",
+    "introducao_a_nutricao_comportamental/principios_fundamentais_da_nutricao_comportamental/SUMMARY.md",
+    "introducao_a_nutricao_comportamental/diferencas_entre_nutricao_comportamental_e_abordagens_tradicionais.md",
+    "introducao_a_nutricao_comportamental/historico_e_evolucao_da_nutricao_comportamental.md",
+    "introducao_a_nutricao_comportamental/definicao_de_nutricao_comportamental.md",
+    "SUMMARY.md",
+    "README.md"
+  ]
+}

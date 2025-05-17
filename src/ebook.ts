@@ -9,6 +9,7 @@ const API_KEY = process.env.OPENROUTER_KEY;
 let MODEL = 'openai/gpt-4.1'; // anthropic/claude-3.5-sonnet deepseek/deepseek-chat-v3-0324:free openai/gpt-4.1
 let OUT_DIR = './data';
 const MIN_RATING = 7;
+const MIN_NEED_SUBTOPICS = 9;
 
 function simpleString(str: string) {
   return str.normalize("NFD").replace(/[^a-zA-Z0-9\s]/g, "").replace(/\s/g, "_").toLowerCase();
@@ -166,7 +167,11 @@ export class Ebook {
             schema: z.object({
             relevantContent: z.number().min(1).max(10),
             updatedContent: z.number().min(1).max(10),
-            topics: z.array(z.string())
+            topics: z.array(
+                z.object({
+                    topic: z.string(),
+                    needSubtopics: z.number().min(1).max(10)
+                }))
             }),
             prompt: `Avalie o capítulo deste ebook:
             1. Conteúdo relevante (1-10)
@@ -178,7 +183,9 @@ export class Ebook {
         
             Resumo do ebook: ${resume}
         
-            Gere tópicos para o capítulo: ${chapter}`,
+            Gere tópicos para o capítulo: ${chapter}
+            
+            Avalie a necessidade de 0-10 de subtópicos para cada tópico gerado.`,
         });
         
         // If quality check fails, regenerate with more specific instructions
@@ -198,6 +205,7 @@ export class Ebook {
         }
         
         console.log({ chapter, result });
+        console.log(result.topics);
         
         return { chapter, result };
     }
@@ -256,6 +264,80 @@ export class Ebook {
         return { topic, result };
     
     }
+
+    async genTopicMd(title: string, description: string, resume: string, chapter: string, topic: string) {
+        const openrouter = createOpenRouter({
+            apiKey: API_KEY,
+        });
+        
+        const model = openrouter.chat(MODEL);
+        
+        let { text: topicMd } = await generateText({
+            model,
+            prompt: `Referente ao ebook de título: ${title}\n
+                     Descrição: ${description}\n
+                     Resumo: ${resume}\n
+                     Capitulo: ${chapter}\n
+                     Topico: ${topic}\n
+                     Escreva um texto completo em markdown, com conteúdo relevante, claro, confiável e atualizado sobre: ${topic}`,
+        });
+        
+        // Perform quality check on copy
+        const { object: result } = await generateObject({
+            model,
+            schema: z.object({
+            relevantContent: z.number().min(1).max(10),
+            clarityContent: z.number().min(1).max(10),
+            reliabilityContent: z.number().min(1).max(10),
+            updatedContent: z.number().min(1).max(10)
+            }),
+            prompt: `Avalie o tópico deste ebook:
+            1. Conteúdo relevante (1-10)
+            2. Conteúdo claro (1-10)
+            3. Conteúdo confiável (1-10)
+            4. Conteúdo atualizado (1-10)
+        
+            Título ebook: ${title}
+        
+            Descrição do ebook: ${description}
+        
+            Resumo do ebook: ${resume}
+        
+            Capítulo do ebook: ${chapter}
+        
+            Tópico do ebook: ${topic}
+            
+            Conteúdo do tópico: ${topicMd}`,
+        });
+        
+        // If quality check fails, regenerate with more specific instructions
+        if (
+            result.relevantContent < MIN_RATING ||
+            result.clarityContent < MIN_RATING ||
+            result.reliabilityContent < MIN_RATING ||
+            result.updatedContent < MIN_RATING
+        ) {
+            const { text: improvedTopicMd } = await generateText({
+            model,
+            prompt: `Reescreva este tópico do ebook com:
+            ${result.relevantContent < MIN_RATING ? '- Relevância mais forte de conteúdo' : ''}
+            ${result.clarityContent < MIN_RATING ? '- Clareza de conteúdo' : ''}
+            ${result.reliabilityContent < MIN_RATING ? '- Confiábilidade maior de conteúdo' : ''}
+            ${result.updatedContent < MIN_RATING ? '- Conteúdo mais atualizado' : ''}
+        
+            sub-tópico original: ${topicMd}`,
+            });
+            return { topicMd: improvedTopicMd, result };
+        }
+        let lines = topicMd.split('\n');
+        lines[0] = lines[0].replace(/```markdown/, '');
+        lines[lines.length-1] = lines[lines.length-1].replace(/```/, '');
+        topicMd = lines.join('\n');
+        topicMd = topicMd.replace(/---/g, '___');
+        //console.log({ subtopicMd, result });
+        return { topicMd, result };
+    
+    }
     
     async genSubTopicMd(title: string, description: string, resume: string, chapter: string, topic: string, subtopic: string) {
         const openrouter = createOpenRouter({
@@ -264,8 +346,7 @@ export class Ebook {
         
         const model = openrouter.chat(MODEL);
         
-        
-        const { text: subtopicMd } = await generateText({
+        let { text: subtopicMd } = await generateText({
             model,
             prompt: `Referente ao ebook de título: ${title}\n
                      Descrição: ${description}\n
@@ -324,13 +405,16 @@ export class Ebook {
             });
             return { subtopicMd: improvedSubTopicMd, result };
         }
-        
+
+        let lines = subtopicMd.split('\n');
+        lines[0] = lines[0].replace(/```markdown/, '');
+        lines[lines.length-1] = lines[lines.length-1].replace(/```/, '');
+        subtopicMd = lines.join('\n');
+        subtopicMd = subtopicMd.replace(/---/g, '___');
         //console.log({ subtopicMd, result });
-        
         return { subtopicMd, result };
     
     }
-    
     
     async genEbook() {
         const { result } = await this.genChapters(await this.genResume(this.subject));
@@ -376,31 +460,41 @@ export class Ebook {
             const { result } = await this.genTopics(title, description, resume, chapter);
         
             let summaryTopics = `# ${chapter}\n\n`;
-            for(const topic of result.topics) {
-                summaryTopics += `[${topic}](${simpleString(topic)}/SUMMARY.md)\n\n`;
+            for(const resultTopic of result.topics) {
+                if(resultTopic.needSubtopics >= MIN_NEED_SUBTOPICS) {
+                    summaryTopics += `[${resultTopic.topic}](${simpleString(resultTopic.topic)}/SUMMARY.md)\n\n`;
+                } else {
+                    summaryTopics += `[${resultTopic.topic}](${simpleString(resultTopic.topic)}.md)\n\n`;
+                }
             }
             fs.writeFileSync(`${OUT_DIR}/${simpleString(chapter)}/SUMMARY.md`, summaryTopics, {encoding: "utf-8"});
         
-            for(const topic of result.topics) {
-                fs.mkdirSync(`${OUT_DIR}/${simpleString(chapter)}/${simpleString(topic)}`);
-                const { result } = await this.genSubTopics(title, description, resume, chapter, topic, allSubtopics);
-                allSubtopics = allSubtopics.concat(result.subtopics);
+            for(const resultTopic of result.topics) {
+                if(resultTopic.needSubtopics >= MIN_NEED_SUBTOPICS) {
+                    fs.mkdirSync(`${OUT_DIR}/${simpleString(chapter)}/${simpleString(resultTopic.topic)}`);
+                    const { result } = await this.genSubTopics(title, description, resume, chapter, resultTopic.topic, allSubtopics);
+                    allSubtopics = allSubtopics.concat(result.subtopics);
 
-                let summarySubtopics = `# ${topic}\n\n`;
-                for(const subtopic of result.subtopics) {
-                    summarySubtopics += `[${subtopic}](${simpleString(subtopic)}.md)\n\n`;
+                    let summarySubtopics = `# ${resultTopic.topic}\n\n`;
+                    for(const subtopic of result.subtopics) {
+                        summarySubtopics += `[${subtopic}](${simpleString(subtopic)}.md)\n\n`;
+                    }
+                    fs.writeFileSync(`${OUT_DIR}/${simpleString(chapter)}/${simpleString(resultTopic.topic)}/SUMMARY.md`, summarySubtopics, {encoding: "utf-8"});
+                
+                    const runner = new Runner(writeSubTopicMd);
+                    for(const subtopic of result.subtopics) {
+                        runner.addExecution(this, title, description, resume, chapter, resultTopic.topic, subtopic);
+                    }
+                    await runner.run(10, function(result: any){
+                        console.log(result);
+                    }, function(result: any){
+                        console.error(result);
+                    });
+                } else {
+                    summaryTopics += `[${resultTopic.topic}](${simpleString(resultTopic.topic)}.md)\n\n`;
+                    const { topicMd, result } = await this.genTopicMd(title, description, resume, chapter, resultTopic.topic);
+                    fs.writeFileSync(`${OUT_DIR}/${simpleString(chapter)}/${simpleString(resultTopic.topic)}.md`, topicMd, {encoding: "utf-8"});
                 }
-                fs.writeFileSync(`${OUT_DIR}/${simpleString(chapter)}/${simpleString(topic)}/SUMMARY.md`, summarySubtopics, {encoding: "utf-8"});
-            
-                const runner = new Runner(writeSubTopicMd);
-                for(const subtopic of result.subtopics) {
-                    runner.addExecution(this, title, description, resume, chapter, topic, subtopic);
-                }
-                await runner.run(10, function(result: any){
-                    console.log(result);
-                }, function(result: any){
-                    console.error(result);
-                });
             }
         }
     }

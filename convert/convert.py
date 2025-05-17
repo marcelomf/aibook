@@ -47,7 +47,11 @@ def render_topics(file, countChapter):
     count = 0
     for text, link in links:
         count += 1
-        summary += "##### " + str(countChapter) + "." + str(count) + " - " + text + "\n"+render_subtopics(file.split("/")[0]+"/"+link, countChapter, count)
+        if link.endswith("SUMMARY.md"):
+            summary += "##### " + str(countChapter) + "." + str(count) + " - " + text + "\n"+render_subtopics(file.split("/")[0]+"/"+link, countChapter, count)
+        else:
+            summary += "##### [" + str(countChapter) + "." + str(count) + " - " + text +"](#"+link.split(".md")[0]+")\n"
+            articles.append(file.split("/")[0]+"/"+link)
     return summary
 
 for file in glob.glob("*.md"):
@@ -69,7 +73,10 @@ pdf = MarkdownPdf(toc_level=2, optimize=True)
 pdf.add_section(Section(readme))
 pdf.add_section(Section(summary))
 for article in articles:
-    article_md_id = article.split("/")[2].split(".md")[0]
+    if len(article.split("/")) == 3:
+        article_md_id = article.split("/")[2].split(".md")[0]
+    else:
+        article_md_id = article.split("/")[1].split(".md")[0]
     with open(article, encoding='utf-8') as f: string_markdown = f.read()
     article_with_link = "<a id='" + article_md_id + "'></a>" + string_markdown
     print(article_md_id)

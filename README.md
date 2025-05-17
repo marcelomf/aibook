@@ -22,5 +22,3 @@ https://github.com/marcelomf/aibook/tree/main/examples
 #### TODO:
 - i18n support
 - Improve the order of ratings
-- Subtopics are no longer mandatory
-- Remove ```markdown and other unwanted variations
