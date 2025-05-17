@@ -1,0 +1,18 @@
+# Personalização de dietas baseada em variantes genéticas
+
+[Critérios para seleção de variantes genéticas relevantes para personalização dietética](criterios_para_selecao_de_variantes_geneticas_relevantes_para_personalizacao_dietetica.md)
+
+[Protocolos clínicos para ajuste de macronutrientes conforme perfil genético](protocolos_clinicos_para_ajuste_de_macronutrientes_conforme_perfil_genetico.md)
+
+[Personalização de suplementação nutricional baseada em polimorfismos](personalizacao_de_suplementacao_nutricional_baseada_em_polimorfismos.md)
+
+[Adaptação de dietas para populações específicas com base em variantes genéticas](adaptacao_de_dietas_para_populacoes_especificas_com_base_em_variantes_geneticas.md)
+
+[Monitoramento de resultados e ajustes contínuos em dietas personalizadas por genética](monitoramento_de_resultados_e_ajustes_continuos_em_dietas_personalizadas_por_genetica.md)
+
+[Limitações e desafios na aplicação clínica da personalização dietética genética](limitacoes_e_desafios_na_aplicacao_clinica_da_personalizacao_dietetica_genetica.md)
+
+[Integração de dados genéticos, clínicos e de estilo de vida na prescrição alimentar personalizada](integracao_de_dados_geneticos_clinicos_e_de_estilo_de_vida_na_prescricao_alimentar_personalizada.md)
+
+[Exemplos de softwares e ferramentas digitais para personalização de dietas baseada em genética](exemplos_de_softwares_e_ferramentas_digitais_para_personalizacao_de_dietas_baseada_em_genetica.md)
+

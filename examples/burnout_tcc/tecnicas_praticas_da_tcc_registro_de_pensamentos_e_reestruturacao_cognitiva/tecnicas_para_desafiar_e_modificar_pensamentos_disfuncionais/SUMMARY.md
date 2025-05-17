@@ -1,0 +1,22 @@
+# Técnicas para desafiar e modificar pensamentos disfuncionais
+
+[Passo a passo para desafiar pensamentos disfuncionais no contexto do trabalho](passo_a_passo_para_desafiar_pensamentos_disfuncionais_no_contexto_do_trabalho.md)
+
+[Exercícios práticos para questionar a veracidade de pensamentos negativos](exercicios_praticos_para_questionar_a_veracidade_de_pensamentos_negativos.md)
+
+[Utilização do questionamento socrático para modificar crenças disfuncionais](utilizacao_do_questionamento_socratico_para_modificar_crencas_disfuncionais.md)
+
+[Estratégias para substituir pensamentos disfuncionais por alternativas mais realistas](estrategias_para_substituir_pensamentos_disfuncionais_por_alternativas_mais_realistas.md)
+
+[Como identificar evidências a favor e contra pensamentos disfuncionais](como_identificar_evidencias_a_favor_e_contra_pensamentos_disfuncionais.md)
+
+[Técnicas de reatribuição de responsabilidade em situações de estresse ocupacional](tecnicas_de_reatribuicao_de_responsabilidade_em_situacoes_de_estresse_ocupacional.md)
+
+[Exercícios de flexibilização cognitiva para ampliar perspectivas diante de desafios profissionais](exercicios_de_flexibilizacao_cognitiva_para_ampliar_perspectivas_diante_de_desafios_profissionais.md)
+
+[Aplicação de experimentos comportamentais para testar novas interpretações de situações de trabalho](aplicacao_de_experimentos_comportamentais_para_testar_novas_interpretacoes_de_situacoes_de_trabalho.md)
+
+[Dicas para manter a consistência na prática de modificação de pensamentos disfuncionais](dicas_para_manter_a_consistencia_na_pratica_de_modificacao_de_pensamentos_disfuncionais.md)
+
+[Como monitorar o progresso na mudança de padrões de pensamento no ambiente profissional](como_monitorar_o_progresso_na_mudanca_de_padroes_de_pensamento_no_ambiente_profissional.md)
+

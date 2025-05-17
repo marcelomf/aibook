@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "a9f9f3237881505e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aacbb95ae3d6eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997f900d3dc103a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "413434c60ecd915c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2dc608beb9c31b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3167b07b7e2681d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9739d6bf6295a0b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5843736224d1029b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "3325696172610b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca70c0df0e9b30cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4971dfa3d799b24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para SUMMARY"
+            }
+          },
+          {
+            "id": "7b65077cb29df1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SUMMARY"
+            }
+          },
+          {
+            "id": "38ce3cfd006b91e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a929aaa4cd855438",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de SUMMARY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b3167b07b7e2681d",
+  "lastOpenFiles": [
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/links_para_organizacoes_e_instituicoes_confiaveis.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/lista_de_artigos_cientificos_citados.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/diretrizes_de_sociedades_de_nutricao_e_oncologia.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/livros_e_capitulos_de_referencia.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/fontes_de_dados_sobre_nutricao_oncologica.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/sugestoes_de_leitura_complementar.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/como_acessar_as_referencias_online.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/explicacao_dos_criterios_de_selecao_das_referencias.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook/SUMMARY.md",
+    "consideracoes_finais_e_recursos_adicionais/referencias_cientificas_utilizadas_no_ebook",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/como_apoiar_o_paciente_durante_o_tratamento.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/reconhecimento_de_sinais_de_desnutricao_ou_complicacoes.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/cuidados_com_a_higiene_e_seguranca_alimentar.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/comunicacao_eficaz_com_a_equipe_de_saude.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/adaptacao_da_rotina_alimentar_em_casa.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/recursos_de_apoio_psicologico_e_social_disponiveis.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/estrategias_para_estimular_o_apetite_do_paciente.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/importancia_do_autocuidado_para_familiares_e_cuidadores.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores/SUMMARY.md",
+    "consideracoes_finais_e_recursos_adicionais/orientacoes_para_familiares_e_cuidadores",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/principais_associacoes_nacionais_de_apoio_ao_paciente_oncologico.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/servicos_oferecidos_por_associacoes_de_apoio_ao_paciente_com_cancer.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/criterios_para_escolher_uma_associacao_de_apoio_confiavel.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/como_entrar_em_contato_com_associacoes_de_apoio.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/recursos_online_e_grupos_de_apoio_virtuais.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/beneficios_do_suporte_de_associacoes_para_pacientes_e_familiares.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico/SUMMARY.md",
+    "consideracoes_finais_e_recursos_adicionais/contatos_de_associacoes_de_apoio_ao_paciente_oncologico",
+    "consideracoes_finais_e_recursos_adicionais/listagem_de_aplicativos_uteis_para_controle_alimentar/ferramentas_para_acompanhamento_de_sintomas_e_efeitos_colaterais.md",
+    "consideracoes_finais_e_recursos_adicionais/listagem_de_aplicativos_uteis_para_controle_alimentar",
+    "consideracoes_finais_e_recursos_adicionais/indicacao_de_sites_e_organizacoes_confiaveis",
+    "consideracoes_finais_e_recursos_adicionais/sugestoes_de_leitura_complementar",
+    "consideracoes_finais_e_recursos_adicionais/motivacao_e_apoio_emocional_ao_paciente",
+    "consideracoes_finais_e_recursos_adicionais/reforco_do_acompanhamento_multiprofissional",
+    "consideracoes_finais_e_recursos_adicionais/importancia_da_nutricao_individualizada",
+    "consideracoes_finais_e_recursos_adicionais/resumo_dos_principais_pontos_abordados"
+  ]
+}

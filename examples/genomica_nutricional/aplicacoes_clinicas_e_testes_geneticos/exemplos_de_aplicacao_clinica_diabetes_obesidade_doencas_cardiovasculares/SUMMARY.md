@@ -1,0 +1,22 @@
+# Exemplos de aplicação clínica (diabetes, obesidade, doenças cardiovasculares)
+
+[Protocolos clínicos de intervenção nutricional personalizada em diabetes tipo 2 com base em perfil genético](protocolos_clinicos_de_intervencao_nutricional_personalizada_em_diabetes_tipo_2_com_base_em_perfil_genetico.md)
+
+[Ajuste de macronutrientes em pacientes obesos conforme variantes genéticas associadas ao metabolismo energético](ajuste_de_macronutrientes_em_pacientes_obesos_conforme_variantes_geneticas_associadas_ao_metabolismo_energetico.md)
+
+[Estratégias de prevenção e manejo de doenças cardiovasculares em portadores de polimorfismos de risco](estrategias_de_prevencao_e_manejo_de_doencas_cardiovasculares_em_portadores_de_polimorfismos_de_risco.md)
+
+[Monitoramento de biomarcadores genéticos para acompanhamento de resposta clínica em doenças crônicas](monitoramento_de_biomarcadores_geneticos_para_acompanhamento_de_resposta_clinica_em_doencas_cronicas.md)
+
+[Personalização da suplementação de micronutrientes em pacientes com predisposição genética a deficiências](personalizacao_da_suplementacao_de_micronutrientes_em_pacientes_com_predisposicao_genetica_a_deficiencias.md)
+
+[Estudo de caso: resposta individualizada à dieta mediterrânea em pacientes com variantes genéticas específicas](estudo_de_caso_resposta_individualizada_a_dieta_mediterranea_em_pacientes_com_variantes_geneticas_especificas.md)
+
+[Integração de dados genéticos, clínicos e de estilo de vida na prescrição alimentar para doenças crônicas](integracao_de_dados_geneticos_clinicos_e_de_estilo_de_vida_na_prescricao_alimentar_para_doencas_cronicas.md)
+
+[Impacto da personalização dietética baseada em testes genéticos na adesão ao tratamento em doenças metabólicas](impacto_da_personalizacao_dietetica_baseada_em_testes_geneticos_na_adesao_ao_tratamento_em_doencas_metabolicas.md)
+
+[Desafios e limitações na aplicação clínica da genômica nutricional em doenças crônicas](desafios_e_limitacoes_na_aplicacao_clinica_da_genomica_nutricional_em_doencas_cronicas.md)
+
+[Evidências científicas sobre a eficácia da personalização nutricional baseada em testes genéticos em doenças crônicas](evidencias_cientificas_sobre_a_eficacia_da_personalizacao_nutricional_baseada_em_testes_geneticos_em_doencas_cronicas.md)
+

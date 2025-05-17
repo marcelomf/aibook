@@ -1,0 +1,22 @@
+# Aplicações clínicas da nutrigenômica
+
+[Testes genéticos para personalização de dietas em diferentes faixas etárias](testes_geneticos_para_personalizacao_de_dietas_em_diferentes_faixas_etarias.md)
+
+[Uso da nutrigenômica no manejo nutricional de doenças autoimunes](uso_da_nutrigenomica_no_manejo_nutricional_de_doencas_autoimunes.md)
+
+[Aplicação da nutrigenômica em protocolos de reabilitação nutricional hospitalar](aplicacao_da_nutrigenomica_em_protocolos_de_reabilitacao_nutricional_hospitalar.md)
+
+[Monitoramento de biomarcadores genéticos para ajuste de suplementação nutricional](monitoramento_de_biomarcadores_geneticos_para_ajuste_de_suplementacao_nutricional.md)
+
+[Nutrigenômica na prevenção de deficiências nutricionais em populações de risco](nutrigenomica_na_prevencao_de_deficiencias_nutricionais_em_populacoes_de_risco.md)
+
+[Estratégias nutrigenômicas para otimização do desempenho esportivo](estrategias_nutrigenomicas_para_otimizacao_do_desempenho_esportivo.md)
+
+[Acompanhamento longitudinal de pacientes submetidos a intervenções nutrigenômicas](acompanhamento_longitudinal_de_pacientes_submetidos_a_intervencoes_nutrigenomicas.md)
+
+[Utilização de nutrigenômica em programas de saúde pública para prevenção de doenças crônicas](utilizacao_de_nutrigenomica_em_programas_de_saude_publica_para_prevencao_de_doencas_cronicas.md)
+
+[Avaliação do impacto de intervenções nutrigenômicas em gestantes e lactantes](avaliacao_do_impacto_de_intervencoes_nutrigenomicas_em_gestantes_e_lactantes.md)
+
+[Desenvolvimento de softwares clínicos para integração de dados genéticos e dietéticos](desenvolvimento_de_softwares_clinicos_para_integracao_de_dados_geneticos_e_dieteticos.md)
+

@@ -1,0 +1,22 @@
+# Estratégias da TCC para modificar pensamentos e comportamentos
+
+[Técnicas de reestruturação cognitiva aplicadas ao contexto ocupacional](tecnicas_de_reestruturacao_cognitiva_aplicadas_ao_contexto_ocupacional.md)
+
+[Exercícios práticos para desafiar pensamentos disfuncionais relacionados ao trabalho](exercicios_praticos_para_desafiar_pensamentos_disfuncionais_relacionados_ao_trabalho.md)
+
+[Uso do diário de pensamentos para monitoramento e mudança de padrões negativos](uso_do_diario_de_pensamentos_para_monitoramento_e_mudanca_de_padroes_negativos.md)
+
+[Treinamento em habilidades de enfrentamento para situações estressantes no trabalho](treinamento_em_habilidades_de_enfrentamento_para_situacoes_estressantes_no_trabalho.md)
+
+[Estratégias para aumentar a flexibilidade cognitiva diante de desafios profissionais](estrategias_para_aumentar_a_flexibilidade_cognitiva_diante_de_desafios_profissionais.md)
+
+[Aplicação da técnica de experimentos comportamentais para testar novas formas de agir no ambiente de trabalho](aplicacao_da_tecnica_de_experimentos_comportamentais_para_testar_novas_formas_de_agir_no_ambiente_de_trabalho.md)
+
+[Utilização do questionamento socrático para promover reflexão e mudança de crenças](utilizacao_do_questionamento_socratico_para_promover_reflexao_e_mudanca_de_crencas.md)
+
+[Intervenções para reduzir a autocrítica e promover a autocompaixão no contexto profissional](intervencoes_para_reduzir_a_autocritica_e_promover_a_autocompaixao_no_contexto_profissional.md)
+
+[Técnicas de exposição gradual para enfrentar situações evitadas no trabalho](tecnicas_de_exposicao_gradual_para_enfrentar_situacoes_evitadas_no_trabalho.md)
+
+[Planejamento de atividades prazerosas e de autocuidado como parte do tratamento do burnout](planejamento_de_atividades_prazerosas_e_de_autocuidado_como_parte_do_tratamento_do_burnout.md)
+

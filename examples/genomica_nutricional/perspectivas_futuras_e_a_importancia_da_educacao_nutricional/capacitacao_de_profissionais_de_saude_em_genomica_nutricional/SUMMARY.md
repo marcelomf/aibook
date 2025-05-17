@@ -1,0 +1,20 @@
+# Capacitação de profissionais de saúde em genômica nutricional
+
+[Novas competências e habilidades exigidas para atuação em genômica nutricional](novas_competencias_e_habilidades_exigidas_para_atuacao_em_genomica_nutricional.md)
+
+[Estratégias de ensino e metodologias ativas para formação em nutrigenômica](estrategias_de_ensino_e_metodologias_ativas_para_formacao_em_nutrigenomica.md)
+
+[Integração de conhecimentos interdisciplinares (nutrição, genética, bioinformática) na capacitação profissional](integracao_de_conhecimentos_interdisciplinares_nutricao_genetica_bioinformatica_na_capacitacao_profissional.md)
+
+[Desenvolvimento de programas de educação continuada e atualização em genômica nutricional](desenvolvimento_de_programas_de_educacao_continuada_e_atualizacao_em_genomica_nutricional.md)
+
+[Avaliação de competências práticas em interpretação de testes genéticos](avaliacao_de_competencias_praticas_em_interpretacao_de_testes_geneticos.md)
+
+[Uso de plataformas digitais e recursos online para capacitação em nutrigenômica](uso_de_plataformas_digitais_e_recursos_online_para_capacitacao_em_nutrigenomica.md)
+
+[Parcerias entre universidades, centros de pesquisa e setor privado para formação de profissionais](parcerias_entre_universidades_centros_de_pesquisa_e_setor_privado_para_formacao_de_profissionais.md)
+
+[Desafios e oportunidades na formação de profissionais em regiões de baixa cobertura tecnológica](desafios_e_oportunidades_na_formacao_de_profissionais_em_regioes_de_baixa_cobertura_tecnologica.md)
+
+[Ética, privacidade e legislação como componentes essenciais da formação em genômica nutricional](etica_privacidade_e_legislacao_como_componentes_essenciais_da_formacao_em_genomica_nutricional.md)
+

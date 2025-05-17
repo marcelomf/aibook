@@ -21,6 +21,6 @@ Ao final, o leitor estará apto a analisar problemas, criar algoritmos e desenvo
 [SUMMARY](./SUMMARY.md)
 
 
-#### Autor: Marcelo M. Fleury
+#### Autor: AI
 
 #### Goiânia, Go, Brasil - 30/04/2025

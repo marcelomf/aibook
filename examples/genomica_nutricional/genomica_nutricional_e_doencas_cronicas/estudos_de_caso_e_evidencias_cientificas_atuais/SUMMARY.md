@@ -1,0 +1,22 @@
+# Estudos de caso e evidências científicas atuais
+
+[Estudo de caso: impacto da personalização dietética baseada em perfil genético em pacientes com doenças crônicas](estudo_de_caso_impacto_da_personalizacao_dietetica_baseada_em_perfil_genetico_em_pacientes_com_doencas_cronicas.md)
+
+[Revisão de ensaios clínicos recentes sobre intervenções nutrigenômicas em doenças metabólicas](revisao_de_ensaios_clinicos_recentes_sobre_intervencoes_nutrigenomicas_em_doencas_metabolicas.md)
+
+[Evidências científicas sobre a eficácia da genômica nutricional na prevenção de doenças cardiovasculares](evidencias_cientificas_sobre_a_eficacia_da_genomica_nutricional_na_prevencao_de_doencas_cardiovasculares.md)
+
+[Análise de estudos populacionais sobre variantes genéticas e resposta a padrões alimentares](analise_de_estudos_populacionais_sobre_variantes_geneticas_e_resposta_a_padroes_alimentares.md)
+
+[Estudo de caso: resposta individual à suplementação de micronutrientes em portadores de polimorfismos de risco](estudo_de_caso_resposta_individual_a_suplementacao_de_micronutrientes_em_portadores_de_polimorfismos_de_risco.md)
+
+[Resultados de meta-análises sobre personalização nutricional baseada em testes genéticos](resultados_de_metaanalises_sobre_personalizacao_nutricional_baseada_em_testes_geneticos.md)
+
+[Evidências clínicas do uso de painéis genéticos para estratificação de risco em diabetes tipo 2](evidencias_clinicas_do_uso_de_paineis_geneticos_para_estratificacao_de_risco_em_diabetes_tipo_2.md)
+
+[Estudo de caso: intervenções nutricionais em pacientes com obesidade e variantes genéticas associadas ao metabolismo energético](estudo_de_caso_intervencoes_nutricionais_em_pacientes_com_obesidade_e_variantes_geneticas_associadas_ao_metabolismo_energetico.md)
+
+[Revisão de estudos longitudinais sobre a influência da dieta personalizada na progressão de doenças crônicas](revisao_de_estudos_longitudinais_sobre_a_influencia_da_dieta_personalizada_na_progressao_de_doencas_cronicas.md)
+
+[Evidências atuais sobre a integração de dados genéticos, clínicos e de estilo de vida na prática nutricional personalizada](evidencias_atuais_sobre_a_integracao_de_dados_geneticos_clinicos_e_de_estilo_de_vida_na_pratica_nutricional_personalizada.md)
+

@@ -1,0 +1,22 @@
+# Mecanismos moleculares da interação gene-nutriente em doenças crônicas
+
+[Sinalização celular mediada por nutrientes em doenças crônicas](sinalizacao_celular_mediada_por_nutrientes_em_doencas_cronicas.md)
+
+[Modulação de vias inflamatórias por polimorfismos genéticos em doenças crônicas](modulacao_de_vias_inflamatorias_por_polimorfismos_geneticos_em_doencas_cronicas.md)
+
+[Efeito dos nutrientes na expressão de genes envolvidos em resistência à insulina](efeito_dos_nutrientes_na_expressao_de_genes_envolvidos_em_resistencia_a_insulina.md)
+
+[Mecanismos epigenéticos da interação gene-nutriente em doenças cardiovasculares](mecanismos_epigeneticos_da_interacao_genenutriente_em_doencas_cardiovasculares.md)
+
+[Influência de variantes genéticas na resposta antioxidante a nutrientes em doenças crônicas](influencia_de_variantes_geneticas_na_resposta_antioxidante_a_nutrientes_em_doencas_cronicas.md)
+
+[Impacto da interação gene-nutriente na regulação do metabolismo lipídico em doenças crônicas](impacto_da_interacao_genenutriente_na_regulacao_do_metabolismo_lipidico_em_doencas_cronicas.md)
+
+[Papel dos micronutrientes na modulação de genes pró e anti-inflamatórios em doenças crônicas](papel_dos_micronutrientes_na_modulacao_de_genes_pro_e_antiinflamatorios_em_doencas_cronicas.md)
+
+[Alterações na expressão gênica induzidas por dietas específicas em portadores de doenças crônicas](alteracoes_na_expressao_genica_induzidas_por_dietas_especificas_em_portadores_de_doencas_cronicas.md)
+
+[Mecanismos moleculares da resposta diferencial a dietas restritivas em doenças metabólicas](mecanismos_moleculares_da_resposta_diferencial_a_dietas_restritivas_em_doencas_metabolicas.md)
+
+[Interação entre polimorfismos genéticos e metabolismo energético em doenças crônicas](interacao_entre_polimorfismos_geneticos_e_metabolismo_energetico_em_doencas_cronicas.md)
+

@@ -1,0 +1,22 @@
+# Importância do acompanhamento profissional na suplementação e higiene alimentar
+
+[Critérios para indicação de acompanhamento profissional na suplementação alimentar](criterios_para_indicacao_de_acompanhamento_profissional_na_suplementacao_alimentar.md)
+
+[Riscos do uso de suplementos sem orientação de nutricionista ou médico](riscos_do_uso_de_suplementos_sem_orientacao_de_nutricionista_ou_medico.md)
+
+[Como o profissional avalia a necessidade de suplementação em pacientes oncológicos](como_o_profissional_avalia_a_necessidade_de_suplementacao_em_pacientes_oncologicos.md)
+
+[Monitoramento de efeitos adversos e interações medicamentosas durante a suplementação](monitoramento_de_efeitos_adversos_e_interacoes_medicamentosas_durante_a_suplementacao.md)
+
+[Ajuste individualizado da suplementação conforme evolução clínica do paciente](ajuste_individualizado_da_suplementacao_conforme_evolucao_clinica_do_paciente.md)
+
+[Protocolos de higiene alimentar recomendados por profissionais de saúde](protocolos_de_higiene_alimentar_recomendados_por_profissionais_de_saude.md)
+
+[Orientações profissionais para higienização de alimentos em situações de imunossupressão](orientacoes_profissionais_para_higienizacao_de_alimentos_em_situacoes_de_imunossupressao.md)
+
+[Importância do registro e comunicação de sintomas ao profissional para ajuste da suplementação](importancia_do_registro_e_comunicacao_de_sintomas_ao_profissional_para_ajuste_da_suplementacao.md)
+
+[Como o acompanhamento profissional previne complicações nutricionais e infecciosas](como_o_acompanhamento_profissional_previne_complicacoes_nutricionais_e_infecciosas.md)
+
+[Diferença entre recomendações profissionais e práticas populares em suplementação e higiene alimentar](diferenca_entre_recomendacoes_profissionais_e_praticas_populares_em_suplementacao_e_higiene_alimentar.md)
+

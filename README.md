@@ -2,6 +2,9 @@
 
 ### I wrote this project in a few hours, don't be too strict in your evaluation :).
 
+#### GET YOUR OPENROUTER KEY:
+https://openrouter.io
+
 #### RUN:
 ```bash
 git clone https://github.com/marcelomf/aibook

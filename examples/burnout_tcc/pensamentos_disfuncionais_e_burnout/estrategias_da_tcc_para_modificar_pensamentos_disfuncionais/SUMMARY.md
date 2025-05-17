@@ -1,0 +1,22 @@
+# Estratégias da TCC para modificar pensamentos disfuncionais
+
+[Passo a passo para identificar pensamentos disfuncionais no cotidiano profissional](passo_a_passo_para_identificar_pensamentos_disfuncionais_no_cotidiano_profissional.md)
+
+[Técnicas de reestruturação cognitiva aplicadas ao ambiente de trabalho](tecnicas_de_reestruturacao_cognitiva_aplicadas_ao_ambiente_de_trabalho.md)
+
+[Exercícios práticos para desafiar pensamentos automáticos negativos](exercicios_praticos_para_desafiar_pensamentos_automaticos_negativos.md)
+
+[Uso do questionamento socrático para promover reflexão sobre crenças limitantes](uso_do_questionamento_socratico_para_promover_reflexao_sobre_crencas_limitantes.md)
+
+[Implementação do diário de pensamentos para monitoramento e mudança de padrões negativos](implementacao_do_diario_de_pensamentos_para_monitoramento_e_mudanca_de_padroes_negativos.md)
+
+[Estratégias para aumentar a flexibilidade cognitiva diante de desafios ocupacionais](estrategias_para_aumentar_a_flexibilidade_cognitiva_diante_de_desafios_ocupacionais.md)
+
+[Aplicação de experimentos comportamentais para testar novas interpretações de situações estressantes](aplicacao_de_experimentos_comportamentais_para_testar_novas_interpretacoes_de_situacoes_estressantes.md)
+
+[Integração de técnicas de mindfulness para reduzir a influência de pensamentos disfuncionais](integracao_de_tecnicas_de_mindfulness_para_reduzir_a_influencia_de_pensamentos_disfuncionais.md)
+
+[Treinamento em autocompaixão para lidar com autocrítica excessiva no trabalho](treinamento_em_autocompaixao_para_lidar_com_autocritica_excessiva_no_trabalho.md)
+
+[Exemplos de planos de ação personalizados para prevenção de recaídas em padrões disfuncionais](exemplos_de_planos_de_acao_personalizados_para_prevencao_de_recaidas_em_padroes_disfuncionais.md)
+

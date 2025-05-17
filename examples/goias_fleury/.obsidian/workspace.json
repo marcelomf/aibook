@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b09eb6e26bef05ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5de568a610c4ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c20c2b63d571774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contribuicoes_da_familia_fleury_para_goias/preservacao_de_tradicoes_francesas/celebracao_de_festas_e_datas_comemorativas_francesas_em_goias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "celebracao_de_festas_e_datas_comemorativas_francesas_em_goias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1012acb23ca91c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "df48b9f1a2ffeaa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d698c221f8a2f780",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f7d94118e79c1227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f0cc0921f197ae87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ed4c346c1eae458",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c775bf5ff8418d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc5762bc6245566",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "contribuicoes_da_familia_fleury_para_goias/preservacao_de_tradicoes_francesas/celebracao_de_festas_e_datas_comemorativas_francesas_em_goias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para celebracao_de_festas_e_datas_comemorativas_francesas_em_goias"
+            }
+          },
+          {
+            "id": "515de2f64fcccd76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "contribuicoes_da_familia_fleury_para_goias/preservacao_de_tradicoes_francesas/celebracao_de_festas_e_datas_comemorativas_francesas_em_goias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para celebracao_de_festas_e_datas_comemorativas_francesas_em_goias"
+            }
+          },
+          {
+            "id": "b7f982a7f78f29ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "725b69d3e1297742",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "contribuicoes_da_familia_fleury_para_goias/preservacao_de_tradicoes_francesas/celebracao_de_festas_e_datas_comemorativas_francesas_em_goias.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de celebracao_de_festas_e_datas_comemorativas_francesas_em_goias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4c20c2b63d571774",
+  "lastOpenFiles": [
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/reflexoes_sobre_xenofobia_tolerancia_e_multiculturalismo_no_brasil_contemporaneo.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/desafios_e_oportunidades_para_a_manutencao_de_tradicoes_culturais_entre_imigrantes_recentes.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/o_impacto_das_redes_sociais_e_da_tecnologia_na_preservacao_e_transformacao_de_identidades_de_imigrantes.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/a_influencia_das_novas_geracoes_de_imigrantes_na_cultura_brasileira.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/experiencias_de_integracao_e_discriminacao_de_imigrantes_contemporaneos.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/comparacao_entre_processos_migratorios_historicos_e_atuais_no_brasil.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/a_construcao_da_identidade_nacional_frente_a_diversidade_cultural_contemporanea.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/imigracao_recente_no_brasil_fluxos_origens_e_desafios_atuais.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/a_presenca_de_comunidades_estrangeiras_e_sua_contribuicao_para_a_economia_e_sociedade_brasileiras.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/o_papel_das_politicas_publicas_na_integracao_de_imigrantes_no_brasil_de_hoje.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo/SUMMARY.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/consideracoes_sobre_imigracao_e_identidade_no_brasil_contemporaneo",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/projetos_educacionais_e_culturais_liderados_por_descendentes_fleury.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/estrategias_inovadoras_para_transmitir_o_legado_fleury_aos_jovens.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/desafios_enfrentados_pelas_novas_geracoes_na_manutencao_das_tradicoes_familiares.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/desafios_de_conciliar_identidade_francogoiana_com_novas_influencias_culturais.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/exemplos_de_jovens_fleury_que_se_destacam_na_promocao_do_legado.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/a_importancia_do_ensino_bilingue_e_da_valorizacao_da_lingua_francesa_entre_os_descendentes.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/o_papel_das_redes_sociais_na_divulgacao_da_historia_e_cultura_familiar.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/o_impacto_da_globalizacao_e_da_tecnologia_na_preservacao_do_legado_familiar.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/adaptacao_das_tradicoes_familiares_ao_contexto_contemporaneo.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/a_participacao_dos_jovens_em_associacoes_culturais_e_eventos_comemorativos.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado/SUMMARY.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/o_papel_das_novas_geracoes_na_preservacao_do_legado",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/a_construcao_de_uma_identidade_goiana_plural/exemplos_de_sincretismo_cultural_presentes_no_cotidiano_goiano.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/a_construcao_de_uma_identidade_goiana_plural/narrativas_de_pertencimento_e_exclusao_em_contextos_multiculturais.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/a_construcao_de_uma_identidade_goiana_plural/o_papel_das_instituicoes_escolas_igrejas_associacoes_na_promocao_da_pluralidade.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/a_construcao_de_uma_identidade_goiana_plural/a_convivencia_entre_imigrantes_e_populacoes_locais_desafios_e_aprendizados.md",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/a_construcao_de_uma_identidade_goiana_plural",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/contribuicoes_dos_imigrantes_para_o_desenvolvimento_regional",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/reflexao_sobre_a_importancia_da_memoria_historica",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/integracao_e_preservacao_de_tradicoes",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/legado_da_familia_fleury_para_goias",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/desafios_e_conquistas_dos_imigrantes",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/impacto_da_imigracao_na_formacao_de_identidades_culturais",
+    "reflexoes_finais_imigracao_e_construcao_de_identidades/sintese_da_trajetoria_da_familia_fleury"
+  ]
+}

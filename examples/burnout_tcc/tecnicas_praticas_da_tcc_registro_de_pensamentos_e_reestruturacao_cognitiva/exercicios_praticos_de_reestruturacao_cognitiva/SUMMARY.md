@@ -1,0 +1,22 @@
+# Exercícios práticos de reestruturação cognitiva
+
+[Exercícios guiados de identificação de distorções cognitivas no ambiente de trabalho](exercicios_guiados_de_identificacao_de_distorcoes_cognitivas_no_ambiente_de_trabalho.md)
+
+[Passo a passo para aplicar o questionamento socrático em situações de estresse ocupacional](passo_a_passo_para_aplicar_o_questionamento_socratico_em_situacoes_de_estresse_ocupacional.md)
+
+[Exemplos de reestruturação cognitiva diante de críticas ou feedbacks negativos](exemplos_de_reestruturacao_cognitiva_diante_de_criticas_ou_feedbacks_negativos.md)
+
+[Como utilizar o diário de pensamentos para monitorar mudanças cognitivas](como_utilizar_o_diario_de_pensamentos_para_monitorar_mudancas_cognitivas.md)
+
+[Estratégias para desafiar pensamentos de catastrofização relacionados a prazos e demandas](estrategias_para_desafiar_pensamentos_de_catastrofizacao_relacionados_a_prazos_e_demandas.md)
+
+[Exercícios para substituir pensamentos de autocrítica por autocompaixão](exercicios_para_substituir_pensamentos_de_autocritica_por_autocompaixao.md)
+
+[Prática de flexibilização cognitiva diante de situações de fracasso ou erro profissional](pratica_de_flexibilizacao_cognitiva_diante_de_situacoes_de_fracasso_ou_erro_profissional.md)
+
+[Aplicação de experimentos comportamentais para testar novas interpretações de situações estressantes](aplicacao_de_experimentos_comportamentais_para_testar_novas_interpretacoes_de_situacoes_estressantes.md)
+
+[Técnicas para identificar evidências a favor e contra pensamentos disfuncionais](tecnicas_para_identificar_evidencias_a_favor_e_contra_pensamentos_disfuncionais.md)
+
+[Dicas para manter a consistência na prática de reestruturação cognitiva no dia a dia](dicas_para_manter_a_consistencia_na_pratica_de_reestruturacao_cognitiva_no_dia_a_dia.md)
+

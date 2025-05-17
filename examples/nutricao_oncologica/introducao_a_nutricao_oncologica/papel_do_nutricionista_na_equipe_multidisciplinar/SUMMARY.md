@@ -1,0 +1,16 @@
+# Papel do nutricionista na equipe multidisciplinar
+
+[Colaboração do nutricionista com outros profissionais de saúde (médicos, enfermeiros, psicólogos, fisioterapeutas)](colaboracao_do_nutricionista_com_outros_profissionais_de_saude_medicos_enfermeiros_psicologos_fisioterapeutas.md)
+
+[Participação do nutricionista em reuniões multidisciplinares para definição de condutas](participacao_do_nutricionista_em_reunioes_multidisciplinares_para_definicao_de_condutas.md)
+
+[Avaliação conjunta de casos complexos envolvendo questões nutricionais](avaliacao_conjunta_de_casos_complexos_envolvendo_questoes_nutricionais.md)
+
+[Comunicação entre nutricionista e equipe para monitoramento do estado nutricional do paciente](comunicacao_entre_nutricionista_e_equipe_para_monitoramento_do_estado_nutricional_do_paciente.md)
+
+[Elaboração de planos alimentares integrados ao tratamento global do paciente](elaboracao_de_planos_alimentares_integrados_ao_tratamento_global_do_paciente.md)
+
+[Educação da equipe multidisciplinar sobre aspectos nutricionais relevantes ao tratamento oncológico](educacao_da_equipe_multidisciplinar_sobre_aspectos_nutricionais_relevantes_ao_tratamento_oncologico.md)
+
+[Apoio ao paciente e familiares em conjunto com outros profissionais da equipe](apoio_ao_paciente_e_familiares_em_conjunto_com_outros_profissionais_da_equipe.md)
+

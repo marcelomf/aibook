@@ -1,0 +1,22 @@
+# Interpretação de resultados genéticos para nutrição
+
+[Principais parâmetros avaliados em laudos genéticos para nutrição](principais_parametros_avaliados_em_laudos_geneticos_para_nutricao.md)
+
+[Como correlacionar variantes genéticas com recomendações alimentares práticas](como_correlacionar_variantes_geneticas_com_recomendacoes_alimentares_praticas.md)
+
+[Erros comuns na interpretação de resultados genéticos em nutrição](erros_comuns_na_interpretacao_de_resultados_geneticos_em_nutricao.md)
+
+[Ferramentas digitais para auxílio na interpretação de dados genéticos nutricionais](ferramentas_digitais_para_auxilio_na_interpretacao_de_dados_geneticos_nutricionais.md)
+
+[Importância do contexto clínico e histórico alimentar na análise dos resultados genéticos](importancia_do_contexto_clinico_e_historico_alimentar_na_analise_dos_resultados_geneticos.md)
+
+[Como lidar com variantes genéticas de significado incerto em laudos nutricionais](como_lidar_com_variantes_geneticas_de_significado_incerto_em_laudos_nutricionais.md)
+
+[Comunicação efetiva dos resultados genéticos ao paciente em consultório](comunicacao_efetiva_dos_resultados_geneticos_ao_paciente_em_consultorio.md)
+
+[Atualizações em guidelines internacionais para interpretação de testes genéticos em nutrição](atualizacoes_em_guidelines_internacionais_para_interpretacao_de_testes_geneticos_em_nutricao.md)
+
+[Exemplos de integração de dados genéticos com exames bioquímicos e antropométricos](exemplos_de_integracao_de_dados_geneticos_com_exames_bioquimicos_e_antropometricos.md)
+
+[Abordagem multidisciplinar na interpretação de resultados genéticos para nutrição personalizada](abordagem_multidisciplinar_na_interpretacao_de_resultados_geneticos_para_nutricao_personalizada.md)
+

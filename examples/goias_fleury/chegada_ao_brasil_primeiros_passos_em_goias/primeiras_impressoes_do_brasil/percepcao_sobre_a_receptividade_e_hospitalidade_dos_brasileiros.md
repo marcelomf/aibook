@@ -1,0 +1,14 @@
+## Percepção sobre a Receptividade e Hospitalidade dos Brasileiros
+
+Ao desembarcar no Brasil, a família Fleury deparou-se com um cenário repleto de incertezas, mas também de surpresas agradáveis. Entre os aspectos que mais marcaram seus primeiros dias em terras brasileiras, destacou-se a receptividade calorosa dos habitantes locais. Para os Fleury, acostumados ao convívio em pequenas comunidades rurais francesas, a hospitalidade brasileira revelou-se não apenas um traço cultural, mas um verdadeiro alicerce para sua adaptação e integração.
+
+Logo nos primeiros contatos, fosse com funcionários do porto, comerciantes ou vizinhos, a família percebeu uma disposição genuína dos brasileiros em ajudar. Gestos simples, como oferecer água fresca, indicar caminhos ou compartilhar informações sobre o clima e os costumes locais, tornaram-se frequentes. Essa cordialidade, muitas vezes acompanhada de sorrisos e conversas descontraídas, contrastava com a formalidade europeia à qual estavam habituados.
+
+Os relatos preservados em cartas e diários da família evidenciam o impacto positivo dessa acolhida. Em um dos depoimentos, Pierre Fleury, patriarca da família, descreve:  
+*"Fomos recebidos com uma alegria contagiante. Mesmo sem dominar a língua, sentimos que éramos bem-vindos. As pessoas nos tratavam como se já fôssemos parte da comunidade."*
+
+A hospitalidade brasileira, marcada pela abertura ao estrangeiro e pela valorização do convívio social, foi fundamental para amenizar as saudades da terra natal e fortalecer o sentimento de pertencimento. Os Fleury logo foram convidados a participar de festas, celebrações religiosas e almoços comunitários, oportunidades em que puderam compartilhar suas tradições e, ao mesmo tempo, aprender sobre os costumes goianos.
+
+Além do apoio emocional, a receptividade dos brasileiros também se traduziu em auxílio prático. Vizinhos ajudaram na construção da nova moradia, ensinaram técnicas agrícolas adaptadas ao solo e ao clima do Cerrado, e orientaram sobre o funcionamento do comércio local. Essa rede de solidariedade foi essencial para que a família superasse as dificuldades iniciais e estabelecesse suas raízes em Goiás.
+
+Com o passar do tempo, a convivência harmoniosa e o respeito mútuo consolidaram laços de amizade duradouros. A experiência dos Fleury ilustra como a hospitalidade brasileira não apenas acolhe, mas também integra e transforma, contribuindo para a formação de uma sociedade plural e acolhedora. Essa característica, percebida desde os primeiros passos em solo brasileiro, tornou-se um dos pilares da trajetória de sucesso e integração da família Fleury em Goiás.

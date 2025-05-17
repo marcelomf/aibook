@@ -1,0 +1,20 @@
+# Automação e algoritmos em plataformas financeiras
+
+[Automação de processos de onboarding em plataformas digitais de investimento, pagamento e empréstimo](automacao_de_processos_de_onboarding_em_plataformas_digitais_de_investimento_pagamento_e_emprestimo.md)
+
+[Uso de algoritmos para análise de perfil de risco e recomendação personalizada de produtos financeiros](uso_de_algoritmos_para_analise_de_perfil_de_risco_e_recomendacao_personalizada_de_produtos_financeiros.md)
+
+[Implementação de automação para detecção e prevenção de fraudes em transações digitais](implementacao_de_automacao_para_deteccao_e_prevencao_de_fraudes_em_transacoes_digitais.md)
+
+[Algoritmos de precificação dinâmica em plataformas de empréstimo e investimento](algoritmos_de_precificacao_dinamica_em_plataformas_de_emprestimo_e_investimento.md)
+
+[Automação de conciliação e liquidação de operações em tempo real nas plataformas digitais](automacao_de_conciliacao_e_liquidacao_de_operacoes_em_tempo_real_nas_plataformas_digitais.md)
+
+[Uso de machine learning para análise de crédito e concessão automatizada em plataformas de empréstimo](uso_de_machine_learning_para_analise_de_credito_e_concessao_automatizada_em_plataformas_de_emprestimo.md)
+
+[Automação de relatórios regulatórios e compliance em plataformas financeiras digitais](automacao_de_relatorios_regulatorios_e_compliance_em_plataformas_financeiras_digitais.md)
+
+[Algoritmos para otimização de portfólios em plataformas de investimento digital](algoritmos_para_otimizacao_de_portfolios_em_plataformas_de_investimento_digital.md)
+
+[Automação de atendimento ao cliente via chatbots e assistentes virtuais em plataformas financeiras](automacao_de_atendimento_ao_cliente_via_chatbots_e_assistentes_virtuais_em_plataformas_financeiras.md)
+

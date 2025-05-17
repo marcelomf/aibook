@@ -1,0 +1,22 @@
+# Como identificar pensamentos automáticos negativos
+
+[Sinais emocionais e físicos que indicam a presença de pensamentos automáticos negativos](sinais_emocionais_e_fisicos_que_indicam_a_presenca_de_pensamentos_automaticos_negativos.md)
+
+[Perguntas-chave para detectar pensamentos automáticos negativos em situações de estresse](perguntaschave_para_detectar_pensamentos_automaticos_negativos_em_situacoes_de_estresse.md)
+
+[Diferença entre pensamentos automáticos negativos e pensamentos racionais](diferenca_entre_pensamentos_automaticos_negativos_e_pensamentos_racionais.md)
+
+[Exercícios práticos para aumentar a consciência dos próprios pensamentos automáticos](exercicios_praticos_para_aumentar_a_consciencia_dos_proprios_pensamentos_automaticos.md)
+
+[O papel do ambiente de trabalho na ativação de pensamentos automáticos negativos](o_papel_do_ambiente_de_trabalho_na_ativacao_de_pensamentos_automaticos_negativos.md)
+
+[Como feedback de colegas pode ajudar na identificação de pensamentos negativos](como_feedback_de_colegas_pode_ajudar_na_identificacao_de_pensamentos_negativos.md)
+
+[Dificuldades comuns ao tentar identificar pensamentos automáticos negativos](dificuldades_comuns_ao_tentar_identificar_pensamentos_automaticos_negativos.md)
+
+[A importância da auto-observação regular para detectar pensamentos negativos](a_importancia_da_autoobservacao_regular_para_detectar_pensamentos_negativos.md)
+
+[Ferramentas digitais para monitoramento de pensamentos automáticos negativos](ferramentas_digitais_para_monitoramento_de_pensamentos_automaticos_negativos.md)
+
+[Estratégias para registrar pensamentos automáticos negativos durante a rotina profissional](estrategias_para_registrar_pensamentos_automaticos_negativos_durante_a_rotina_profissional.md)
+

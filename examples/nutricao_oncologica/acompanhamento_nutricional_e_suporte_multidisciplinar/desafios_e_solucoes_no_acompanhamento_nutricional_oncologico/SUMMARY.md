@@ -1,0 +1,22 @@
+# Desafios e soluções no acompanhamento nutricional oncológico
+
+[Principais barreiras enfrentadas no acompanhamento nutricional de pacientes oncológicos](principais_barreiras_enfrentadas_no_acompanhamento_nutricional_de_pacientes_oncologicos.md)
+
+[Estratégias para aumentar a adesão do paciente ao acompanhamento nutricional](estrategias_para_aumentar_a_adesao_do_paciente_ao_acompanhamento_nutricional.md)
+
+[Abordagem de dificuldades emocionais e psicológicas que impactam a alimentação](abordagem_de_dificuldades_emocionais_e_psicologicas_que_impactam_a_alimentacao.md)
+
+[Gestão de expectativas do paciente e familiares em relação ao acompanhamento nutricional](gestao_de_expectativas_do_paciente_e_familiares_em_relacao_ao_acompanhamento_nutricional.md)
+
+[Uso de tecnologia (apps, telemedicina) para facilitar o acompanhamento nutricional](uso_de_tecnologia_apps_telemedicina_para_facilitar_o_acompanhamento_nutricional.md)
+
+[Adaptação do acompanhamento nutricional em diferentes contextos socioeconômicos](adaptacao_do_acompanhamento_nutricional_em_diferentes_contextos_socioeconomicos.md)
+
+[Soluções para acompanhamento de pacientes em áreas remotas ou com mobilidade reduzida](solucoes_para_acompanhamento_de_pacientes_em_areas_remotas_ou_com_mobilidade_reduzida.md)
+
+[Como lidar com resistência do paciente a mudanças alimentares durante o tratamento](como_lidar_com_resistencia_do_paciente_a_mudancas_alimentares_durante_o_tratamento.md)
+
+[Importância do suporte familiar no sucesso do acompanhamento nutricional](importancia_do_suporte_familiar_no_sucesso_do_acompanhamento_nutricional.md)
+
+[Monitoramento e ajuste do plano alimentar diante de mudanças clínicas inesperadas](monitoramento_e_ajuste_do_plano_alimentar_diante_de_mudancas_clinicas_inesperadas.md)
+

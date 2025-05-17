@@ -1,0 +1,22 @@
+# Protocolos de aconselhamento nutricional com base em testes genéticos
+
+[Fluxo clínico para aconselhamento nutricional pós-teste genético](fluxo_clinico_para_aconselhamento_nutricional_posteste_genetico.md)
+
+[Critérios para seleção de pacientes para aconselhamento baseado em genética](criterios_para_selecao_de_pacientes_para_aconselhamento_baseado_em_genetica.md)
+
+[Estratégias de comunicação de resultados genéticos ao paciente](estrategias_de_comunicacao_de_resultados_geneticos_ao_paciente.md)
+
+[Adaptação de recomendações alimentares conforme perfil genético identificado](adaptacao_de_recomendacoes_alimentares_conforme_perfil_genetico_identificado.md)
+
+[Gestão de expectativas do paciente sobre resultados e limitações dos testes genéticos](gestao_de_expectativas_do_paciente_sobre_resultados_e_limitacoes_dos_testes_geneticos.md)
+
+[Acompanhamento longitudinal e reavaliação de condutas nutricionais personalizadas](acompanhamento_longitudinal_e_reavaliacao_de_condutas_nutricionais_personalizadas.md)
+
+[Integração de dados genéticos com histórico clínico e hábitos alimentares](integracao_de_dados_geneticos_com_historico_clinico_e_habitos_alimentares.md)
+
+[Ferramentas digitais para suporte ao aconselhamento nutricional genético](ferramentas_digitais_para_suporte_ao_aconselhamento_nutricional_genetico.md)
+
+[Capacitação de profissionais para interpretação e aconselhamento em nutrigenômica](capacitacao_de_profissionais_para_interpretacao_e_aconselhamento_em_nutrigenomica.md)
+
+[Abordagem multidisciplinar no aconselhamento nutricional personalizado](abordagem_multidisciplinar_no_aconselhamento_nutricional_personalizado.md)
+

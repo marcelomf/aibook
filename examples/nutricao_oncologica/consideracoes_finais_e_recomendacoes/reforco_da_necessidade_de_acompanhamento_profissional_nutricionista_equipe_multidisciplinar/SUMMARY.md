@@ -1,0 +1,20 @@
+# Reforço da necessidade de acompanhamento profissional (nutricionista, equipe multidisciplinar)
+
+[Importância do acompanhamento profissional contínuo após o término do tratamento oncológico](importancia_do_acompanhamento_profissional_continuo_apos_o_termino_do_tratamento_oncologico.md)
+
+[Como identificar o momento certo para buscar orientação nutricional especializada](como_identificar_o_momento_certo_para_buscar_orientacao_nutricional_especializada.md)
+
+[Benefícios do suporte multidisciplinar para o bem-estar global do paciente](beneficios_do_suporte_multidisciplinar_para_o_bemestar_global_do_paciente.md)
+
+[Orientações para manter o acompanhamento nutricional em diferentes fases do tratamento e recuperação](orientacoes_para_manter_o_acompanhamento_nutricional_em_diferentes_fases_do_tratamento_e_recuperacao.md)
+
+[Dicas para otimizar a comunicação entre paciente, familiares e equipe de saúde](dicas_para_otimizar_a_comunicacao_entre_paciente_familiares_e_equipe_de_saude.md)
+
+[Como o acompanhamento profissional contribui para a prevenção de complicações nutricionais](como_o_acompanhamento_profissional_contribui_para_a_prevencao_de_complicacoes_nutricionais.md)
+
+[Ajustes no plano alimentar realizados pelo nutricionista conforme evolução clínica](ajustes_no_plano_alimentar_realizados_pelo_nutricionista_conforme_evolucao_clinica.md)
+
+[Papel do nutricionista na educação alimentar e esclarecimento de dúvidas frequentes](papel_do_nutricionista_na_educacao_alimentar_e_esclarecimento_de_duvidas_frequentes.md)
+
+[Critérios para escolha de profissionais qualificados em nutrição oncológica](criterios_para_escolha_de_profissionais_qualificados_em_nutricao_oncologica.md)
+

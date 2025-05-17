@@ -14,6 +14,6 @@
 [SUMMARY](./SUMMARY.md)
 
 
-#### Autor: Marcelo M. Fleury
+#### Autor: AI
 
 #### Goiânia, Go, Brasil - 30/04/2025

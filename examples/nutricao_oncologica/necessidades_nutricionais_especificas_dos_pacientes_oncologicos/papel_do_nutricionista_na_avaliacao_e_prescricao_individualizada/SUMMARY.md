@@ -1,0 +1,22 @@
+# Papel do nutricionista na avaliação e prescrição individualizada
+
+[Processo de avaliação nutricional individualizada em pacientes oncológicos](processo_de_avaliacao_nutricional_individualizada_em_pacientes_oncologicos.md)
+
+[Critérios para prescrição de dietas personalizadas no contexto oncológico](criterios_para_prescricao_de_dietas_personalizadas_no_contexto_oncologico.md)
+
+[Ferramentas e métodos utilizados pelo nutricionista para avaliação do estado nutricional](ferramentas_e_metodos_utilizados_pelo_nutricionista_para_avaliacao_do_estado_nutricional.md)
+
+[Importância da anamnese alimentar detalhada na prescrição individualizada](importancia_da_anamnese_alimentar_detalhada_na_prescricao_individualizada.md)
+
+[Ajustes na prescrição nutricional conforme evolução clínica e resposta ao tratamento](ajustes_na_prescricao_nutricional_conforme_evolucao_clinica_e_resposta_ao_tratamento.md)
+
+[Monitoramento e reavaliação periódica do plano alimentar](monitoramento_e_reavaliacao_periodica_do_plano_alimentar.md)
+
+[Integração de dados clínicos, laboratoriais e preferências do paciente na prescrição](integracao_de_dados_clinicos_laboratoriais_e_preferencias_do_paciente_na_prescricao.md)
+
+[Abordagem de necessidades especiais (alergias, intolerâncias, restrições culturais ou religiosas)](abordagem_de_necessidades_especiais_alergias_intolerancias_restricoes_culturais_ou_religiosas.md)
+
+[Comunicação efetiva entre nutricionista, paciente e equipe multidisciplinar para ajustes na prescrição](comunicacao_efetiva_entre_nutricionista_paciente_e_equipe_multidisciplinar_para_ajustes_na_prescricao.md)
+
+[Documentação e registro das intervenções nutricionais individualizadas](documentacao_e_registro_das_intervencoes_nutricionais_individualizadas.md)
+

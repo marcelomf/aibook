@@ -1,0 +1,20 @@
+# Prevenção de doenças crônicas com base em perfil genético
+
+[Principais polimorfismos genéticos associados ao risco de doenças crônicas](principais_polimorfismos_geneticos_associados_ao_risco_de_doencas_cronicas.md)
+
+[Estratégias nutricionais para redução do risco de doenças cardiovasculares em portadores de variantes genéticas de risco](estrategias_nutricionais_para_reducao_do_risco_de_doencas_cardiovasculares_em_portadores_de_variantes_geneticas_de_risco.md)
+
+[Personalização da ingestão de micronutrientes para prevenção de diabetes tipo 2 em indivíduos geneticamente predispostos](personalizacao_da_ingestao_de_micronutrientes_para_prevencao_de_diabetes_tipo_2_em_individuos_geneticamente_predispostos.md)
+
+[Interação entre variantes genéticas e resposta inflamatória na prevenção de doenças autoimunes](interacao_entre_variantes_geneticas_e_resposta_inflamatoria_na_prevencao_de_doencas_autoimunes.md)
+
+[Adaptação de padrões alimentares (ex: mediterrâneo, DASH) conforme perfil genético para prevenção de hipertensão](adaptacao_de_padroes_alimentares_ex_mediterraneo_dash_conforme_perfil_genetico_para_prevencao_de_hipertensao.md)
+
+[Monitoramento de biomarcadores genéticos para ajuste de intervenções preventivas](monitoramento_de_biomarcadores_geneticos_para_ajuste_de_intervencoes_preventivas.md)
+
+[Impacto da genética na resposta à suplementação de compostos bioativos (ex: antioxidantes) para prevenção de câncer](impacto_da_genetica_na_resposta_a_suplementacao_de_compostos_bioativos_ex_antioxidantes_para_prevencao_de_cancer.md)
+
+[Protocolos de rastreamento genético em populações de risco para doenças crônicas](protocolos_de_rastreamento_genetico_em_populacoes_de_risco_para_doencas_cronicas.md)
+
+[Limitações e desafios na aplicação clínica da prevenção baseada em perfil genético](limitacoes_e_desafios_na_aplicacao_clinica_da_prevencao_baseada_em_perfil_genetico.md)
+

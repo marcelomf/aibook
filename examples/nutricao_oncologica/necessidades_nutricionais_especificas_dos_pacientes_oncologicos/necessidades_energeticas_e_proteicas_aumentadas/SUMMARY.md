@@ -1,0 +1,16 @@
+# Necessidades energéticas e proteicas aumentadas
+
+[Métodos para calcular as necessidades energéticas em pacientes oncológicos](metodos_para_calcular_as_necessidades_energeticas_em_pacientes_oncologicos.md)
+
+[Fatores que influenciam o aumento das necessidades energéticas e proteicas no câncer](fatores_que_influenciam_o_aumento_das_necessidades_energeticas_e_proteicas_no_cancer.md)
+
+[Diferenças nas necessidades energéticas conforme o tipo e estágio do câncer](diferencas_nas_necessidades_energeticas_conforme_o_tipo_e_estagio_do_cancer.md)
+
+[Importância do fracionamento das refeições para atender demandas aumentadas](importancia_do_fracionamento_das_refeicoes_para_atender_demandas_aumentadas.md)
+
+[Fontes alimentares recomendadas para suprir necessidades proteicas elevadas](fontes_alimentares_recomendadas_para_suprir_necessidades_proteicas_elevadas.md)
+
+[Monitoramento e ajuste das necessidades energéticas e proteicas ao longo do tratamento](monitoramento_e_ajuste_das_necessidades_energeticas_e_proteicas_ao_longo_do_tratamento.md)
+
+[Consequências do não atendimento das necessidades energéticas e proteicas em pacientes oncológicos](consequencias_do_nao_atendimento_das_necessidades_energeticas_e_proteicas_em_pacientes_oncologicos.md)
+

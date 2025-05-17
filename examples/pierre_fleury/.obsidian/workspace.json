@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "04af1ea9193b7989",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45256833e23c888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5be5238dc73b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "capitulo_6_o_legado_dos_fleury/exemplos_de_membros_que_marcaram_a_historia_dos_fleury/membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "445851346a62c248",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f2b85589acbbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3935d0dd42c75f09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d7b5441c63e793f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "535f0e204afac2ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e9bad3f238adb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "105264b8bc1a4418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1eeed84e81d2aea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "capitulo_6_o_legado_dos_fleury/exemplos_de_membros_que_marcaram_a_historia_dos_fleury/membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury"
+            }
+          },
+          {
+            "id": "fdea5f5fa7d6f17c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "capitulo_6_o_legado_dos_fleury/exemplos_de_membros_que_marcaram_a_historia_dos_fleury/membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury"
+            }
+          },
+          {
+            "id": "03c250e69362c371",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ffb38cc3eb0a67e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "capitulo_6_o_legado_dos_fleury/exemplos_de_membros_que_marcaram_a_historia_dos_fleury/membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de membros_pioneiros_que_transformaram_o_rumo_da_familia_fleury"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6b5be5238dc73b28",
+  "lastOpenFiles": [
+    "capitulo_6_o_legado_dos_fleury/exemplos_de_membros_que_marcaram_a_historia_dos_fleury/SUMMARY.md",
+    "capitulo_6_o_legado_dos_fleury/SUMMARY.md",
+    "SUMMARY.md",
+    "capitulo_3_a_nova_geracao_e_os_desafios_do_seculo_xx/SUMMARY.md",
+    "README.md",
+    "capitulo_1_as_origens_de_pierre_fleury/SUMMARY.md",
+    "capitulo_1_as_origens_de_pierre_fleury/contexto_historico_da_franca_no_seculo_xix/SUMMARY.md",
+    "capitulo_1_as_origens_de_pierre_fleury/contexto_historico_da_franca_no_seculo_xix/impacto_das_guerras_napoleonicas_na_sociedade_rural.md",
+    "capitulo_1_as_origens_de_pierre_fleury/infancia_e_juventude_de_pierre_fleury/SUMMARY.md",
+    "capitulo_1_as_origens_de_pierre_fleury/infancia_e_juventude_de_pierre_fleury/amizades_e_rivalidades_na_comunidade_local.md",
+    "capitulo_1_as_origens_de_pierre_fleury/o_inicio_da_prosperidade_da_familia_fleury/SUMMARY.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/SUMMARY.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/exemplos_de_coragem_e_sacrificio/SUMMARY.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/participacao_de_membros_da_familia_na_resistencia_francesa/SUMMARY.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/participacao_de_membros_da_familia_na_resistencia_francesa/motivacoes_dos_membros_da_familia_fleury_para_se_engajarem_na_resistencia.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/impacto_das_guerras_mundiais_na_familia_fleury/SUMMARY.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/impacto_das_guerras_mundiais_na_familia_fleury/efeitos_da_ausencia_dos_homens_da_familia_no_trabalho_e_na_dinamica_domestica.md",
+    "capitulo_2_tempos_de_guerra_e_resistencia/impacto_das_guerras_mundiais_na_familia_fleury/participacao_de_membros_da_familia_fleury_nos_conflitos_armados.md",
+    "capitulo_1_as_origens_de_pierre_fleury/infancia_e_juventude_de_pierre_fleury/influencia_dos_valores_familiares_em_sua_formacao.md",
+    "capitulo_1_as_origens_de_pierre_fleury/infancia_e_juventude_de_pierre_fleury/sonhos_e_ambicoes_de_pierre_para_o_futuro.md"
+  ]
+}

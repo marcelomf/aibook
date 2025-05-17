@@ -1,0 +1,18 @@
+# Implicações clínicas das intolerâncias e sensibilidades alimentares
+
+[Protocolos clínicos para manejo de intolerâncias alimentares](protocolos_clinicos_para_manejo_de_intolerancias_alimentares.md)
+
+[Impacto das intolerâncias alimentares na qualidade de vida e adesão ao tratamento nutricional](impacto_das_intolerancias_alimentares_na_qualidade_de_vida_e_adesao_ao_tratamento_nutricional.md)
+
+[Estratégias nutricionais para minimizar sintomas e deficiências associadas a intolerâncias e sensibilidades](estrategias_nutricionais_para_minimizar_sintomas_e_deficiencias_associadas_a_intolerancias_e_sensibilidades.md)
+
+[Monitoramento e acompanhamento de pacientes com intolerâncias alimentares](monitoramento_e_acompanhamento_de_pacientes_com_intolerancias_alimentares.md)
+
+[Abordagem multidisciplinar no tratamento de intolerâncias e sensibilidades alimentares](abordagem_multidisciplinar_no_tratamento_de_intolerancias_e_sensibilidades_alimentares.md)
+
+[Critérios para indicação de dietas de exclusão e reintrodução alimentar](criterios_para_indicacao_de_dietas_de_exclusao_e_reintroducao_alimentar.md)
+
+[Avaliação do risco nutricional em pacientes com múltiplas intolerâncias ou sensibilidades](avaliacao_do_risco_nutricional_em_pacientes_com_multiplas_intolerancias_ou_sensibilidades.md)
+
+[Educação do paciente e familiares sobre manejo prático das restrições alimentares](educacao_do_paciente_e_familiares_sobre_manejo_pratico_das_restricoes_alimentares.md)
+

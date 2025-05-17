@@ -29,42 +29,41 @@ os.chdir(ebook_dir)
 
 articles = list()
 
-def render_subtopics(file):
+def render_subtopics(file, countChapter, countTopic):
     summary = ""
     with open(file, encoding='utf-8') as f: string_markdown = f.read()
     links = extrair_links_internos(string_markdown)
+    count = 0
     for text, link in links:
-        summary += "###### ["+text+"](#"+link.split(".md")[0]+")\n"
+        count += 1
+        summary += "###### [" + str(countChapter) + "." + str(countTopic) + "." + str(count) + " - " + text +"](#"+link.split(".md")[0]+")\n"
         articles.append(file.split("/")[0]+"/"+file.split("/")[1]+"/"+link)
     return summary
 
-def render_topics(file):
+def render_topics(file, countChapter):
     summary = ""
     with open(file, encoding='utf-8') as f: string_markdown = f.read()
     links = extrair_links_internos(string_markdown)
-    for texto, link in links:
-        summary += "##### "+ texto + "\n"+render_subtopics(file.split("/")[0]+"/"+link)+"\n"
+    count = 0
+    for text, link in links:
+        count += 1
+        summary += "##### " + str(countChapter) + "." + str(count) + " - " + text + "\n"+render_subtopics(file.split("/")[0]+"/"+link, countChapter, count)
     return summary
 
 for file in glob.glob("*.md"):
     print(file)
     if file.endswith("README.md"):
         path_md = os.path.join(file)
-        if relative_path_md[0] == '/':
-              relative_path_md = relative_path_md[1:]
-
-        with open(relative_path_md, encoding='utf-8') as f: string_markdown = f.read()
-        readme+= string_markdown+"\n"
-    if file.endswith("SUMMARY.md"):
+        with open(path_md, encoding='utf-8') as f: string_markdown = f.read()
+        readme = string_markdown+"\n"
+    elif file.endswith("SUMMARY.md"):
           path_md = os.path.join(file)
-          relative_path_md = path_md
-          if relative_path_md[0] == '/':
-              relative_path_md = relative_path_md[1:]
-
-          with open(relative_path_md, encoding='utf-8') as f: string_markdown = f.read()
+          with open(path_md, encoding='utf-8') as f: string_markdown = f.read()
           links = extrair_links_internos(string_markdown)
-          for texto, link in links:
-              summary += "#### "+ texto + "\n"+render_topics(link)+"\n"
+          count = 0
+          for text, link in links:
+              count += 1
+              summary += "#### " + str(count) + " - " + text + "\n"+render_topics(link, count)
 
 pdf = MarkdownPdf(toc_level=2, optimize=True)
 pdf.add_section(Section(readme))

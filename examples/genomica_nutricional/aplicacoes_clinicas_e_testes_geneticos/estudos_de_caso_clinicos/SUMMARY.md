@@ -1,0 +1,18 @@
+# Estudos de caso clínicos
+
+[Estudo de caso: personalização de dieta para paciente com polimorfismo no gene MTHFR](estudo_de_caso_personalizacao_de_dieta_para_paciente_com_polimorfismo_no_gene_mthfr.md)
+
+[Análise de caso clínico: resposta individual à suplementação de vitamina D baseada em perfil genético](analise_de_caso_clinico_resposta_individual_a_suplementacao_de_vitamina_d_baseada_em_perfil_genetico.md)
+
+[Estudo de caso: manejo nutricional em paciente com predisposição genética à hipercolesterolemia](estudo_de_caso_manejo_nutricional_em_paciente_com_predisposicao_genetica_a_hipercolesterolemia.md)
+
+[Estudo de caso: ajuste de dieta em paciente com variantes genéticas associadas à intolerância à frutose](estudo_de_caso_ajuste_de_dieta_em_paciente_com_variantes_geneticas_associadas_a_intolerancia_a_frutose.md)
+
+[Estudo de caso: intervenção nutricional em paciente com polimorfismos relacionados ao metabolismo de cafeína](estudo_de_caso_intervencao_nutricional_em_paciente_com_polimorfismos_relacionados_ao_metabolismo_de_cafeina.md)
+
+[Estudo de caso: resposta clínica à dieta mediterrânea em paciente com variantes genéticas específicas](estudo_de_caso_resposta_clinica_a_dieta_mediterranea_em_paciente_com_variantes_geneticas_especificas.md)
+
+[Estudo de caso: acompanhamento longitudinal de paciente submetido a intervenção nutrigenômica para controle glicêmico](estudo_de_caso_acompanhamento_longitudinal_de_paciente_submetido_a_intervencao_nutrigenomica_para_controle_glicemico.md)
+
+[Estudo de caso: impacto da personalização dietética em paciente com múltiplas intolerâncias alimentares identificadas geneticamente](estudo_de_caso_impacto_da_personalizacao_dietetica_em_paciente_com_multiplas_intolerancias_alimentares_identificadas_geneticamente.md)
+

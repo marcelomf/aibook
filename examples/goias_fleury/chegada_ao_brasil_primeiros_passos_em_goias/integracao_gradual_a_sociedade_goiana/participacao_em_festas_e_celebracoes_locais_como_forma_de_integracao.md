@@ -1,0 +1,11 @@
+### Participação em festas e celebrações locais como forma de integração
+
+A integração da família Fleury à sociedade goiana não se deu apenas por meio do trabalho e da adaptação ao novo ambiente, mas também pela participação ativa nas festas e celebrações locais. Desde os primeiros anos em Goiás, os Fleury perceberam que os eventos comunitários eram momentos privilegiados para conhecer os costumes, fortalecer laços e conquistar a confiança dos vizinhos.
+
+As festas religiosas, como as tradicionais Folias de Reis, as procissões em homenagem aos santos padroeiros e as festas juninas, desempenhavam papel central na vida social goiana. A família Fleury, mesmo mantendo suas tradições católicas francesas, logo se envolveu nessas celebrações, participando das missas, ajudando na organização dos festejos e contribuindo com quitutes típicos, tanto franceses quanto brasileiros. Essa troca culinária, por exemplo, resultou em mesas fartas onde o pão francês e os doces de frutas conviviam harmoniosamente com o arroz-doce, a pamonha e o bolo de fubá.
+
+Além das festas religiosas, os Fleury também marcaram presença em eventos cívicos e feiras agrícolas, que eram oportunidades para apresentar seus produtos, trocar experiências e aprender novas técnicas com os moradores locais. A participação nessas ocasiões permitiu que a família mostrasse seu espírito colaborativo e sua disposição para contribuir com o desenvolvimento da região.
+
+Aos poucos, os Fleury passaram a ser convidados para batizados, casamentos e aniversários, ocasiões em que a hospitalidade goiana se manifestava em sua plenitude. Nessas celebrações, a família não apenas observava, mas também compartilhava músicas, danças e histórias de sua terra natal, enriquecendo o repertório cultural da comunidade. O acordeão francês, por exemplo, passou a animar algumas festas, misturando-se ao som das violas e sanfonas locais.
+
+A participação ativa nas festas e celebrações foi fundamental para que a família Fleury se sentisse parte da sociedade goiana. Por meio desses encontros, laços de amizade e solidariedade foram construídos, superando barreiras linguísticas e culturais. A convivência festiva contribuiu para a formação de uma identidade cultural plural, na qual elementos franceses e goianos se entrelaçaram, deixando um legado de integração e respeito mútuo que perdura até os dias atuais.

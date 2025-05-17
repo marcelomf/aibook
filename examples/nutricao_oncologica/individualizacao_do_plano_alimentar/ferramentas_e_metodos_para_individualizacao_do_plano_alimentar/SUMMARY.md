@@ -1,0 +1,22 @@
+# Ferramentas e métodos para individualização do plano alimentar
+
+[Principais ferramentas de avaliação nutricional para individualização do plano alimentar](principais_ferramentas_de_avaliacao_nutricional_para_individualizacao_do_plano_alimentar.md)
+
+[Métodos de coleta de dados alimentares e sintomas para personalização da dieta](metodos_de_coleta_de_dados_alimentares_e_sintomas_para_personalizacao_da_dieta.md)
+
+[Utilização de softwares e aplicativos no acompanhamento nutricional individualizado](utilizacao_de_softwares_e_aplicativos_no_acompanhamento_nutricional_individualizado.md)
+
+[Avaliação antropométrica e composição corporal como base para ajustes do plano alimentar](avaliacao_antropometrica_e_composicao_corporal_como_base_para_ajustes_do_plano_alimentar.md)
+
+[Exames laboratoriais relevantes para a personalização do plano alimentar em oncologia](exames_laboratoriais_relevantes_para_a_personalizacao_do_plano_alimentar_em_oncologia.md)
+
+[Questionários de preferências alimentares e restrições culturais/religiosas](questionarios_de_preferencias_alimentares_e_restricoes_culturaisreligiosas.md)
+
+[Registro alimentar e diário de sintomas como apoio à individualização](registro_alimentar_e_diario_de_sintomas_como_apoio_a_individualizacao.md)
+
+[Ferramentas para avaliação de sintomas gastrointestinais e impacto na dieta](ferramentas_para_avaliacao_de_sintomas_gastrointestinais_e_impacto_na_dieta.md)
+
+[Protocolos de triagem nutricional específicos para pacientes oncológicos](protocolos_de_triagem_nutricional_especificos_para_pacientes_oncologicos.md)
+
+[Integração de dados clínicos, laboratoriais e preferências do paciente na definição do plano alimentar](integracao_de_dados_clinicos_laboratoriais_e_preferencias_do_paciente_na_definicao_do_plano_alimentar.md)
+

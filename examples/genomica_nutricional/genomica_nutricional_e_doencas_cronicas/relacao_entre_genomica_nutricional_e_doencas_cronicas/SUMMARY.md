@@ -1,0 +1,18 @@
+# Relação entre genômica nutricional e doenças crônicas
+
+[Mecanismos genéticos envolvidos na predisposição a doenças crônicas (ex: diabetes, obesidade, doenças cardiovasculares)](mecanismos_geneticos_envolvidos_na_predisposicao_a_doencas_cronicas_ex_diabetes_obesidade_doencas_cardiovasculares.md)
+
+[Influência de variantes genéticas na resposta a intervenções nutricionais para doenças crônicas](influencia_de_variantes_geneticas_na_resposta_a_intervencoes_nutricionais_para_doencas_cronicas.md)
+
+[Impacto da interação gene-nutriente na progressão e prevenção de doenças crônicas](impacto_da_interacao_genenutriente_na_progressao_e_prevencao_de_doencas_cronicas.md)
+
+[Diferenças interindividuais na resposta a tratamentos nutricionais em portadores de doenças crônicas](diferencas_interindividuais_na_resposta_a_tratamentos_nutricionais_em_portadores_de_doencas_cronicas.md)
+
+[Utilização de testes genéticos para estratificação de risco e manejo de doenças crônicas](utilizacao_de_testes_geneticos_para_estratificacao_de_risco_e_manejo_de_doencas_cronicas.md)
+
+[Papel da genômica nutricional na identificação de biomarcadores para monitoramento de doenças crônicas](papel_da_genomica_nutricional_na_identificacao_de_biomarcadores_para_monitoramento_de_doencas_cronicas.md)
+
+[Desafios e limitações na aplicação clínica da genômica nutricional em doenças crônicas](desafios_e_limitacoes_na_aplicacao_clinica_da_genomica_nutricional_em_doencas_cronicas.md)
+
+[Perspectivas futuras para terapias nutricionais personalizadas em doenças crônicas](perspectivas_futuras_para_terapias_nutricionais_personalizadas_em_doencas_cronicas.md)
+

@@ -1,0 +1,18 @@
+# Identificação de pensamentos automáticos negativos no contexto do trabalho
+
+[Exemplos de pensamentos automáticos negativos comuns no ambiente de trabalho](exemplos_de_pensamentos_automaticos_negativos_comuns_no_ambiente_de_trabalho.md)
+
+[Como reconhecer padrões de pensamento automático negativo em situações de estresse ocupacional](como_reconhecer_padroes_de_pensamento_automatico_negativo_em_situacoes_de_estresse_ocupacional.md)
+
+[Diferença entre pensamentos automáticos negativos e crenças centrais no contexto profissional](diferenca_entre_pensamentos_automaticos_negativos_e_crencas_centrais_no_contexto_profissional.md)
+
+[Impacto dos pensamentos automáticos negativos na motivação e desempenho no trabalho](impacto_dos_pensamentos_automaticos_negativos_na_motivacao_e_desempenho_no_trabalho.md)
+
+[Ferramentas e técnicas para registrar pensamentos automáticos negativos durante a rotina profissional](ferramentas_e_tecnicas_para_registrar_pensamentos_automaticos_negativos_durante_a_rotina_profissional.md)
+
+[O papel do feedback externo na identificação de pensamentos automáticos negativos](o_papel_do_feedback_externo_na_identificacao_de_pensamentos_automaticos_negativos.md)
+
+[Como a cultura organizacional pode influenciar a frequência de pensamentos automáticos negativos](como_a_cultura_organizacional_pode_influenciar_a_frequencia_de_pensamentos_automaticos_negativos.md)
+
+[Estratégias para aumentar a consciência dos pensamentos automáticos negativos em equipes de trabalho](estrategias_para_aumentar_a_consciencia_dos_pensamentos_automaticos_negativos_em_equipes_de_trabalho.md)
+

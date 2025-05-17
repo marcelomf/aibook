@@ -21,6 +21,6 @@ Por fim, o eBook apresenta estudos de caso, exercícios e sugestões de leitura 
 [SUMMARY](./SUMMARY.md)
 
 
-#### Autor: Marcelo M. Fleury
+#### Autor: AI
 
 #### Goiânia, Go, Brasil - 30/04/2025

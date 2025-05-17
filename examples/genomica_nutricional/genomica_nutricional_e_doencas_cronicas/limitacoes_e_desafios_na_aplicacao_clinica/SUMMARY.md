@@ -1,0 +1,18 @@
+# Limitações e desafios na aplicação clínica
+
+[Dificuldades na interpretação clínica de variantes genéticas de significado incerto em doenças crônicas](dificuldades_na_interpretacao_clinica_de_variantes_geneticas_de_significado_incerto_em_doencas_cronicas.md)
+
+[Limitações dos painéis genéticos disponíveis para aplicação clínica em doenças crônicas](limitacoes_dos_paineis_geneticos_disponiveis_para_aplicacao_clinica_em_doencas_cronicas.md)
+
+[Desafios na integração de dados genéticos com fatores clínicos e ambientais em pacientes com doenças crônicas](desafios_na_integracao_de_dados_geneticos_com_fatores_clinicos_e_ambientais_em_pacientes_com_doencas_cronicas.md)
+
+[Problemas de reprodutibilidade dos testes genéticos em diferentes populações de portadores de doenças crônicas](problemas_de_reprodutibilidade_dos_testes_geneticos_em_diferentes_populacoes_de_portadores_de_doencas_cronicas.md)
+
+[Barreiras no acesso a tecnologias genéticas avançadas para manejo clínico de doenças crônicas](barreiras_no_acesso_a_tecnologias_geneticas_avancadas_para_manejo_clinico_de_doencas_cronicas.md)
+
+[Falta de consenso sobre diretrizes clínicas para uso de genômica nutricional em doenças crônicas](falta_de_consenso_sobre_diretrizes_clinicas_para_uso_de_genomica_nutricional_em_doencas_cronicas.md)
+
+[Desafios na comunicação dos resultados genéticos para pacientes com doenças crônicas](desafios_na_comunicacao_dos_resultados_geneticos_para_pacientes_com_doencas_cronicas.md)
+
+[Limitações na validação científica de intervenções nutrigenômicas em doenças crônicas](limitacoes_na_validacao_cientifica_de_intervencoes_nutrigenomicas_em_doencas_cronicas.md)
+
