@@ -6,7 +6,7 @@ import { Runner } from './runner';
 import 'dotenv/config';
 
 const API_KEY = process.env.OPENROUTER_KEY;
-let MODEL = 'openai/gpt-4.1'; // anthropic/claude-3.5-sonnet deepseek/deepseek-chat-v3-0324:free openai/gpt-4.1
+let MODEL = 'openai/gpt-5.2'; // anthropic/claude-3.5-sonnet deepseek/deepseek-chat-v3-0324:free openai/gpt-4.1
 let OUT_DIR = './data';
 const MIN_RATING = 7;
 const MIN_NEED_SUBTOPICS = 9;
@@ -19,7 +19,7 @@ export class Ebook {
 
     subject: string;
 
-    constructor(subject: string, model: string = 'openai/gpt-4.1', outputDir: string = './data') {
+    constructor(subject: string, model: string = 'openai/gpt-5.2', outputDir: string = './data') {
         this.subject = subject;
         MODEL = model;
         OUT_DIR = outputDir;
